@@ -5,6 +5,7 @@ import '../scss/style.scss';
 import './mainLoad';
 import './routesMaker';
 import './heroCanvas';
+import './spanify-elements';
 
 // Register service worker.
 import './registerServiceWorker';
