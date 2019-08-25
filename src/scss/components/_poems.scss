@@ -1,0 +1,162 @@
+.poems {
+  max-width: 980px;
+  margin: auto;
+}
+
+.poems>div {
+  display: grid;
+  grid-template-columns: 1fr;
+
+  @media (min-width: 640px) {
+    grid-template-columns: 320px 1fr;
+  }
+}
+
+.search-item {
+  position: sticky;
+  top: 70px;
+  background: #fffe;
+  z-index: 1;
+}
+
+.poem-hide {
+  display: none !important;
+}
+
+.poems-list, .current-poem {
+  background: #fffe;
+}
+
+.search-poem {
+  margin: 25px;
+  width: 85%;
+  border: 0;
+  padding: 10px;
+  box-shadow: 0 0 100px -10px #000;
+}
+
+.poems .poem {
+  padding: 25px;
+  height: 90%;
+  font-size: 18px;
+  line-height: 2;
+}
+
+.current-poem {
+  @media (max-width: 639px) {
+    display: none;
+    grid-row: 1;
+    height: 20vh;
+    background: #f7f7f7ee;
+    margin: 0 auto;
+    p {
+      display: none;
+    }
+  }
+
+  @include all-before;
+  overflow: hidden;
+  text-align: center;
+  text-decoration: none;
+  transition: 0.25s;
+  -webkit-transition: 0.25s;
+  -moz-transition: 0.25s;
+  -ms-transition: 0.25s;
+  -o-transition: 0.25s;
+  position: sticky;
+  top: 57px;
+  height: 70vh;
+  color: $font-color;
+  padding: 25px;
+  width: 80%;
+  max-width: 640px;
+  border-radius: 0 0 25px 25px;
+  box-shadow: 0 0 100px -50px $font-color;
+  margin: 0 25px 0 auto;
+
+  &:hover,
+  &:focus {
+    &::after {
+      color: $link-color;
+    }
+  }
+
+  &::after {
+    content: 'Leer poema completo';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background: #fffe;
+    @include font;
+    padding: 25px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+  }
+}
+
+.poem-title {
+  &::after {
+    content: '';
+    width: 0;
+    height: 2.5px;
+    display: block;
+    background: $font-color;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+  }
+}
+
+.poem-item {
+  outline: none;
+  border: 0;
+  display: block;
+  border-bottom: 2.5px solid $font-color;
+  padding-bottom: 25px;
+  margin: 25px;
+  background: transparent;
+  width: 85%;
+
+  @include all-before;
+
+  &:hover b,
+  &:focus b {
+    color: $link-color;
+  }
+}
+
+.poem-details {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  flex-direction: column;
+  @include font;
+
+  b {
+    text-align: left;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+    transition: 0.25s;
+    -webkit-transition: 0.25s;
+    -moz-transition: 0.25s;
+    -ms-transition: 0.25s;
+    -o-transition: 0.25s;
+  }
+
+  i {
+    font-style: italic;
+
+    &::before,
+    &::after {
+      content: '';
+    }
+  }
+}

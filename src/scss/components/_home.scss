@@ -1,0 +1,42 @@
+.home {
+  min-height: 90vh;
+  padding: 0;
+}
+
+.home__title {
+  font-size: 10vw;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: grid;
+  place-content: center;
+  margin: auto;
+  @media (min-width: 1080px) {
+    font-size: 84px;
+  }
+
+  @include font;
+
+  a {
+    color: #fff8;
+    text-decoration: none;
+    letter-spacing: 0.5vw;
+    text-transform: uppercase;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+  }
+
+  a:hover {
+    text-shadow: 0 0 1vw #fff,
+    0 0 2vw #fffe,
+    0 0 3vw #fff8,
+    0 0 4vw #fff4;
+    color: #fff;
+  }
+}

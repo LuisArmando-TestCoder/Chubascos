@@ -1,0 +1,22 @@
+li,
+h2 {
+  color: #333;
+}
+
+blockquote {
+  font-size: 14px;
+  text-align: right;
+  max-width: 320px;
+  margin: 25px auto;
+  font-style: italic;
+  @include font;
+
+  &::before,
+  &::after {
+    content: '\'';
+  }
+}
+
+h2 {
+  @include font;
+}

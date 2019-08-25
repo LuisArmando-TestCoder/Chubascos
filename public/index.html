@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Chubascos | La oda de los poetas</title>
+  <link rel="stylesheet" href="main.css">
+  <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  <div id="loader" class="loader">
+    <p wrap-amount="45"></p>
+    <h1 id="poet-initials">Chubascos</h1>
+  </div>
+  <header class="main-nav">
+    <a class="home-link" route="home" href="#home">Chubascos</a>
+    <nav>
+      <ul class="views-nav">
+        <!-- <li><a class="selected" route="poets" href="#poets">poetas</a></li> -->
+        <li><a href="#poems" route="poems">poemas</a></li>
+      </ul>
+    </nav>
+  </header>
+  <div class="container">
+    <section id="home" class="route show home">
+      <canvas class="hero-canvas"></canvas>
+      <h1 class="home__title"><a route="poems" href="#poems">Chubascos</a></h1>
+      <p class="random-poem" id="random-poem"></p>
+    </section>
+    <section id="poem-section" class="route poem-section">
+      <h2 id="show-poem-title" class="poem-title">Chubascos</h2>
+      <p id="show-poem" class="poem">
+        Seremos intensas lluvias repentinas,
+        <br>
+        pero todos dejamos charcos.
+      </p>
+      <blockquote id="show-author">Luis Armando Murillo Baltodano</blockquote>
+      <div class="poems-nav">
+        <button id="previous-arrow" class="arrow previous-arrow">
+          <img src="./images/arrow.svg" alt="ir al poema anterior">
+        </button>
+        <i class="counter">
+          poema <span id="current-poem-number">1</span>
+          de <span id="poems-count-number">1</span>
+        </i>
+        <button id="next-arrow" class="arrow next-arrow">
+          <img src="./images/arrow.svg" alt="ir al siguiente poema">
+        </button>
+      </div>
+    </section>
+    <section id="poems" class="route poems">
+      <div>
+        <ol class="poems-list" id="poems-list">
+          <li class="search-item">
+            <input placeholder="Buscar un poema por el título" type="search" class="search-poem" id="search-poem">
+          </li>
+        </ol>
+        <a route="poem-section" href="#poem-section" class="current-poem">
+          <h2 id="poem-title" class="poem-title">Chubascos</h2>
+          <p id="poem" class="poem">
+            Seremos intensas lluvias repentinas,
+            <br>
+            pero todos dejamos charcos.
+          </p>
+        </a>
+      </div>
+    </section>
+    <section id="poets" class="route"></section>
+  </div>
+  <script src="main.js"></script>
+</body>
+
+</html>

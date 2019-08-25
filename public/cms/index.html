@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Poems CMS</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    h1 {
+      font-size: 36px;
+      color: #f0f0f0;
+      font-family: sans-serif;
+    }
+
+    h2 {
+      font-weight: normal;
+      text-transform: uppercase;
+    }
+
+    body {
+      margin: 0;
+      padding: 50px 15px;
+      display: grid;
+      background: #111;
+      max-width: 720px;
+      margin: auto;
+      min-height: 100vh;
+    }
+
+    form {
+      color: #f0f0f0;
+      display: grid;
+      grid-template-columns: 1fr;
+      place-content: center;
+      padding: 25px 0;
+      margin: auto;
+      grid-gap: 40px;
+    }
+
+    label,
+    .result {
+      text-align: left;
+      display: grid;
+      grid-template-columns: 144px 1fr;
+      color: #f0f0f0;
+      font-family: sans-serif;
+      margin-bottom: 15px;
+    }
+
+    input,
+    select {
+      width: 100%;
+      background: #f0f0f0;
+      border: 0;
+      padding: 15px;
+    }
+
+    textarea {
+      text-align: center;
+      padding: 15px;
+      width: 100%;
+      min-height: 200px;
+      background: #f0f0f0;
+      border: 0;
+    }
+
+    input,
+    select,
+    textarea {
+      box-shadow: 0 0 100px -50px #f0f0f0;
+    }
+
+    span {
+      padding: 15px 0;
+      margin-right: 15px;
+    }
+
+    button {
+      outline: none;
+      border-radius: 10px;
+      font-size: 16px;
+      border: 2px solid #f0f0f0;
+      cursor: pointer;
+      margin: 5px;
+      padding: 5px 30px;
+      transition: 0.25s;
+      color: #f0f0f0;
+      background: transparent;
+    }
+
+    button:hover {
+      text-decoration: underline;
+    }
+
+    button:active {
+      transform: scale(1.1);
+    }
+
+    button:hover,
+    button:focus,
+    .tab {
+      color: #111;
+      background: #f0f0f0;
+    }
+
+    iframe {
+      display: block;
+      width: 100%;
+      margin: auto;
+      background: transparent;
+      border: 0;
+      border-bottom: 2.5px solid #f0f0f0;
+      transition: 0.25s;
+      height: 50px;
+    }
+
+    iframe,
+    span {
+      transition: 0.25s;
+    }
+
+    iframe:empty {
+      opacity: 0;
+    }
+
+    iframe:empty+span {
+      color: transparent;
+    }
+
+    .result span {
+      grid-row: 1;
+    }
+
+    .tabs {
+      margin-top: 42.5px;
+      padding-top: 5px;
+      border-top: 2.5px solid #f0f0f0;
+      width: 100%;
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .item {
+      display: none;
+      font-family: sans-serif;
+      color: #f0f0f0;
+    }
+
+    .tab-selected {
+      display: block;
+    }
+  </style>
+  <script src="https://luisarmando-testcoder.github.io/QuickerJs/lib/crazyQuickerJS.js"></script>
+</head>
+
+<body>
+  <h1>CMS de poemas</h1>
+
+  <label for="poet">
+    <span>Poeta</span>
+    <input name="name" id="poet" type="text" placeholder="Nombre de usuario">
+  </label>
+  <label for="code">
+    <span>Código</span>
+    <input name="code" id="code" type="password" placeholder="El código ultra mega secreto va aquí">
+  </label>
+
+  <div class="result">
+    <iframe name="target"></iframe>
+    <span>Result:</span>
+  </div>
+
+  <div id="tabs" class="tabs">
+    <button>Creador de poemas</button>
+    <button>Editor de poemas</button>
+  </div>
+
+  <div id="tab-items" class="tab-items">
+    <div class="item">
+      <h2>Creador de poemas</h2>
+      <form method="post">
+        <label for="title">
+          <span>Título</span>
+          <input name="title" id="title" type="text">
+        </label>
+        <label for="text">
+          <span>Cuerpo del poema</span>
+          <textarea name="poem" id="text"></textarea>
+        </label>
+        <button id="create-poem" type="submit">Crear Poema</button>
+      </form>
+    </div>
+    <div class="item">
+      <h2>Editor de poemas</h2>
+      <form>
+        <label for="select-title">
+          <span>Escoge un poema</span>
+          <select name="title" id="select-title"></select>
+        </label>
+        <label for="edited-poem">
+          <span>Cuerpo del poema</span>
+          <textarea name="poem" id="edited-poem"></textarea>
+        </label>
+        <button id="edit-poem" type="submit">Editar Poema</button>
+      </form>
+    </div>
+  </div>
+  <script>
+    const { Template } = quicker();
+
+    function setQueries(body) {
+      return Object.keys(body).map(key => `${key}=${body[key]}`).join('&');
+    }
+
+    function setValue(object, value) {
+      const item = object;
+      item.value = value;
+    }
+
+    (function fetchMethods() {
+
+      Array.prototype.addMultiListeners = function (event, callback) {
+        this.forEach((element) => {
+          element.addEventListener(event, callback);
+        });
+      }
+
+      const api = 'https://poems-api.herokuapp.com/v1';
+      const poet = document.getElementById('poet');
+      const code = document.getElementById('code');
+      const selectTitle = document.getElementById('select-title');
+      const editedPoem = document.getElementById('edited-poem');
+      const createPoem = document.getElementById('create-poem');
+      const editPoem = document.getElementById('edit-poem');
+      const title = document.getElementById('title');
+      const text = document.getElementById('text');
+      let poems;
+
+      [poet, code].addMultiListeners('input', () => {
+        if (poet.value && code.value) {
+          fetch(`${api}/poet?${poet.name}=${poet.value}&${code.name}=${code.value}`)
+            .then(data => data.json())
+            .then(({ data, success }) => {
+              if (success) {
+                selectTitle.innerHTML = '';
+                poems = data.poems;
+                setValue(editedPoem, poems[0].poem);
+                data.poems.forEach(({ title }) => {
+                  selectTitle.appendChild(new Template(`<option value="${title}">${title}</option>`))
+                });
+              }
+            });
+        }
+      });
+
+      selectTitle.addEventListener('input', () => {
+        if (poems) {
+          const optionIndex = [...selectTitle.children].findIndex(child => child.selected);
+          setValue(editedPoem, poems[optionIndex].poem);
+        }
+      });
+
+      createPoem.addEventListener('click', (e) => {
+        e.preventDefault();
+        const body = setQueries({
+          name: poet.value,
+          code: code.value,
+          title: title.value,
+          poem: text.value,
+        });
+
+        fetch(`${api}/poem`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+          },
+          body,
+        });
+
+        poems.push({ title, poem });
+      });
+
+      editPoem.addEventListener('click', (e) => {
+        e.preventDefault();
+        const body = setQueries({
+          name: poet.value,
+          code: code.value,
+          title: selectTitle.value,
+          poem: editedPoem.value,
+        });
+
+        fetch(`${api}/poem`, {
+          method: 'PUT',
+          headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+          },
+          body,
+        })
+          .then(console.log);
+      });
+    }());
+    (function tabAll() {
+      const tabButtons = document.getElementById('tabs');
+      const tabItems = document.getElementById('tab-items');
+
+      function tabs(button, items) {
+        const buttons = [...button.parentElement.children];
+        const index = buttons.indexOf(button);
+        buttons.forEach((element, i) => {
+          element.classList.remove('tab');
+          items[i].classList.remove('tab-selected');
+        });
+        button.classList.add('tab');
+        items[index].classList.add('tab-selected');
+      }
+
+      tabs(tabButtons.children[0], tabItems.children);
+
+      tabButtons.addEventListener('click', (e) => {
+        const tab = e.target;
+        if (tab.tagName === 'BUTTON') tabs(tab, tabItems.children);
+      });
+    }());
+  </script>
+</body>
+
+</html>
