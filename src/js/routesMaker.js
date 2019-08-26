@@ -13,4 +13,4 @@ function controlRoute(e) {
 }
 
 window.addEventListener('click', controlRoute);
-window.addEventListener('touchend', controlRoute, false);
+// window.addEventListener('touchend', controlRoute, false);
