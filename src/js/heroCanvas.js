@@ -19,7 +19,7 @@ fillArray(21, particles, () => ({
   x: r(0, c.height),
   y: r(0, c.height),
   r: r(1, 2),
-  c: '#fff',
+  c: '#fff4',
 }));
 
 draw(() => {

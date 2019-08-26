@@ -154,11 +154,21 @@
     .tab-selected {
       display: block;
     }
+
+    .return {
+      color: #fff8;
+      text-decoration: none;
+      font-family: sans-serif;
+    }
+    .return:hover {
+      text-decoration: underline;
+    }
   </style>
   <script src="https://luisarmando-testcoder.github.io/QuickerJs/lib/crazyQuickerJS.js"></script>
 </head>
 
 <body>
+  <a class="return" href="../">Volver al sitio principal</a>
   <h1>CMS de poemas</h1>
 
   <label for="poet">
@@ -169,11 +179,6 @@
     <span>Código</span>
     <input name="code" id="code" type="password" placeholder="El código ultra mega secreto va aquí">
   </label>
-
-  <div class="result">
-    <iframe name="target"></iframe>
-    <span>Result:</span>
-  </div>
 
   <div id="tabs" class="tabs">
     <button>Creador de poemas</button>

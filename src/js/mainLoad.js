@@ -2,9 +2,13 @@ import Template from './template';
 import fetchAll from './fetchAll';
 import pickPoems from './pickPoems';
 import renderPickedPoems from './render.pickedPoems';
+import utils from './canvasPreset';
+import fadeText from './fade-text';
 
 const wrapRotors = document.querySelectorAll('[wrap-amount]');
 const loader = document.getElementById('loader');
+const enterCMS = document.getElementById('enter-cms');
+const fadeTextElement = document.getElementById('fade-text');
 
 function setRotors(element, templateParent, templateGrandParent) {
   const rotorsAmount = +element.getAttribute('wrap-amount');
@@ -37,7 +41,14 @@ function loadOut(loaderElement) {
 
 setRotors(wrapRotors[0], '<div class="rotor"></div>', '<div class="grand-rotor"></div>');
 
-fetchAll((json) => {
+fetchAll(({ data }) => {
+  let randomPoem = data[utils().r(0, data.length - 1)];
+  // const poet = randomPoem.name;
+  randomPoem = randomPoem.poems[utils().r(0, randomPoem.poems.length - 1)];
+
   loadOut(loader);
-  renderPickedPoems(pickPoems(json.data), json.data);
+  renderPickedPoems(pickPoems(data), data);
+  fadeText(fadeTextElement, randomPoem.poem);
 });
+
+enterCMS.addEventListener('click', () => window.location.replace('/cms'));

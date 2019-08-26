@@ -81,7 +81,7 @@ function presetCanvas() {
   };
 
   const r = function r(min, max) {
-    return (Math.random() * (max - min) + min);
+    return Math.ceil(Math.random() * ((max + 1) - min) + min) - 1;
   };
 
   const fetchJSON = function fetchJSON(url, func) {

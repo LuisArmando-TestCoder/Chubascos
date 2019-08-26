@@ -1,0 +1,30 @@
+.fade-text {
+  user-select: none;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 320px;
+  padding: 25px;
+  transform-style: preserve-3d;
+  perspective: 200px;
+  letter-spacing: 3px;
+  line-height: 2;
+  height: 90vh;
+  display: grid;
+  place-content: center;
+}
+
+.fade-word {
+  color: #fff8;
+  display: inline-block;
+  opacity: 0;
+  text-shadow: 0 0 10px #fff;
+  animation: fade-in 3s forwards;
+}
+
+@keyframes fade-in {
+  to {
+    color: #fff2;
+    opacity: 1;
+    text-shadow: 0 0 2.5px #fff;
+  }
+}

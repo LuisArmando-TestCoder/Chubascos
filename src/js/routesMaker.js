@@ -1,4 +1,4 @@
-window.addEventListener('click', (e) => {
+function controlRoute(e) {
   e.preventDefault();
   const route = e.target.getAttribute('route');
   if (route) {
@@ -10,4 +10,6 @@ window.addEventListener('click', (e) => {
     if (previousSelected) previousSelected.classList.remove('selected');
     e.target.classList.add('selected');
   }
-});
+}
+
+window.addEventListener('click', controlRoute);
