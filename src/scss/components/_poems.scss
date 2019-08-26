@@ -1,6 +1,7 @@
 .poems {
   max-width: 980px;
   margin: auto;
+  padding: 0 25px;
 }
 
 .poems>div {
@@ -72,7 +73,7 @@
   max-width: 640px;
   border-radius: 0 0 25px 25px;
   box-shadow: 0 0 100px -50px $font-color;
-  margin: 0 25px 0 auto;
+  margin-left: auto;
 
   &:hover,
   &:focus {

@@ -7,7 +7,6 @@ import fadeText from './fade-text';
 
 const wrapRotors = document.querySelectorAll('[wrap-amount]');
 const loader = document.getElementById('loader');
-const enterCMS = document.getElementById('enter-cms');
 const fadeTextElement = document.getElementById('fade-text');
 
 function setRotors(element, templateParent, templateGrandParent) {
@@ -50,5 +49,3 @@ fetchAll(({ data }) => {
   renderPickedPoems(pickPoems(data), data);
   fadeText(fadeTextElement, randomPoem.poem);
 });
-
-enterCMS.addEventListener('click', () => window.location.replace('/cms'));

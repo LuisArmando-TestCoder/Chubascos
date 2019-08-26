@@ -2,8 +2,7 @@
   user-select: none;
   box-sizing: border-box;
   width: 100%;
-  max-width: 320px;
-  padding: 25px;
+  padding: 0 10vw;
   transform-style: preserve-3d;
   perspective: 200px;
   letter-spacing: 3px;
@@ -11,6 +10,13 @@
   height: 90vh;
   display: grid;
   place-content: center;
+  animation: 5s fade-out forwards;
+  -webkit-animation: 5s fade-out forwards;
+  animation-delay: 20s;
+
+  @media (min-width: 1080px) {
+    width: 50vw;
+  }
 }
 
 .fade-word {
@@ -23,8 +29,19 @@
 
 @keyframes fade-in {
   to {
-    color: #fff2;
+    color: #fff1;
     opacity: 1;
     text-shadow: 0 0 2.5px #fff;
+  }
+}
+
+@keyframes fade-out {
+  to {
+    transform: skew(5deg, 5deg);
+    -webkit-transform: skew(5deg, 5deg);
+    -moz-transform: skew(5deg, 5deg);
+    -ms-transform: skew(5deg, 5deg);
+    -o-transform: skew(5deg, 5deg);
+    opacity: 0;
   }
 }

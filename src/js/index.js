@@ -6,6 +6,8 @@ import './mainLoad';
 import './routesMaker';
 import './heroCanvas';
 import './spanify-elements';
+import './manage-tabs';
+import './manage-cms';
 
 // Register service worker.
 import './registerServiceWorker';

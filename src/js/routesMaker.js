@@ -13,3 +13,4 @@ function controlRoute(e) {
 }
 
 window.addEventListener('click', controlRoute);
+window.addEventListener('touchstart', controlRoute, false);

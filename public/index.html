@@ -67,10 +67,58 @@
           </p>
         </a>
       </div>
-      
-      <a id="enter-cms" class="enter-cms" href="cms/">Crear y editar poemas</a>
+
+      <a route="cms" href="#cms" id="enter-cms" class="enter-cms">Crear y editar poemas</a>
     </section>
     <section id="poets" class="route"></section>
+    <section id="cms" class="route cms">
+      <h2>CMS de poemas</h2>
+
+      <label class="cms-label" for="poet">
+        <span class="cms-name">Poeta</span>
+        <input class="cms-input" name="name" id="poet" type="text" placeholder="Nombre de usuario">
+      </label>
+      <label class="cms-label" for="code">
+        <span class="cms-name">Código</span>
+        <input class="cms-input" name="code" id="code" type="password" placeholder="El código ultra mega secreto va aquí">
+      </label>
+
+      <div id="tabs" class="tabs">
+        <button>Creador de poemas</button>
+        <button>Editor de poemas</button>
+      </div>
+
+      <div id="tab-items" class="tab-items">
+        <div class="item">
+          <h3 class="cms-title">Creador de poemas</h3>
+          <form class="cms-form">
+            <label class="cms-label" for="title">
+              <span class="cms-name">Título</span>
+              <input class="cms-input" name="title" id="title" type="text">
+            </label>
+            <label class="cms-label" for="text">
+              <span class="cms-name">Cuerpo del poema</span>
+              <textarea class="cms-input" name="poem" id="text"></textarea>
+            </label>
+            <button class="cms-trigger" id="create-poem" type="submit">Crear Poema</button>
+          </form>
+        </div>
+        <div class="item">
+          <h3 class="cms-title">Editor de poemas</h3>
+          <form class="cms-form">
+            <label class="cms-label" for="select-title">
+              <span class="cms-name">Escoge un poema</span>
+              <select class="cms-input" name="title" id="select-title"></select>
+            </label>
+            <label class="cms-label" for="edited-poem">
+              <span class="cms-name">Cuerpo del poema</span>
+              <textarea class="cms-input" name="poem" id="edited-poem"></textarea>
+            </label>
+            <button class="cms-trigger" id="edit-poem" type="submit">Editar Poema</button>
+          </form>
+        </div>
+      </div>
+    </section>
   </div>
   <script src="main.js"></script>
 </body>
