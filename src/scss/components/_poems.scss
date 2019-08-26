@@ -1,7 +1,9 @@
 .poems {
   max-width: 980px;
   margin: auto;
-  padding: 0 25px;
+  @media (min-width: 640px) {
+    padding: 0 25px;
+  }
 }
 
 .poems>div {
