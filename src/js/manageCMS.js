@@ -1,4 +1,5 @@
 import Template from './template';
+import callPoems from './callPoems';
 
 function setQueries(body) {
   return Object.keys(body).map(key => `${key}=${body[key]}`).join('&');
@@ -71,7 +72,11 @@ function setValue(object, value) {
         'Content-Type': 'application/x-www-form-urlencoded',
       },
       body,
-    });
+    })
+      .then((data) => {
+        console.log(data);
+        if (data && data.ok) callPoems();
+      });
 
     poems.push({
       title: body.title,
@@ -95,6 +100,9 @@ function setValue(object, value) {
       },
       body,
     })
-      .then(console.log);
+      .then((data) => {
+        console.log(data);
+        if (data && data.ok) callPoems();
+      });
   });
 }());

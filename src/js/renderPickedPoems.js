@@ -85,6 +85,11 @@ function listenPoemsHover(parent, poems) {
 
 function renderPickedPoems(poems, data) {
   const poemsList = document.getElementById('poems-list');
+
+  [...poemsList.children].forEach((child, i) => {
+    if (i) child.remove();
+  });
+
   poems.forEach(({ name, title, index }) => {
     poemsList.appendChild(new Template(`
     <li item-name="${title}">

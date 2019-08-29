@@ -5,9 +5,9 @@ import '../scss/style.scss';
 import './mainLoad';
 import './routesMaker';
 import './heroCanvas';
-import './spanify-elements';
-import './manage-tabs';
-import './manage-cms';
+import './spanifyElements';
+import './manageTabs';
+import './manageCMS';
 
 // Register service worker.
 import './registerServiceWorker';

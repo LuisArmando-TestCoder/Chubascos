@@ -1,4 +1,4 @@
-function fetchAll(callback) {
+function fetchPoems(callback) {
   fetch('https://poems-api.herokuapp.com/v1/all-poets')
     .then(data => data.json())
     .then((json) => {
@@ -6,4 +6,4 @@ function fetchAll(callback) {
     });
 }
 
-module.exports = fetchAll;
+module.exports = fetchPoems;
