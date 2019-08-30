@@ -12,6 +12,7 @@ const poemsCountNumber = document.getElementById('poems-count-number');
 const searchPoem = document.getElementById('search-poem');
 
 let currentPoemsIndex = 0;
+let isControlNavSet = false;
 
 function changePoem(poems, index) {
   const { name, title, poem } = poems[index];
@@ -25,17 +26,19 @@ function changePoem(poems, index) {
 
 function controlPoemsNav(poems) {
   const sortedPoems = poems.sort((a, b) => a.index - b.index);
-
-  previousArrow.addEventListener('click', () => {
-    currentPoemsIndex -= 1;
-    if (currentPoemsIndex < 0) currentPoemsIndex = poems.length - 1;
-    changePoem(sortedPoems, currentPoemsIndex);
-  });
-  nextArrow.addEventListener('click', () => {
-    currentPoemsIndex += 1;
-    if (currentPoemsIndex > poems.length - 1) currentPoemsIndex = 0;
-    changePoem(sortedPoems, currentPoemsIndex);
-  });
+  if (!isControlNavSet) {
+    previousArrow.addEventListener('click', () => {
+      currentPoemsIndex -= 1;
+      if (currentPoemsIndex < 0) currentPoemsIndex = poems.length - 1;
+      changePoem(sortedPoems, currentPoemsIndex);
+    });
+    nextArrow.addEventListener('click', () => {
+      currentPoemsIndex += 1;
+      if (currentPoemsIndex > poems.length - 1) currentPoemsIndex = 0;
+      changePoem(sortedPoems, currentPoemsIndex);
+    });
+    isControlNavSet = true;
+  }
 }
 
 function focusPoem(item, poems) {
