@@ -1,6 +1,7 @@
 .poems {
   max-width: 980px;
   margin: auto;
+
   @media (min-width: 1080px) {
     padding: 0 25px;
   }
@@ -17,7 +18,7 @@
 
 .search-item {
   position: sticky;
-  top: 70px;
+  top: 0;
   background: #fffe;
   z-index: 1;
 }
@@ -26,8 +27,12 @@
   display: none !important;
 }
 
-.poems-list, .current-poem {
+.poems-list,
+.current-poem {
   background: #fffe;
+  height: 85vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
 
 .search-poem {
@@ -38,11 +43,17 @@
   box-shadow: 0 0 100px -10px #000;
 }
 
+.poems .poem-title {
+  padding: 0 25px;
+  text-align: left;
+}
+
 .poems .poem {
   padding: 25px;
-  height: 90%;
   font-size: 18px;
   line-height: 2;
+  text-align: left;
+  min-height: 100vh;
 }
 
 .current-poem {
@@ -52,13 +63,14 @@
     height: 20vh;
     background: #f7f7f7ee;
     margin: 0 auto;
+
     p {
       display: none;
     }
   }
 
   @include all-before;
-  overflow: hidden;
+  box-shadow: inset 0 0 100px -50px #000;
   text-align: center;
   text-decoration: none;
   transition: 0.25s;
@@ -68,13 +80,8 @@
   -o-transition: 0.25s;
   position: sticky;
   top: 57px;
-  height: 70vh;
   color: $font-color;
-  padding: 25px;
-  width: 80%;
-  max-width: 640px;
-  border-radius: 0 0 25px 25px;
-  box-shadow: 0 0 100px -50px $font-color;
+  width: 100%;
   margin-left: auto;
 
   &:hover,
@@ -85,20 +92,20 @@
   }
 
   &::after {
-    content: 'Leer poema completo';
-    position: absolute;
+    content: 'Expandir poema';
+    position: sticky;
     bottom: 0;
-    left: 0;
-    right: 0;
+    display: block;
     text-align: center;
     background: #fffe;
-    @include font;
     padding: 25px;
     transition: 0.5s;
     -webkit-transition: 0.5s;
     -moz-transition: 0.5s;
     -ms-transition: 0.5s;
     -o-transition: 0.5s;
+
+    @include font;
   }
 }
 
@@ -121,13 +128,22 @@
   outline: none;
   border: 0;
   display: block;
-  border-bottom: 2.5px solid $font-color;
-  padding-bottom: 25px;
-  margin: 25px;
+  padding: 25px 0 25px 25px;
   background: transparent;
-  width: 85%;
-
+  width: 100%;
+  display: block;
+  position: relative;
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
+  box-shadow: inset 0 0 $font-color;
   @include all-before;
+  &:hover, &:focus {
+    color: $main-bg-color;
+    box-shadow: inset -320px 0 $font-color;
+  }
 
   &:hover b,
   &:focus b {
