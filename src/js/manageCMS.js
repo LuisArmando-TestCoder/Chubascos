@@ -74,7 +74,6 @@ function setValue(object, value) {
       body,
     })
       .then((data) => {
-        console.log(data);
         if (data && data.ok) callPoems();
       });
 
@@ -101,7 +100,6 @@ function setValue(object, value) {
       body,
     })
       .then((data) => {
-        console.log(data);
         if (data && data.ok) callPoems();
       });
   });
