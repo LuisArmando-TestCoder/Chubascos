@@ -5,7 +5,7 @@ import '../scss/style.scss';
 import './mainLoad';
 import './routesMaker';
 import './heroCanvas';
-import './spanifyElements';
+// import './spanifyElements';
 import './manageTabs';
 import './manageCMS';
 

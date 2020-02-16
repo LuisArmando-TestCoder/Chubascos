@@ -1,7 +1,7 @@
 import Template from './template';
 
 const elements = [
-  document.getElementById('home-title'),
+  // document.getElementById('home-title'),
 ];
 
 function spanify(element) {
