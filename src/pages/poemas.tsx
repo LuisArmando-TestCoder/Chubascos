@@ -3,8 +3,6 @@ import { graphql } from 'gatsby'
 import * as Components from '../components'
 
 export default ({ data }) => {
-    console.log(data)
-
     return (
         <Components.strings.GlobalWrapper title='Chubascos'>
             <Components.strings.ContainerDecorator
