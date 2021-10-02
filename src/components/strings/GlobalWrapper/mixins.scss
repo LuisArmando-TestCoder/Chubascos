@@ -1,0 +1,7 @@
+@mixin responsivePadding {
+    padding: 10rem max(2rem, 15vw);
+}
+
+@mixin responsiveFontSize($size) {
+    font-size: clamp($size * .25rem, $size * 2.5vw, $size * 1rem);
+}

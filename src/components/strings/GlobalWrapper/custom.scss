@@ -1,0 +1,46 @@
+.wrapper {
+    &--padding[class] {
+        @include responsivePadding;
+    }
+
+    &--color-white[class] {
+        color: white;
+    }
+
+    &--front[class] {
+        z-index: 1;
+    }
+
+    &--grid[class] {
+        display: grid;
+        grid-gap: 10rem;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    &--opacity-hover[class] {
+        opacity: 0.5;
+
+        &:hover {
+            opacity: 1;
+        }
+    }
+
+    &--big-font[class] {
+        font-size: 1.5rem;
+    }
+
+    &--capitalize[class] {
+        text-transform: capitalize;
+    }
+
+    &--cta[class] {
+        color: white;
+        text-decoration: none;
+
+        @include responsiveFontSize(2);
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
