@@ -23,6 +23,8 @@ def getTitle(content):
             .lower()
             .split('.')[0]
             .split(',')[0]
+            .split(';')[0]
+            .split(':')[0]
             .strip()
             .replace(' ', '-')
     )
