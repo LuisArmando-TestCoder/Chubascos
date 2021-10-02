@@ -19,4 +19,11 @@
         color: white;
         @include responsiveFontSize(4);
     }
+
+    &__cta[class]:not(:empty) {
+        padding: .75rem 1rem;
+        background: white;
+        color: black;
+        border-radius: .5rem;
+    }
 }

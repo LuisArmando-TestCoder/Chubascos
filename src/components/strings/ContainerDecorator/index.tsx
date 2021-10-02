@@ -21,7 +21,7 @@ export default ({
 				}
 				{
 					<a
-						className='wrapper--cta'
+						className='container-decorator__cta wrapper--cta'
 						href={cta || '/'}
 					>
 						{cta || '/Página principal'}
