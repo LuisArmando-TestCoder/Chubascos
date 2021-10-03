@@ -11,7 +11,7 @@ const contacts = [
         cta: 'Wattpad',
     },
     {
-        href: 'https://www.facebook.com/luisarmando.murillobaltodano',
+        href: 'https://www.instagram.com/latestcoder/',
         cta: 'Instagram',
     },
     {
