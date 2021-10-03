@@ -1,5 +1,5 @@
 @mixin responsivePadding {
-    padding: 10rem max(2rem, 15vw);
+    padding: 5rem max(2rem, 15vw);
 }
 
 @mixin responsiveFontSize($size) {
