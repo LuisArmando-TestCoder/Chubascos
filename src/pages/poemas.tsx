@@ -5,6 +5,7 @@ import * as Components from '../components'
 export default ({ data }) => {
     return (
         <Components.strings.GlobalWrapper title='Chubascos'>
+            <Components.quarks.ReadModeToggler/>
             <Components.strings.ContainerDecorator
                 title='Chubascos / Poemas'
             >

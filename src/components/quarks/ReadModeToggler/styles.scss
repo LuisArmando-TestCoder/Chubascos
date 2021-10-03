@@ -1,0 +1,29 @@
+.read-mode-toggler {
+    position: fixed;
+    top: 0;
+    right: 0;
+    border: solid white;
+    background: black;
+    padding: 0.25rem 1rem;
+    border-radius: 0 0 0 .5rem;
+    border-width: 0 0 3px 3px;
+    z-index: 1;
+
+    path {
+        fill: white;
+    }
+
+    svg {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    &:hover, &--activated {
+        border-color: black;
+        background: white;
+
+        path {
+            fill: black;
+        }
+    }
+}

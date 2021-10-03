@@ -1,5 +1,5 @@
-import  times from './times'
+import  Icons from './Icons'
 
 export {
-   times,
+   Icons,
 }

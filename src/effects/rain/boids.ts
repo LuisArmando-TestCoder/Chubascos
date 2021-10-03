@@ -1,4 +1,3 @@
-import preset from 'canvas-preset'
 
 const scale = 10
 const boid = [
@@ -50,10 +49,10 @@ export function getBoid({
 }
 
 export function getRandomBoids(amount, x, y) {
-const {
-    random,
-    c
-} = this
+    const {
+        random,
+        c
+    } = this
     return [...new Array(amount)].map(() => {
         const boid = getBoid({
             x: x || random(c.width),
@@ -167,7 +166,7 @@ function coheseTowardsCenter(targetBoid, groupSummations) {
     }
 }
 
-function updateBoids(targetBoid) {
+export function updateBoids(targetBoid) {
     setLocalGroup.call(this, targetBoid)
     moveBoid(targetBoid)
     watchBoidForPositionReset.call(this, targetBoid)
@@ -182,69 +181,4 @@ function updateBoids(targetBoid) {
     }
 
     this.ctx.fill()
-}
-
-let canPlay = true
-let boids
-
-export default {
-    start(effect) {
-        const {
-            size,
-            draw,
-            renderGroup,
-            clear,
-            c,
-            ctx,
-            random,
-            get2DVerticesDistance,
-        } = preset(null, `#${effect}`)
-
-        size()
-
-        const getAcceleration = () => random(3) + 2
-        const cohesionForce = 5
-        const boidsVision = 100
-        const boidsAmount = 50
-        const getRandomBoidsBind = {c, random, getAcceleration}
-
-        boids = getRandomBoids.call(getRandomBoidsBind, boidsAmount)
-
-        const updateBoidsBind = {
-            c,
-            boids,
-            boidsVision,
-            get2DVerticesDistance,
-            random,
-            ctx,
-            cohesionForce
-        }
-
-        window.addEventListener('mousemove', e => {
-            if (boids.length) boids.splice(0, 1)
-            boids.push(
-                getRandomBoids.call(
-                    getRandomBoidsBind,
-                    1,
-                    e.clientX,
-                    e.clientY
-                )[0]
-            )
-        })
-
-        draw(() => {
-            if (canPlay) {
-                clear('#000')
-                renderGroup('lines', boids, boid => {
-                    ctx.fillStyle = boid.color
-    
-                    updateBoids.call(updateBoidsBind, boid)
-                })
-            }
-        })
-    },
-    clean() {
-        canPlay = false
-        boids?.splice?.(0)
-    }
 }
