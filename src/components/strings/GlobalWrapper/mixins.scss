@@ -3,5 +3,5 @@
 }
 
 @mixin responsiveFontSize($size) {
-    font-size: clamp($size * .25rem, $size * 2.5vw, $size * 1rem);
+    font-size: clamp($size * .5rem, $size * 2.5vw, $size * 1rem);
 }

@@ -1,3 +1,18 @@
+.highlight {
+    &--parent {
+        padding: 0 2.5rem 2.5rem 0;
+        border: solid;
+        display: inline-block;
+        border-width: 0 2px 2px 0;
+        box-shadow: .25rem .25rem white;
+        transition: 0.35s;
+
+        &:hover {
+            box-shadow: .5rem .5rem white;
+        }
+    }
+}
+
 .wrapper {
     &--padding[class] {
         @include responsivePadding;
@@ -37,10 +52,34 @@
         color: white;
         text-decoration: none;
 
-        @include responsiveFontSize(2);
+        @include responsiveFontSize(1.5);
 
         &:hover {
             text-decoration: underline;
+        }
+    }
+
+    &--aside {
+        text-align: right;
+    }
+
+    &--block {
+        display: block;
+    }
+
+    &--search {
+        background: transparent;
+        border: solid white;
+        border-width: 0 0 3px 0;
+        padding: 1rem 0;
+        color: white;
+        outline: none;
+        opacity: .75;
+        width: clamp(5rem, 50vw, 30rem);
+        display: block;
+
+        &:focus {
+            opacity: 1;
         }
     }
 }
