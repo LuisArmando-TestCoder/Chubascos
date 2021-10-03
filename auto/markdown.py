@@ -43,6 +43,7 @@ for index, content in enumerate(contents):
                     .replace('í', 'i')
                     .replace('ó', 'o')
                     .replace('ú', 'u')
+                    .replace('ñ', 'nn')
                     .replace('¡', '')
                     .replace('¿', '')
             + '"\n' +
