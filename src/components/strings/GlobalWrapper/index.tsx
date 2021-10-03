@@ -15,7 +15,13 @@ export default ({ children, title }) => {
     return (
         <RecoilRoot>
             <RecoilOutside/>
-            <HelmetWrapper title={title}/>
+            <HelmetWrapper title={title}>
+                <meta
+                    name='description'
+                    content='Charcos tras mi paso. Chubascos de poemas.'
+                />
+                <meta charSet='utf-8'/>
+            </HelmetWrapper>
             { children }
         </RecoilRoot>
     )
