@@ -33,7 +33,7 @@
     }
 
     &--opacity-hover[class] {
-        @media (min-width: 640px) {
+        @media (min-width: 1024px + 1) {
             opacity: .5;
         }
 
@@ -79,7 +79,7 @@
         width: clamp(5rem, 50vw, 30rem);
         display: block;
 
-        @media (min-width: 640px) {
+        @media (min-width: 1024px + 1) {
             opacity: .75;
         }
 
