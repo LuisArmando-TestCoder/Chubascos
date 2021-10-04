@@ -1,6 +1,6 @@
 .highlight {
     &--parent {
-        padding: 0 2.5rem 2.5rem 0;
+        padding: 0 1rem 1rem 0;
         border: solid;
         display: inline-block;
         border-width: 0 2px 2px 0;
@@ -51,6 +51,7 @@
     }
 
     &--cta[class] {
+        margin-right: 3.5rem;
         position: relative;
         color: white;
         text-decoration: none;
@@ -93,7 +94,7 @@
 
 .icon.emotion {
     position: absolute;
-    right: -3rem;
+    right: -2.75rem;
 
     svg {
         width: 2rem;
