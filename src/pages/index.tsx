@@ -31,24 +31,42 @@ export default () => {
                 <Components.strings.Canvas effect='rain'/>
             </Components.strings.ContainerDecorator>
             <div className='wrapper--color-white wrapper--padding'>
+                <p>
+                    Porque miro de frente
+                </p>
+                <p>
+                    a mis pensamientos,
+                </p>
+                <p>
+                    escribo estos poemas.
+                </p>
+                <br />
+                <p>
+                    Porque soy parte del todo
+                </p>
+                <p>
+                    y no hay quien me detenga.
+                </p>
+            </div>
+            <ul className='wrapper--color-white wrapper--padding'>
                 {
                     contacts.map(({href, cta}) => (
-                        <a
-                            className={`
-                                wrapper--color-white
-                                wrapper--opacity-hover
-                                wrapper--cta
-                                wrapper--aside
-                                wrapper--block
-                            `}
-                            href={href}
-                            target='_blank'
-                        >
-                            {cta}
-                        </a>
+                        <li key={href}>
+                            <a
+                                className={`
+                                    wrapper--opacity-hover
+                                    wrapper--cta
+                                    wrapper--block
+                                `}
+                                href={href}
+                                target='_blank'
+                            >
+                                {cta}
+                            </a>
+                        </li>
                     ))
                 }
-            </div>
+            </ul>
         </Components.strings.GlobalWrapper>
     )
 }
