@@ -31,6 +31,7 @@ def getTitle(content):
 
 for index, content in enumerate(contents):
     title = getTitle(content)
+    poem = content.strip().replace('\n', '\n\n').replace('\n\n\n', '\n\n&nbsp;\n')
     executeConditionalPath(
         f"{folderPath}/{elementType}/_ ({index}).md",
         lambda path: createFile(
@@ -47,9 +48,9 @@ for index, content in enumerate(contents):
                     .replace('¡', '')
                     .replace('¿', '')
             + '"\n' +
+            f'tags: ["' + poem.split('<')[1].strip() + '"]\n' +
             f'title: "{title}"\n' +
             '---\n' +
-            content.strip().replace('\n', '\n\n')
-            .replace('\n\n\n', '\n\n&nbsp;\n')
+            poem.split('<')[0].strip()
         )
     )

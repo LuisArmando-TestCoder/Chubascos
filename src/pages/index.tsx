@@ -54,7 +54,6 @@ export default () => {
                         <li key={href}>
                             <a
                                 className={`
-                                    wrapper--opacity-hover
                                     wrapper--cta
                                     wrapper--block
                                 `}

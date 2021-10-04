@@ -59,6 +59,10 @@ export default ({ data }) => {
                                     `}
                                     href={node?.frontmatter?.slug}
                                 >
+                                    <Components.strings.Icon
+                                        className='emotion'
+                                        name={node?.frontmatter?.tags[0]}
+                                    />
                                     {title}
                                 </a>
                             </li>
@@ -77,6 +81,7 @@ export const pageQuery = graphql`
                 node {
                     frontmatter {
                         title
+                        tags
                         slug
                     }
                 }

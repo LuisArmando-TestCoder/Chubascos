@@ -1,7 +1,8 @@
 import { selector } from 'recoil'
 
 const iconNames = [
-    'book'
+    'book', 'desperation', 'happy',
+    'love', 'normal', 'sad'
 ] as const
 
 export default selector({

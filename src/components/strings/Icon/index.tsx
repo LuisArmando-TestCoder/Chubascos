@@ -7,7 +7,8 @@ import {
 } from '../../../utils'
 
 interface Properties {
-    name: 'book'
+    name: 'book' | 'desperation' | 'happy' |
+          'love' | 'normal' | 'sad'
     className?: string
 }
 

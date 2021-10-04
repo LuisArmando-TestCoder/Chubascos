@@ -34,7 +34,7 @@
 
     &--opacity-hover[class] {
         @media (min-width: 1024px + 1) {
-            opacity: .5;
+            opacity: .75;
         }
 
         &:hover {
@@ -51,6 +51,7 @@
     }
 
     &--cta[class] {
+        position: relative;
         color: white;
         text-decoration: none;
 
@@ -86,6 +87,19 @@
 
         &:focus {
             opacity: 1;
+        }
+    }
+}
+
+.icon.emotion {
+    position: absolute;
+    right: -3rem;
+
+    svg {
+        width: 2rem;
+
+        .std0[class] {
+            stroke: #fff;
         }
     }
 }

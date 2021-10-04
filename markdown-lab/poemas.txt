@@ -20,6 +20,7 @@ Acumulé tanto,
 y ahora me veo 
 desolado entre 
 mis tesoros.
+<sad
 ---
 Tus lentes.
 
@@ -35,6 +36,7 @@ sobre grandes cuencas,
 capturadoras negro abisal
 captan mi asomo 
 al ánima que avisto.
+<love
 ---
 Se me hace reconfortante estar contigo,
 ver y besar desde el dorso de tus manos
@@ -59,6 +61,7 @@ siempre descubres el mecanismo
 que no puedo más que revelar.
 
 Sinceramente, somos dioses que se miran.
+<love
 --- 
 Lágrimas de rabia,
 engoman mis dientes.
@@ -72,11 +75,13 @@ mis sentimientos en un cáliz?
 Beban riadas.
 
 Aquí vienen.
+<desperation
 ---
 Les toca o aceptar su blancuzco,
 o pintar su cuerpo, o pedir exilio
 para que coloridas de juventud eterna,
 floten hasta el basurero.
+<normal
 ---
 Gigante al tramo
 de un curso fluvial,
@@ -85,6 +90,7 @@ madereros genocidas
 que transmutan
 al gigante al tramo
 en un curso de papel.
+<normal
 ---
 Consuelo visitó al muchacho
 llevándolo hacia mundos paralelos.
@@ -121,6 +127,7 @@ y asombrado por sobrevivir,
 se tira un beso y dice:
 "Gracias, sos mi orgullo,
 te amo y te disfruto".
+<happy
 ---
 El maestro es sabio,
 pero un chubasco,
@@ -138,6 +145,7 @@ luz de parto al faro,
 de una mente despierta
 que de toda noche atento,
 se apaga al amanecer.
+<normal
 ---
 ¿Y por qué no camina?
 
@@ -145,6 +153,7 @@ Porque es taquígrafo y ladrón,
 máquina analítica con piernas,
 finge fallecer en el asiento
 para robar ideas del rededor.
+<normal
 ---
 Desde el pulso del mar,
 agua energética fue invocando,
@@ -192,6 +201,7 @@ de sacrificios con hambre,
 el hombre nuevo las reemplazó
 por sudor, sangre,
 trabajo y creatividad.
+<happy
 ---
 Hijas de Eva
 libres del amor propio,
@@ -204,6 +214,7 @@ de dientes de sirenas.
 Hienas satisfechas,
 se marchan
 a cepillar sus fauces.
+<sad
 ---
 Vengo de mi institución,
 donde el material
@@ -234,6 +245,7 @@ sino piel quemada.
 Les llaman títeres,
 cuando realmente son
 titiriteros.
+<normal
 ---
 Sos el balso,
 que después
@@ -258,6 +270,7 @@ mi núcleo paciente
 de los secretos
 y su oquedad
 del fondo de mi mente.
+<happy
 ---
 Somos inocentes pero culpables
 de la inocencia ante los tuertos.
@@ -269,6 +282,7 @@ de la sangre de sus heridas.
 
 Así, nosotros tomamos su labrys
 con la percepción disminuida.
+<normal
 ---
 Tus gemidos son acordes 
 que armonizan 
@@ -305,3 +319,4 @@ me resulta insoportable
 pero no porque eres fea,
 sino, que no puedo quedarme
 y que te desmayes en mi pecho.
+<love
