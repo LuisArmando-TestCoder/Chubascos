@@ -31,21 +31,16 @@ export default () => {
                 <Components.strings.Canvas effect='rain'/>
             </Components.strings.ContainerDecorator>
             <div className='wrapper--color-white wrapper--padding'>
+                <br />
                 <p>
-                    Porque miro de frente
+                    No hay quien me detenga.
                 </p>
+                <br/>
                 <p>
-                    a mis pensamientos,
+                    Miro de frente;
                 </p>
                 <p>
                     escribo estos poemas.
-                </p>
-                <br />
-                <p>
-                    Porque soy parte del todo
-                </p>
-                <p>
-                    y no hay quien me detenga.
                 </p>
             </div>
             <ul className='wrapper--color-white wrapper--padding'>
