@@ -1,3 +1,13 @@
+@mixin highlight($color) {
+    color: $color;
+
+    svg {    
+        .st0[class] {
+            stroke: $color;
+        }
+    }
+}
+
 .select-emotion {
 	&__filter-button {
         background: transparent;
@@ -14,14 +24,14 @@
             }
         }
 
-        &:hover, .selected {
-            color: #9881ff;
-
-            svg {    
-                .st0[class] {
-                    stroke: #9881ff;
-                }
+        &:hover {
+            @media (min-width: 1024px) {
+                @include highlight(#9881ff);
             }
+        }
+
+        .selected {
+            @include highlight(#9881ff);
         }
     }
 
