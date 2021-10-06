@@ -1,0 +1,32 @@
+.select-emotion {
+	&__filter-button {
+        background: transparent;
+        border: 0;
+        color: white;
+        height: 3rem;
+        cursor: pointer;
+
+        svg {
+            width: 2rem;
+
+            .st0[class] {
+                stroke: #fff;
+            }
+        }
+
+        &:hover, .selected {
+            color: #9881ff;
+
+            svg {    
+                .st0[class] {
+                    stroke: #9881ff;
+                }
+            }
+        }
+    }
+
+    &__list {
+        display: flex;
+        align-items: center;
+    }
+}

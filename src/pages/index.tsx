@@ -40,7 +40,7 @@ export default () => {
                     Miro de frente;
                 </p>
                 <p>
-                    escribo estos poemas.
+                    escribo poemas.
                 </p>
             </div>
             <ul className='wrapper--color-white wrapper--padding'>
