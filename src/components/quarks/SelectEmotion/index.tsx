@@ -3,11 +3,19 @@ import * as Components from '../..'
 import { Emotions } from '../../../state'
 import { useRecoilState } from 'recoil'
 import './styles.scss'
+import { getWindow } from 'ssr-window'
 
 const emotionsNames = [
 	'desperation', 'happy', 'love',
 	'normal', 'sad'
 ] as const
+
+function saveEmotions(emotions) {
+	getWindow().sessionStorage.setItem(
+		'emotions',
+		JSON.stringify(emotions)
+	)
+}
 
 export default ({
 	className = '',
@@ -28,7 +36,12 @@ export default ({
 			<ul className='select-emotion__list'>
 				<li className='select-emotion__item'>
 					<button 
-						onClick={() => setEmotions([])}
+						onClick={() => {
+							const newEmotions = []
+
+							setEmotions(newEmotions)
+							saveEmotions(newEmotions)
+						}}
 						className='select-emotion__filter-button'
 					>
 						X
@@ -36,7 +49,7 @@ export default ({
 				</li>
 				{
 					emotionsNames.map(emotion => (
-						<li className='select-emotion__item'>
+						<li key={emotion} className='select-emotion__item'>
 							<button 
 								onClick={() => {
 									if (emotions.includes(emotion)) {
@@ -47,11 +60,15 @@ export default ({
 										)
 
 										setEmotions(newEmotions)
+										saveEmotions(newEmotions)
 
 										return
 									}
 
-									setEmotions([...emotions, emotion])
+									const newEmotions = [...emotions, emotion]
+
+									setEmotions(newEmotions)
+									saveEmotions(newEmotions)
 								}}
 								className='select-emotion__filter-button'
 							>

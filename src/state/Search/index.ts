@@ -1,6 +1,6 @@
 import {atom} from 'recoil'
 
 export default atom({
-    key: 'search',
+    key: 'Search',
     default: ''
 })
