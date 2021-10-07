@@ -6,15 +6,15 @@ const key = 'emotions'
 export default atom({
     key,
     default: (() => {
-        try {
-            const { sessionStorage } = getWindow()
-            const value = JSON.parse(
-                sessionStorage.getItem(key)
-            )
+        // try {
+        //     const { sessionStorage } = getWindow()
+        //     const value = JSON.parse(
+        //         sessionStorage.getItem(key)
+        //     )
 
-            return value || []
-        } catch {
+        //     return value || []
+        // } catch {
             return []
-        }
+        // }
     })(),
 })

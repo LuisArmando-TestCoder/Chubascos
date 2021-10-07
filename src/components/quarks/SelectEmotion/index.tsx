@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import * as Components from '../..'
 import { Emotions } from '../../../state'
 import { useRecoilState } from 'recoil'
@@ -22,6 +22,14 @@ export default ({
 }) => {
 	const [emotions, setEmotions] = useRecoilState(Emotions)
 
+	useEffect(() => {
+		const storedEmotions = JSON.parse(
+			sessionStorage.getItem('emotions')
+		) || emotions
+
+		setEmotions(storedEmotions)
+	}, [])
+
 	return (
 		<div className={`
 			select-emotion 
@@ -40,7 +48,7 @@ export default ({
 							const newEmotions = []
 
 							setEmotions(newEmotions)
-							saveEmotions(newEmotions)
+							// saveEmotions(newEmotions)
 						}}
 						className='select-emotion__filter-button'
 					>
@@ -60,7 +68,7 @@ export default ({
 										)
 
 										setEmotions(newEmotions)
-										saveEmotions(newEmotions)
+										// saveEmotions(newEmotions)
 
 										return
 									}
@@ -68,7 +76,7 @@ export default ({
 									const newEmotions = [...emotions, emotion]
 
 									setEmotions(newEmotions)
-									saveEmotions(newEmotions)
+									// saveEmotions(newEmotions)
 								}}
 								className='select-emotion__filter-button'
 							>
