@@ -285,7 +285,7 @@ con la percepción disminuida.
 <normal
 ---
 No eres fea, 
-sino fea 
+sino fea
 tu ausencia.
 
 Tus gemidos son acordes 
@@ -377,13 +377,13 @@ Sé lo que se siente que tus padres.
 
 Sé lo que se siente se separen.
 
-Sé lo que se sienten convulsiones.
-
 Sé lo que se sienten los amigos.
 
-Sé lo que siente soledad.
+Sé lo que se siente soledad.
 
 Sé lo que siente estar drogado.
+
+Sé lo que se sienten convulsiones.
 
 Sé lo siente ser virtuoso.
 
@@ -510,7 +510,7 @@ aún si lloro de soledad
 es solo mi cuerpo lamentándose, 
 mi alma siempre está 
 bailando lento
-pero sin dilatación
+pero sin dilación
 en el ritmo feroz 
 de mi avance.
 
@@ -576,14 +576,14 @@ aunque te lleve al fango.
 Pero, no está bien que creas 
 que tus objetivos terminales 
 no son importantes, 
-puedes querer 
 por sobre todas las cosas, 
+puedes querer 
 lo que jamás nadie 
-ha deseado,
-y también puedes 
-ser extravagante,
+ha deseado.
+
+Puedes ser extravagante,
 extraterrestre, loca,
-melancólica, neurótica.
+melancólica y neurótica.
 
 Pero aún en tu neurosis
 que no te quiten la paz.
@@ -595,4 +595,46 @@ Puedes sentirte
 como te sientes,
 mientras respondes 
 a tu voluntad.
+<normal
+---
+Quería un amor verdadero,
+y ahora tiene dos.
+
+Le cuesta elegir.
+
+Le gustan, inocentes
+rostros delicados;
+brazos envolventes,
+símbolos de fuerza.
+
+Se hace la tonta,
+no recuerda
+si deseaba decencia.
+
+Primero:
+le gusta jugar con otro,
+o jugar con ambos,
+cuando se cansa.
+
+Segundo:
+jura a cada quien
+que es el único 
+en este planeta.
+
+Tercero:
+Ama ser circense,
+equilibrándose 
+entre cuentos.
+
+Cuarto y seguramente:
+Le cuesta elegir,
+porque le gusta tanto
+tener una casa principal
+y una de verano.
+
+Quinto y últimamente:
+ama la estimulación conjunta,
+al cielo, catapulta,
+y no enfrentar 
+su miedo al apego.
 <normal
