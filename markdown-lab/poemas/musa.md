@@ -87,15 +87,7 @@ aún si lloro de soledad
 
 es solo mi cuerpo lamentándose, 
 
-mi alma siempre está 
-
-bailando lento
-
-pero sin dilación
-
-en el ritmo feroz 
-
-de mi avance.
+mi alma siempre avanza.
 
 &nbsp;
 
