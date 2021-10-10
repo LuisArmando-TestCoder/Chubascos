@@ -1,5 +1,5 @@
 ---
-slug: "/poemas/y-por-que-no-camina?"
+slug: "/poemas/y-por-que-no-camina"
 tags: ["normal"]
 title: "¿y-por-qué-no-camina?"
 ---

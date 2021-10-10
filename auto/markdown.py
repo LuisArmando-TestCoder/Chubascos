@@ -29,25 +29,39 @@ def getTitle(content):
             .replace(' ', '-')
     )
 
+def getSlug(title):
+    return (
+        title
+            .replace('á', 'a')
+            .replace('é', 'e')
+            .replace('í', 'i')
+            .replace('ó', 'o')
+            .replace('ú', 'u')
+            .replace('ñ', 'nn')
+            .replace('¡', '')
+            .replace('¿', '')
+            .replace('?', '')
+            .replace('!', '')
+    )
+
+def getPoem(content):
+    return (
+        content
+            .strip()
+            .replace('\n', '\n\n')
+            .replace('\n\n\n', '\n\n&nbsp;\n')
+    )
+
 for index, content in enumerate(contents):
     title = getTitle(content)
-    poem = content.strip().replace('\n', '\n\n').replace('\n\n\n', '\n\n&nbsp;\n')
+    slug = getSlug(title)
+    poem = getPoem(content)
     executeConditionalPath(
-        f"{folderPath}/{elementType}/_ ({index}).md",
+        f"{folderPath}/{elementType}/{slug}.md",
         lambda path: createFile(
             path,
             '---\n' +
-            f'slug: "/{elementType}/' +
-                title
-                    .replace('á', 'a')
-                    .replace('é', 'e')
-                    .replace('í', 'i')
-                    .replace('ó', 'o')
-                    .replace('ú', 'u')
-                    .replace('ñ', 'nn')
-                    .replace('¡', '')
-                    .replace('¿', '')
-            + '"\n' +
+            f'slug: "/{elementType}/' + slug + '"\n' +
             f'tags: ["' + poem.split('<')[1].strip() + '"]\n' +
             f'title: "{title}"\n' +
             '---\n' +
