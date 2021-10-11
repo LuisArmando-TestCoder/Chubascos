@@ -1,11 +1,9 @@
 ---
-slug: "/poemas/es-extranno-que-lo-diga"
+slug: "/poemas/ha-de-prevalecer"
 tags: ["love"]
-title: "es-extraño-que-lo-diga"
+title: "ha-de-prevalecer"
 ---
-Es extraño que lo diga, 
-
-pero ha de prevalecer 
+Ha de prevalecer 
 
 lo que he ignorado tanto.
 
@@ -13,9 +11,9 @@ lo que he ignorado tanto.
 
 Buscando un trofeo invisible, 
 
-he dejado pasar las mejores 
+he dejado pasar 
 
-oportunidades en mi vida.
+las mejores oportunidades.
 
 &nbsp;
 
@@ -23,11 +21,7 @@ Varios serafines.
 
 &nbsp;
 
-Es irónico que lo diga, 
-
-pero he de vencer 
-
-en mi objetivo por alcanzar 
+He de alcanzar 
 
 aquello que añoraba 
 
@@ -35,31 +29,29 @@ en secretismo.
 
 &nbsp;
 
-Pensé que luchar 
+Luchar no era 
 
-era un acto de barbarie, 
+un acto de barbarie.
 
-y mi orgullo 
+&nbsp;
+
+Mi orgullo 
 
 se plantaba en medio. 
 
 &nbsp;
 
-Aunque reflexiono, 
-
-que entre todas 
+Entre todas 
 
 mis estupideces 
 
-yacía una lección 
+se iba componiendo. 
 
-que se iba componiendo. 
+ 
 
-&nbsp;
+Tinta y tinta;
 
-Tecla y tecla; 
-
-fallo y fallo; 
+fallo y fallo;
 
 intento e intento. 
 
@@ -71,11 +63,7 @@ y más entendimiento.
 
 &nbsp;
 
-Es chistoso que lo diga, 
-
-pero ahora me doy cuenta 
-
-cuánto las aprecio, 
+Cuánto las aprecio, 
 
 a cada una, 
 
@@ -89,21 +77,13 @@ y flagrantes deseos.
 
 &nbsp;
 
-Pero no es tan extraño que diga
+¿Cuánto creía
 
-que todos hemos sido pendejos. 
-
-&nbsp;
-
-Mi pendejez recaía 
-
-en cuánto creía
-
-valía mi orgullo.
+valía mi orgullo?
 
 &nbsp;
 
-No vale nada
+No vale nada,
 
 si de prevalecer 
 
@@ -129,4 +109,10 @@ que no sabes qué haces,
 
 que solo quieres besarla,
 
-abrazarla y ser todo suyo.
+y ser todo suyo. 
+
+&nbsp;
+
+Hagamos y juguemos,
+
+como nos venga en gana.
