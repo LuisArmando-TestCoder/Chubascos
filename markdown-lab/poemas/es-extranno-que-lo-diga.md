@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/es-extranno-que-lo-diga"
-tags: ["happy"]
+tags: ["love"]
 title: "es-extraño-que-lo-diga"
 ---
 Es extraño que lo diga, 
