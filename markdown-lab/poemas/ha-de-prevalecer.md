@@ -113,6 +113,6 @@ y ser todo suyo.
 
 &nbsp;
 
-Hagamos y juguemos,
+Hagamos
 
 como nos venga en gana.
