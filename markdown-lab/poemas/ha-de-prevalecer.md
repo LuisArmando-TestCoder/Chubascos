@@ -45,11 +45,9 @@ Entre todas
 
 mis estupideces 
 
-se iba componiendo. 
+se iba componiendo: 
 
- 
-
-Tinta y tinta;
+tinta y tinta;
 
 fallo y fallo;
 

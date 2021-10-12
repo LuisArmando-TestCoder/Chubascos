@@ -488,9 +488,8 @@ se plantaba en medio.
 
 Entre todas 
 mis estupideces 
-se iba componiendo. 
- 
-Tinta y tinta;
+se iba componiendo: 
+tinta y tinta;
 fallo y fallo;
 intento e intento. 
 
@@ -524,17 +523,6 @@ y ser todo suyo.
 
 Hagamos,
 como nos venga en gana.
-<love
----
-Soy enamoradizo,
-hoy, llevo veinte caídas.
-
-Tenle piedad a mi soberbia,
-que se rinde cada vez
-que me acaricias.
-
-Si tus párpados pesan,
-también mis rodillas.
 <love
 ---
 Tenemos atmósfera de sobra, 
