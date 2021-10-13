@@ -19,39 +19,37 @@ No es que me enrede de palabras,
 
 es que hay tantos hilos tras mi hebras, 
 
-y dentro de mi cráneo
-
 que es difícil saber lo que se aproxima.
 
 &nbsp;
 
-No soy aleatorio, me considero pleno, 
+No soy aleatorio, 
 
-un tazón repleto de ideas, 
+me considero repleto, 
 
-pero este no se vuelca, 
+un tazón pleno de ideas, 
 
-¿cómo rebota sin suelo?
+pero ¿cómo no se vuelca?
+
+¿cómo lo haría, si no hay suelo?,
 
 si flota en el espacio profundo, 
 
-buscando galaxias donde su materia escasa 
+buscando galaxias 
 
-sea de aprecio por algún ser. 
+donde su materia escasa 
+
+sea del aprecio de alguien. 
 
 &nbsp;
 
 No soy duro, soy intocable, 
 
-como un fantasma, 
-
 ni la metafísica de Wolfram 
 
-se expande a este nivel. 
+se acerca a mi dominio, 
 
-&nbsp;
-
-Mi dominio se expande, 
+que se expande, 
 
 más allá del brazo de Perseo, 
 
@@ -69,13 +67,13 @@ un loco con sentido común,
 
 pero ahora me veo 
 
-como un cualquiera, a su estilo, 
+como un cualquiera, 
 
-como cualquiera. 
+a su estilo, como cualquiera. 
 
 &nbsp;
 
-¿Tengo ganas de ganar un futuro ideal? 
+¿Tengo ganas de un futuro ideal? 
 
 ¿Me asquea la normalidad? 
 
@@ -99,21 +97,25 @@ Que no quiero ser el mejor,
 
 si mejor, puedo ser yo mismo, 
 
-con mis virtudes y atrocidades. 
+con mis virtudes y defectos. 
 
 &nbsp;
 
-Hay muchos gustos pero disfruto esto, 
+Hay muchos gustos 
+
+pero me gusta esto, 
 
 porque puedo recurrir a pensar 
 
 cuando me acuesto y abrazarme 
 
-y así tomar sereno
+y así tomar sereno a alguien, 
 
-a un alguien fuera de mi cuerpo, 
+fuera de mi cuerpo.
 
-pues el cariño me sobra. 
+ 
+
+El cariño me sobra. 
 
 &nbsp;
 
@@ -125,29 +127,33 @@ pasando por colinas,
 
 mesetas y valles, 
 
-con nada más que pies. 
+con nada más que mis pies. 
 
 &nbsp;
 
-Hay muchas personas y aquí las siento, 
+Hay muchas personas 
+
+y aquí las siento, 
 
 sus siluetas en mi hipocampo. 
 
 &nbsp;
 
-Estoy lleno de privilegios: 
+Estoy lleno de privilegios.
 
-brazos me sostienen 
+&nbsp;
+
+Brazos me sostienen 
 
 mientras lloro el alma 
 
 sin saber por qué, 
 
-o pierdo mi mente 
+o pierdo la mente 
 
 entre vaho blanco,
 
-que recupero después. 
+y la recupero después. 
 
 &nbsp;
 
@@ -155,33 +161,45 @@ He dormido en palacios,
 
 besado princesas, 
 
-abrazado árboles y perros, 
+abrazado árboles 
 
-he luchado a puño limpio, 
+y he acariciado perros.
 
-sonriendo, que mis tendones 
+&nbsp;
 
-se desgarren y seguir corriendo, 
+He luchado a puño limpio sonriendo, 
 
-verme al espejo, tirarme un beso, 
+que mis tendones se desgarren 
 
-bailar desnudo; conocerla;
+y seguir corriendo, 
+
+verme al espejo, 
+
+tirarme un beso, 
+
+bailar desnudo; conocerla; 
 
 coger en el baño; conocerla;
 
 perder una clase de matemáticas, 
 
-cogiendo con ella. 
+por coger con ella. 
 
 &nbsp;
 
-Desde levantarme, hasta ser un vegetal, 
+Desde levantarme airoso, 
 
-desde abandonar la casa, hasta regresar, 
+hasta ser un vegetal, 
+
+desde abandonar la casa, 
+
+hasta regresar, 
 
 desde sacar una carrera, 
 
-para luego tomar otra y despreciarla. 
+para luego tomar otra 
+
+y luego despreciarla. 
 
 &nbsp;
 
@@ -191,9 +209,9 @@ para entretenerme viendo moscas.
 
 &nbsp;
 
-Han confiado en mí y he hecho lo mismo, 
+Han confiado en mí e hice lo mismo;
 
-he sido traicionado y lo he hecho de vuelta. 
+he sido traicionado y lo hice de vuelta. 
 
 &nbsp;
 
@@ -205,11 +223,15 @@ mis propios problemas.
 
 &nbsp;
 
-Me he sentido vivo y me he querido matar. 
+Me siento vivo 
+
+y a veces me quiero matar. 
 
 &nbsp;
 
-Me he sentido solo y acompañado. 
+Me siento solo 
+
+y a veces me acompaño.
 
 &nbsp;
 
@@ -221,15 +243,15 @@ que ahora me ama.
 
 &nbsp;
 
-Me he enamorado de diosas,
+También, me he enamorado de diosas,
 
-dándome cuenta que son humanas.
+y me he dado cuenta que son humanas.
 
 &nbsp;
 
 He despreciado a las personas, 
 
-para luego disfrutarlas.
+y luego dispuesto a disfrutarlas.
 
 &nbsp;
 
