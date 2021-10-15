@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/si-esperas-ser-de-los-grandes"
-tags: ["smile"]
+tags: ["happy"]
 title: "si-esperas-ser-de-los-grandes"
 ---
 Si esperas ser de los grandes, 
