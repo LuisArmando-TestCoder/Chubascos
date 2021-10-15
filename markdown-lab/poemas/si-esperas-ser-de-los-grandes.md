@@ -17,38 +17,6 @@ tus sesos en subasta.
 
 &nbsp;
 
-Técnicas no hay 
-
-como el autoconocimiento. 
-
-&nbsp;
-
-Los mejores creadores 
-
-no son personas, son mensajes; 
-
-tantos como arena fina en el desierto.
-
-&nbsp;
-
-Que vayan a su bola, 
-
-¿Por qué debes 
-
-seguir sus pasos? 
-
-Estos se borran; 
-
-fueron marcados, 
-
-no solo por lugar, 
-
-sino también, 
-
-por contexto.
-
-&nbsp;
-
 Dicen que huele a oro, 
 
 pero el agua es inodora. 
