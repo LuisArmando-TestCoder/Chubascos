@@ -17,6 +17,14 @@ tus sesos en subasta.
 
 &nbsp;
 
+Los mejores creadores
+
+no son personas, son mensajes;
+
+tantos como arena fina en el desierto.
+
+&nbsp;
+
 Dicen que huele a oro, 
 
 pero el agua es inodora. 
