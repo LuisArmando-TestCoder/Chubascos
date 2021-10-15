@@ -17,6 +17,12 @@ tus sesos en subasta.
 
 &nbsp;
 
+Técnicas no hay 
+
+como el autoconocimiento. 
+
+&nbsp;
+
 Los mejores creadores
 
 no son personas, son mensajes;
