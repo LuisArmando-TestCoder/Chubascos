@@ -1,12 +1,8 @@
 ---
-slug: "/poemas/tus-lentes"
+slug: "/poemas/delgados-puentes-de-aluminio"
 tags: ["love"]
-title: "tus-lentes"
+title: "delgados-puentes-de-aluminio"
 ---
-Tus lentes.
-
-&nbsp;
-
 Delgados puentes de aluminio,
 
 redonda red de cristal,
