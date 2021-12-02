@@ -5,9 +5,9 @@ title: "tengo-que-darme-una-pausa-obligatoria"
 ---
 Tengo que darme una pausa obligatoria, 
 
-que la sociedad se detenga, porque acá 
+las trazas de manufactura se detienen
 
-debo levantarme para renovar mis votos, 
+si he de levantarme a renovar mis votos,
 
 un beso por mejilla, uno en cada pómulo, 
 
@@ -23,28 +23,14 @@ Contigo se me olvida lo que eso significa.
 
 Silencio a mi labranza, silencio madrugada,
 
-he de adorarte distinguida fiera;
-
-hecha de gentileza y cortesía.
+he de adorarte distinguible fiera cortesía.
 
 &nbsp;
 
-¿Ahora no me sueltas?
+¿No me sueltas? ¡Ayuda! ¡Me hacen trizas!
 
 &nbsp;
 
-¡Ayuda! Debo volver, necesito levantarme.
+No quiero enderezarme y no me lo permites,
 
-&nbsp;
-
-Me haces trizas; mi torso tiene grietas.
-
-&nbsp;
-
-Hice una pausa, y no quiero enderezarme.
-
-&nbsp;
-
-Y si no me lo permites, ¿sabes qué?
-
-Qué más da.
+y, ¿sabes qué? Qué más da.
