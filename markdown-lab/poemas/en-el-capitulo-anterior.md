@@ -7,11 +7,7 @@ En el capítulo anterior
 
 de los últimos mil años;
 
-imprenta e invención.
-
-&nbsp;
-
-Dibujantes y pasión;
+dibujantes y pasión;
 
 tantísma idiocracia.
 
@@ -23,26 +19,6 @@ y caen de antemano.
 
 &nbsp;
 
-Autómatas dibujan
-
-geometría y posición.
-
-&nbsp;
-
-La comunicación;
-
-técnicas obviando.
-
-&nbsp;
-
-Nadie es popular,
-
-todos han hablado
-
-ruido de estación.
-
-&nbsp;
-
 Esta es abstracción,
 
 procesos circulando.
@@ -51,23 +27,15 @@ procesos circulando.
 
 Devuélvanme color;
 
-científicos cantando.
+rojo, verde, azul,
+
+alfa normalizado.
 
 &nbsp;
 
-Corro 
+Escribo a un millón
 
-a un millón
-
-de píxeles 
-
-por segundo.
-
-&nbsp;
-
-Duele la emoción;
-
-con letras voy pintando.
+de píxeles por segundo.
 
 &nbsp;
 
@@ -77,21 +45,9 @@ me voy petrificando.
 
 &nbsp;
 
-Soy agente del caos
+Soy agente del caos,
 
-y no soy tan complejo.
-
-&nbsp;
-
-Rojo, verde, azul,
-
-alfa normalizado.
-
-&nbsp;
-
-Futuros por función;
-
-todo puedo hacerlo.
+pero ni tan complejo.
 
 &nbsp;
 
@@ -103,13 +59,11 @@ por ventanas sin tamaño.
 
 Código en acción;
 
-uniformes los soldados.
+uniformes, los soldados.
 
 &nbsp;
 
 Voy por coordenadas;
-
-mapas desgarrando;
 
 no hay frecuencias, freno,
 
@@ -117,25 +71,25 @@ veo tantos cambios.
 
 &nbsp;
 
-Procedurales botellón;
-
-el lenguaje va cambiando.
-
-&nbsp;
-
-Gratificante la atención,
+Gratificante la atención
 
 de los hermosos complicados.
 
 &nbsp;
 
-Pero soy yo quien está sentado,
+Procedurales, botellón;
 
-soy quien de toda noche atento
+el lenguaje va cambiando.
 
-se apaga al amanecer,
+&nbsp;
 
-conejo en llanura
+Pero soy yo quien está sentado;
+
+quien de toda noche atento
+
+se apaga al amanecer:
+
+el conejo en llanura,
 
 resistencia de tortuga.
 
@@ -143,7 +97,7 @@ resistencia de tortuga.
 
 Esta imagen idílica
 
-insta mi cuerpo a responder,
+insta mi cuerpo a responder:
 
 entrenar mis articulaciones
 
@@ -153,6 +107,182 @@ en quebradizas ramas secas.
 
 &nbsp;
 
-Pero luz de parto al faro
+Pero luz de parto al faro;
 
-de una mente despierta.
+tengo una mente despierta.
+
+&nbsp;
+
+Mis gafas, puentes de aluminio, 
+
+fríos reflejos remanescentes;
+
+bioluminiscente pantera.
+
+&nbsp;
+
+Taquígrafo y ladrón,
+
+máquina analítica con piernas,
+
+finge fallecer para robarle ideas
+
+a sus propios sueños lúcidos.
+
+&nbsp;
+
+Y al sentarme en el taller
+
+soy mi percepción divina,
+
+gran ejemplo palpable,
+
+centro del ser intocable,
+
+sin dueños, ni mecenas,
+
+sacrificios con hambre
+
+de sudor y trabajo.
+
+&nbsp;
+
+Con mi propia institución,
+
+el material de mi estandarte
+
+no tiene tonos de supremacía,
+
+pues nadie es mejor que nadie,
+
+solo mejor que sí mismo.
+
+&nbsp;
+
+La obsesión de un adicto,
+
+la existencia conmigo;
+
+no es mi objetivo, el placer.
+
+&nbsp;
+
+He de alcanzar 
+
+aquello que añoraba 
+
+en secreto. 
+
+&nbsp;
+
+Serafines, simbolismos y orgullo.
+
+&nbsp;
+
+Luchar no es
+
+un acto de barbarie.
+
+&nbsp;
+
+Mis criaturas,
+
+mis bandadas,
+
+mi atmósfera, 
+
+mis almohadas,
+
+cuánto las aprecio.
+
+&nbsp;
+
+No soy persona
+
+soy tantos mensajes;
+
+arena fina del desierto.
+
+&nbsp;
+
+A callarse la boca;
+
+oreja al suelo.
+
+&nbsp;
+
+A cavar acuíferos,
+
+con todo el cuerpo.
+
+&nbsp;
+
+Una mano dominante en mi nuca,
+
+lamiendo mis fauces;
+
+que las paredes que escuchan.
+
+&nbsp;
+
+No hay piedad,
+
+mi soberbia,
+
+que se entrega
+
+cada que me acaricias,
+
+mi foco e idea fija.
+
+&nbsp;
+
+Herrero de palabras;
+
+mis manos, mis chispas,
+
+qué extrañas tormentas
+
+ciernen las páginas
+
+de mis adentros.
+
+&nbsp;
+
+No me halará el desorden,
+
+si a temperatura ambiente
+
+estoy ardiendo éxtasis.
+
+&nbsp;
+
+Veo mis intenciones;
+
+mis ojos incendios
+
+emergen conciencia.
+
+&nbsp;
+
+Hipnósis dulce;
+
+amor a los retos.
+
+&nbsp;
+
+Océano maniático mareo,
+
+en son de pensamientos
+
+ondulo el insomnio.
+
+&nbsp;
+
+Alucino perspectivas,
+
+mudo y absorto y de rodillas;
+
+promesa ardiente a sonar;
+
+verán mis creaciones andar.
