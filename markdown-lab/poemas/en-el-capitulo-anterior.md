@@ -45,12 +45,6 @@ me voy petrificando.
 
 &nbsp;
 
-Soy agente del caos,
-
-pero ni tan complejo.
-
-&nbsp;
-
 Comienzo por correr
 
 por ventanas sin tamaño.
@@ -68,12 +62,6 @@ Voy por coordenadas;
 no hay frecuencias, freno,
 
 veo tantos cambios.
-
-&nbsp;
-
-Gratificante la atención
-
-de los hermosos complicados.
 
 &nbsp;
 
@@ -123,11 +111,13 @@ bioluminiscente pantera.
 
 Taquígrafo y ladrón,
 
-máquina analítica con piernas,
+máquina analítica,
 
-finge fallecer para robarle ideas
+finjo fallecer 
 
-a sus propios sueños lúcidos.
+para robarme 
+
+mis propias ideas.
 
 &nbsp;
 
@@ -153,9 +143,9 @@ el material de mi estandarte
 
 no tiene tonos de supremacía,
 
-pues nadie es mejor que nadie,
+nadie es mejor que nadie,
 
-solo mejor que sí mismo.
+solo mejor que sí mismos.
 
 &nbsp;
 
@@ -163,7 +153,7 @@ La obsesión de un adicto,
 
 la existencia conmigo;
 
-no es mi objetivo, el placer.
+el placer no es mi objetivo.
 
 &nbsp;
 
@@ -175,25 +165,13 @@ en secreto.
 
 &nbsp;
 
-Serafines, simbolismos y orgullo.
+Serafines, simbolismos.
 
 &nbsp;
 
 Luchar no es
 
 un acto de barbarie.
-
-&nbsp;
-
-Mis criaturas,
-
-mis bandadas,
-
-mi atmósfera, 
-
-mis almohadas,
-
-cuánto las aprecio.
 
 &nbsp;
 
@@ -207,33 +185,35 @@ arena fina del desierto.
 
 A callarse la boca;
 
-oreja al suelo.
+oreja al suelo;
 
-&nbsp;
-
-A cavar acuíferos,
+a cavar acuíferos,
 
 con todo el cuerpo.
 
 &nbsp;
 
-Una mano dominante en mi nuca,
+Una mano dominante
 
-lamiendo mis fauces;
+en mi nuca arisca,
 
-que las paredes que escuchan.
+lamiendo sus fauces,
+
+las paredes escuchan.
 
 &nbsp;
 
 No hay piedad,
 
-mi soberbia,
+mi soberbia y mi foco
 
-que se entrega
+se entregan por caricia.
 
-cada que me acaricias,
+&nbsp;
 
-mi foco e idea fija.
+Hipnósis dulce:
+
+amor a los retos.
 
 &nbsp;
 
@@ -249,11 +229,13 @@ de mis adentros.
 
 &nbsp;
 
-No me halará el desorden,
+No me halará 
 
-si a temperatura ambiente
+el desorden,
 
-estoy ardiendo éxtasis.
+cuando tibio
+
+ardo éxtasis.
 
 &nbsp;
 
@@ -262,12 +244,6 @@ Veo mis intenciones;
 mis ojos incendios
 
 emergen conciencia.
-
-&nbsp;
-
-Hipnósis dulce;
-
-amor a los retos.
 
 &nbsp;
 
