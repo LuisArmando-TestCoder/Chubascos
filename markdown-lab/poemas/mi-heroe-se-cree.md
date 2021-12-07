@@ -7,13 +7,13 @@ Mi héroe se cree
 
 una miga de pan.
 
- 
+&nbsp;
 
 Un narcisista,
 
 insigne sultán.
 
- 
+&nbsp;
 
 Camina disfraz; 
 
@@ -25,7 +25,7 @@ guarda las hojas
 
 voz de afilar.
 
- 
+&nbsp;
 
 No es aceptable
 
@@ -35,7 +35,7 @@ cuánto los amo,
 
 monstruos perfectos.
 
- 
+&nbsp;
 
 Sus retos me gustan;
 
@@ -51,7 +51,7 @@ que estoy tan libre;
 
 cómo me quiero.
 
- 
+&nbsp;
 
 Ojos abiertos
 
@@ -61,7 +61,7 @@ ardo y encrespo,
 
 un escaldar.
 
- 
+&nbsp;
 
 Proliferante,
 
@@ -75,17 +75,17 @@ siempre creciente,
 
 irradia y se expande.
 
- 
+&nbsp;
 
 Yo soy mi héroe,
 
 yo soy tan fuerte.
 
- 
+&nbsp;
 
 Más que una miga de pan.
 
- 
+&nbsp;
 
 Vive su arte,
 
@@ -95,19 +95,19 @@ no se repite
 
 por algoritmia.
 
- 
+&nbsp;
 
 Vivo, 
 
 habilidad.
 
- 
+&nbsp;
 
 Todo el deleite
 
 sea posible.
 
- 
+&nbsp;
 
 Yo soy mi héroe;
 
@@ -115,12 +115,12 @@ soy navegante;
 
 toma tiempo remar. (x2)
 
- 
+&nbsp;
 
 Vida, 
 
 se aprende.
 
- 
+&nbsp;
 
 Más que una miga de pan. (x2)
