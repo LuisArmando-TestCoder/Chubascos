@@ -33,14 +33,17 @@ export default () => {
             <div className='wrapper--color-white wrapper--padding'>
                 <br />
                 <p>
-                    No hay quien me detenga.
+                    No evitarán
                 </p>
                 <br/>
                 <p>
-                    Miro de frente;
+                    que tome el listón
                 </p>
                 <p>
-                    escribo poemas.
+                    para ser y no ser
+                </p>
+                <p>
+                    lo que desee.
                 </p>
             </div>
             <ul className='wrapper--color-white wrapper--padding'>
