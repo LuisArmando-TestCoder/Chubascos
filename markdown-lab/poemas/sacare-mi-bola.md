@@ -11,135 +11,53 @@ de mi plexo solar
 
 y compartiré 
 
-lo que pienso.
+mis pensamientos.
 
-&nbsp;
+ 
 
 El punto es que 
 
 no hay punto.
 
-&nbsp;
+ 
 
-Te libero de 
+Ansío liberarme 
 
-ser correcto.
+de ser correcto.
 
-&nbsp;
+ 
 
-Eres libre de 
+Eres el que eres,
 
-los malos entendidos, 
+símbolo divino.
 
-porque no hay 
+ 
 
-entendidos perfectos.
+No serás lo que digan 
 
-&nbsp;
+ni las voces de adentro 
 
-Te libero de 
+ni las voces de afuera.
 
-ser perfecto.
+ 
 
-&nbsp;
+Las acciones
 
-Estamos tan rodeados 
-
-de absolutismos 
-
-y tan pocos son ciertos.
-
-&nbsp;
-
-Mírame a los ojos 
-
-y recuerda que eres 
-
-el que eres, Dios 
-
-o cualquier símbolo 
-
-que asignes.
-
-&nbsp;
-
-Serás lo que digan 
-
-las voces de adentro 
-
-y/o las voces de afuera, 
-
-o ninguna de ellas.
-
-&nbsp;
-
-Pero no importa 
-
-lo que seas, 
-
-importa lo que hagas.
-
-&nbsp;
-
-Porque tus acciones 
-
-son legados impresos 
+se legan impresas 
 
 a través del tiempo.
 
-&nbsp;
+ 
 
-Virtualidad y/o alucinación, 
+Ni modales, 
 
-eres perfección, 
+ni leyes, 
 
-no estás mal, 
+ni oscuridad, 
 
-ni estás en lo correcto, 
+ni el dinero,  
 
-así que despierta, 
-
-sal de la fila, 
-
-date cuenta 
-
-de que eres capaz, 
-
-así, sin más, 
-
-y continúa 
-
-con una relativa 
-
-ventaja adicional.
-
-&nbsp;
-
-No existen 
-
-los modales, 
-
-ni las leyes, 
-
-ni la oscuridad, 
-
-ni el dinero, 
-
-no por tus 
-
-interpretaciones, 
-
-sino porque 
-
-la realidad 
-
-es la que es 
-
-y será lo que sea, 
-
-independientemente 
-
-de tu opinión, 
+en realidad 
 
 eres libre 
 
@@ -147,12 +65,10 @@ de intentar
 
 lo que quieras.
 
-&nbsp;
+ 
 
 Al final, 
 
 eres y serás 
-
-verdaderamente 
 
 irrepetible.
