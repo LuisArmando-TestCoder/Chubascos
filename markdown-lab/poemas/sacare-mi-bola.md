@@ -33,14 +33,6 @@ símbolo divino.
 
 &nbsp;
 
-No serás lo que digan 
-
-ni las voces de adentro 
-
-ni las voces de afuera.
-
-&nbsp;
-
 Las acciones
 
 se legan impresas 
@@ -49,17 +41,7 @@ a través del tiempo.
 
 &nbsp;
 
-Ni modales, 
-
-ni leyes, 
-
-ni oscuridad, 
-
-ni el dinero,  
-
-en realidad 
-
-eres libre 
+Eres libre 
 
 de intentar 
 

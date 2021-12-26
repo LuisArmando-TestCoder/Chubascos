@@ -205,8 +205,6 @@ mi único pilar.
 
 Te quiero dar mi alma
 
-y te quiero dar aún más,
-
 mantienes mi existencia
 
 mi único pilar.
