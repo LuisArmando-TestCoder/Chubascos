@@ -27,7 +27,7 @@ Soy espacio profundo
 
 en el núcleo interno
 
-de mis pensaminetos.
+de mis pensamientos.
 
 &nbsp;
 
