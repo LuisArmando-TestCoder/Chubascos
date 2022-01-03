@@ -17,9 +17,7 @@ por góndola
 
 en una corriente 
 
-dirigida por diseñadores 
-
-de ciudades y vida, 
+que dirige su vida, 
 
 hay quienes 
 
