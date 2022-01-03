@@ -71,7 +71,7 @@ hagamos lo que hagamos,
 
 seguimos siendo finitos años 
 
-con espírItus enormes, 
+con espíritus enormes, 
 
 con un cierto y relativo ingenuo 
 
