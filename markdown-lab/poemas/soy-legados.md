@@ -13,21 +13,11 @@ y mis trazos.
 
 &nbsp;
 
-No soy nadie,
+Soy el espacio
 
-soy un algo
+en mi núcleo de
 
-en el Todo,
-
-soy quien soy.
-
-&nbsp;
-
-Soy espacio profundo
-
-en el núcleo interno
-
-de mis pensamientos.
+pensamientos.
 
 &nbsp;
 
@@ -41,7 +31,7 @@ mi fantasma.
 
 Soy la figura
 
-de dorado plasma,
+de dorado plasma
 
 que flotando reza.
 
