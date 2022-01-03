@@ -27,9 +27,9 @@ del ascensor del cielo.
 
 Esté con quien esté,
 
-no quiero ser usted,
+no quiero ser
 
-quiero ser el trazo
+sino el trazo
 
 de todos mis intentos.
 
