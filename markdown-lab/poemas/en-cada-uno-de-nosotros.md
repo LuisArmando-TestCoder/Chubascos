@@ -17,7 +17,9 @@ la diferencia es
 
 hasta qué nivel 
 
-estamos conscientes de ello. 
+estamos conscientes 
+
+de ello. 
 
 &nbsp;
 
@@ -31,9 +33,7 @@ existes tú y el te veo.
 
 &nbsp;
 
-Despertaste meditando 
-
-en el reflejo: 
+Despierta meditando: 
 
 soy quien sea que soy
 
@@ -41,13 +41,15 @@ y lo continuaré siendo.
 
 &nbsp;
 
-Y seguimos libres, 
+Seguimos libres, 
 
-la diferencia es 
+la diferencia sigue; 
 
 hasta qué nivel
 
-estamos conscientes.
+estamos conscientes
+
+de ello.
 
 &nbsp;
 
@@ -55,17 +57,23 @@ Me di cuenta que
 
 cada quien tiene 
 
-aquello adentro, 
-
-me di cuenta que 
-
-los amo tanto 
-
-sin haberlos conocido.
+aquello adentro.
 
 &nbsp;
 
-¿Quién no se enamoraría 
+Me di cuenta que 
+
+los amo tanto 
+
+sin haberlos 
+
+conocido.
+
+&nbsp;
+
+¿Quién no se 
+
+enamoraría 
 
 del aquello? 
 
