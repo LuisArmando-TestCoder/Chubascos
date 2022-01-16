@@ -23,13 +23,13 @@ de ello.
 
 &nbsp;
 
-Me di cuenta cuán vivo 
+Me di cuenta cuán vivo
 
 está el gentío;
 
 no existe un ellos, 
 
-existes tú y el te veo.
+existes tú y te veo.
 
 &nbsp;
 
