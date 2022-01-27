@@ -5,7 +5,7 @@ title: "i-see-colored-pieces"
 ---
 I see colored pieces,
 
-a pretty stained glass 
+a pretty stained glass.
 
 &nbsp;
 
@@ -13,7 +13,7 @@ Pretty disastrous jar,
 
 you keep my hope 
 
-within your curses
+within your curses.
 
 &nbsp;
 
@@ -21,13 +21,13 @@ Madness makes art,
 
 the prettier it gets,
 
-the harder the urges
+the harder the urges.
 
 &nbsp;
 
 Broken colored pieces
 
-of a stained glass
+of a stained glass.
 
 &nbsp;
 
@@ -39,4 +39,4 @@ living stained glassy pieces;
 
 see nothing but tons of reasons 
 
-keeping on the pulse
+keeping on the pulse.
