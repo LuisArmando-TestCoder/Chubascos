@@ -99,8 +99,68 @@ wanna make me mine.
 
 Like light up beings,
 
-wanna die in smiles,
+wanna die in smiles.
 
-wish me happy living,
+&nbsp;
 
-'till motherboard collapse.
+Wish me happy living
+
+to the end of times.
+
+&nbsp;
+
+Motherboard collapsing,
+
+I tricked my cells,
+
+to keep pulsing tickings,
+
+if there is no intent.
+
+&nbsp;
+
+I won't walk paths now
+
+but the ones I made.
+
+&nbsp;
+
+I want all the gifters
+
+in every type of lane.
+
+&nbsp;
+
+Loose the self in motion,
+
+go beyond sea waves.
+
+&nbsp;
+
+Make myself completely
+
+taking pride all day.
+
+&nbsp;
+
+This is my laugther,
+
+life for some is gray.
+
+&nbsp;
+
+No need for looking
+
+what I always take,
+
+the chance igniting
+
+is the time to wake,
+
+is the time to stand up,
+
+is the time to walk
+
+to wherever it felt like,
+
+now that is the north.
