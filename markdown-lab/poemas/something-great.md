@@ -103,4 +103,4 @@ wanna die in smiles,
 
 wish me happy living,
 
-'till heart break out.
+'till motherboard collapse.
