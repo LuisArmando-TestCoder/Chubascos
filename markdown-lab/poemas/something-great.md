@@ -21,7 +21,7 @@ I used to be.
 
 I am a turbo sleeping,
 
-getting up from falls.
+getting up from slips.
 
 &nbsp;
 
@@ -45,17 +45,19 @@ to the axis of a life.
 
 Deterministic frames of movies,
 
-in my joy at sight.
+watching live my joy at sight.
 
 &nbsp;
 
-Wanna run all the time
+Wanna run all times
 
 in hyper focus mode.
 
 &nbsp;
 
-Wanna smile looking backwards,
+Wanna smile, 
+
+look backwards,
 
 do it all for long.
 
@@ -63,31 +65,29 @@ do it all for long.
 
 Wanna wake up ashes,
 
-a phoenix and ignite
+phoenix beams of dawn.
 
-the strongest golem
+&nbsp;
+
+Being the strongest golem
 
 with no slaving signs.
 
 &nbsp;
 
-Wanna shine so hard,
+Feel my organs burning;
 
-feel my organs burning.
+wanna run this time,
 
-&nbsp;
+so I keep believing
 
-Wanna run this time
-
-and keep believing:
-
-I'm all this light.
+I am all this light.
 
 &nbsp;
 
 Wanna make time linger
 
-before I die.
+before finally I die.
 
 &nbsp;
 
@@ -97,7 +97,7 @@ wanna make me mine.
 
 &nbsp;
 
-Like light up beings,
+Like crowded light up fairies,
 
 wanna die in smiles.
 
@@ -105,27 +105,23 @@ wanna die in smiles.
 
 Wish me happy living
 
-to the end of times.
+to my end of times.
 
 &nbsp;
 
-Motherboard collapsing,
+I tricked my synapsis,
 
-I tricked my cells,
-
-to keep pulsing tickings,
-
-if there is no intent.
+to keep pulsing ticks.
 
 &nbsp;
 
-I won't walk paths now
+I won't walk paths now once I
 
-but the ones I made.
+made up my north for me.
 
 &nbsp;
 
-I want all the gifters
+I want all the gifters wainting
 
 in every type of lane.
 
@@ -143,24 +139,26 @@ taking pride all day.
 
 &nbsp;
 
-This is my laugther,
+This is all my laugther;
 
 life for some is gray.
 
 &nbsp;
 
-No need for looking
+No need to go for looking
 
 what I always take,
 
-the chance igniting
+the chance is here igniting
 
 is the time to wake,
 
 is the time to stand up,
 
-is the time to walk
+to wherever it hard felt.
 
-to wherever it felt like,
+&nbsp;
 
-now that is the north.
+That is our north now,
+
+is time to walk out now.
