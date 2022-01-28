@@ -51,7 +51,7 @@ wanna play with memories.
 
 Wanna run all the time
 
-'till my heart explodes.
+'till my heart explodes,
 
 'till focus mode.
 
@@ -89,7 +89,7 @@ besides I am dying.
 
 &nbsp;
 
-Wanna take the minutes,
+Wanna take the minutes
 
 and make them linger.
 
