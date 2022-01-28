@@ -109,4 +109,4 @@ untill no breathing.
 
 Wanna die in smiles,
 
-like burning beings.
+like light up beings.
