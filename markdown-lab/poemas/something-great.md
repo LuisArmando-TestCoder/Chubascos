@@ -13,7 +13,7 @@ for a dream.
 
 &nbsp;
 
-Desiring the pulsing fire 
+Missing the pulsing fire 
 
 I used to be.
 
@@ -21,39 +21,37 @@ I used to be.
 
 I am a turbo sleeping,
 
-getting up from slips.
+getting up from falls.
 
 &nbsp;
 
-Missing igniting,
+I miss igniting,
 
-to do it all over again.
-
-&nbsp;
-
-Eternities waking
-
-to the end of times.
+doing it for long.
 
 &nbsp;
 
-Stepping out of the line
+Finites walking
+
+the journey I love.
+
+&nbsp;
+
+Stepping out of line
 
 to the axis of a life.
 
 &nbsp;
 
-Deterministic frames at sight,
+Deterministic frames of movies,
 
-wanna play with memories.
+in my joy at sight.
 
 &nbsp;
 
 Wanna run all the time
 
-'till my heart explodes,
-
-'till focus mode.
+in hyper focus mode.
 
 &nbsp;
 
@@ -63,9 +61,9 @@ do it all for long.
 
 &nbsp;
 
-Wanna wake up sand
+Wanna wake up ashes,
 
-being a phoenix and ignite
+a phoenix and ignite
 
 the strongest golem
 
@@ -83,30 +81,26 @@ Wanna run this time
 
 and keep believing:
 
-I'm all this light;
-
-besides I am dying.
+I'm all this light.
 
 &nbsp;
 
-Wanna take the minutes
+Wanna make time linger
 
-and make them linger.
-
-&nbsp;
-
-To the core of self,
-
-find myself in crossings.
+before I die.
 
 &nbsp;
 
-Wanna make me mine
+To the core, ad astra,
 
-untill no breathing.
+wanna make me mine.
 
 &nbsp;
 
-Wanna die in smiles,
+Like light up beings,
 
-like light up beings.
+wanna die in smiles,
+
+wish me happy living,
+
+'till heart break out.
