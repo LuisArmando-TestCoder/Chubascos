@@ -13,9 +13,7 @@ for a dream.
 
 &nbsp;
 
-My desire is
-
-the pulsing fire 
+Desiring the pulsing fire 
 
 I used to be.
 
@@ -23,43 +21,39 @@ I used to be.
 
 I am a turbo sleeping,
 
-getting up from a slip.
+getting up from slips.
 
 &nbsp;
 
-I want to ignite
+Missing igniting,
 
-and do it all again.
-
-&nbsp;
-
-Igniting to the end of times.
+to do it all over again.
 
 &nbsp;
 
-Waking up from eternities.
+Eternities waking
+
+to the end of times.
 
 &nbsp;
 
-Stepping out of the infinite line.
+Stepping out of the line
+
+to the axis of a life.
 
 &nbsp;
 
-More than the axis of a life,
+Deterministic frames at sight,
 
-than deterministic frames at sight.
-
-&nbsp;
-
-Wanna play with memories
-
-in full focus mode.
+wanna play with memories.
 
 &nbsp;
 
 Wanna run all the time
 
-‘till my heart explodes.
+'till my heart explodes.
+
+'till focus mode.
 
 &nbsp;
 
@@ -69,15 +63,11 @@ do it all for long.
 
 &nbsp;
 
-Wanna wake up sand.
+Wanna wake up sand
 
-&nbsp;
+being a phoenix and ignite
 
-Being a phoenix and ignite.
-
-&nbsp;
-
-The strongest golem
+the strongest golem
 
 with no slaving signs.
 
@@ -89,31 +79,29 @@ feel my organs burning.
 
 &nbsp;
 
-Wanna run tonight
+Wanna run this time
 
 and keep believing:
 
-I am all this light;
+I'm all this light;
 
 besides I am dying.
 
 &nbsp;
 
-Want to take the time,
+Wanna take the minutes,
 
-and make it linger.
-
-&nbsp;
-
-Bore to the core of Earth,
-
-find myself beyond
-
-and cross myself.
+and make them linger.
 
 &nbsp;
 
-Wanna make me mine,
+To the core of self,
+
+find myself in crossings.
+
+&nbsp;
+
+Wanna make me mine
 
 untill no breathing.
 
@@ -121,4 +109,4 @@ untill no breathing.
 
 Wanna die in smiles,
 
-like a burning being.
+like burning beings.
