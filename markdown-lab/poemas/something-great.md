@@ -111,17 +111,17 @@ to my end of times.
 
 I tricked my synapsis,
 
-to keep pulsing ticks.
+to keep pulsing shocks.
 
 &nbsp;
 
-I won't walk paths now once I
+I won't walk other paths now
 
-made up my north for me.
+once I made up my north.
 
 &nbsp;
 
-I want all the gifters wainting
+All the gifts waiting
 
 in every type of lane.
 
@@ -155,7 +155,7 @@ is the time to wake,
 
 is the time to stand up,
 
-to wherever it hard felt.
+to wherever felt like going.
 
 &nbsp;
 
