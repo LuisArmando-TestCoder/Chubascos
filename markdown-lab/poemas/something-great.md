@@ -13,7 +13,7 @@ for a dream.
 
 &nbsp;
 
-Missing the pulse fire 
+Missing the pulsing fire 
 
 I used to be.
 
