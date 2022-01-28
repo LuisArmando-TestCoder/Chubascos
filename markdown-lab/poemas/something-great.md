@@ -7,11 +7,11 @@ Something great;
 
 don't go blinking;
 
-I work till late.
+I tend to work till late.
 
 &nbsp;
 
-I miss the pulsing fire 
+But I miss the pulsing fire 
 
 I used to be.
 
