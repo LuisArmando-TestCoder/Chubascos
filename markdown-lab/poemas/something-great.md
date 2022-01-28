@@ -109,7 +109,7 @@ to my end of times.
 
 &nbsp;
 
-I tricked my synapsis,
+I tricked my synapsis
 
 to keep pulsing shocks.
 
