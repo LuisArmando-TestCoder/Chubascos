@@ -5,7 +5,9 @@ title: "something-great"
 ---
 Something great;
 
-stop blinking.
+don't go blinking;
+
+I work till late.
 
 &nbsp;
 
@@ -15,7 +17,7 @@ I used to be.
 
 &nbsp;
 
-I am a turbo sleeping,
+I'm a turbo sleeping,
 
 getting up from slips.
 
@@ -141,20 +143,24 @@ life for some is gray.
 
 &nbsp;
 
-No need to go for looking
+No need for searching
 
 what I always take,
 
-the chance is here igniting
-
-is the time to wake,
-
-is the time to stand up,
-
-to wherever felt like going.
+the chance igniting.
 
 &nbsp;
 
-That is our north now,
+Is the time to wake,
 
-is time to walk out now.
+is the time to stand up,
+
+to where it felt like going.
+
+&nbsp;
+
+That is our north now;
+
+is time for walking
+
+towards a new dream.
