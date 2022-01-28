@@ -3,17 +3,13 @@ slug: "/poemas/something-great"
 tags: ["desperation"]
 title: "something-great"
 ---
-Something great, 
+Something great;
 
-working until late, 
-
-not blinking 
-
-for a dream.
+stop blinking.
 
 &nbsp;
 
-Missing the pulsing fire 
+I miss the pulsing fire 
 
 I used to be.
 
