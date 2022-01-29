@@ -3,29 +3,27 @@ slug: "/poemas/something-great"
 tags: ["desperation"]
 title: "something-great"
 ---
-Something great;
+Something great
 
-don't go blinking;
+might come 
 
-I tend to work till late.
+between blinks.
 
 &nbsp;
 
-But I miss the pulsing fire 
+I miss the pulsing fire 
 
 I used to be.
 
 &nbsp;
 
-I'm a turbo sleeping,
+A turbo sleeping,
 
 getting up from slips.
 
 &nbsp;
 
-I miss igniting,
-
-doing it for long.
+I miss igniting.
 
 &nbsp;
 
@@ -73,11 +71,7 @@ with no slaving signs.
 
 &nbsp;
 
-Feel my organs burning;
-
-wanna run this time,
-
-so I keep believing
+Feel my organs burning,
 
 I am all this light.
 
@@ -113,54 +107,44 @@ to keep pulsing shocks.
 
 &nbsp;
 
-I won't walk other paths now
+Won't walk more paths now
 
-once I made up my north.
-
-&nbsp;
-
-All the gifts waiting
-
-in every type of lane.
+than my made up norths.
 
 &nbsp;
 
-Loose the self in motion,
+All gifts are waiting
 
-go beyond sea waves.
-
-&nbsp;
-
-Make myself completely
-
-taking pride all day.
+in every destined lane.
 
 &nbsp;
 
-This is all my laugther;
+Loose myself in motion,
 
-life for some is gray.
-
-&nbsp;
-
-No need for searching
-
-what I always take,
-
-the chance igniting.
+way beyond sea waves.
 
 &nbsp;
 
-Is the time to wake,
+My real laugther shows
 
-is the time to stand up,
-
-to where it felt like going.
+as life for some is gray.
 
 &nbsp;
 
-That is our north now;
+No need for searching,
 
-is time for walking
+the chance igniting displays.
 
-towards a new dream.
+&nbsp;
+
+The time to wake up has come,
+
+is the time to stand up
+
+in where it felt most important.
+
+&nbsp;
+
+It is time for hiking
+
+towards a newer dream.
