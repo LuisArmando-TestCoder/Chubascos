@@ -139,12 +139,12 @@ the chance igniting displays.
 
 The time to wake up has come,
 
-is the time to stand up
-
-in where it felt most important.
+stand up and walk out.
 
 &nbsp;
 
-It is time for hiking
+Ought to aim for more now,
 
-towards a newer dream.
+hiking towards newer suns
+
+through daydreaming.
