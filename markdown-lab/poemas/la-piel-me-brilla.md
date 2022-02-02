@@ -5,7 +5,7 @@ title: "la-piel-me-brilla"
 ---
 La piel me brilla; 
 
-sudor y brisas: 
+sudor y brisas;
 
 el Sol me abriga
 
