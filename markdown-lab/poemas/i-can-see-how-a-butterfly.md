@@ -1,7 +1,7 @@
 ---
-slug: "/poemas/i-can-see-like-how-a-butterfly"
+slug: "/poemas/i-can-see-how-a-butterfly"
 tags: ["sad"]
-title: "i-can-see-like-how-a-butterfly"
+title: "i-can-see-how-a-butterfly"
 ---
 I can see how a butterfly
 
