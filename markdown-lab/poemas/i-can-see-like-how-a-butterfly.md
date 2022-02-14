@@ -1,19 +1,19 @@
 ---
-slug: "/poemas/do-not-be-like-the-butterfly"
+slug: "/poemas/i-can-see-like-how-a-butterfly"
 tags: ["sad"]
-title: "do-not-be-like-the-butterfly"
+title: "i-can-see-like-how-a-butterfly"
 ---
-Do not be like the butterfly, 
+I can see like how a butterfly
 
-that mates with pretty colors 
+mates with pretty colors 
 
 and kind of pretty lies.
 
 &nbsp;
 
-Do not be a time waster wasted butterfly, 
+I can see a time waster wasted butterfly, 
 
-ignoring realities as real life passes by.
+ignoring realities as reality passes by.
 
 &nbsp;
 
@@ -25,9 +25,9 @@ as content provides.
 
 &nbsp;
 
-Do not be like the blind
+I can see 
 
-dirty innocent butterfly, 
+a dirty innocent butterfly, 
 
 consumed by its nature,
 
@@ -35,7 +35,7 @@ hallucinations are wild.
 
 &nbsp;
 
-Maintain all your focus 
+Maintain all of your focus 
 
 over all of your pride.
 
@@ -44,12 +44,6 @@ over all of your pride.
 If you change yourself, 
 
 change was part of your life.
-
-&nbsp;
-
-Smile looking forward, 
-
-ignore flying lies.
 
 &nbsp;
 
@@ -63,4 +57,4 @@ Would we win real life?
 
 Surely better than to play 
 
-all of our fake games.
+our made up coping games.
