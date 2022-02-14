@@ -3,7 +3,7 @@ slug: "/poemas/i-can-see-like-how-a-butterfly"
 tags: ["sad"]
 title: "i-can-see-like-how-a-butterfly"
 ---
-I can see like how a butterfly
+I can see how a butterfly
 
 mates with pretty colors 
 
