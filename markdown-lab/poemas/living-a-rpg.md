@@ -135,6 +135,6 @@ Am I experiencing a trance?
 
 &nbsp;
 
-I want so bad
+I want so bad to wake up
 
-to wake up once and for all.
+once and for all.
