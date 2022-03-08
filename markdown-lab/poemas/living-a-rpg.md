@@ -3,7 +3,7 @@ slug: "/poemas/living-a-rpg"
 tags: ["desperation"]
 title: "living-a-rpg"
 ---
-Living a RPG,
+Living a RPG
 
 in a MMO.
 
