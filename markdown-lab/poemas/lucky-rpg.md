@@ -3,15 +3,13 @@ slug: "/poemas/lucky-rpg"
 tags: ["desperation"]
 title: "lucky-rpg"
 ---
-Lucky RPG
-
-didn't choose this MMO.
+Lucky RPG.
 
 &nbsp;
 
 Don't know where I could go
 
-with this creepy face I wear.
+with this creepy face.
 
 &nbsp;
 
@@ -23,9 +21,13 @@ My eyes dry drown again.
 
 &nbsp;
 
-Indifference the one,
+Indifference, the one,
 
 you are killing me.
+
+&nbsp;
+
+Lucky RPG.
 
 &nbsp;
 
@@ -39,9 +41,13 @@ People don't want ugly.
 
 &nbsp;
 
-Indifference the one,
+Indifference, the one,
 
 you are killing me.
+
+&nbsp;
+
+Lucky RPG.
 
 &nbsp;
 
@@ -51,9 +57,9 @@ I'm keeping up my will.
 
 &nbsp;
 
-Might I want to go now,
+Might I want to go,
 
-colors dripping off my skin.
+colors off my skin.
 
 &nbsp;
 
@@ -71,7 +77,7 @@ Is God laughing at my soul?
 
 &nbsp;
 
-Pain metaphysical.
+Damage, metaphysical.
 
 &nbsp;
 
@@ -79,13 +85,13 @@ Can I walk straight again?
 
 &nbsp;
 
-This black skybox shows
+Black skybox that displays
 
 rainbow monochrome.
 
 &nbsp;
 
-Want so bad to wake up 
+Want so bad just to wake up 
 
 from the opposite of love.
 
@@ -99,6 +105,14 @@ But people don't want ugly.
 
 &nbsp;
 
-Indifference the one,
+Indifference, the one.
 
-that 's killing me.
+&nbsp;
+
+Lucky RPG.
+
+&nbsp;
+
+Indifference is the one
+
+that is killing me.
