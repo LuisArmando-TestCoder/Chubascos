@@ -39,7 +39,7 @@ People don't want ugly.
 
 &nbsp;
 
-Indifference the one
+Indifference the one,
 
 you are killing me.
 
@@ -99,6 +99,6 @@ But people don't want ugly.
 
 &nbsp;
 
-Indifference the one
+Indifference the one,
 
 that 's killing me.
