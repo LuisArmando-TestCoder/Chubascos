@@ -53,7 +53,7 @@ Cannot get it right.
 
 &nbsp;
 
-Is God laughing at me?
+Is God laughing at my soul?
 
 &nbsp;
 
