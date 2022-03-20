@@ -71,11 +71,11 @@ que eras mera ilusión.
 
 &nbsp;
 
-Un oásis con perlas 
+Un oásis con perlas tus ojos,
 
-tus ojos se descubren 
+se descubren ante 
 
-ante nuestra observación.
+nuestra observación.
 
 &nbsp;
 
