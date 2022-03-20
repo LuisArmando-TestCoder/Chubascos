@@ -5,7 +5,7 @@ title: "i-see-colored-pieces"
 ---
 I see colored pieces,
 
-a pretty stained glass.
+a pretty stained glass. 
 
 &nbsp;
 
