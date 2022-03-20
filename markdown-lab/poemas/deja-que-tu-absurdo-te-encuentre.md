@@ -87,7 +87,7 @@ golpea el tono de tu clamor.
 
 Un ángel caído, 
 
-desierto el sentido 
+desierto el sentido,
 
 un verdadero amor.
 
@@ -95,7 +95,7 @@ un verdadero amor.
 
 La punta del dedo 
 
-me asomas del alma 
+me asomas del alma,
 
 clamando que muestre 
 
