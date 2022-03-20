@@ -119,9 +119,9 @@ refresco y aroma de olor a Sol.
 
 &nbsp;
 
-Y el aroma a Sol 
+Y el aroma querida,
 
-sacás de ti Marí, 
+de Sol sacás de ti, 
 
 en tu ojos de negro 
 
