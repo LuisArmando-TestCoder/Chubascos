@@ -55,9 +55,7 @@ la imaginación.
 
 &nbsp;
 
-Esos ojos 
-
-rasgados profundos 
+Esos ojos rasgados profundos 
 
 me vuelven más loco 
 
