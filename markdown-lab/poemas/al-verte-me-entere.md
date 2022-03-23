@@ -7,7 +7,7 @@ Al verte me enteré,
 
 ya tu pelo no flotaba, 
 
-cabizbaja tus pupilas 
+cabizbaja, tus pupilas 
 
 no brillaban.
 
