@@ -79,18 +79,20 @@ con tu presencia.
 
 &nbsp;
 
-No temas extinguirte, 
-
-teme olvidar 
-
-cómo encenderte.
-
-&nbsp;
-
 Si estás envuelta 
 
-por oscuridad
+por la oscuridad
 
 es porque existes 
 
-para iluminarla.
+para superonerle
+
+tu luminiscencia.
+
+&nbsp;
+
+No temas extinguirte, 
+
+teme olvidar el cómo
+
+volver a encenderte.
