@@ -85,7 +85,7 @@ por la oscuridad
 
 es porque existes 
 
-para superonerle
+para superponerle
 
 tu luminiscencia.
 
