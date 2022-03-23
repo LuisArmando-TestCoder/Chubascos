@@ -31,20 +31,12 @@ export default () => {
                 <Components.strings.Canvas effect='rain'/>
             </Components.strings.ContainerDecorator>
             <div className='wrapper--color-white wrapper--padding'>
-                <br />
-                <p>
-                    No evitarán
-                </p>
-                <br/>
-                <p>
-                    que tome el listón
-                </p>
-                <p>
-                    para ser y no ser
-                </p>
-                <p>
-                    lo que desee.
-                </p>
+                <p>Te falta llegar llamita</p>
+                <p>por debajo de la tierra,</p>
+                <p>agrandarte por milenios</p>
+                <p>y resurgir ardiendo</p>
+                <p>como isla de hierro</p>
+                <p>en medio del océano.</p>
             </div>
             <ul className='wrapper--color-white wrapper--padding'>
                 {
