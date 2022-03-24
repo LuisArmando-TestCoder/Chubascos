@@ -137,19 +137,23 @@ ya no son fluidos,
 
 &nbsp;
 
-Siempre lo pregunto, 
-
-¿será que es tan usual
+¿Será que es tan usual
 
 que tanto de este mundo 
 
 se camufle con los muertos?
 
+&nbsp;
+
 ¿Será que es tan normal?
+
+&nbsp;
 
 ¿Será que entendí mal?
 
-¿que las reglas de este juego 
+&nbsp;
+
+¿Las reglas de este juego 
 
 incluían no pensar?
 
@@ -159,27 +163,13 @@ Veo su estado primigenio.
 
 &nbsp;
 
-¿Será que es tan normal?
+El código los hace
 
-¿Será que entendí mal?
+tan neuróticos e interesados;
 
-¿que las reglas de este juego 
+tan morbosos y violentos;
 
-incluían no pensar?
-
-&nbsp;
-
-Qué injusticia para tantos
-
-que el código genético
-
-los haga tan neuróticos,
-
-tan morbosos y violentos,
-
-tan miedosos y discretos,
-
-tan interesados.
+tan miedosos y discretos.
 
 &nbsp;
 

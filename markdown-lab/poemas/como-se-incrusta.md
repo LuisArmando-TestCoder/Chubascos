@@ -9,9 +9,11 @@ un tinte rojo
 
 entre el perímetro 
 
-de mis labios, 
+de mis labios.
 
-en mis recuerdos
+&nbsp;
+
+En mis recuerdos
 
 se cosen contornos.
 

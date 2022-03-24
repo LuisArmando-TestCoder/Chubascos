@@ -47,6 +47,6 @@ Soy un trago
 
 de alucinación
 
-que se toma
+que ingiere
 
 su experiencia.

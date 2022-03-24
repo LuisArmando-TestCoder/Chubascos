@@ -39,7 +39,7 @@ de nuestro parecido.
 
 Mientras captas mi asomo 
 
-al ánima que averiguo,
+al ánima que avisto,
 
 siempre descubres el mecanismo
 

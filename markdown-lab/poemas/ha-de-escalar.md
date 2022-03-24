@@ -21,21 +21,7 @@ que dirige su vida,
 
 hay quienes 
 
-no tienen pueblo, 
-
-seres celestes 
-
-que a la fuerza 
-
-tienen que encenderse.
-
-&nbsp;
-
-Personas estrella, 
-
-iluminan la oscuridad 
-
-que les rodea.
+no tienen pueblo.
 
 &nbsp;
 

@@ -1,23 +1,23 @@
 ---
-slug: "/poemas/al-verte-me-entere"
-tags: ["sad"]
-title: "al-verte-me-enteré"
+slug: "/poemas/al-verte-desecha"
+tags: ["normal"]
+title: "al-verte-desecha"
 ---
-Al verte me enteré, 
+Al verte desecha
 
-ya tu pelo no flotaba, 
+en una albina
 
-cabizbaja, tus pupilas 
+gigante acolchada,
 
-no brillaban.
+me enteré.
 
 &nbsp;
 
-Acostada en una albina 
+Tu pelo ya no flotaba.
 
-gigante acolchada
+&nbsp;
 
-te preguntas si 
+Preguntas si 
 
 queda esperanza 
 
@@ -71,28 +71,18 @@ tus ocurrencias.
 
 &nbsp;
 
-Las profundidades 
+No temas extinguirte,
 
-se iluminan 
+si eres inflamable
 
-con tu presencia.
+puedes prenderte de nuevo.
 
 &nbsp;
 
 Si estás envuelta 
 
-por la oscuridad
+por la oscuridad,
 
-es porque existes 
-
-para superponerle
+puedes superponerle
 
 tu luminiscencia.
-
-&nbsp;
-
-No temas extinguirte, 
-
-teme olvidar el cómo
-
-volver a encenderte.
