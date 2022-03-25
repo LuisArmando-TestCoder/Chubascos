@@ -65,9 +65,11 @@ me di cuenta.
 
 Tenía que ordenar mi vida 
 
-y tenía que disfrutarla;
+y tenía que disfrutarla.
 
-siempre lograba la hazaña 
+&nbsp;
+
+Siempre lograba la hazaña 
 
 de que mis aficiones 
 
