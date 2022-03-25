@@ -49,15 +49,15 @@ un libro secretísimo
 
 de versos basura, 
 
-un libro abandonado con
+un libro abandonado,
 
 doscientas de páginas 
 
 de mejora personal 
 
-y otro en proceso 
+y otro en proceso con
 
-con cuatrocientas diecinueve,
+cuatrocientas diecinueve,
 
 me di cuenta.
 
@@ -105,7 +105,9 @@ así que se jodan
 
 todos los mamadores 
 
-literarios de estilos pasajeros.
+literarios de 
+
+estilos pasajeros.
 
 &nbsp;
 
@@ -151,9 +153,11 @@ aunque realmente no lo sé,
 
 hace mucho tiempo 
 
-que no nos vemos, 
+que no nos vemos.
 
-pero recuerdo vívidamente, 
+&nbsp;
+
+Recuerdo vívidamente, 
 
 aceptaste a mi niño interno, 
 
@@ -161,9 +165,13 @@ y yo fui un pendejo,
 
 te transformé en fantasma, 
 
-así que entiendo y lo acepto, 
+así que entiendo 
 
-fue mi culpa y lo siento.
+y lo acepto, 
+
+fue mi culpa 
+
+y lo siento.
 
 &nbsp;
 
@@ -197,17 +205,17 @@ o darte una pista
 
 de lo que está 
 
-a punto de pasarme.
+a punto de pasarme,
 
 y además no quiero,
 
-no quiero olvidarlos. 
+no, no quiero olvidarlos. 
 
 &nbsp;
 
 Me gusta pelear y 
 
-he encontrado disciplina
+encontré disciplina
 
 y orden en ello.
 
@@ -215,7 +223,9 @@ y orden en ello.
 
 Me gusta hablar, 
 
-entendí desde el principio, 
+entendí desde 
+
+el principio, 
 
 gracias a ello,
 
@@ -239,9 +249,13 @@ en mi consejero.
 
 Me gusta programar, 
 
-no le tengo que pagar a otro 
+no le tengo que 
 
-para cumplir mis sueños.
+pagar a otro 
+
+para cumplir 
+
+mis sueños.
 
 &nbsp;
 
@@ -255,9 +269,9 @@ el disfrute pero no
 
 la fijación que le tenía 
 
-mi abuelo el don Juan, 
+mi abuelo, el don Juan, 
 
-que por cierto 
+que por cierto,
 
 no se llama Juan.
 
@@ -279,15 +293,17 @@ o un poco mucho
 
 o más o menos, 
 
-y aún mejor
+y aún mejor si 
 
-si es acerca del poema, 
+es acerca del poema, 
 
 porque ya sabes, 
 
 habemos muchos 
 
-con un déficit de atención.
+con un déficit 
+
+de atención.
 
 &nbsp;
 
@@ -297,7 +313,7 @@ son los puentes
 
 para recordar 
 
-las diligencias mentales 
+diligencias mentales 
 
 pendientes.
 
@@ -329,7 +345,9 @@ y cuando cambié de teléfono
 
 corté la tarjeta SIM 
 
-para ver si se podía pasar 
+para ver si 
+
+se podía pasar 
 
 de Android a Iphone, 
 
@@ -349,7 +367,9 @@ durar quince días
 
 duró lo que una tortura 
 
-en un círculo del infierno, 
+en un círculo 
+
+del infierno, 
 
 en fin, quiero decirte 
 
@@ -363,7 +383,9 @@ Por eso con esto
 
 prosigo a decirte:
 
-si supieras lo que estoy 
+si supieras 
+
+lo que estoy 
 
 a punto de hacer, 
 
