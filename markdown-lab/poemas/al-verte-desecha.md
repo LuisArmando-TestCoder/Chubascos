@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/al-verte-desecha"
-tags: ["normal"]
+tags: ["sad"]
 title: "al-verte-desecha"
 ---
 Al verte desecha
