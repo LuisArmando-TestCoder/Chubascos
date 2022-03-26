@@ -81,9 +81,9 @@ Nací tendiente a dar
 
 sin pedir a cambio 
 
-en un mundo 
+en un mundo que quita 
 
-que quita sospechando.
+sospechando.
 
 &nbsp;
 
@@ -117,11 +117,9 @@ No soy el único inseguro
 
 que repite el ciclo, 
 
-como muchos, 
+como muchos, no quiero 
 
-no quiero que 
-
-se me caiga aquello 
+que se me caiga aquello 
 
 frágil y precioso.
 
