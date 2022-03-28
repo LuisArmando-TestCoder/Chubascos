@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/huele-a-vida-real"
-tags: ["love"]
+tags: ["normal"]
 title: "huele-a-vida-real"
 ---
 Huele a vida real.
@@ -9,17 +9,15 @@ Huele a vida real.
 
 Desearía respirar 
 
-entre las fantasías
+entre fantasías que
 
-que salen de tu nuca.
+emergen de tu nuca.
 
 &nbsp;
 
-Se supone que 
+Se supone que
 
-me concentre en 
-
-seguir creando 
+me concentre,
 
 pero tus imágenes 
 
@@ -33,11 +31,15 @@ e ir y tomarte de los hombros.
 
 &nbsp;
 
-Tengo que controlarme 
+Quiero pensar que sincronizo
 
-y mantener la correa
+mis pasos con los tuyos.
 
-que me está ahogando.
+&nbsp;
+
+Y tengo que controlarme;
+
+mantener la compostura.
 
 &nbsp;
 
@@ -49,15 +51,15 @@ no será siempre mi amo.
 
 Confío en ser de aquellos 
 
-perros creativos e impredecibles.
+impredecibles canes creativos.
 
 &nbsp;
 
-Quizá confío en mentiras.
+Pero me estoy ahogando.
 
 &nbsp;
 
-Por ahora, solo puedo decirle 
+Por ahora solo puedo decirle 
 
 a mis espejismos que bailen
 
@@ -65,13 +67,7 @@ como en mis recuerdos.
 
 &nbsp;
 
-El paisaje es hermoso, 
-
-donde me concentro.
-
-&nbsp;
-
-Daría mi voz 
+Pero daría mi voz 
 
 por acariciarte 
 
@@ -79,7 +75,7 @@ entre silencio.
 
 &nbsp;
 
-Daría mis ojos
+Y daría mis ojos
 
 por apagar la luz
 
@@ -87,7 +83,7 @@ estando juntos.
 
 &nbsp;
 
-Daría mi tacto
+Y daría mi tacto
 
 por el tuyo.
 
@@ -95,49 +91,19 @@ por el tuyo.
 
 Gracias, pasado yo, 
 
-por haberte abalanzado 
+por haberte abalanzado,
 
-y robarle provisiones
+habiéndome dado
 
-de un par de besos.
+provisiones de besos.
 
 &nbsp;
 
-Me refugio sonriendo 
-
-entre la asfixia.
+Sonrio entre la asfixia.
 
 &nbsp;
 
 Escogí este arresto. 
-
-&nbsp;
-
-Un retiro voluntario 
-
-que no dejaré pasar.
-
-&nbsp;
-
-Estoy decidido 
-
-a mantener 
-
-mi compostura.
-
-&nbsp;
-
-Aunque me disloque los brazos
-
-seguiré empujando.
-
-&nbsp;
-
-Aunque me bañe en ácido, 
-
-mis pedazos de ánima 
-
-seguirán avanzando.
 
 &nbsp;
 
@@ -149,24 +115,22 @@ fiel a mí mismo.
 
 &nbsp;
 
-Te amo con locura
+Te quiero con locura
 
-pero ya estaba loco
-
-desde hace tiempo. 
+pero a esta ya la conozco. 
 
 &nbsp;
 
-Tempo es para continuar
-
-causando incandescencias.
-
-&nbsp;
-
-Es tiempo de silenciar 
+Regresaré a silenciar 
 
 los estímulos externos.
 
 &nbsp;
 
-Seguiré desaparecido.
+Llegó el momento
+
+para encandecer.
+
+&nbsp;
+
+Seguiré oculto.
