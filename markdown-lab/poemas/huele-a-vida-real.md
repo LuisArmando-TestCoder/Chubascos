@@ -7,27 +7,35 @@ Huele a vida real.
 
 &nbsp;
 
-Desearía respirar 
+Desearía respirar
 
-entre fantasías que
+las fantasías
 
-emergen de tu nuca.
+entre deltas
 
-&nbsp;
-
-Se supone que
-
-me concentre,
-
-pero tus imágenes 
-
-me cortocircuitan.
+de escalenos.
 
 &nbsp;
 
-Quiero mi laptop en pedazos 
+Experimentando
 
-e ir y tomarte de los hombros.
+con tus muecas.
+
+&nbsp;
+
+Se supone, me concentre.
+
+&nbsp;
+
+Me cortocircuito
+
+con memorias.
+
+&nbsp;
+
+Quiero mi laptop en pedazos; 
+
+irme y tomarte de los hombros.
 
 &nbsp;
 
@@ -37,37 +45,35 @@ mis pasos con los tuyos.
 
 &nbsp;
 
-Y tengo que controlarme;
-
-mantener la compostura.
+Debo mantener mi compostura.
 
 &nbsp;
 
-Confío en que el tiempo
+Confío liberarme 
 
-no será siempre mi amo.
+de mi amos 
 
-&nbsp;
-
-Confío en ser de aquellos 
-
-impredecibles canes creativos.
+con el tiempo.
 
 &nbsp;
 
-Pero me estoy ahogando.
+Confío en ser un perro creativo.
 
 &nbsp;
 
-Por ahora solo puedo decirle 
-
-a mis espejismos que bailen
-
-como en mis recuerdos.
+Siento que me ahogo.
 
 &nbsp;
 
-Pero daría mi voz 
+Ahora solo digo 
+
+a mis espejismos:
+
+bailen mis recuerdos.
+
+&nbsp;
+
+Daría mi voz 
 
 por acariciarte 
 
@@ -75,27 +81,17 @@ entre silencio.
 
 &nbsp;
 
-Y daría mis ojos
-
-por apagar la luz
-
-estando juntos.
-
-&nbsp;
-
-Y daría mi tacto
+Daría mi tacto
 
 por el tuyo.
 
 &nbsp;
 
-Gracias, pasado yo, 
+Yo del pasado, gracias,
 
-por haberte abalanzado,
+por haberme regalado
 
-habiéndome dado
-
-provisiones de besos.
+con tu boca provisiones.
 
 &nbsp;
 
@@ -103,34 +99,32 @@ Sonrio entre la asfixia.
 
 &nbsp;
 
-Escogí este arresto. 
+Mi arresto es voluntario. 
 
 &nbsp;
 
-Aunque te amo, 
+Sigo fiel a mí mismo
 
-me mantendré
-
-fiel a mí mismo.
+por mucho que te amo.
 
 &nbsp;
 
 Te quiero con locura
 
-pero a esta ya la conozco. 
+pero a esta la conozco. 
 
 &nbsp;
 
-Regresaré a silenciar 
+Regreso a silenciar 
 
 los estímulos externos.
 
 &nbsp;
 
-Llegó el momento
-
-para encandecer.
+Es tiempo para encandecer.
 
 &nbsp;
 
-Seguiré oculto.
+Desaparecido seguiré,
+
+iluminado pero oculto.
