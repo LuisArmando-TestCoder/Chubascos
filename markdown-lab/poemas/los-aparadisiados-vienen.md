@@ -45,11 +45,7 @@ y continúan sacudiéndose.
 
 No venden paz, no venden;
 
-no se venden ni a sí mismos;
-
-no venden la plenitud pues
-
-ni necesitan venderse.
+no se venden ni a sí mismos.
 
 &nbsp;
 
