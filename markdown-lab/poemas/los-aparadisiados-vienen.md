@@ -185,4 +185,8 @@ solo son sus movimientos.
 
 &nbsp;
 
-A veces somos aparadisiados.
+A veces somos aparadisiados,
+
+cuando todo tiene sentido,
+
+porque no necesita tenerlo.
