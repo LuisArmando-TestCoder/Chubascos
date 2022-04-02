@@ -25,7 +25,7 @@ lo has sido.
 
 &nbsp;
 
-El abismo que te persigue
+El pozo que te persigue
 
 es un portal hacia mundos;
 
@@ -35,9 +35,7 @@ aparece ante exploradores.
 
 Estira tus dedos 
 
-entre el vacío;
-
-te llama el pozo.
+entre el vacío.
 
 &nbsp;
 
