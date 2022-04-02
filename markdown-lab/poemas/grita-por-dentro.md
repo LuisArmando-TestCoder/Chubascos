@@ -73,7 +73,9 @@ porque existir significa
 
 que el sufrimiento
 
-está garantizado.
+está garantizado,
+
+es parte de.
 
 &nbsp;
 
@@ -89,4 +91,4 @@ y vivir, la razón por la que existe la muerte,
 
 pero tanto la vida como los deseos
 
-son preciosos e invaluables.
+son preciosos e invaluables; sostenlos.
