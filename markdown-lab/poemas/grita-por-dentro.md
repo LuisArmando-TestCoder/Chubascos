@@ -73,15 +73,21 @@ porque existir significa
 
 que el sufrimiento
 
-está garantizado,
+está garantizado.
 
-es parte de.
+&nbsp;
+
+No hay un por qué para el sufrir,
+
+solo está en medio de la vida.
 
 &nbsp;
 
 El hambre sazona;
 
-no la evites, úsala.
+no la evites, úsala,
+
+que sabrá a gloria.
 
 &nbsp;
 
