@@ -86,17 +86,3 @@ so I keep walking a couple lot more
 of sad brilliant decades without you,
 
 cuz hearts start to die at twenty one.
-
-&nbsp;
-
-I am becoming cristal,
-
-could I break the glass
-
-and move and take a bottle
-
-and break it into destiny's head
-
-and leave it unconscious
-
-and out of my story?
