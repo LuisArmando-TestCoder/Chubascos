@@ -33,7 +33,7 @@ aparece ante exploradores.
 
 &nbsp;
 
-Estira tus dedos 
+Estira tus dedos
 
 entre el vacío.
 

@@ -5,13 +5,13 @@ title: "something-great"
 ---
 Something great
 
-might come 
+might come
 
 between blinks.
 
 &nbsp;
 
-I miss the pulsing fire 
+I miss the pulsing fire
 
 I used to be.
 
@@ -51,7 +51,7 @@ in hyper focus mode.
 
 &nbsp;
 
-Wanna smile, 
+Wanna smile,
 
 look backwards,
 

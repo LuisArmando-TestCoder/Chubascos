@@ -3,19 +3,19 @@ slug: "/poemas/si-supieras"
 tags: ["love"]
 title: "si-supieras"
 ---
-Si supieras 
+Si supieras
 
-lo que está 
+lo que está
 
 a punto de pasar.
 
 &nbsp;
 
-Te escribo, 
+Te escribo,
 
-mi fantasma, 
+mi fantasma,
 
-porque no tengo 
+porque no tengo
 
 con quién conversar;
 
@@ -23,37 +23,37 @@ más o menos.
 
 &nbsp;
 
-Pero de veras, 
+Pero de veras,
 
-si vieras la persona 
+si vieras la persona
 
-que ha surgido de 
+que ha surgido de
 
-todos mis intentos, 
+todos mis intentos,
 
-bailarías arrugando 
+bailarías arrugando
 
 la cara sonriendo.
 
 &nbsp;
 
-Estuve en busca de 
+Estuve en busca de
 
-una trinidad de reglas, 
+una trinidad de reglas,
 
-y después de dos años, 
+y después de dos años,
 
-un sitio lleno de poemas, 
+un sitio lleno de poemas,
 
-un libro secretísimo 
+un libro secretísimo
 
-de versos basura, 
+de versos basura,
 
 un libro abandonado,
 
-doscientas de páginas 
+doscientas de páginas
 
-de mejora personal 
+de mejora personal
 
 y otro en proceso con
 
@@ -63,29 +63,29 @@ me di cuenta.
 
 &nbsp;
 
-Tenía que ordenar mi vida 
+Tenía que ordenar mi vida
 
 y tenía que disfrutarla.
 
 &nbsp;
 
-Siempre lograba la hazaña 
+Siempre lograba la hazaña
 
-de que mis aficiones 
+de que mis aficiones
 
-transicionaran hasta 
+transicionaran hasta
 
 convertirse en obligaciones.
 
 &nbsp;
 
-¡Tengo que ser exitoso! —Me gritaba. 
+¡Tengo que ser exitoso! —Me gritaba.
 
 Pero bueno, ya pasó.
 
 &nbsp;
 
-Es tiempo de 
+Es tiempo de
 
 ordenar mi vida
 
@@ -95,31 +95,31 @@ para disfrutarla.
 
 &nbsp;
 
-Me gusta escribir 
+Me gusta escribir
 
-de esta manera, 
+de esta manera,
 
 en cualquier momento
 
-piso el freno y muero, 
+piso el freno y muero,
 
-así que se jodan 
+así que se jodan
 
-todos los mamadores 
+todos los mamadores
 
-literarios de 
+literarios de
 
 estilos pasajeros.
 
 &nbsp;
 
-Siento mis letras 
+Siento mis letras
 
-más fuertes que antes, 
+más fuertes que antes,
 
-menos etéreas, 
+menos etéreas,
 
-más sólidas, 
+más sólidas,
 
 como si de mí
 
@@ -127,95 +127,95 @@ fueran parte.
 
 &nbsp;
 
-Si supieras 
+Si supieras
 
-lo que está 
+lo que está
 
 a punto de ocurrir.
 
 &nbsp;
 
-Si vieras la persona 
+Si vieras la persona
 
-en la que me he convertido, 
+en la que me he convertido,
 
-desearía que me vieras, 
+desearía que me vieras,
 
-porque desearía verte, 
+porque desearía verte,
 
-desearía tomarte y besarte 
+desearía tomarte y besarte
 
-aunque estés casada, 
+aunque estés casada,
 
-aunque tu hijo me vea, 
+aunque tu hijo me vea,
 
-aunque realmente no lo sé, 
+aunque realmente no lo sé,
 
-¿tienes un bebé?, 
+¿tienes un bebé?,
 
-hace mucho tiempo 
+hace mucho tiempo
 
 que no nos vemos.
 
 &nbsp;
 
-Recuerdo vívidamente, 
+Recuerdo vívidamente,
 
-aceptaste a mi niño interno, 
+aceptaste a mi niño interno,
 
 y yo fui un pendejo,
 
-te transformé en fantasma, 
+te transformé en fantasma,
 
-así que entiendo 
+así que entiendo
 
-y lo acepto, 
+y lo acepto,
 
-fue mi culpa 
+fue mi culpa
 
 y lo siento.
 
 &nbsp;
 
-Alguien diría que 
+Alguien diría que
 
-en este momento 
+en este momento
 
-no tengo norte, 
+no tengo norte,
 
-pero en realidad, 
+pero en realidad,
 
-siento que me encuentro, 
+siento que me encuentro,
 
-me percibo más real; 
+me percibo más real;
 
-solo tenía que aplicarlo, 
+solo tenía que aplicarlo,
 
-escribir como si 
+escribir como si
 
 me valiera un carajo.
 
 &nbsp;
 
-Te voy a sumarizar 
+Te voy a sumarizar
 
-mis talentos, 
+mis talentos,
 
-quiero spoilearte 
+quiero spoilearte
 
-o darte una pista 
+o darte una pista
 
-de lo que está 
+de lo que está
 
 a punto de pasarme,
 
 y además no quiero,
 
-no, no quiero olvidarlos. 
+no, no quiero olvidarlos.
 
 &nbsp;
 
-Me gusta pelear y 
+Me gusta pelear y
 
 encontré disciplina
 
@@ -223,55 +223,55 @@ y orden en ello.
 
 &nbsp;
 
-Me gusta hablar, 
+Me gusta hablar,
 
-entendí desde 
+entendí desde
 
-el principio, 
+el principio,
 
 gracias a ello,
 
-lo que verdaderamente 
+lo que verdaderamente
 
 significa talento.
 
 &nbsp;
 
-Me gusta escribir, 
+Me gusta escribir,
 
-se siente como si 
+se siente como si
 
-dejara fluir mi mente, 
+dejara fluir mi mente,
 
-me convierto 
+me convierto
 
 en mi consejero.
 
 &nbsp;
 
-Me gusta programar, 
+Me gusta programar,
 
-no le tengo que 
+no le tengo que
 
-pagar a otro 
+pagar a otro
 
-para cumplir 
+para cumplir
 
 mis sueños.
 
 &nbsp;
 
-Me gusta bailar, 
+Me gusta bailar,
 
-pero es un secreto 
+pero es un secreto
 
-del cuál solo saqué 
+del cuál solo saqué
 
-el disfrute pero no 
+el disfrute pero no
 
-la fijación que le tenía 
+la fijación que le tenía
 
-mi abuelo, el don Juan, 
+mi abuelo, el don Juan,
 
 que por cierto,
 
@@ -279,53 +279,53 @@ no se llama Juan.
 
 &nbsp;
 
-Me gusta recitar poemas, 
+Me gusta recitar poemas,
 
-pero me gusta más 
+pero me gusta más
 
-externar las venas 
+externar las venas
 
-en forma de versos 
+en forma de versos
 
-y que alguien me lea 
+y que alguien me lea
 
-y piense un poquito 
+y piense un poquito
 
-o un poco mucho 
+o un poco mucho
 
-o más o menos, 
+o más o menos,
 
-y aún mejor si 
+y aún mejor si
 
-es acerca del poema, 
+es acerca del poema,
 
-porque ya sabes, 
+porque ya sabes,
 
-habemos muchos 
+habemos muchos
 
-con un déficit 
+con un déficit
 
 de atención.
 
 &nbsp;
 
-A veces los poemas 
+A veces los poemas
 
-son los puentes 
+son los puentes
 
-para recordar 
+para recordar
 
-diligencias mentales 
+diligencias mentales
 
 pendientes.
 
 &nbsp;
 
-Cómo me gustaría 
+Cómo me gustaría
 
-que me leyeras, 
+que me leyeras,
 
-cómo me gustaría 
+cómo me gustaría
 
 que me encontraras
 
@@ -333,62 +333,62 @@ de nuevo.
 
 &nbsp;
 
-De verdad, 
+De verdad,
 
-mi fantasma, 
+mi fantasma,
 
-me gustas mucho, 
+me gustas mucho,
 
-pero te me perdiste 
+pero te me perdiste
 
-entre el gentío 
+entre el gentío
 
-y cuando cambié de teléfono 
+y cuando cambié de teléfono
 
-corté la tarjeta SIM 
+corté la tarjeta SIM
 
-para ver si 
+para ver si
 
-se podía pasar 
+se podía pasar
 
-de Android a Iphone, 
+de Android a Iphone,
 
-y no mames, 
+y no mames,
 
-ahora que lo pienso 
+ahora que lo pienso
 
-eso fue muy pendejo 
+eso fue muy pendejo
 
-y estaba en medio 
+y estaba en medio
 
-de una pandemia 
+de una pandemia
 
-que en vez de 
+que en vez de
 
-durar quince días 
+durar quince días
 
-duró lo que una tortura 
+duró lo que una tortura
 
-en un círculo 
+en un círculo
 
-del infierno, 
+del infierno,
 
-en fin, quiero decirte 
+en fin, quiero decirte
 
-que se me hace 
+que se me hace
 
 complicado desquererte.
 
 &nbsp;
 
-Por eso con esto 
+Por eso con esto
 
 prosigo a decirte:
 
-si supieras 
+si supieras
 
-lo que estoy 
+lo que estoy
 
-a punto de hacer, 
+a punto de hacer,
 
 tal vez te divise.

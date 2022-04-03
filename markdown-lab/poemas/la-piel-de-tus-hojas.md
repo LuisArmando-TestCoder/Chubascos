@@ -3,17 +3,17 @@ slug: "/poemas/la-piel-de-tus-hojas"
 tags: ["love"]
 title: "la-piel-de-tus-hojas"
 ---
-La piel de tus hojas 
+La piel de tus hojas
 
 tomaron mi vista,
 
-la diosa de verde 
+la diosa de verde
 
 más tierna que vi.
 
 &nbsp;
 
-En tu vista preciosa, 
+En tu vista preciosa,
 
 oh diosa, me fuí.
 
@@ -21,19 +21,19 @@ oh diosa, me fuí.
 
 Tatuajes,
 
-piel tersa, 
+piel tersa,
 
 mensajes.
 
 &nbsp;
 
-Druida y Mielikki, 
+Druida y Mielikki,
 
 dos hijos de ti.
 
 &nbsp;
 
-Diosa del bosque, 
+Diosa del bosque,
 
 hombre del Sol,
 
@@ -51,9 +51,9 @@ Fuerza inevitable.
 
 &nbsp;
 
-Abro mi pecho 
+Abro mi pecho
 
-y tu pecho 
+y tu pecho
 
 se abre hacia mí.
 
@@ -79,7 +79,7 @@ El druida apasionado.
 
 &nbsp;
 
-El druida y la diosa 
+El druida y la diosa
 
 se juntan y se quieren,
 

@@ -27,13 +27,13 @@ for a little while.
 
 We will be throwing out
 
-the norms the fuck out, 
+the norms the fuck out,
 
 my words in your mouth.
 
 &nbsp;
 
-Short notice 
+Short notice
 
 feels too long.
 
@@ -51,7 +51,7 @@ feels like a storm.
 
 &nbsp;
 
-We are like a sun, 
+We are like a sun,
 
 inevitable warm.
 
@@ -69,17 +69,17 @@ what love is as we act?
 
 &nbsp;
 
-We are alone 
+We are alone
 
 with our touch,
 
-let's take care 
+let's take care
 
 of ourselves.
 
 &nbsp;
 
-Let's waltz along 
+Let's waltz along
 
 our mistress heart.
 

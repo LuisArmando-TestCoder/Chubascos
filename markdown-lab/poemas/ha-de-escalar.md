@@ -3,88 +3,88 @@ slug: "/poemas/ha-de-escalar"
 tags: ["normal"]
 title: "ha-de-escalar"
 ---
-Ha de escalar 
+Ha de escalar
 
-el que camine 
+el que camine
 
-y remar fuerte 
+y remar fuerte
 
-quien navegue, 
+quien navegue,
 
-no todos pasean 
+no todos pasean
 
-por góndola 
+por góndola
 
-en una corriente 
+en una corriente
 
-que dirige su vida, 
+que dirige su vida,
 
-hay quienes 
+hay quienes
 
 no tienen pueblo.
 
 &nbsp;
 
-Hay cuales antorchas, 
+Hay cuales antorchas,
 
-se inmolan; 
+se inmolan;
 
-trazan por la nieve 
+trazan por la nieve
 
-un río mientras crean 
+un río mientras crean
 
-surcos desde la base 
+surcos desde la base
 
-hasta la cima 
+hasta la cima
 
-del empinado 
+del empinado
 
-farol de su objetivo, 
+farol de su objetivo,
 
-cual usa el aura del Sol 
+cual usa el aura del Sol
 
-para nosotros, 
+para nosotros,
 
 los navíos.
 
 &nbsp;
 
-Hagamos lo que hagamos, 
+Hagamos lo que hagamos,
 
-seguimos siendo almas jóvenes, 
+seguimos siendo almas jóvenes,
 
-hagamos lo que hagamos, 
+hagamos lo que hagamos,
 
-seguimos siendo finitos años 
+seguimos siendo finitos años
 
-con espíritus enormes, 
+con espíritus enormes,
 
-con un cierto y relativo ingenuo 
+con un cierto y relativo ingenuo
 
-y por astutos que seamos, 
+y por astutos que seamos,
 
-nos seguimos revolcando; 
+nos seguimos revolcando;
 
-nos dice el cuerpo: 
+nos dice el cuerpo:
 
-lleno del polvo de 
+lleno del polvo de
 
-arena fría, me levanto, 
+arena fría, me levanto,
 
-para no amanecer enterrado 
+para no amanecer enterrado
 
-bajo seis capas de invierno, 
+bajo seis capas de invierno,
 
 entre dunas color blanco.
 
 &nbsp;
 
-El que se duerma 
+El que se duerma
 
-en estas nevadas, 
+en estas nevadas,
 
-en las puntas de 
+en las puntas de
 
-estas montañas, 
+estas montañas,
 
 se volverá cristales.

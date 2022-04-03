@@ -27,17 +27,17 @@ Solo te aviso,
 
 mi locura contigo es plural,
 
-si seguimos, 
+si seguimos,
 
 nuestra insania se elevará
 
-a la equivalencia 
+a la equivalencia
 
 de nuestro parecido.
 
 &nbsp;
 
-Mientras captas mi asomo 
+Mientras captas mi asomo
 
 al ánima que avisto,
 

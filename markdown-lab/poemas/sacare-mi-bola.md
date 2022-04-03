@@ -3,25 +3,25 @@ slug: "/poemas/sacare-mi-bola"
 tags: ["normal"]
 title: "sacaré-mi-bola"
 ---
-Sacaré mi bola 
+Sacaré mi bola
 
-de ámbar cristal 
+de ámbar cristal
 
-de mi plexo solar 
+de mi plexo solar
 
-y compartiré 
+y compartiré
 
 mis pensamientos.
 
 &nbsp;
 
-El punto es que 
+El punto es que
 
 no hay punto.
 
 &nbsp;
 
-Ansío liberarme 
+Ansío liberarme
 
 de ser correcto.
 
@@ -35,22 +35,22 @@ símbolo divino.
 
 Las acciones
 
-se legan impresas 
+se legan impresas
 
 a través del tiempo.
 
 &nbsp;
 
-Eres libre 
+Eres libre
 
-de intentar 
+de intentar
 
 lo que quieras.
 
 &nbsp;
 
-Al final, 
+Al final,
 
-eres y serás 
+eres y serás
 
 irrepetible.

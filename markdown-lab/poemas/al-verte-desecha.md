@@ -17,33 +17,33 @@ Tu pelo ya no flotaba.
 
 &nbsp;
 
-Preguntas si 
+Preguntas si
 
-queda esperanza 
+queda esperanza
 
 por este camino,
 
-si vale la pena 
+si vale la pena
 
 continuar viendo
 
 las repetitivas
 
-nuevas ocurrencias 
+nuevas ocurrencias
 
 del destino.
 
 &nbsp;
 
-Pero corazón ajeno, 
+Pero corazón ajeno,
 
-ser desconocido, 
+ser desconocido,
 
-te sumergiste 
+te sumergiste
 
-en un océano opaco 
+en un océano opaco
 
-a sabiendas que 
+a sabiendas que
 
 tenderías a refugiarte
 
@@ -53,7 +53,7 @@ dentro de ti misma.
 
 &nbsp;
 
-Sácate la mentira, 
+Sácate la mentira,
 
 el abismo no es
 
@@ -61,11 +61,11 @@ negativo.
 
 &nbsp;
 
-La hiel del fondo 
+La hiel del fondo
 
-de tus dudas 
+de tus dudas
 
-se endulza con 
+se endulza con
 
 tus ocurrencias.
 
@@ -79,7 +79,7 @@ puedes prenderte de nuevo.
 
 &nbsp;
 
-Si estás envuelta 
+Si estás envuelta
 
 por la oscuridad,
 

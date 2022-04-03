@@ -3,29 +3,29 @@ slug: "/poemas/quiero-ser-descarado"
 tags: ["love"]
 title: "quiero-ser-descarado"
 ---
-Quiero ser descarado 
+Quiero ser descarado
 
-antes de irnos, 
+antes de irnos,
 
-mientras tenga 
+mientras tenga
 
-este espacio contigo, 
+este espacio contigo,
 
-quiero abrazar 
+quiero abrazar
 
 tu Sol interno.
 
 &nbsp;
 
-Te creas buena o mala, 
+Te creas buena o mala,
 
 no me importa;
 
-quiero lo que tienes, 
+quiero lo que tienes,
 
 aquello que es eterno;
 
-quiero conmigo 
+quiero conmigo
 
 tus recuerdos.
 
@@ -33,13 +33,13 @@ tus recuerdos.
 
 Para mí reluces;
 
-sé que aunque 
+sé que aunque
 
 te levantes con
 
-blancas haces, 
+blancas haces,
 
-para mí seguirás 
+para mí seguirás
 
 resplandeciendo.
 
@@ -49,7 +49,7 @@ Estamos vivos,
 
 no somos ideas,
 
-podemos tocarnos, 
+podemos tocarnos,
 
 siente mi tacto.
 
@@ -61,7 +61,7 @@ comerte a delirios.
 
 &nbsp;
 
-Tal vez esconderé 
+Tal vez esconderé
 
 en mi orgullo,
 
@@ -89,25 +89,25 @@ lo que te guardo.
 
 &nbsp;
 
-Quiero ser valiente 
+Quiero ser valiente
 
-para abrazarte 
+para abrazarte
 
 con descaro,
 
-rodearte con 
+rodearte con
 
 mis brazos;
 
-abrasar tu hielo 
+abrasar tu hielo
 
-y derretirte en ríos 
+y derretirte en ríos
 
 que reclamen
 
 nuestros pulsos,
 
-clamores y jadeos. 
+clamores y jadeos.
 
 &nbsp;
 

@@ -3,7 +3,7 @@ slug: "/poemas/no-eres-fea"
 tags: ["love"]
 title: "no-eres-fea"
 ---
-No eres fea, 
+No eres fea,
 
 sino fea
 
@@ -11,17 +11,17 @@ tu ausencia.
 
 &nbsp;
 
-Tus gemidos son acordes 
+Tus gemidos son acordes
 
-que armonizan 
+que armonizan
 
-en el himno 
+en el himno
 
 de nuestro vaivén.
 
 &nbsp;
 
-Dulce esencia, 
+Dulce esencia,
 
 muerdo tu clamor.
 
@@ -43,7 +43,7 @@ estos, mis gestos.
 
 &nbsp;
 
-Me desespero, 
+Me desespero,
 
 pero no pares.
 
@@ -51,7 +51,7 @@ pero no pares.
 
 No eres fea,
 
-sino feo 
+sino feo
 
 no aprovecharme
 

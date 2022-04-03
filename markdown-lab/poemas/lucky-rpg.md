@@ -71,7 +71,7 @@ rainbow monochrome.
 
 &nbsp;
 
-Want so bad to wake up 
+Want so bad to wake up
 
 from the opposite of love.
 

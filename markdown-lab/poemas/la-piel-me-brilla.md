@@ -3,7 +3,7 @@ slug: "/poemas/la-piel-me-brilla"
 tags: ["sad"]
 title: "la-piel-me-brilla"
 ---
-La piel me brilla; 
+La piel me brilla;
 
 sudor y brisas;
 
@@ -15,9 +15,9 @@ mi piel morena.
 
 Cicatriz vainilla
 
-y el rojo y café, 
+y el rojo y café,
 
-cómo brilla mi piel, 
+cómo brilla mi piel,
 
 sobre todo el carmín.
 

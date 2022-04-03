@@ -11,27 +11,27 @@ a la niña de cristal.
 
 &nbsp;
 
-Tan grande como 
+Tan grande como
 
-las más altas 
+las más altas
 
 de las malezas,
 
-su cuerpo se alarga, 
+su cuerpo se alarga,
 
 ahora le pesa.
 
 &nbsp;
 
-La niña estirada 
+La niña estirada
 
-ha perdido su 
+ha perdido su
 
 preciada transparencia.
 
 &nbsp;
 
-De la niña opaca 
+De la niña opaca
 
 sus pasos ya
 
@@ -39,15 +39,15 @@ no marcan ritmo.
 
 &nbsp;
 
-A la niña desorientada, 
+A la niña desorientada,
 
-se le ha apagado 
+se le ha apagado
 
 el pelo de colores.
 
 &nbsp;
 
-El vitral de las mañanas 
+El vitral de las mañanas
 
 canceló sus exposiciones.
 
@@ -61,7 +61,7 @@ con olor a guardado.
 
 &nbsp;
 
-Cayeron los zafiros que 
+Cayeron los zafiros que
 
 el mundo curioseaban,
 
@@ -79,19 +79,19 @@ en un cortísimo intervalo.
 
 &nbsp;
 
-Sucia y desconcertada, 
+Sucia y desconcertada,
 
 añora la ignorancia,
 
-pero ya es muy tarde, 
+pero ya es muy tarde,
 
 se ha petrificado.
 
 &nbsp;
 
-Se lamenta la niña, 
+Se lamenta la niña,
 
-mientras pide reiniciar, 
+mientras pide reiniciar,
 
 poco a poco termina
 

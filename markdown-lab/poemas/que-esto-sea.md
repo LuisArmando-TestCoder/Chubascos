@@ -3,135 +3,135 @@ slug: "/poemas/que-esto-sea"
 tags: ["happy"]
 title: "que-esto-sea"
 ---
-Que esto sea 
+Que esto sea
 
-un conjuro 
+un conjuro
 
-que lanzaré 
+que lanzaré
 
-sobre aquellos 
+sobre aquellos
 
 que me entiendan.
 
 &nbsp;
 
-Olviden que 
+Olviden que
 
 hago poesía.
 
 &nbsp;
 
-No es que 
+No es que
 
-me enrede 
+me enrede
 
-de palabras, 
+de palabras,
 
-es que hay tantos 
+es que hay tantos
 
-hilos tras 
+hilos tras
 
-mis hebras, 
+mis hebras,
 
-que es difícil 
+que es difícil
 
-saber lo que 
+saber lo que
 
 se aproxima.
 
 &nbsp;
 
-No soy aleatorio, 
+No soy aleatorio,
 
-me considero 
+me considero
 
-repleto, 
+repleto,
 
-un tazón 
+un tazón
 
 pleno de ideas
 
-que flota 
+que flota
 
-en el espacio 
+en el espacio
 
-profundo, 
+profundo,
 
-buscando galaxias, 
+buscando galaxias,
 
-donde su 
+donde su
 
-materia escasa 
+materia escasa
 
-sea del aprecio 
+sea del aprecio
 
 de alguien,
 
-más allá 
+más allá
 
-del brazo 
+del brazo
 
-de Perseo, 
+de Perseo,
 
-más allá 
+más allá
 
-de Andrómeda. 
-
-&nbsp;
-
-Antes era 
-
-un escalador, 
-
-un loco 
-
-del sentido común, 
-
-pero ahora me veo 
-
-como un cualquiera, 
-
-a su estilo, 
-
-como cualquiera. 
+de Andrómeda.
 
 &nbsp;
 
-¿Tengo ganas de 
+Antes era
 
-un futuro ideal? 
+un escalador,
 
-&nbsp;
+un loco
 
-¿Me asquea 
+del sentido común,
 
-la normalidad? 
+pero ahora me veo
 
-&nbsp;
+como un cualquiera,
 
-¿Busco ser 
+a su estilo,
 
-diferente? 
-
-&nbsp;
-
-¿Intento que 
-
-me recuerden? 
+como cualquiera.
 
 &nbsp;
 
-Tengo mucho tiempo 
+¿Tengo ganas de
 
-y aún así 
+un futuro ideal?
 
-no estoy dispuesto 
+&nbsp;
 
-a desperdiciarlo 
+¿Me asquea
 
-en guerras de estatus, 
+la normalidad?
 
-que tanta toxicidad 
+&nbsp;
+
+¿Busco ser
+
+diferente?
+
+&nbsp;
+
+¿Intento que
+
+me recuerden?
+
+&nbsp;
+
+Tengo mucho tiempo
+
+y aún así
+
+no estoy dispuesto
+
+a desperdiciarlo
+
+en guerras de estatus,
+
+que tanta toxicidad
 
 inyectan.
 
@@ -141,105 +141,105 @@ Así que: no.
 
 &nbsp;
 
-Que no quiero 
+Que no quiero
 
-ser el mejor, 
+ser el mejor,
 
-si mejor, 
+si mejor,
 
-puedo ser 
+puedo ser
 
-yo mismo, 
+yo mismo,
 
-con mis 
+con mis
 
-virtudes 
+virtudes
 
-y defectos. 
+y defectos.
 
 &nbsp;
 
-Hay muchos gustos 
+Hay muchos gustos
 
-pero me gusta esto, 
+pero me gusta esto,
 
-porque puedo 
+porque puedo
 
-recurrir a pensar 
+recurrir a pensar
 
-cuando me acuesto 
+cuando me acuesto
 
-y abrazarme 
+y abrazarme
 
-y tomar sereno 
+y tomar sereno
 
-a alguien, 
+a alguien,
 
-por fuera 
+por fuera
 
 de mi cuerpo.
 
 &nbsp;
 
-Hay muchas personas 
+Hay muchas personas
 
-y aquí las siento, 
+y aquí las siento,
 
-sus siluetas 
+sus siluetas
 
-en mi hipocampo. 
+en mi hipocampo.
 
 &nbsp;
 
-Estoy lleno 
+Estoy lleno
 
 de privilegios.
 
 &nbsp;
 
-Brazos me sostienen 
+Brazos me sostienen
 
-mientras lloro el alma 
+mientras lloro el alma
 
-sin saber por qué, 
+sin saber por qué,
 
-o pierdo la mente 
+o pierdo la mente
 
 entre vaho blanco,
 
-y la recupero después. 
+y la recupero después.
 
 &nbsp;
 
-He dormido en palacios, 
+He dormido en palacios,
 
-besado princesas, 
+besado princesas,
 
-abrazado árboles 
+abrazado árboles
 
 y acariciado perros.
 
 &nbsp;
 
-He luchado 
+He luchado
 
-a puño limpio 
+a puño limpio
 
-sonriendo, 
+sonriendo,
 
-que mis tendones 
+que mis tendones
 
-se desgarren 
+se desgarren
 
-y seguir corriendo, 
+y seguir corriendo,
 
-verme al espejo, 
+verme al espejo,
 
-tirarme un beso, 
+tirarme un beso,
 
 bailar desnudo;
 
-conocerla; 
+conocerla;
 
 coger en el baño;
 
@@ -247,120 +247,120 @@ conocerla;
 
 perder clases
 
-de matemáticas, 
+de matemáticas,
 
-por coger 
+por coger
 
-con ella. 
+con ella.
 
 &nbsp;
 
-Desde levantarme airoso, 
+Desde levantarme airoso,
 
 hasta ser un vegetal;
 
-desde abandonar la casa, 
+desde abandonar la casa,
 
 hasta regresar;
 
-sacar una carrera, 
+sacar una carrera,
 
-luego tomar otra, 
+luego tomar otra,
 
-luego despreciarlas. 
-
-&nbsp;
-
-Me he aburrido 
-
-de las charlas, 
-
-para entretenerme 
-
-viendo moscas. 
+luego despreciarlas.
 
 &nbsp;
 
-Han confiado en mí 
+Me he aburrido
+
+de las charlas,
+
+para entretenerme
+
+viendo moscas.
+
+&nbsp;
+
+Han confiado en mí
 
 e hice lo mismo;
 
-he sido traicionado 
+he sido traicionado
 
-y lo hice de vuelta. 
+y lo hice de vuelta.
 
 &nbsp;
 
-He compuesto música, 
+He compuesto música,
 
-cuentos, poemas, 
+cuentos, poemas,
 
-código, discursos, 
+código, discursos,
 
-mis propios idiomas, 
+mis propios idiomas,
 
 mis propios problemas.
 
 &nbsp;
 
-Me siento vivo 
+Me siento vivo
 
-y a veces 
+y a veces
 
-me quiero matar. 
+me quiero matar.
 
 &nbsp;
 
-Me siento solo 
+Me siento solo
 
-y a veces 
+y a veces
 
 me acompaño.
 
 &nbsp;
 
-Me he odiado 
+Me he odiado
 
-desde el mismo centro 
+desde el mismo centro
 
-que ahora me ama. 
+que ahora me ama.
 
 &nbsp;
 
-También, 
+También,
 
-me he enamorado 
+me he enamorado
 
 de diosas,
 
-y me he dado cuenta 
+y me he dado cuenta
 
 que son humanas.
 
 &nbsp;
 
-He despreciado 
+He despreciado
 
-a las personas, 
+a las personas,
 
-y luego dispuesto 
+y luego dispuesto
 
 a disfrutarlas.
 
 &nbsp;
 
-Si tan solo lo supieran, 
+Si tan solo lo supieran,
 
-que no se me enredan 
+que no se me enredan
 
-las palabras, 
+las palabras,
 
-pero solo tengo 
+pero solo tengo
 
-una lengua y una boca, 
+una lengua y una boca,
 
-y a veces, 
+y a veces,
 
-me pongo a elegir, 
+me pongo a elegir,
 
 hasta que se hace tarde.

@@ -3,190 +3,190 @@ slug: "/poemas/en-un-acto"
 tags: ["sad"]
 title: "en-un-acto"
 ---
-En un acto 
+En un acto
 
-de sinceridad 
+de sinceridad
 
-me dijiste que 
+me dijiste que
 
-me estaba 
+me estaba
 
-desperdiciando 
+desperdiciando
 
-y me quebraste 
+y me quebraste
 
-de inmediato, 
+de inmediato,
 
-era justo el 
+era justo el
 
-punto pivotal 
+punto pivotal
 
-del que me alejaba 
+del que me alejaba
 
 balanceando.
 
 &nbsp;
 
-Me lanzaste con la 
+Me lanzaste con la
 
-presión de un dedo, 
+presión de un dedo,
 
-me quebraste 
+me quebraste
 
-por completo 
+por completo
 
-porque aquello 
+porque aquello
 
-era cierto, 
+era cierto,
 
-lo sabía desde 
+lo sabía desde
 
-el fondo de mi 
+el fondo de mi
 
-mecanismo. 
+mecanismo.
 
 &nbsp;
 
-Aquellas manos 
+Aquellas manos
 
-que apreciaba 
+que apreciaba
 
-con tanto respeto, 
+con tanto respeto,
 
 con tu honestidad
 
-me pulverizaron 
+me pulverizaron
 
-por completo. 
+por completo.
 
 &nbsp;
 
-Nací sagaz, 
+Nací sagaz,
 
-lleno de talentos, 
+lleno de talentos,
 
-y con desgarradores 
+y con desgarradores
 
-a mi lado, allá 
+a mi lado, allá
 
-donde caminara 
+donde caminara
 
-me arrancaban 
+me arrancaban
 
 pocos de mi cuerpo.
 
 &nbsp;
 
-Nací tendiente a dar 
+Nací tendiente a dar
 
-sin pedir a cambio 
+sin pedir a cambio
 
-en un mundo que quita 
+en un mundo que quita
 
 sospechando.
 
 &nbsp;
 
-Nací con la tendencia a 
+Nací con la tendencia a
 
-recostarme entre cariño 
+recostarme entre cariño
 
-en un mundo oportunista 
+en un mundo oportunista
 
-que me suelta inadvertido. 
+que me suelta inadvertido.
 
 &nbsp;
 
-No solo vos estás 
+No solo vos estás
 
-hecha de piedra, 
+hecha de piedra,
 
-también me paralizo 
+también me paralizo
 
-reflexionando mientras 
+reflexionando mientras
 
-me estrujan el abdomen 
+me estrujan el abdomen
 
-y se me electrifica 
+y se me electrifica
 
 la garganta.
 
 &nbsp;
 
-No soy el único inseguro 
+No soy el único inseguro
 
-que repite el ciclo, 
+que repite el ciclo,
 
-como muchos, no quiero 
+como muchos, no quiero
 
-que se me caiga aquello 
+que se me caiga aquello
 
 frágil y precioso.
 
 &nbsp;
 
-Llevo el amor 
+Llevo el amor
 
 con cautela.
 
 &nbsp;
 
-No soy el único 
+No soy el único
 
-que pisa de puntillas 
+que pisa de puntillas
 
-y con medias en un 
+y con medias en un
 
-valle misterioso, 
+valle misterioso,
 
-fingiendo entre muecas 
+fingiendo entre muecas
 
-mi soltura, estiro 
+mi soltura, estiro
 
-mi torso y respiro profundo 
+mi torso y respiro profundo
 
 para no desmayarme.
 
 &nbsp;
 
-Aquí sigo y aunque 
+Aquí sigo y aunque
 
-intimidante decidí 
+intimidante decidí
 
-continuar viviendo, 
+continuar viviendo,
 
-creo, tal vez, no lo sé, 
+creo, tal vez, no lo sé,
 
-no estoy seguro, quizá 
+no estoy seguro, quizá
 
-eso sea más resistente 
+eso sea más resistente
 
-que mis preciados 
+que mis preciados
 
 sentimientos.
 
 &nbsp;
 
-Si de verdad me 
+Si de verdad me
 
-he petrificado, 
+he petrificado,
 
-entonces, ojalá 
+entonces, ojalá
 
-que esta presión 
+que esta presión
 
-me haya transparentado 
+me haya transparentado
 
-y sacado unos cuantos 
+y sacado unos cuantos
 
 caleidoscopios.
 
 &nbsp;
 
-Aunque tengas razón, 
+Aunque tengas razón,
 
-no sé por qué siento 
+no sé por qué siento
 
-tanta confianza 
+tanta confianza
 
 estando equivocado.

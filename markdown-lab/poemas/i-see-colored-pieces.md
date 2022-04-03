@@ -5,13 +5,13 @@ title: "i-see-colored-pieces"
 ---
 I see colored pieces,
 
-a pretty stained glass. 
+a pretty stained glass.
 
 &nbsp;
 
 Pretty disastrous jar,
 
-you keep my hope 
+you keep my hope
 
 within your curses.
 
@@ -33,10 +33,10 @@ of a stained glass.
 
 When you take care
 
-of the broken madness 
+of the broken madness
 
 living stained glassy pieces;
 
-see nothing but tons of reasons 
+see nothing but tons of reasons
 
 keeping on the pulse.

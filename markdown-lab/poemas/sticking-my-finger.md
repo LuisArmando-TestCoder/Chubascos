@@ -13,7 +13,7 @@ Still breathing chill.
 
 &nbsp;
 
-Nice memories, 
+Nice memories,
 
 pain killer pills.
 
@@ -37,7 +37,7 @@ you save your gaze.
 
 &nbsp;
 
-I feel like I’m breathing.
+I feel like I'm breathing.
 
 &nbsp;
 
@@ -61,7 +61,7 @@ Challenger Deep.
 
 &nbsp;
 
-I’m coming out alive.
+I'm coming out alive.
 
 &nbsp;
 
@@ -89,8 +89,8 @@ which one was goodness.
 
 &nbsp;
 
-So I’m living the style,
+So I'm living the style,
 
-I barely am guessing, 
+I barely am guessing,
 
 would make me proud.

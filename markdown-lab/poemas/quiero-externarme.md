@@ -17,13 +17,13 @@ quiero de verdad sacar.
 
 &nbsp;
 
-No estoy a gusto 
+No estoy a gusto
 
 con promediar
 
 mi mentalidad,
 
-me globalizo 
+me globalizo
 
 y debo de pelear,
 
@@ -63,11 +63,11 @@ por tantas joyas brillantes,
 
 licuadoras de mentes,
 
-la ciudad está 
+la ciudad está
 
 llena de placeres,
 
-y en la Web 
+y en la Web
 
 no se acaba,
 
@@ -83,55 +83,55 @@ Me convierto en alcoba,
 
 un cuarto basura,
 
-y entre tanto 
+y entre tanto
 
 contenido tan inútil,
 
-veo a otros tantos 
+veo a otros tantos
 
-que no entienden, 
+que no entienden,
 
-no despiertan, 
+no despiertan,
 
-no comprenden, 
+no comprenden,
 
 no procesan.
 
 &nbsp;
 
-Estoy siendo 
+Estoy siendo
 
 muy sincero,
 
-digo lo que pienso, 
+digo lo que pienso,
 
 quiero mantenerme cuerdo,
 
-por qué parece 
+por qué parece
 
-que hayan tantos 
+que hayan tantos
 
 ser humanos,
 
-tan vacíos, 
+tan vacíos,
 
 sin el alma.
 
 &nbsp;
 
-Viven y hablan 
+Viven y hablan
 
-automáticos, 
+automáticos,
 
-sienten automáticos, 
+sienten automáticos,
 
-pues están acostumbrados, 
+pues están acostumbrados,
 
-a reaccionar con los instintos 
+a reaccionar con los instintos
 
-tan cristalizados, 
+tan cristalizados,
 
-ya no son fluidos, 
+ya no son fluidos,
 
 ¿o nunca lo han estado?
 
@@ -139,7 +139,7 @@ ya no son fluidos,
 
 ¿Será que es tan usual
 
-que tanto de este mundo 
+que tanto de este mundo
 
 se camufle con los muertos?
 
@@ -153,7 +153,7 @@ se camufle con los muertos?
 
 &nbsp;
 
-¿Las reglas de este juego 
+¿Las reglas de este juego
 
 incluían no pensar?
 
@@ -185,7 +185,7 @@ la pregunta, por favor,
 
 y así lo hago con resumen
 
-de todas las ideas 
+de todas las ideas
 
 que a pedazos se escuchó.
 
@@ -207,60 +207,60 @@ y pensaran al respecto.
 
 Su pecado original
 
-consistía en ir creyendo 
+consistía en ir creyendo
 
-que tenían la razón, 
+que tenían la razón,
 
-que existía la moral, 
+que existía la moral,
 
-y la ciencia disciplina 
+y la ciencia disciplina
 
 de racionalizar.
 
 &nbsp;
 
-La verdad es virtual, 
+La verdad es virtual,
 
 casi real, igualmente irreal,
 
-una ilusión de los sentidos 
+una ilusión de los sentidos
 
-que acerca al Todo 
+que acerca al Todo
 
 en su estado original.
 
 &nbsp;
 
-Pienso, no me arrepiento, 
+Pienso, no me arrepiento,
 
-debo ser yo a toda costa, 
+debo ser yo a toda costa,
 
-y decir lo que siento, 
+y decir lo que siento,
 
-no me malentiendan, 
+no me malentiendan,
 
-es un ejercicio 
+es un ejercicio
 
-que libera la mente, 
+que libera la mente,
 
-debes hacerla decir 
+debes hacerla decir
 
-lo que tiene 
+lo que tiene
 
-por dentro realmente. 
+por dentro realmente.
 
 &nbsp;
 
-Hay muchos como yo, 
+Hay muchos como yo,
 
-que no saben lo que tienen, 
+que no saben lo que tienen,
 
-el privilegio de pensar 
+el privilegio de pensar
 
 y comunicarlo sin los filtros
 
 de los paradigmas
 
-de los que alucinan 
+de los que alucinan
 
 lo correcto.

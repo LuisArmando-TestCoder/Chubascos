@@ -41,7 +41,7 @@ feels so good and hurt so much?
 
 Still want to be worthwhile a kiss,
 
-a silly smile, a happy cry, 
+a silly smile, a happy cry,
 
 been shared a shampoo smell,
 
@@ -59,7 +59,7 @@ Are you really all alone?
 
 &nbsp;
 
-I’m no longer as impulsive.
+I'm no longer as impulsive.
 
 Should I shoot a thousand shots?
 
