@@ -23,7 +23,7 @@ But fuck, I am so fucking fucked
 
 and it is a little funny,
 
-I fucking love someone that I lost,
+I fucking love somebody that I lost,
 
 but it feels good to tell myself
 
