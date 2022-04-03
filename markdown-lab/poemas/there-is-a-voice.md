@@ -99,11 +99,7 @@ with a slow mo film
 
 of my memories
 
-with you in it smiling,
-
-with the wonder:
-
-what could have happened?
+with you in it, smiling.
 
 &nbsp;
 
