@@ -45,9 +45,9 @@ motherfucking god of love
 
 with her and her only,
 
-every day, without caring if she
+every day, without caring
 
-even liked that from me,
+if she even liked that from me,
 
 or if it annoyed her at all,
 
