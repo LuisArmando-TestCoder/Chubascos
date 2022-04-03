@@ -34,10 +34,7 @@ export default () => {
                 <p>Los poetas son</p>
                 <p>como chubascos,</p>
                 <p>lluvias repentinas</p>
-                <p>dejando charcos,</p>
-                <p>de los cuales</p>
-                <p>las semillas</p>
-                <p>se alimentan.</p>
+                <p>dejando charcos.</p>
             </div>
             <ul className='wrapper--color-white wrapper--padding'>
                 {
