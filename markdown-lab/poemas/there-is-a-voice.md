@@ -39,9 +39,9 @@ feels so good and hurt so much?
 
 &nbsp;
 
-I still want to be worthwhile a kiss,
+Still want to be worthwhile a kiss,
 
-a silly smile, a happy cry, a choking hug,
+a silly smile, a happy cry, 
 
 been shared a shampoo smell,
 
@@ -59,9 +59,9 @@ Are you really all alone?
 
 &nbsp;
 
-I’m no longer as impulsive,
+I’m no longer as impulsive.
 
-should I shoot a thousand shots?
+Should I shoot a thousand shots?
 
 I just want to be the one for you alone.
 
@@ -109,8 +109,8 @@ that asks and wonders.
 
 &nbsp;
 
-What if I
+What if I step,
 
-step one more time
+one more time
 
-out of wonder?
+outside of wondering?
