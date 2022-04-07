@@ -149,9 +149,9 @@ para no desmayarme.
 
 &nbsp;
 
-Aquí sigo y aunque
+Aquí sigo, y aunque,
 
-intimidante decidí
+intimidante, decidí
 
 continuar viviendo,
 
