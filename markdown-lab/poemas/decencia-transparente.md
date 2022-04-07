@@ -43,8 +43,4 @@ nada que probarle.
 
 De la tristeza
 
-has florecido
-
-hermosamente;
-
-fresno de la vida.
+has florecido.
