@@ -65,7 +65,7 @@ En los espejos
 
 te encuentro en partes;
 
-he admirado tus fragmentos,
+he admirado tus fragmentos;
 
 solo me queda agradecerte.
 
