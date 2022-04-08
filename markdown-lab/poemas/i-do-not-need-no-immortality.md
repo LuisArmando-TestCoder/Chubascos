@@ -189,6 +189,6 @@ facing all now.
 
 Destined wonder,
 
-within you we flare
+within your flare
 
-and burst out loud.
+we burst out loud.
