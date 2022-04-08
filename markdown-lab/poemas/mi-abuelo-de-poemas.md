@@ -17,9 +17,11 @@ de la poesía
 
 y ahora que la amo,
 
-compartírtela no puedo,
+compartírtela no puedo.
 
-vivo fantaseando
+&nbsp;
+
+Vivo fantaseando
 
 tertulias contigo,
 
