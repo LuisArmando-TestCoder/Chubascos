@@ -191,4 +191,4 @@ Destined wonder,
 
 within you we flare
 
-and gratefully dim.
+and burst out loud.
