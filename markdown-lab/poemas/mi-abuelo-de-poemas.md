@@ -53,7 +53,7 @@ aún después de doce años,
 
 ¿por qué no despertaste?
 
-compartiríamos poemas,
+compartiríamos poemas;
 
 aún después de muerto
 
