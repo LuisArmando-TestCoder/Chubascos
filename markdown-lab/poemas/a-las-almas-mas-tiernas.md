@@ -85,13 +85,7 @@ ese nos hipnotiza.
 
 Es tan fácil endiosar
 
-a símbolos deshumanizados,
-
-crear rituales
-
-por cualquiera
-
-que nos sorprenda.
+a símbolos deshumanizados.
 
 &nbsp;
 
