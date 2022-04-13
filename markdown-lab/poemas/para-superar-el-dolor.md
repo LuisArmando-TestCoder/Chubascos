@@ -79,7 +79,9 @@ están siendo arrojados
 
 por la acantilado,
 
-sin opción a ser probados.
+sin opción a mostrar
+
+de lo que están hechos.
 
 &nbsp;
 
