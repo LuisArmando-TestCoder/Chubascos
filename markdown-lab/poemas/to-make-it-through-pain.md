@@ -33,7 +33,9 @@ the breakdown asks
 
 to open the door,
 
-and when everything goes quiet,
+and when everything 
+
+goes quiet,
 
 it screams louder,
 
@@ -41,11 +43,15 @@ it knocks harder,
 
 up to a point
 
-in which it makes you think,
+in which it 
 
-if you don’t open it,
+makes you think,
 
-a remembrance will slip under,
+if you don't open,
+
+a remembrance 
+
+will slip under,
 
 and memories and truths
 
@@ -69,25 +75,37 @@ that leaves a shadow
 
 of unfairness around
 
-the dim rift of opportunity,
+the dim rift 
 
-yes, the fools from the light
+of opportunity,
 
-won’t notice that opaques
+yes, the fools 
 
-are being thrown
+from the light
 
-out the rift of opportunity.
+won't notice 
+
+that opaques
+
+are being thrown out 
+
+of the rift 
+
+of opportunity.
 
 &nbsp;
 
-I’m on the verge,
+I'm on the verge,
 
-in a come and go of visibility.
+in a come and go 
 
-If I’m not shining,
+of visibility.
 
-they’re not seeing me.
+&nbsp;
+
+If I'm not shining,
+
+they're not seeing me.
 
 &nbsp;
 
@@ -97,7 +115,9 @@ to catch some suicidals
 
 in the Grand Canyon
 
-and give some of this reflection,
+and give some of 
+
+this reflection out,
 
 to walk across the edge,
 
