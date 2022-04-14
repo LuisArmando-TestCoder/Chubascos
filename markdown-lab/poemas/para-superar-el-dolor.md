@@ -77,7 +77,7 @@ no notarán que los opacos
 
 están siendo arrojados
 
-por la acantilado,
+por el acantilado,
 
 sin opción a mostrar
 
