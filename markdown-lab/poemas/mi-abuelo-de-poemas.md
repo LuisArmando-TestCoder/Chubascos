@@ -57,7 +57,7 @@ aún después de doce años,
 
 compartiríamos poemas;
 
-aún después de muerto
+aún después de etéreo
 
 te anhelo tanto.
 
