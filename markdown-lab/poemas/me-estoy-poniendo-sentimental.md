@@ -59,7 +59,7 @@ se está perdiendo otra vez,
 
 veré a dónde me lleva,
 
-de nuevo…
+de nuevo...
 
 &nbsp;
 
