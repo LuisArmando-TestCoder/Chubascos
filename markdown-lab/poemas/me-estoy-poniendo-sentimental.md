@@ -75,7 +75,7 @@ que se me escapó,
 
 no puedo olvidar
 
-nuestra rama 
+nuestra rama
 
 de posibilidades.
 
