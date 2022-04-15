@@ -217,7 +217,7 @@ con tanto cuidado.
 
 &nbsp;
 
-Y, ¿Qué debería hacer
+¿Qué debería hacer
 
 cuando me amen?
 
