@@ -57,9 +57,9 @@ por qué a todo.
 
 &nbsp;
 
-¿No se han 
+¿No se han
 
-cuestionado 
+cuestionado
 
 a sí mismos?
 
@@ -229,7 +229,7 @@ somos tan libres.
 
 Siendo uno de tantos,
 
-¿por qué no 
+¿por qué no
 
 serías tú mismo?
 
