@@ -1,99 +1,57 @@
 ---
-slug: "/poemas/que-esto-sea"
+slug: "/poemas/que-esto-sea-un-conjuro"
 tags: ["happy"]
-title: "que-esto-sea"
+title: "que-esto-sea-un-conjuro"
 ---
-Que esto sea
+Que esto sea un conjuro
 
-un conjuro
-
-que lanzaré
-
-sobre aquellos
+que lanzaré sobre aquellos
 
 que me entiendan.
 
 &nbsp;
 
-Olviden que
-
-hago poesía.
+Olviden que hago poesía.
 
 &nbsp;
 
-No es que
+No es que me enrede de palabras,
 
-me enrede
+es que hay tantos hilos tras mis hebras,
 
-de palabras,
-
-es que hay tantos
-
-hilos tras
-
-mis hebras,
-
-que es difícil
-
-saber lo que
-
-se aproxima.
+que es difícil saber lo que se aproxima.
 
 &nbsp;
 
 No soy aleatorio,
 
-me considero
+me considero repleto,
 
-repleto,
+un tazón pleno de ideas
 
-un tazón
-
-pleno de ideas
-
-que flota
-
-en el espacio
-
-profundo,
+que flota en el espacio,
 
 buscando galaxias,
 
-donde su
+donde su materia escasa
 
-materia escasa
-
-sea del aprecio
-
-de alguien,
-
-más allá
-
-del brazo
-
-de Perseo,
-
-más allá
-
-de Andrómeda.
+sea del aprecio de alguien.
 
 &nbsp;
 
-Antes era
+Más allá del brazo de Perseo,
 
-un escalador,
+más allá de Andrómeda.
 
-un loco
+&nbsp;
 
-del sentido común,
+Antes era un escalador,
 
-pero ahora me veo
+un loco del sentido común,
 
-como un cualquiera,
+pero ahora me veo como cualquiera,
 
-a su estilo,
-
-como cualquiera.
+a su estilo, como cualquiera.
 
 &nbsp;
 
@@ -115,45 +73,13 @@ diferente?
 
 &nbsp;
 
-¿Intento que
+Bueno, antes sí,
 
-me recuerden?
+pero ya no,
 
-&nbsp;
+ahora busco ser yo,
 
-Tengo mucho tiempo
-
-y aún así
-
-no estoy dispuesto
-
-a desperdiciarlo
-
-en guerras de estatus,
-
-que tanta toxicidad
-
-inyectan.
-
-&nbsp;
-
-Así que: no.
-
-&nbsp;
-
-Que no quiero
-
-ser el mejor,
-
-si mejor,
-
-puedo ser
-
-yo mismo,
-
-con mis
-
-virtudes
+con mis virtudes
 
 y defectos.
 
@@ -161,23 +87,19 @@ y defectos.
 
 Hay muchos gustos
 
-pero me gusta esto,
+pero me gusta esto.
 
-porque puedo
+&nbsp;
 
-recurrir a pensar
+Puedo lidiar
+
+con el silencio
 
 cuando me acuesto
 
-y abrazarme
+y tomar sereno a alguien,
 
-y tomar sereno
-
-a alguien,
-
-por fuera
-
-de mi cuerpo.
+fuera de mi cuerpo.
 
 &nbsp;
 
@@ -221,37 +143,21 @@ y acariciado perros.
 
 &nbsp;
 
-He luchado
+He luchado a puño limpio sonriendo,
 
-a puño limpio
-
-sonriendo,
-
-que mis tendones
-
-se desgarren
+que mis tendones se desgarren
 
 y seguir corriendo,
 
-verme al espejo,
+verme al espejo, tirarme un beso,
 
-tirarme un beso,
+bailar desnudo y conocerla;
 
-bailar desnudo;
+coger en el baño conociéndola;
 
-conocerla;
+perder clases de matemáticas,
 
-coger en el baño;
-
-conocerla;
-
-perder clases
-
-de matemáticas,
-
-por coger
-
-con ella.
+por coger con ella.
 
 &nbsp;
 
@@ -273,11 +179,7 @@ luego despreciarlas.
 
 Me he aburrido
 
-de las charlas,
-
-para entretenerme
-
-viendo moscas.
+de las charlas.
 
 &nbsp;
 
@@ -327,21 +229,15 @@ que ahora me ama.
 
 &nbsp;
 
-También,
+Me he enamorado de diosas
 
-me he enamorado
-
-de diosas,
-
-y me he dado cuenta
-
-que son humanas.
+y dado cuenta que son humanas.
 
 &nbsp;
 
 He despreciado
 
-a las personas,
+a las personas
 
 y luego dispuesto
 
@@ -359,8 +255,6 @@ pero solo tengo
 
 una lengua y una boca,
 
-y a veces,
-
-me pongo a elegir,
+y a veces, me pongo a elegir,
 
 hasta que se hace tarde.

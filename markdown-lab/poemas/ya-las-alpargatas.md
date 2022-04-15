@@ -301,7 +301,7 @@ de irse fragmentando.
 
 Se lamenta la niña,
 
-mientras suplica 
+mientras suplica
 
 una oportunidad;
 
