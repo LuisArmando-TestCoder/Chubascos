@@ -1733,7 +1733,8 @@ no puedo dejar de ver
 la oportunidad
 que se me escapó,
 no puedo olvidar
-nuestra rama de posibilidades.
+nuestra rama 
+de posibilidades.
 
 Como el chasquido
 de un relámpago ultra débil,
@@ -1769,7 +1770,8 @@ te figuraste tan sincera,
 tan tranquila, tan alegre,
 y seguimos bailando...
 en mi alucinación.
-
+<sad
+---
 Con películas de terror
 puedo dormir apaciblemente.
 

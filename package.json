@@ -24,13 +24,11 @@
     "gatsby-plugin-sass": "^3.0.0",
     "gatsby-source-filesystem": "^3.14.0",
     "gatsby-transformer-remark": "^4.11.0",
-    "gsap": "^3.10.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0",
     "recoil": "^0.1.2",
     "recoil-outside": "^0.1.1",
-    "scene-preset": "^2.4.4",
     "ssr-window": "^3.0.0"
   },
   "devDependencies": {
