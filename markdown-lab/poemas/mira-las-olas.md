@@ -13,7 +13,7 @@ balanceando.
 
 &nbsp;
 
-Las montañas
+Mira, montañas,
 
 son brochazos
 
