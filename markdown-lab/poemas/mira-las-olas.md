@@ -13,14 +13,6 @@ balanceando.
 
 &nbsp;
 
-Las blancas láminas
-
-de los cruceros;
-
-brilla el aluminio.
-
-&nbsp;
-
 Las montañas
 
 son brochazos
