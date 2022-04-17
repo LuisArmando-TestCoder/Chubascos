@@ -141,6 +141,6 @@ Gracias,
 
 por lo pronto,
 
-al abastecerte
+el abastecerte
 
 de experiencias.
