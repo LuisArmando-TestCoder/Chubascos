@@ -39,9 +39,9 @@ edificios flotantes.
 
 Las nubes;
 
-pasteles destruídos
+pasteles destruídos,
 
-y avalanchas de sal.
+avalanchas en pausa.
 
 &nbsp;
 
