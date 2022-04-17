@@ -103,4 +103,4 @@ actitudes en medio.
 
 Decidimos ser optimistas
 
-porque nos da la gana.
+como así lo deseamos.
