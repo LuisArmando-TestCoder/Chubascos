@@ -3,7 +3,7 @@ slug: "/poemas/mira-las-olas"
 tags: ["normal"]
 title: "mira-las-olas"
 ---
-Mira las olas;
+Mira las olas,
 
 controlan tus pies;
 
