@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/mira-las-olas"
-tags: ["normal"]
+tags: ["happy"]
 title: "mira-las-olas"
 ---
 Mira las olas,
