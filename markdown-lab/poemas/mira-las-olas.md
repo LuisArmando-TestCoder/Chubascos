@@ -75,16 +75,6 @@ dorada arena.
 
 &nbsp;
 
-El atardecer;
-
-un proyector
-
-y una seda
-
-de toneladas.
-
-&nbsp;
-
 Los faros son efigies
 
 de una civilización
