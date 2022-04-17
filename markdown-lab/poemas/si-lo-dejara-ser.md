@@ -73,7 +73,7 @@ no la deje escapar,
 
 creo que es hora
 
-de cambiar de sujeto…
+de cambiar de sujeto...
 
 &nbsp;
 
