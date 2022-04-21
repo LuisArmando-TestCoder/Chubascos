@@ -78,3 +78,23 @@ e inmaduras.
 Déjenlas al aire,
 
 a ver si se fermentan.
+
+&nbsp;
+
+La verdad que rehuyen
+
+es que no hay respuesta;
+
+en realidad no importa.
+
+&nbsp;
+
+No hay cuarenta y dos,
+
+ni estrella de cinco puntas.
+
+&nbsp;
+
+Lo que sientes cambia
+
+según la perspectiva.
