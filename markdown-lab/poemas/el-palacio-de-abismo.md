@@ -65,8 +65,6 @@ vislumbra un pasillo
 
 que da hacia una sala
 
-con la Mesa Redonda,
-
 donde discuten
 
 las personalidades
