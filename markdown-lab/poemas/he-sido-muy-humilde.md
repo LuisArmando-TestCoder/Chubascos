@@ -7,7 +7,7 @@ He sido muy humilde
 
 con mis propios deseos,
 
-porque estoy seguro
+porque estoy seguro,
 
 pero les digo: creo.
 
