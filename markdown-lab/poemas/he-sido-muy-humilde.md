@@ -25,7 +25,7 @@ Tengo tantas capacidades,
 
 que mi ardura más pronta
 
-es la de escoger entre ellos,
+es la de escoger entre ellas,
 
 porque siento que me muero,
 
@@ -41,7 +41,7 @@ ya no tienen tiempo.
 
 Al ser eterno
 
-este deja de existir,
+él deja de existir,
 
 siendo la vida
 
