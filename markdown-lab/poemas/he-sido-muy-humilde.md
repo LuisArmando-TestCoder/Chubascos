@@ -123,13 +123,9 @@ pero la interpretación
 
 de su identidad
 
-es solo una fachada
+es solo la fachada
 
-para que su energía
-
-sea dirigida
-
-a través de un cuerpo.
+de todo lo que son.
 
 &nbsp;
 
