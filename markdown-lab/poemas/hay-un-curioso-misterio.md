@@ -51,17 +51,17 @@ acércate con servilletas,
 
 pues a un niño sucio,
 
-con manchas de pecados
+con manchas de pecados,
 
-hay que permitirle
+enfrentarlo con atención
 
-ser escuchados,
+es un acto de piedad,
 
-y que vuelvan frescos
+para que vuelva fresco
 
-a con los juguetes
+a experimentar sus juegos
 
-que han ofendido.
+con nuevas precauciones.
 
 &nbsp;
 
@@ -87,7 +87,7 @@ no lo insultes a la distancia
 
 y no barras sus problemas,
 
-enséñale a limpiarlos. 
+enséñale a limpiarlos.
 
 &nbsp;
 
