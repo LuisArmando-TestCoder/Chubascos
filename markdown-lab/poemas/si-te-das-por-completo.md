@@ -99,15 +99,19 @@ tiemblo pensando
 
 que es de aquellos imperdonables
 
-y no tengo peros para darme,
+y no tengo peros para darme.
 
-me aterra desde el fondo
+&nbsp;
+
+Me aterra desde el fondo
 
 que me entregues tu ser
 
 con tanta fuerza y que yo
 
 no vaya a sostenerlo.
+
+&nbsp;
 
 ¿Cómo no perdería mi mente?
 
@@ -117,7 +121,7 @@ que he conocido,
 
 la mejor persona
 
-que me ha ocurrido
+que me ha ocurrido...
 
 y te sigo rechazando.
 
