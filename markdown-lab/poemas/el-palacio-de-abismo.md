@@ -71,9 +71,9 @@ las personalidades
 
 acerca de su esencia;
 
-cuán infeliz e inseguro se es,
+cuán infeliz e inseguro se es
 
-para tantos taciturnos,
+para tantos taciturnos
 
 en la adolescencia,
 
