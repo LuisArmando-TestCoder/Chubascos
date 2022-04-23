@@ -11,7 +11,7 @@ y no tienes que esperar
 
 un céntimo de la moneda
 
-que seas que lleves.
+que sea que lleves.
 
 &nbsp;
 
