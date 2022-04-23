@@ -65,6 +65,8 @@ Puedes ser amable,
 
 pero reitero:
 
-no esperes nada de nadie
+no esperes
+
+nada de nadie
 
 por ello.
