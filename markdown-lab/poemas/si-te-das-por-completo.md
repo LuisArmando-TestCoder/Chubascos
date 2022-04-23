@@ -51,11 +51,13 @@ un espejismo divino,
 
 pero yo no quería estar conmigo,
 
-me odiaba a mí mismo,
+me odiaba a mí mismo.
 
-asentí a lo que me dijeron
+&nbsp;
 
-los otros de niño
+Asentí a lo que me dijeron
+
+los otros desde niño
 
 y ahora estos tatuajes
 
