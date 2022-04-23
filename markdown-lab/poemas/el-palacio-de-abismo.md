@@ -1,17 +1,17 @@
 ---
-slug: "/poemas/lo-que-pasa"
+slug: "/poemas/el-palacio-de-abismo"
 tags: ["normal"]
-title: "lo-que-pasa"
+title: "el-palacio-de-abismo"
 ---
-Lo que pasa
+El Palacio de Abismo.
 
-es que no has recorrido
+&nbsp;
+
+Pasa que no has recorrido
 
 hasta el final de mi amado,
 
-aquel que tanto pregono,
-
-El Palacio de Abismo.
+aquel que tanto pregono.
 
 &nbsp;
 
