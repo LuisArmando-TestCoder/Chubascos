@@ -51,29 +51,25 @@ ante lo que se aproxima.
 
 Una vez que alcanzas
 
-la alcoba donde
+la alcoba, ahí,
 
-el trono se halla,
+al frente y a tu izquierda
 
-ahí, al frente
+una entrada vislumbra
 
-y a tu izquierda
+un pasillo que da
 
-una entrada
-
-vislumbra un pasillo
-
-que da hacia una sala
+hacia una sala
 
 donde discuten
 
-las personalidades
+personalidades
 
 acerca de su esencia;
 
-cuán infeliz e inseguro se es
+cuán infeliz e inseguros
 
-para tantos taciturnos
+son tantos taciturnos
 
 en la adolescencia,
 
@@ -97,7 +93,7 @@ que da al jardín
 
 de los objetivos,
 
-escalones abajo
+escalones abajo,
 
 entre asfixiante
 
@@ -115,7 +111,7 @@ que tanto pregonas,
 
 que tanto has dicho
 
-es para los ignorantes
+es para ignorantes
 
 y para los niños,
 
@@ -127,7 +123,7 @@ Si este no es nítido,
 
 debe de limpiarse
 
-con tu reflexividad
+con tus reflexiones
 
 al respecto.
 
