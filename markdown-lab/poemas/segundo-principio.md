@@ -67,7 +67,7 @@ eras tú desde el principio,
 
 que te vas con una bestia,
 
-con una máscara de civilizada,
+en una máscara de civilizada,
 
 porque adentro ocultas miedo
 
