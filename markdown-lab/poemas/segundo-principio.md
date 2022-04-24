@@ -79,15 +79,13 @@ en público.
 
 &nbsp;
 
-Te acercas a quien refleja
+Escoges a personas 
 
-lo que realmente quisieras ser;
+que se parezcan a ti,
 
-no estás con él por balance,
+aunque se parezcan a ti
 
-es porque en el fondo
-
-se parecen.
+en secreto.
 
 &nbsp;
 
