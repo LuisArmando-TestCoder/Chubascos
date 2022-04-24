@@ -79,7 +79,7 @@ en público.
 
 &nbsp;
 
-Escoges a personas 
+Escoges a personas
 
 que se parezcan a ti,
 
