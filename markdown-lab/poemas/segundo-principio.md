@@ -73,7 +73,9 @@ porque adentro ocultas miedo
 
 ante las consecuencias
 
-de ser entropía tú misma.
+de aumentar tu entropía
+
+en público.
 
 &nbsp;
 
