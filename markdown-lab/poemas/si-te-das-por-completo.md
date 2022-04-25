@@ -176,13 +176,3 @@ quiero ver la esencia,
 pero por eso me flagelo,
 
 porque siempre pude hacerlo.
-
-&nbsp;
-
-Entonces sí,
-
-desde el fondo
-
-de mi centro,
-
-me disculpo.
