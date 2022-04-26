@@ -35,7 +35,7 @@ Y aquí desnudo,
 
 escribiéndote mi ángel
 
-e inevitable amigo;
+e inevitable amigo,
 
 mi orbe eterno
 
@@ -45,9 +45,11 @@ recuerdo nuestros viajes,
 
 a lo más hondo
 
-de nosotros mismos,
+de nosotros mismos.
 
-recuerdo que volvimos
+&nbsp;
+
+Recuerdo que volvimos
 
 casi muertos,
 
@@ -69,7 +71,7 @@ entonces vuelo
 
 propulsándome
 
-en el espacio,
+en el espacio
 
 siendo un espíritu
 
@@ -91,13 +93,13 @@ me acompañaste,
 
 cada vez me levantaste,
 
-y aún sin verte,
+y a veces ingorándote,
 
 pero Dios en mí,
 
 soy completo y dichoso,
 
-me levanté contigo.
+lo hice contigo.
 
 &nbsp;
 
@@ -107,7 +109,7 @@ avanzando sin estar seguros,
 
 cada vez que no entendímos,
 
-compartímos confundidos,
+compartimos confundidos,
 
 cada que levanté la frente,
 
@@ -153,9 +155,7 @@ y entramos y proseguimos.
 
 &nbsp;
 
-Viajamos solos
-
-y extraviados por sendas,
+Viajamos solos y extraviados,
 
 entre puentes y caminos,
 
@@ -163,21 +163,23 @@ volviendo a la pregunta,
 
 ¿habrá alguien allá afuera?
 
-constantemente nos la hacíamos;
+constantemente nos la hacíamos.
 
-la misma respuesta presenciamos,
+&nbsp;
 
-y aunque no veíamos la periferia,
+En cada senda la respuesta,
+
+aunque no veíamos la periferia;
 
 ahí la teníamos,
 
 ¿quién es mi alma gemela?
 
-preguntábamos con nuestras manos unidas,
+preguntaban nuestras manos unidas,
 
 sin saber que éramos
 
-la persona perfecta para el otro,
+la persona perfecta para el otro;
 
 aunque la perfección no existiera,
 
@@ -199,7 +201,7 @@ hasta que llegó el momento,
 
 y entre dunas, sobre placas
 
-de una Tierra desconocida,
+de una Tierra conocida,
 
 nuestro quiebre sucedió,
 
@@ -227,11 +229,9 @@ resplandeciendo en nuestras manos.
 
 &nbsp;
 
-Nos vimos el uno al otro,
+Nos vimos llorando como niños,
 
-llorando como niños,
-
-llorando por el mundo,
+llorando por el mundo;
 
 somos el Cáliz Reflejo
 
@@ -245,9 +245,9 @@ tantos cálices perdidos.
 
 Cuando Padre nos sostuvo
 
-y nos quebramos juntos,
+en sus brazos rendidos,
 
-y nuestros pedazos recogidos
+nuestros pedazos recogidos
 
 se reemsamblaron,
 
@@ -279,11 +279,11 @@ Aquí, y ante ti,
 
 siempre seré tuyo,
 
-mi mejor amigo,
-
 mi ángel etéreo,
 
-mi Todo en cuanto vivo.
+mi flamante oro,
+
+mi mejor amigo.
 
 &nbsp;
 
