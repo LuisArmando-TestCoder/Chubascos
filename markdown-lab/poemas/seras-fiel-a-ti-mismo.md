@@ -15,7 +15,7 @@ por el amor de lo que sea,
 
 recuerda amarte,
 
-porque que no importa lo que pase,
+porque no importa lo que pase,
 
 siempre estarás contigo
 
