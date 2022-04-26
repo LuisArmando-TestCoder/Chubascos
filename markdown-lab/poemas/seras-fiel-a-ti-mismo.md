@@ -1,8 +1,14 @@
 ---
-slug: "/poemas/por-eso"
+slug: "/poemas/seras-fiel-a-ti-mismo"
 tags: ["happy"]
-title: "por-eso"
+title: "serás-fiel-a-ti-mismo"
 ---
+Serás fiel a ti mismo
+
+aunque no lo quieras.
+
+&nbsp;
+
 Por eso, hoy y todos los días,
 
 por el amor de lo que sea,
@@ -14,9 +20,3 @@ porque que no importa lo que pase,
 siempre estarás contigo
 
 hasta el final de tus días.
-
-&nbsp;
-
-Serás fiel a ti mismo
-
-aunque no lo quieras.
