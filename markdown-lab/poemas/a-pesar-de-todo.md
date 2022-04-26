@@ -17,11 +17,13 @@ me has soltado.
 
 &nbsp;
 
-Siempre, siempre, siempre
+Siempre, siempre y siempre
 
-tu bastón me sostuvo,
+tu bastón me sostuvo.
 
-aunque estuve hundido,
+&nbsp;
+
+Aunque estuve hundido,
 
 aunque no supe mi nombre,
 
