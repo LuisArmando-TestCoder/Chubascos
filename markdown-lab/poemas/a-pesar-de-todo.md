@@ -279,11 +279,11 @@ Aquí, y ante ti,
 
 siempre seré tuyo,
 
-mi ángel etéreo,
+mi ángel amigo,
 
 mi flamante oro,
 
-mi mejor amigo.
+mi mejor destino.
 
 &nbsp;
 
