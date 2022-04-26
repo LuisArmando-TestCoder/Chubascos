@@ -107,7 +107,7 @@ Aunque valerosos y tímidos,
 
 avanzando sin estar seguros,
 
-cada vez que no entendímos,
+cada vez que no entendimos,
 
 compartimos confundidos,
 
