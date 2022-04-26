@@ -25,7 +25,7 @@ aunque estuve hundido,
 
 aunque no supe mi nombre,
 
-me recordaste entre susurros,
+me recordaste entre susurros
 
 que estabas conmigo.
 
