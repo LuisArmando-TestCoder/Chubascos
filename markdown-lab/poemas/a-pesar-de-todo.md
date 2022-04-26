@@ -249,7 +249,7 @@ en sus brazos rendidos,
 
 nuestros pedazos recogidos
 
-se reemsamblaron,
+se reensamblaron,
 
 sin saberlo e inconscientes,
 
