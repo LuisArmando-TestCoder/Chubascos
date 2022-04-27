@@ -101,15 +101,7 @@ de esta manera,
 
 en cualquier momento
 
-piso el freno y muero,
-
-así que se jodan
-
-todos los mamadores
-
-literarios de
-
-estilos pasajeros.
+piso el freno y muero.
 
 &nbsp;
 
