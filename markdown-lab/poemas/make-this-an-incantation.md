@@ -141,7 +141,11 @@ and stop displaying
 
 our inner self
 
-for them to display theirs.
+for them to
+
+have the chance to
+
+display theirs.
 
 &nbsp;
 
