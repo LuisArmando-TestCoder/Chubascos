@@ -69,7 +69,7 @@ similarities
 
 within the groups
 
-they lived in.
+they live in.
 
 &nbsp;
 
