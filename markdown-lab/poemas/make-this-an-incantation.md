@@ -81,7 +81,11 @@ we can pay attention
 
 to each person
 
-that talks with us.
+that talks with us,
+
+regardless of the box
+
+we think they come from.
 
 &nbsp;
 
