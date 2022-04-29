@@ -21,9 +21,15 @@ with a responsibility.
 
 &nbsp;
 
-Words do hurt
+To some,
 
-and we have
+some words,
+
+sometimes hurt,
+
+we don't know them
+
+but they need us
 
 to be delicate
 
