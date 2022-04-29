@@ -7,7 +7,7 @@ Make this an incantation,
 
 for the ones who understand
 
-or for the ones who want to.
+or for those who want to.
 
 &nbsp;
 
