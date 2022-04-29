@@ -95,7 +95,7 @@ aware and responsible.
 
 It is not easy,
 
-but it doesn’t
+but it doesn't
 
 have to be.
 
@@ -133,7 +133,7 @@ just to find our
 
 place in the world,
 
-we don’t have to
+we don't have to
 
 shut our voice up
 
