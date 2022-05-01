@@ -21,12 +21,6 @@ salvadoras o asesinas.
 
 &nbsp;
 
-No sé qué es esa boca,
-
-a mi mirada le das vida.
-
-&nbsp;
-
 Una sabia o una loca
 
 que tienes escondida.

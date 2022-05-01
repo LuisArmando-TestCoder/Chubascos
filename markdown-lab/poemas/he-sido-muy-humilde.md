@@ -183,7 +183,7 @@ a todos ustedes, a quienes he fotografiado.
 
 &nbsp;
 
-¿Para qué sirve la palabra “cristales”,
+¿Para qué sirve la palabra "cristales",
 
 si los mismos no son apreciados?
 

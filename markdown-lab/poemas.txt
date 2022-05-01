@@ -215,36 +215,6 @@ y a veces, me pongo a elegir,
 hasta que se hace tarde.
 <happy
 ---
-La piel me brilla;
-sudor y brisas;
-el Sol me abriga
-mi piel morena.
-
-Cicatriz vainilla
-y el rojo y café,
-cómo brilla mi piel,
-sobre todo el carmín.
-
-Cataratas de mí;
-vuelvo a la tierra,
-y la tierra
-vuelve hacia mí.
-
-Me rodean tinieblas;
-personas de sombra;
-el Sol me saluda;
-me tiemblan las venas;
-el frío me arde;
-se estiran mis dedos;
-regalo mis brisas,
-las que tengo por dentro.
-
-Mi mano extendida
-me brilla carmín,
-refleja tan linda,
-qué linda mi piel.
-<sad
----
 Las miradas misteriosas
 son muy fuertes y aguerridas.
 
@@ -253,9 +223,6 @@ son profundas o vacías.
 
 Las personas misteriosas,
 salvadoras o asesinas.
-
-No sé qué es esa boca,
-a mi mirada le das vida.
 
 Una sabia o una loca
 que tienes escondida.
@@ -395,50 +362,6 @@ me consideren un estúpido,
 quiero mis fútiles recuerdos ahí,
 en el camino de los caprichos.
 <normal
----
-Al verte desecha
-en una albina
-gigante acolchada,
-me enteré.
-
-Tu pelo ya no flotaba.
-
-Preguntas si
-queda esperanza
-por este camino,
-si vale la pena
-continuar viendo
-las repetitivas
-nuevas ocurrencias
-del destino.
-
-Pero corazón ajeno,
-ser desconocido,
-te sumergiste
-en un océano opaco
-a sabiendas que
-tenderías a refugiarte
-de la tenebrosidad
-dentro de ti misma.
-
-Sácate la mentira,
-el abismo no es
-negativo.
-
-La hiel del fondo
-de tus dudas
-se endulza con
-tus ocurrencias.
-
-No temas extinguirte,
-si eres inflamable
-puedes prenderte de nuevo.
-
-Si estás envuelta
-por la oscuridad,
-puedes superponerle
-tu luminiscencia.
-<sad
 ---
 Si supieras
 lo que está
@@ -1255,118 +1178,7 @@ pero al final, la vida,
 solo con amor en medio.
 <sad
 ---
-Para superar el dolor,
-tenemos que
-abrazar la soledad.
-
-Ser uno más,
-en un mar de números,
-rodeado pero sin amigos,
-lo cual es muy solitario,
-y más para una criatura
-que tiene que encontrar
-la manera de ignorarlo.
-
-Día a día, la crisis
-pide que abras la puerta,
-y cuando todo se calla,
-grita más fuerte,
-golpea más fuerte,
-hasta el punto en que
-te hace pensar,
-que si no abres,
-se colará un recuerdo,
-y que las memorias
-y las verdades
-inundarán tu casa,
-y los pensamientos
-tirarán la puerta abajo.
-
-Casi todo el mundo
-tiene una chance,
-pero ese casi muestra
-la puerta abierta rodeada
-por una sombra de injusticia
-alrededor de la tenue
-grieta de la oportunidad,
-y sí, los tontos iluminados
-no notarán que los opacos
-están siendo arrojados
-por el acantilado,
-sin opción a mostrar
-de lo que están hechos.
-
-Camino en el borde,
-en un ir y venir de visibilidad.
-
-Si no brillo a posta,
-nadie me ve.
-
-Pero esto es lo que quería,
-atrapar a algunos suicidas
-por la Roca del León Dormido
-y transmitir algo de esta reflexión;
-caminar por el borde,
-con una vista de esperanza.
-<normal
----
 A las almas más tiernas.
-
-¿Por qué añoran
-las mentiras?
-
-¿La verdad
-carcome a quienes
-no la han aceptado?
-
-Le damos tanto
-valor a la escasez,
-pero la decencia verdadera,
-aquella sin etiquetas,
-sin elegancia,
-sin haber sido predicada,
-aquella sigue
-siendo ridiculizada.
-
-¿Por qué buscan héroes
-si se burlan de ellos?
-
-¿Por qué añoramos
-lo que no somos?
-
-Por qué, por qué,
-por qué a todo.
-
-¿No se han
-cuestionado
-a sí mismos?
-
-Somos tan visionarios
-e idealistas.
-
-Quizá nos asusta
-lo desconocido,
-pero aquel posible
-y misterioso halo,
-ese nos hipnotiza.
-
-Es tan fácil endiosar
-a símbolos deshumanizados.
-
-No queremos despojarnos
-de rituales, altares e ídolos.
-
-Fantaseamos
-con los mayores
-de los provechos.
-
-En busca de la aceptación,
-preferimos reconfigurarnos.
-
-Soñamos, a veces,
-con escalar
-a lo más alto
-del estatus.
 
 Somos adictos
 a imaginarnos.
@@ -1380,21 +1192,11 @@ pero los pies del tiempo
 solo saben ir
 hacia adelante.
 
-Ácido en la garganta,
-si no estamos avanzando,
-quemándonos por dentro
-cada noche.
-
-Caminantes arrumbados
-al final de la temporada,
-más óxido cada semana.
-
 Respirar es nuestra oportunidad
 de salir a flote en la vida,
 pero eventualmente
 el óxido nos matará,
 por eso respirar vale,
-por eso así también la vida,
 por eso hacemos trueques
 con lo que se acaba.
 
@@ -1433,20 +1235,6 @@ te liberes de complejos
 y le des al mundo aquello
 para lo que estás hecho.
 
-Ya no es como antes,
-estamos atestados,
-sobrepoblados
-de maravillas,
-somos muchos,
-y aunque minoría,
-personas hermosas
-hay muchísimas,
-abre los ojos,
-mira las almas
-preciosas que caminan,
-cada cien metros,
-quizá, veas más de una.
-
 Estamos repletos
 de historias,
 de obras maestras
@@ -1454,10 +1242,6 @@ que nos cubren la vista,
 parece ruido,
 pero es el Universo
 lo que estamos observando.
-
-Cada vez crecemos
-más intensos
-y grandiosos.
 
 Hay tantos humildes
 que podrían regodearse;
@@ -1497,31 +1281,6 @@ A las almas más tiernas,
 debemos de ser fuertes.
 <happy
 ---
-Me estoy poniendo sentimental
-con una película de terror.
-
-Creo que se me olvidó la criatura,
-creo que se me olvidó el suspenso,
-aquel categorizado como insostenible,
-ese lo sostengo.
-
-Creo que no es por la película,
-creo que es por la disparidad
-entre lo que veo, mis reacciones
-y esto que siento.
-
-Creo que no estaría tan calmado
-si empatizara con los personajes,
-si en el fondo no quisiera
-que esos monstruos me llevaran.
-
-La verdad es que,
-estaría completamente
-de acuerdo con ello.
-¡Sí, sí, llévenme a mí!
-¡Yo los protejo!
-Pero con gusto por dentro.
-
 Mi mente caótica
 se está perdiendo otra vez,
 veré a dónde me lleva,
@@ -1957,144 +1716,6 @@ porque mi última memoria
 es la de mi último suspiro.
 <normal
 ---
-El Palacio de Abismo.
-
-Pasa que no has recorrido
-hasta el final de mi amado,
-aquel que tanto pregono.
-
-Solo viste la solitaria
-escalinata y pegaste carrera,
-pero hacia el lado contrario,
-contándote a ti misma
-que la felicidad es
-una mentira viable,
-pero para los ignorantes
-que no han conocido
-el desamparo.
-
-Te digo que después
-de las escaleras verás
-recámaras de horrores
-más espeluznantes todavía,
-pero esas son tiernas verdades
-ante lo que se aproxima.
-
-Una vez que alcanzas
-la alcoba, ahí,
-al frente y a tu izquierda
-una entrada vislumbra
-un pasillo que da
-hacia una sala
-donde discuten
-personalidades
-acerca de su esencia;
-cuán infeliz e inseguros
-son tantos taciturnos
-en la adolescencia,
-en la adultez temprana,
-en la no correspondencia.
-
-Pero bueno,
-si no te distraes
-y sigues recto,
-encuentras
-la salida al balcón,
-que da al jardín
-de los objetivos,
-escalones abajo,
-entre asfixiante
-incertidumbre.
-
-Y allí, en un claro,
-lo encuentras;
-pero no la felicidad
-que tanto pregonas,
-que tanto has dicho
-es para ignorantes
-y para los niños,
-si no, un letrero.
-
-Si este no es nítido,
-debe de limpiarse
-con tus reflexiones
-al respecto.
-
-Y verás que apunta
-a una fuente
-con agua negra,
-pero no te asquees,
-solo es clorofila
-y puedes beberla.
-
-En ella verás
-lo que necesitabas
-para ocasionar en ti
-lo que tanto ignoras
-pero anhelas,
-aunque tendrás
-que pensar por un rato,
-porque por un rato
-solo verás tu reflejo.
-<normal
----
-Hay un curioso misterio
-detrás del ofusque
-de esos ojos almendrados.
-
-Regañas al niño, pero,
-¿qué hay de su pasado?
-
-¿Ya has ido a hablarle?
-
-Le dices malcriado pero,
-¿ya te aseguraste de que
-no le han asaltado?
-
-Es muy fácil barbarizarles,
-que el mundo es estúpido,
-y sin haber en cada caso
-y en sus suelas,
-habernos cuadrado.
-
-Claro que no entiendes
-por qué está tan agitado,
-pero en vez de gritarle,
-acércate con servilletas,
-pues a un niño sucio,
-con manchas de pecados,
-enfrentarlo con atención
-es un acto de piedad,
-para que vuelva fresco
-a experimentar sus juegos
-con nuevas precauciones.
-
-No se trata de malcriarlo,
-si no de darle intentos
-a quien va empezando.
-
-Por lo que deja
-al pequeño humano
-tratar de arreglarlo.
-
-Acércate en buenos términos;
-no lo insultes a la distancia
-y no barras sus problemas,
-enséñale a limpiarlos.
-
-¿Acaso barrerías
-a una molesta
-cría de gato?
-
-Lo frágil se lleva
-con cuidado.
-
-Y si no vas a protegerlo,
-al menos, no lo critiques
-sin contexto y sin haber visto
-por lo que ha pasado.
-<normal
----
 No tienes que serlo,
 nadie te debe nada
 y no tienes que esperar
@@ -2310,49 +1931,6 @@ son aquellas en las que
 ni tienes que luchar.
 <love
 ---
-No puedo determe
-estando frente a ti.
-
-¿Cómo me libero?
-
-Me siento fuerte,
-me alejo de mí, o,
-¿será que me acerco?
-
-¿Qué será de ti
-si me desato?
-
-Te quiero con ternura,
-pero este ardor que siento,
-quiero incendiarlo.
-
-Tan linda,
-volviéndome
-en toda regla,
-un pirómano.
-
-No quiero incinerarte,
-pero casi pensaría
-que no quieres evitarlo.
-
-Y si es aquello que pienso,
-he de protegerte
-pero entre mi asalto.
-
-Y acabaremos felices,
-como las cenizas que rien,
-de un fénix moribundo.
-
-Si persistes en el juego,
-no me detendré,
-no tendré piedad,
-mi amante y mi rival,
-te prenderé fuego
-desde la nuca hasta
-la espina dorsal,
-y pedirás misericordia.
-<love
----
 Tercera copa encima.
 
 ¿Qué será que se me olvida
@@ -2386,41 +1964,6 @@ a la frase de Dios,
 como Charles decía,
 que hayan tantos poetas
 y tan poca poesía.
-<happy
----
-Está bien,
-seré mi yo herido
-que se va curando,
-mi yo con miedo
-que se va envalentonado,
-seré el yo
-que he estado esperando,
-después de todo este tiempo
-quebraré la máscara
-y enfrentaré mis pecados.
-
-Re avanzo.
-
-Un humano se muestra humano,
-es parte del buen diseño,
-que la fachada te prepare
-para el interior del proyecto,
-o que la comida
-sepa como se ve,
-o que el trailer del juego
-sea sincero.
-
-Pero siendo honestos,
-¿quién es tan bello
-en el interior
-como para mostrarse
-cristalino?
-
-Bueno, yo
-creo en mí mismo,
-y en ese algo maravilloso
-que se vislumbra
-entre mis grietas.
 <happy
 ---
 A pesar de todo,

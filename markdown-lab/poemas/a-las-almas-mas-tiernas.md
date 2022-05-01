@@ -7,118 +7,6 @@ A las almas más tiernas.
 
 &nbsp;
 
-¿Por qué añoran
-
-las mentiras?
-
-&nbsp;
-
-¿La verdad
-
-carcome a quienes
-
-no la han aceptado?
-
-&nbsp;
-
-Le damos tanto
-
-valor a la escasez,
-
-pero la decencia verdadera,
-
-aquella sin etiquetas,
-
-sin elegancia,
-
-sin haber sido predicada,
-
-aquella sigue
-
-siendo ridiculizada.
-
-&nbsp;
-
-¿Por qué buscan héroes
-
-si se burlan de ellos?
-
-&nbsp;
-
-¿Por qué añoramos
-
-lo que no somos?
-
-&nbsp;
-
-Por qué, por qué,
-
-por qué a todo.
-
-&nbsp;
-
-¿No se han
-
-cuestionado
-
-a sí mismos?
-
-&nbsp;
-
-Somos tan visionarios
-
-e idealistas.
-
-&nbsp;
-
-Quizá nos asusta
-
-lo desconocido,
-
-pero aquel posible
-
-y misterioso halo,
-
-ese nos hipnotiza.
-
-&nbsp;
-
-Es tan fácil endiosar
-
-a símbolos deshumanizados.
-
-&nbsp;
-
-No queremos despojarnos
-
-de rituales, altares e ídolos.
-
-&nbsp;
-
-Fantaseamos
-
-con los mayores
-
-de los provechos.
-
-&nbsp;
-
-En busca de la aceptación,
-
-preferimos reconfigurarnos.
-
-&nbsp;
-
-Soñamos, a veces,
-
-con escalar
-
-a lo más alto
-
-del estatus.
-
-&nbsp;
-
 Somos adictos
 
 a imaginarnos.
@@ -143,24 +31,6 @@ hacia adelante.
 
 &nbsp;
 
-Ácido en la garganta,
-
-si no estamos avanzando,
-
-quemándonos por dentro
-
-cada noche.
-
-&nbsp;
-
-Caminantes arrumbados
-
-al final de la temporada,
-
-más óxido cada semana.
-
-&nbsp;
-
 Respirar es nuestra oportunidad
 
 de salir a flote en la vida,
@@ -170,8 +40,6 @@ pero eventualmente
 el óxido nos matará,
 
 por eso respirar vale,
-
-por eso así también la vida,
 
 por eso hacemos trueques
 
@@ -249,34 +117,6 @@ para lo que estás hecho.
 
 &nbsp;
 
-Ya no es como antes,
-
-estamos atestados,
-
-sobrepoblados
-
-de maravillas,
-
-somos muchos,
-
-y aunque minoría,
-
-personas hermosas
-
-hay muchísimas,
-
-abre los ojos,
-
-mira las almas
-
-preciosas que caminan,
-
-cada cien metros,
-
-quizá, veas más de una.
-
-&nbsp;
-
 Estamos repletos
 
 de historias,
@@ -290,14 +130,6 @@ parece ruido,
 pero es el Universo
 
 lo que estamos observando.
-
-&nbsp;
-
-Cada vez crecemos
-
-más intensos
-
-y grandiosos.
 
 &nbsp;
 

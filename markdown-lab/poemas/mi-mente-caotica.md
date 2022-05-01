@@ -1,58 +1,8 @@
 ---
-slug: "/poemas/me-estoy-poniendo-sentimental"
+slug: "/poemas/mi-mente-caotica"
 tags: ["sad"]
-title: "me-estoy-poniendo-sentimental"
+title: "mi-mente-caótica"
 ---
-Me estoy poniendo sentimental
-
-con una película de terror.
-
-&nbsp;
-
-Creo que se me olvidó la criatura,
-
-creo que se me olvidó el suspenso,
-
-aquel categorizado como insostenible,
-
-ese lo sostengo.
-
-&nbsp;
-
-Creo que no es por la película,
-
-creo que es por la disparidad
-
-entre lo que veo, mis reacciones
-
-y esto que siento.
-
-&nbsp;
-
-Creo que no estaría tan calmado
-
-si empatizara con los personajes,
-
-si en el fondo no quisiera
-
-que esos monstruos me llevaran.
-
-&nbsp;
-
-La verdad es que,
-
-estaría completamente
-
-de acuerdo con ello.
-
-¡Sí, sí, llévenme a mí!
-
-¡Yo los protejo!
-
-Pero con gusto por dentro.
-
-&nbsp;
-
 Mi mente caótica
 
 se está perdiendo otra vez,
