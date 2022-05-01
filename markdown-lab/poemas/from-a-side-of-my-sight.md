@@ -55,7 +55,7 @@ to the dark clouds
 
 within the storm
 
-of doubts.
+with rainy doubts.
 
 &nbsp;
 
