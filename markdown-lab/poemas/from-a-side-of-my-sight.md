@@ -65,7 +65,7 @@ who might have already
 
 point out at you, darling:
 
-I felt the wonder walking,
+I felt the wonder walking
 
 when you were passing
 
