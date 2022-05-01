@@ -67,7 +67,7 @@ point out at you, darling:
 
 I felt the wonder walking
 
-when you were passing
+when you were passing by
 
 across my horizon line.
 
