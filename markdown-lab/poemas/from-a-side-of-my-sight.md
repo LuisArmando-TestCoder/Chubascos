@@ -11,7 +11,7 @@ causing me to give up
 
 on this dream of being alone,
 
-now I can’t stop picturing
+now I can't stop picturing
 
 my evenings with
 
