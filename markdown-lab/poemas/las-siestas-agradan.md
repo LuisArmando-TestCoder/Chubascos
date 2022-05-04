@@ -45,16 +45,18 @@ y siluetas fantasmagóricas.
 
 &nbsp;
 
-Pero ahora con los párpados
+Pero ahora los párpados
 
 como las cobijas,
 
-suaves y arrugados,
+suaves y arrugados.
 
-quizá con una tonta risa,
+&nbsp;
+
+Quizá una tonta risa dicta,
 
 hundiendo la cara en la almohada
 
 en pos de cinco minutos extra,
 
-dicta, sobrevivimos el día.
+que sobrevivimos el día.
