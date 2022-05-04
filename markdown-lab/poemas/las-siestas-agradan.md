@@ -55,6 +55,6 @@ Quizá una tonta risa dicta,
 
 hundiendo la cara en la almohada
 
-en pos de cinco minutos extra,
+en pos de cinco minutos extra:
 
-que sobrevivimos el día.
+sobrevivimos el día.
