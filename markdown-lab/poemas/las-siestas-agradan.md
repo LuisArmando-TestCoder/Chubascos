@@ -43,7 +43,7 @@ y siluetas fantasmagóricas.
 
 &nbsp;
 
-Pero ahora los párpados
+Ahora los párpados
 
 como las cobijas,
 
