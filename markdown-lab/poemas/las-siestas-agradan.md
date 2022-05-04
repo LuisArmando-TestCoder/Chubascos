@@ -19,38 +19,42 @@ y los espejismos.
 
 Los cambios le dan sentido
 
-al que soñemos,
+al que soñemos.
 
-por los cambios,
+&nbsp;
 
-por los cambios de los días
+Por los cambios.
+
+&nbsp;
+
+Por los cambios de los días
 
 podemos resistir el sufrimiento,
 
 porque sabemos que
 
-cuanto al despertar
+sobre sábanas calientes
 
-entre sábanas calientes
-
-con olor a Sol,
+entre olor a Sol,
 
 habremos pasado ilesos
 
 por entre la penumbra
 
-y las siluetas fantasmagóricas,
+y siluetas fantasmagóricas.
 
-pero ahora con los párpados
+&nbsp;
+
+Pero ahora con los párpados
 
 como las cobijas,
 
 suaves y arrugados,
 
-y quizá con un tonta risa,
+quizá con una tonta risa,
 
-hundiendo la cara en la almohada,
+hundiendo la cara en la almohada
 
 en pos de cinco minutos extra,
 
-pues sobrevivimos el día.
+dicta, sobrevivimos el día.
