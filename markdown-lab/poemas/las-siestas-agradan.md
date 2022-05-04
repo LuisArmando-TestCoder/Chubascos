@@ -5,13 +5,11 @@ title: "las-siestas-agradan"
 ---
 Las siestas agradan
 
-cuando se terminan
+cuando en buenos términos
 
-en buenos términos,
+se terminan entre
 
-entre el borde
-
-del despertad
+el borde del despertad
 
 y los espejismos.
 
