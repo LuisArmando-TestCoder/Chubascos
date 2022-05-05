@@ -97,9 +97,9 @@ el convertirme en su escudo.
 
  
 
-Ojalá pudiera ser
+Ojalá pudiera ser,
 
-para alguna siquiera
+para alguna siquiera,
 
 la reverencia
 
