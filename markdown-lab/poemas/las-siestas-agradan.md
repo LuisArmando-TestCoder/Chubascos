@@ -3,58 +3,54 @@ slug: "/poemas/las-siestas-agradan"
 tags: ["happy"]
 title: "las-siestas-agradan"
 ---
-Las siestas agradan
+Las siestas agradan 
 
-cuando en buenos términos
+cuando se terminan 
 
-se terminan entre
+en buenos términos, 
 
-el borde del despertad
+entre el borde 
+
+del despertad 
 
 y los espejismos.
 
 &nbsp;
 
-Los cambios le dan sentido
+Los cambios le dan sentido 
 
-al que soñemos.
+al que soñemos, 
 
-&nbsp;
+por los cambios, 
 
-Por los cambios.
+por los cambios de los días
 
-&nbsp;
+podemos resistir el sufrimiento, 
 
-Por los cambios de los días
+porque sabemos que 
 
-podemos resistir el sufrimiento,
+cuando al despertar 
 
-porque sabemos que
+entre sábanas calientes 
 
-sobre sábanas calientes
+con olor a Sol, 
 
-entre olor a Sol,
+habremos pasado ilesos 
 
-habremos pasado ilesos
+por entre la penumbra 
 
-por entre la penumbra
+y las siluetas fantasmagóricas, 
 
-y siluetas fantasmagóricas.
+pero ahora con los párpados 
 
-&nbsp;
+como las cobijas, 
 
-Ahora los párpados
+suaves y arrugados,
 
-como las cobijas,
+y quizá con una tonta risa,
 
-suaves y arrugados.
+hundiendo la cara en la almohada,
 
-&nbsp;
+en pos de cinco minutos extra, 
 
-Quizá una tonta risa dicta,
-
-hundiendo la cara en la almohada
-
-en pos de cinco minutos extra:
-
-sobrevivimos el día.
+pues... sobrevivimos el día.
