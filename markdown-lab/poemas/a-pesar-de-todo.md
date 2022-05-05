@@ -33,15 +33,17 @@ que estabas conmigo.
 
 &nbsp;
 
-Y aquí desnudo,
+Y aquí, desnudo,
 
-escribiéndote mi ángel
+escribiéndote
 
-e inevitable amigo,
+mi cancerbero,
+
+inevitable amigo,
 
 mi orbe eterno
 
-y vergel de sentidos,
+vergel de sentidos,
 
 recuerdo nuestros viajes,
 
@@ -61,9 +63,11 @@ y ahora mi mente
 
 se llena de nosotros
 
-entre las imborrables visiones
+entre las imborrables
 
-de las que fuimos testigos.
+visiones de las que
+
+fuimos testigos.
 
 &nbsp;
 
