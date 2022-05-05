@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/mi-aquelarre-de-luciernagas"
-tags: ["sad"]
+tags: ["normal"]
 title: "mi-aquelarre-de-luciérnagas"
 ---
 Mi aquelarre de luciérnagas
