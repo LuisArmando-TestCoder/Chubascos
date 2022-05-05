@@ -73,7 +73,7 @@ pero sí todos los gatos.
 
 &nbsp;
 
-Aún, por fuera, tan sucias;
+Aún, con memorias sucias,
 
 son tan limpias por dentro.
 
