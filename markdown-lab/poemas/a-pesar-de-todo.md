@@ -227,7 +227,7 @@ y la luz para nosotros
 
 se encontraba viajando
 
-hasta olvidar nuestro camino,
+hasta olvidar nuestro orgullo,
 
 para verla secos y sedientos
 
