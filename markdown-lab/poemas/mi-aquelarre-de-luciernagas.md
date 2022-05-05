@@ -11,17 +11,17 @@ y contradictorias
 
 y esotéricas y exóticas.
 
- 
+&nbsp;
 
 Mis articulaciones quebradizas
 
 me obligan a escribirles
 
-trasluz de parto al faro 
+trasluz de parto al faro
 
 de una noche despierta.
 
- 
+&nbsp;
 
 Tatuadas, lisas e ímpias,
 
@@ -35,13 +35,13 @@ y otras de joyería,
 
 y otras, de piercings.
 
- 
+&nbsp;
 
 Cándidas e inocuas,
 
 maliciosas y astutas.
 
- 
+&nbsp;
 
 Quieren ser amadas
 
@@ -51,13 +51,13 @@ y no se conformarán
 
 sin conseguirlo.
 
- 
+&nbsp;
 
 Y se dicen tan valientes,
 
 y aunque nobles son cobardes.
 
- 
+&nbsp;
 
 Les aterran los espectros,
 
@@ -71,13 +71,13 @@ e insectos, pero no todos,
 
 pero sí todos los gatos.
 
- 
+&nbsp;
 
 Aún, por fuera, tan sucias;
 
 son tan limpias por dentro.
 
- 
+&nbsp;
 
 No se emboban por nadie
 
@@ -85,7 +85,7 @@ que no sea como los árboles,
 
 majestuosos y callados.
 
- 
+&nbsp;
 
 Aún siendo tan hermosas,
 
@@ -93,14 +93,12 @@ ilusas, no me causa
 
 ni un ápice de remordimiento
 
-el convertirme en su escudo.
+convertirme en su escudo.
 
- 
+&nbsp;
 
-Ojalá pudiera ser,
+A al menos una,
 
-para alguna siquiera,
+le entregaría
 
-la reverencia
-
-que les han negado.
+mi reverencia.
