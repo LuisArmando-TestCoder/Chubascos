@@ -25,10 +25,6 @@ de una noche despierta.
 
 Tatuadas, lisas e ímpias,
 
-¿cómo hacen para
-
-mantenerse inocentes?
-
 repletas de botines
 
 y otras de joyería,
@@ -40,6 +36,12 @@ y otras, de piercings.
 Cándidas e inocuas,
 
 maliciosas y astutas.
+
+&nbsp;
+
+Y aunque no lo acepten
+
+para mí son tan inocentes.
 
 &nbsp;
 
