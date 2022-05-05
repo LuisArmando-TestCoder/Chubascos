@@ -97,8 +97,14 @@ convertirme en su escudo.
 
 &nbsp;
 
-A al menos una,
+Por al menos una,
 
-le entregaría
+entre reverencias
 
-mi reverencia.
+me arrodillaría.
+
+&nbsp;
+
+Pero que no se les
+
+suba a la cabeza.
