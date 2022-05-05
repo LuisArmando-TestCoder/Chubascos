@@ -91,22 +91,8 @@ majestuosos y callados.
 
 Aún siendo tan hermosas,
 
-ilusas, no me causa
+ilusas, no me causaría
 
 ni un ápice de remordimiento
 
-convertirme en su escudo.
-
-&nbsp;
-
-Por al menos una,
-
-entre reverencias
-
-me arrodillaría.
-
-&nbsp;
-
-Pero que no se les
-
-suba a la cabeza.
+protegerlas.
