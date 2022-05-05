@@ -19,7 +19,7 @@ me has soltado.
 
 Siempre, siempre y siempre
 
-tu bastón me sostuvo.
+tu agarre me sostuvo.
 
 &nbsp;
 
