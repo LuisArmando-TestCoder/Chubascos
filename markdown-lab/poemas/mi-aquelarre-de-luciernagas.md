@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/mi-aquelarre-de-luciernagas"
-tags: ["normal"]
+tags: ["sad"]
 title: "mi-aquelarre-de-luciérnagas"
 ---
 Mi aquelarre de luciérnagas
@@ -11,7 +11,7 @@ y contradictorias
 
 y esotéricas y exóticas.
 
-&nbsp;
+ 
 
 Mis articulaciones quebradizas
 
@@ -21,7 +21,7 @@ trasluz de parto al faro
 
 de una noche despierta.
 
-&nbsp;
+ 
 
 Tatuadas, lisas e ímpias,
 
@@ -31,19 +31,19 @@ y otras de joyería,
 
 y otras, de piercings.
 
-&nbsp;
+ 
 
 Cándidas e inocuas,
 
 maliciosas y astutas.
 
-&nbsp;
+ 
 
 Y aunque no lo acepten
 
 para mí son tan inocentes.
 
-&nbsp;
+ 
 
 Quieren ser amadas
 
@@ -53,13 +53,13 @@ y no se conformarán
 
 sin conseguirlo.
 
-&nbsp;
+ 
 
 Y se dicen tan valientes,
 
 y aunque nobles son cobardes.
 
-&nbsp;
+ 
 
 Les aterran los espectros,
 
@@ -73,13 +73,13 @@ e insectos, pero no todos,
 
 pero sí todos los gatos.
 
-&nbsp;
+ 
 
 Aún, con memorias sucias,
 
 son tan limpias por dentro.
 
-&nbsp;
+ 
 
 No se emboban por nadie
 
@@ -87,7 +87,7 @@ que no sea como los árboles,
 
 majestuosos y callados.
 
-&nbsp;
+ 
 
 Aún siendo tan hermosas,
 
@@ -96,3 +96,51 @@ ilusas, no me causaría
 ni un ápice de remordimiento
 
 protegerlas.
+
+ 
+
+Entre reverencias
+
+me arrodillaría,
+
+pero entre reverencias
+
+de disculpas, porque esto
+
+es una sarta de mentiras.
+
+ 
+
+No es que me gusten
+
+los cardos negros,
+
+o que aprecie los ángeles
+
+con alas de cuervo,
+
+sino que cada vez
+
+que veo a alguien
+
+que se te parece,
+
+me aleo en recuerdos
+
+y siento que
+
+le tomo cariño.
+
+ 
+
+No tengo un tipo,
+
+sino que eras mi tipo
+
+como sea que fueras.
+
+ 
+
+Amé tu alma a ciegas
+
+y eso es lo que extraño.
