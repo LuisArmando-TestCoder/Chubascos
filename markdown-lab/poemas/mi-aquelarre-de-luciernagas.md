@@ -23,7 +23,7 @@ de una noche despierta.
 
 &nbsp;
 
-Tatuadas, lisas e ímpias,
+Tatuadas, lisas e impías,
 
 repletas de botines
 
