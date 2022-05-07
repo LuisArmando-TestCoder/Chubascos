@@ -93,8 +93,6 @@ hacia un abismo
 
 de paredes lisas,
 
-aunque muera
-
 me siento confiado,
 
 orgulloso y acompañado
