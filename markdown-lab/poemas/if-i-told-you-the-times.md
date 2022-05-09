@@ -131,6 +131,6 @@ their inclinations always change.
 
 &nbsp;
 
-So you fit in your dreams,
+So you fit your dreams,
 
 which are always infinite.
