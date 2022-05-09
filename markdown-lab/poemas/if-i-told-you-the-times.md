@@ -7,7 +7,7 @@ If I told you the times
 
 I brought someone up from the dead
 
-you'll be pleased and scared,
+you'll be pleased and scared:
 
 are you a necromancer?
 
