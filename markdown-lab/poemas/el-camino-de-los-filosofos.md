@@ -229,7 +229,7 @@ muchas diría, varios náufragos se cruzan.
 
 &nbsp;
 
-Un dolor de esclavo conforme es:
+Un dolor de esclavo conformista:
 
 hallarse desprovisto de amo
 
