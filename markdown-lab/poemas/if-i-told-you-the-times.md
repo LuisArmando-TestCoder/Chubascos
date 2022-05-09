@@ -97,7 +97,9 @@ and afraid of rejection,
 
 you have to be loyal and upright
 
-to the one that gets you every time
+to the one that gets you
+
+every time
 
 without your permission.
 
