@@ -137,7 +137,7 @@ Cada activación es una estimulación.
 
 Te darás cuenta de cuánto apreciamos
 
-ser estimulados aunque sea un poquito.
+ser estimulados, aunque sea un poquito.
 
 &nbsp;
 
