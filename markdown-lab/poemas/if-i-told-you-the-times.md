@@ -7,7 +7,7 @@ If I told you the times
 
 I brought someone up from the dead
 
-you’ll be pleased and scared,
+you'll be pleased and scared,
 
 are you a necromancer?
 
@@ -43,7 +43,7 @@ I only resurrect the ones
 
 who were looking for an answer,
 
-but, what’s the question?
+but, what's the question?
 
 was this all worth it?
 
@@ -53,7 +53,7 @@ Common specter,
 
 from one to another,
 
-this not about worth,
+this is not about worth,
 
 cuz you are a spider.
 
@@ -103,11 +103,11 @@ without your permission.
 
 &nbsp;
 
-Not every is made to love you,
+Not everyone is made to love you,
 
-almost everybody won’t know
+almost everybody won't know
 
-how real love really feels,
+how real love really feels like,
 
 but you are preparing for that task.
 
@@ -119,11 +119,11 @@ amazement first
 
 you have to make them taste,
 
-and then they’ll know their new preferences.
+and then they'll know their new preferences.
 
 &nbsp;
 
-You don’t have to fit them,
+You don't have to fit them,
 
 their inclinations always change.
 
