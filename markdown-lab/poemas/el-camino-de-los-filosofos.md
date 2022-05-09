@@ -117,7 +117,7 @@ que ha decidido no hacer nada,
 
 estaría en realidad, encantado
 
-de tener una jaula que lo dirija.
+de tener un destino que lo dirija.
 
 &nbsp;
 
