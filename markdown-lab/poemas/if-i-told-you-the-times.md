@@ -133,4 +133,4 @@ their inclinations always change.
 
 So you fit your dreams,
 
-which are always infinite.
+which are truly infinite.
