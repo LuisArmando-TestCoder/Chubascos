@@ -113,7 +113,7 @@ almost everybody won't know
 
 how real love really feels like,
 
-but you are preparing for that task.
+so you better open the door.
 
 &nbsp;
 
