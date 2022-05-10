@@ -61,7 +61,7 @@ cuz you are a spider.
 
 &nbsp;
 
-Worth comes out of you
+Value comes out of you
 
 like from you comes fabric.
 
