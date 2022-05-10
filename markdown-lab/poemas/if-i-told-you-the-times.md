@@ -41,7 +41,7 @@ across my crannies?
 
 &nbsp;
 
-I only resurrect the ones
+I only wake up the ones
 
 who were looking for an answer,
 
