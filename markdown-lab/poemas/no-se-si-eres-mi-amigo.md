@@ -69,7 +69,7 @@ mi pasión, mi orgullo?
 
 Solo contigo, 
 
-la tranquilidad envolvente
+la tranquilidad
 
 me constriñe.
 
