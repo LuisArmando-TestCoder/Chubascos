@@ -67,13 +67,15 @@ mi pasión, mi orgullo?
 
  
 
-Solo con vos, la tranquilidad 
+Solo contigo, 
 
-envolvente me constriñe.
+la tranquilidad envolvente
+
+me constriñe.
 
 &nbsp;
 
-Con vos rodeo mi cuello 
+Contigo rodeo mi cuello 
 
 tratando de no sofocarme.
 
