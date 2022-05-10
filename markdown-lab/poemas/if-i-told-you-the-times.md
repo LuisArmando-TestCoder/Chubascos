@@ -31,9 +31,11 @@ wanting to hide their carapace.
 
 But the shell is ugly,
 
-we all know about it,
+we all know about it.
 
-can you see my inner body
+&nbsp;
+
+Can you see my beauty
 
 across my crannies?
 
