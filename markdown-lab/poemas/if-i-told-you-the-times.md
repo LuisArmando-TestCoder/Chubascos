@@ -123,7 +123,7 @@ amazement first
 
 you have to make them taste,
 
-and then they'll know their new preferences.
+and then they'll have new preferences.
 
 &nbsp;
 
