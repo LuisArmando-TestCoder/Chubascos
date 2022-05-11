@@ -75,9 +75,11 @@ me constriñe.
 
 &nbsp;
 
-Contigo rodeo mi cuello
+Contigo mis dedos
 
-tratando de no sofocarme.
+rodean mi cuello
+
+para no sofocarme.
 
 &nbsp;
 
