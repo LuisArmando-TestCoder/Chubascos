@@ -7,13 +7,13 @@ Loneliness, as light as it is,
 
 feels heavier day by day
 
-like a bone crushing 
+like a bone crushing
 
 bottom of the sea.
 
- 
+&nbsp;
 
-But whenever I can share 
+But whenever I can share
 
 my loneliness with somebody,
 
