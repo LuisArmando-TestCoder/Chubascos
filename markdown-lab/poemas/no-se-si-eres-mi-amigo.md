@@ -61,7 +61,7 @@ Siendo más ligero que el aire,
 
  
 
- ¿A dónde se fue mi brillo,
+¿A dónde se fue mi brillo,
 
 mi pasión, mi orgullo?
 
