@@ -25,23 +25,19 @@ que es difícil saber lo que se aproxima.
 
 No soy aleatorio,
 
-me considero repleto,
+sino que pleno de ideas
 
-un tazón pleno de ideas
+floto en el espacio,
 
-que flota en el espacio,
+más allá del brazo de Perseo,
+
+más allá de Andrómeda,
 
 buscando galaxias,
 
-donde su materia escasa
+donde mi materia escasa
 
 sea del aprecio de alguien.
-
-&nbsp;
-
-Más allá del brazo de Perseo,
-
-más allá de Andrómeda.
 
 &nbsp;
 
@@ -61,27 +57,27 @@ un futuro ideal?
 
 &nbsp;
 
-¿Me asquea
-
-la normalidad?
-
-&nbsp;
-
 ¿Busco ser
 
 diferente?
 
 &nbsp;
 
-Bueno, antes sí,
+Ahora busco ser quien soy,
 
-pero ya no,
+una irrepetible huella dactilar
 
-ahora busco ser yo,
+con virtudes y defectos,
 
-con mis virtudes
+en pos del futuro,
 
-y defectos.
+disfrutando el presente.
+
+&nbsp;
+
+Ser diferente es inevitable
+
+cuando se es uno mismo.
 
 &nbsp;
 
@@ -91,15 +87,13 @@ pero me gusta esto.
 
 &nbsp;
 
-Puedo lidiar
+Puedo lidiar sereno
 
 con el silencio
 
 cuando me acuesto
 
-y tomar sereno a alguien,
-
-fuera de mi cuerpo.
+y aceptar mi abrazo.
 
 &nbsp;
 
@@ -113,7 +107,9 @@ en mi hipocampo.
 
 &nbsp;
 
-Estoy lleno
+Mis experiencias
+
+me llenan
 
 de privilegios.
 
@@ -123,11 +119,13 @@ Brazos me sostienen
 
 mientras lloro el alma
 
-sin saber por qué,
+sin saber por qué.
 
-o pierdo la mente
+&nbsp;
 
-entre vaho blanco,
+Pierdo la mente
+
+entre vaho blanco
 
 y la recupero después.
 
@@ -147,13 +145,25 @@ He luchado a puño limpio sonriendo,
 
 que mis tendones se desgarren
 
-y seguir corriendo,
+y seguir corriendo.
 
-verme al espejo, tirarme un beso,
+&nbsp;
 
-bailar desnudo y conocerla;
+Verme al espejo,
 
-coger en el baño conociéndola;
+tirarme un beso.
+
+&nbsp;
+
+Bailar desnudo.
+
+&nbsp;
+
+Conocerla.
+
+&nbsp;
+
+Coger en el baño conociéndola;
 
 perder clases de matemáticas,
 
@@ -163,13 +173,17 @@ por coger con ella.
 
 Desde levantarme airoso,
 
-hasta ser un vegetal;
+hasta ser un vegetal.
 
-desde abandonar la casa,
+&nbsp;
 
-hasta regresar;
+Desde abandonar la casa,
 
-sacar una carrera,
+hasta regresar.
+
+&nbsp;
+
+Sacar una carrera,
 
 luego tomar otra,
 
