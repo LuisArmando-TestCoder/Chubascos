@@ -153,19 +153,15 @@ que no nos vemos.
 
 Recuerdo vívidamente,
 
-aceptaste a mi niño interno,
+aceptaste a mi niño interno
 
 y yo fui un pendejo,
 
 te transformé en fantasma,
 
-así que entiendo
+así que entiendo y lo acepto,
 
-y lo acepto,
-
-fue mi culpa
-
-y lo siento.
+fue mi culpa y lo siento.
 
 &nbsp;
 
@@ -293,15 +289,11 @@ es acerca del poema,
 
 porque ya sabes,
 
-habemos muchos
+somos muchos
 
-con un déficit
+los despistados
 
-de atención.
-
-&nbsp;
-
-A veces los poemas
+y los poemas
 
 son los puentes
 
@@ -325,9 +317,7 @@ de nuevo.
 
 &nbsp;
 
-De verdad,
-
-mi fantasma,
+De verdad, mi fantasma,
 
 me gustas mucho,
 
