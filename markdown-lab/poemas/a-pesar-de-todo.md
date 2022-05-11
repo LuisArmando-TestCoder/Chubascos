@@ -17,9 +17,7 @@ me has soltado.
 
 &nbsp;
 
-Siempre, siempre y siempre
-
-tu agarre me sostuvo.
+Siempre tu agarre me sostuvo.
 
 &nbsp;
 

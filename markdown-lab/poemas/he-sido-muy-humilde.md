@@ -101,13 +101,11 @@ Y cuando le añades versos,
 
 y cuando le añades notas,
 
-se doblan los hilos
+el espacio se desenvuelve
 
-y el espacio se desenvuelve
+y aparecen entre burbujas
 
-y aparecen entre
-
-burbujas de tierra y aire,
+de tierra y aire,
 
 seres de todos colores,
 
