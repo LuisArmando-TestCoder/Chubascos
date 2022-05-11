@@ -57,7 +57,7 @@ me sirven de consuelo.
 
 Siendo más ligero que el aire,
 
-¿Por qué pesas tanto?
+¿por qué pesas tanto?
 
 &nbsp;
 
