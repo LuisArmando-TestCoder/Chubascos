@@ -49,17 +49,17 @@ peor que otro, tienes que escoger.
 
 &nbsp;
 
-Y tal vez gritarás asustado,
-
-porque no encontrarás uno,
-
-sino motivos varios,
+Y tal vez gritarás,
 
 y querrás partirte
 
 para convertirte 
 
-en distintos individuos.
+en individuos,
+
+porque no encontrarás uno,
+
+sino varios motivos.
 
 &nbsp;
 
