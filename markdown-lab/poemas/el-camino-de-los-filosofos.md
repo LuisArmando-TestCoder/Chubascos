@@ -33,19 +33,7 @@ la cinta negra de la filosofía:
 
 aún sabiendo que no hay camino
 
-peor que otro, tienes que escoger,
-
-y aunque todos parezcan el mismo,
-
-debes, a ciegas, recostarte y tocar
-
-el prólogo de la senda de cada uno
-
-y sentir su textura y masticar su nitrato
-
-y escuchar las sensaciones
-
-que se te dibujan en la psique.
+peor que otro, tienes que escoger.
 
 &nbsp;
 
@@ -57,7 +45,7 @@ que se te dibujan en la psique.
 
 &nbsp;
 
-¿Cuál suelo me llama?
+¿Cuál suelo escojo?
 
 &nbsp;
 
@@ -103,24 +91,6 @@ habrá todavía un fallo metastásico.
 
 &nbsp;
 
-Quizá tú no, pero otro como tú
-
-se dé cuenta que somos un mecanismo
-
-o piezas entre las fuerzas de la naturaleza.
-
-&nbsp;
-
-El coco con un libre albedrío virtual
-
-que ha decidido no hacer nada,
-
-estaría en realidad, encantado
-
-de tener un destino que lo dirija.
-
-&nbsp;
-
 Realmente eres un autómata
 
 en un laberinto de sin sentidos
@@ -137,49 +107,13 @@ Cada activación es una estimulación.
 
 Te darás cuenta de cuánto apreciamos
 
-ser estimulados, aunque sea un poquito.
-
-&nbsp;
-
-Ahora este hiperactivo filósofo graduado
-
-que llevas dentro
-
-no sabe qué hacer con su vida
-
-más que buscar cualquier otra cosa
-
-que rellene su tiempo.
+ser estimulados, aunque sea un poco.
 
 &nbsp;
 
 Realmente no somos humanos,
 
 somos reacciones en cadena.
-
-&nbsp;
-
-Si alguno de ustedes osa buscar,
-
-encontrar y hacer lo que le dé la gana
-
-y superar su dolor al aceptarlo
-
-como su compañero de entrenamiento,
-
-encontrará que el revisar el progreso
-
-es una forma de placer,
-
-y el dolor será parte de tu hedonismo.
-
-&nbsp;
-
-Ahí hallarás el bendito estímulo,
-
-donde hasta la tristeza y el cansancio
-
-se transmutan en furor.
 
 &nbsp;
 
@@ -192,18 +126,6 @@ se alimentan de fracasos y de dudas.
 A veces queremos conseguir un enemigo,
 
 para tener un juego que nos entretenga.
-
-&nbsp;
-
-Somos seres de hábitos
-
-y si estamos acostumbrados a luchar,
-
-habrá una parte en nosotros
-
-que nos incitará a conseguir un conflicto,
-
-para luego vencerlo.
 
 &nbsp;
 
@@ -225,19 +147,7 @@ entre el océano de los artistas,
 
 en el que de hecho, a veces,
 
-muchas diría, varios náufragos se cruzan.
-
-&nbsp;
-
-Un dolor de esclavo conformista:
-
-hallarse desprovisto de amo
-
-y de nadie que lo venda,
-
-y verse libre sin sueño alguno,
-
-pidiendo a gritos un motivo que lo contenga.
+varios náufragos se cruzan.
 
 &nbsp;
 
@@ -261,30 +171,10 @@ sino también de los medios.
 
 Al final, los medios, son lo único que importa,
 
-porque son lo único que existe.
-
-&nbsp;
-
-Cuando ya lo tienes todo,
-
-pues no necesitas nada,
-
-y te sientas en los tronos de los dioses,
-
-dándote cuenta que nadie tiene nada más
-
-que un camino por recorrer,
-
-te das cuenta que eso es lo que la vida es.
-
-&nbsp;
-
-Esto es lo único que hay y existe,
+porque son lo único que existe,
 
 tu recorrido de experiencias,
 
 porque cuando se acaba,
 
-es porque ya no existes,
-
-entonces, ¿Cómo será tu camino?
+es porque ya no existes.
