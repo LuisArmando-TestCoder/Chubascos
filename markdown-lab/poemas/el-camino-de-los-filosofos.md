@@ -57,25 +57,35 @@ sino motivos varios,
 
 y querrás partirte
 
-para convertirte en distintos individuos,
+para convertirte 
 
-y tal vez te digas, racionalizando:
+en distintos individuos.
 
-pero si ya otros lo están haciendo,
+&nbsp;
 
-si ya otros viven las vidas que sueño,
+Y tal vez te digas, 
 
-ahora solo debo sentarme
+racionalizando:
 
-y ver cómo los demás lo logran,
+pero si ya otros 
+
+lo están haciendo,
+
+si ya otros viven 
+
+las vidas que sueño,
+
+solo debo sentarme
+
+y ver a los demás lograrlo,
 
 porque todos son mi cuerpo
 
-y yo y los otros somos lo mismo,
+y yo y los otros somos lo mismo;
 
 soy solo una célula que decide
 
-engordar entre el tumulto del tejido.
+engordar entre el tejido.
 
 &nbsp;
 
