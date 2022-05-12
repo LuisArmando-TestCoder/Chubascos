@@ -17,4 +17,4 @@ But whenever I can share
 
 my loneliness with somebody,
 
-I smile a little while dying.
+I smile a little.
