@@ -779,27 +779,21 @@ pero al final, la vida,
 solo con amor en medio.
 <sad
 ---
-A las almas más tiernas.
-
-Somos adictos
-a imaginarnos.
-
-No nos gustan
-los caminos muertos,
-los callejones desiertos,
-muchas veces
-preferimos devolvernos,
+Evitamos caminos muertos,
+callejones desiertos
+y preferimos devolvernos,
 pero los pies del tiempo
-solo saben ir
-hacia adelante.
+solo saben ir hacia adelante.
 
 Respirar es nuestra oportunidad
 de salir a flote en la vida,
-pero eventualmente
-el óxido nos matará,
+pero el óxido nos mata,
 por eso respirar vale,
-por eso hacemos trueques
+porque hacemos trueques
 con lo que se acaba.
+<normal
+---
+A las almas más tiernas.
 
 Queremos escuchar,
 que incandescemos
@@ -807,34 +801,22 @@ como astros,
 en paz y en brillo
 tan violentos.
 
-Pero no importa,
-aquí está
+Pero aquí está
 esta confesión.
 
 No somos especiales,
-pues normal,
-somos miles de millones,
-tantos exploradores.
+somos miles de millones.
 
 No somos necesarios,
 no somos indispensables,
-somos tantos,
-pero y aunque
-pareciera que no,
+pero, aunque no lo parezca,
 sí somos irreemplazables,
-porque somos muchísimos,
-somos tan libres.
+somos muchísimos,
+y somos tan libres.
 
 Siendo uno de tantos,
 ¿por qué no
 serías tú mismo?
-
-Deja de conmiserarte, acéptalo,
-aunque digan lo contrario,
-solo serás útil cuando
-te liberes de complejos
-y le des al mundo aquello
-para lo que estás hecho.
 
 Estamos repletos
 de historias,
@@ -843,17 +825,8 @@ que nos cubren la vista,
 parece ruido,
 pero es el Universo
 lo que estamos observando.
-
-Hay tantos humildes
-que podrían regodearse;
-tantos egocéntricos
-que se enfocan en mostrarse;
-tantos discretos
-que se concentran,
-desde el fondo
-de sus caprichos,
-en incrementarse.
-
+<happy
+---
 Queremos a alguien
 que tenga la valentía
 de decir: te amo.
@@ -861,26 +834,18 @@ Pero debemos
 de indignarnos
 y hacer que
 ese alguien
-sea nosotros,
-ego a parte,
+sea nosotros.
+
+Ego a parte,
 el verdadero amor
 siempre mata
-al orgullo,
-ojalá ames
+al orgullo.
+
+Ojalá ames
 a quien te ame
 y que ese alguien
 proteja tu dignidad.
-
-Debemos de ser tan fuertes
-que nos mostremos vulnerables,
-porque independientemente
-de lo que nos pase,
-nos levantaremos
-y seguiremos avanzando.
-
-A las almas más tiernas,
-debemos de ser fuertes.
-<happy
+<love
 ---
 Con películas de terror
 puedo dormir apaciblemente.
