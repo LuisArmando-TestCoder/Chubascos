@@ -57,7 +57,7 @@ para convertirte
 
 en individuos,
 
-porque no encontrarás uno,
+pues no encontrarás uno,
 
 sino varios motivos.
 
