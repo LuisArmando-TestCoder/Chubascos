@@ -167,10 +167,8 @@ Los medios,
 
 son lo único que importa,
 
-porque son lo único que existe,
+porque son lo único que existe;
 
 tu recorrido de experiencias,
 
-porque cuando se acaba
-
-ya no existes.
+si se acaba, ya no existes.
