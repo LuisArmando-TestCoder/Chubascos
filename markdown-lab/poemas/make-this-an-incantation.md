@@ -15,12 +15,6 @@ Our mind has to open.
 
 &nbsp;
 
-Our power comes
-
-with a responsibility.
-
-&nbsp;
-
 To some,
 
 some words,
@@ -36,46 +30,6 @@ to be delicate
 with the ones
 
 we choose.
-
-&nbsp;
-
-Telling the truth
-
-in an insensible
-
-manner might
-
-cause people to
-
-heat up and riot
-
-because they might
-
-still be processing
-
-some reality we
-
-are not aware of.
-
-In this regard,
-
-there is no
-
-correct way to act
-
-but to treat
-
-every person
-
-individually,
-
-despite the
-
-similarities
-
-within the groups
-
-they live in.
 
 &nbsp;
 
@@ -98,6 +52,8 @@ we think they come from.
 We can be delicate,
 
 aware and responsible.
+
+&nbsp;
 
 It is not easy,
 
