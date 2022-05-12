@@ -167,17 +167,19 @@ volviendo a la pregunta,
 
 ¿habrá alguien allá afuera?
 
-constantemente nos la hacíamos.
+constantemente nos la hicimos.
 
 &nbsp;
 
-En cada senda la respuesta,
+En cada senda la respuesta
 
-aunque no veíamos la periferia;
+y no veíamos la periferia;
 
-ahí la teníamos,
+ahí la teníamos.
 
-¿quién es mi alma gemela?
+&nbsp;
+
+¿Quién es mi alma gemela?
 
 preguntaban nuestras manos unidas,
 
@@ -209,9 +211,7 @@ de una Tierra conocida,
 
 nuestro quiebre sucedió,
 
-partidos y explotando,
-
-pero de ternura,
+partidos pero de ternura,
 
 porque entre canas
 
