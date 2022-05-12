@@ -37,7 +37,7 @@ peor que otro, tienes que escoger.
 
 &nbsp;
 
-¿Qué resuena conmigo?
+¿Qué resuena?
 
 &nbsp;
 
@@ -45,7 +45,7 @@ peor que otro, tienes que escoger.
 
 &nbsp;
 
-¿Cuál suelo escojo?
+¿Cuál sendero?
 
 &nbsp;
 
