@@ -163,12 +163,10 @@ sino también de los medios.
 
 &nbsp;
 
-Los medios, 
-
-son lo único que importa,
+Solo los medios importan,
 
 porque son lo único que existe;
 
 tu recorrido de experiencias,
 
-si se acaba, ya no existes.
+cuando se acaba, ya no existes.
