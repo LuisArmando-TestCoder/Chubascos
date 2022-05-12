@@ -283,8 +283,6 @@ Aquí, y ante ti,
 
 siempre seré tuyo,
 
-mi ángel amigo,
-
 mi flamante oro,
 
 mi mejor destino.
@@ -294,7 +292,3 @@ mi mejor destino.
 Seamos valerosos,
 
 siempre juntos.
-
-&nbsp;
-
-Siempre.
