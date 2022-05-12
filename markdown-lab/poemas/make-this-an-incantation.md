@@ -49,40 +49,6 @@ we think they come from.
 
 &nbsp;
 
-We can be delicate,
-
-aware and responsible.
-
-&nbsp;
-
-It is not easy,
-
-but it doesn't
-
-have to be.
-
-If you want to
-
-rationalize it,
-
-challenges make
-
-our life more
-
-interesting.
-
-&nbsp;
-
-Even though
-
-"interesting"
-
-is not always good,
-
-sometimes it is.
-
-&nbsp;
-
 Regardless of the fact
 
 that many of us
