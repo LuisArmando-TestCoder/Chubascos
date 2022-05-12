@@ -57,11 +57,7 @@ sino motivos varios,
 
 y querrás partirte
 
-para convertirte en distintos individuos
-
-y tener varias vidas
-
-y enfocarte en cada una,
+para convertirte en distintos individuos,
 
 y tal vez te digas, racionalizando:
 
@@ -119,25 +115,13 @@ somos reacciones en cadena.
 
 Los grafos de nuestra cabeza
 
-se alimentan de fracasos y de dudas.
+se alimentan de nuestras dudas.
 
 &nbsp;
 
 A veces queremos conseguir un enemigo,
 
 para tener un juego que nos entretenga.
-
-&nbsp;
-
-En el fondo, estos hábitos que equipamos
-
-son una especie de adicción
-
-que generan un síndrome de abstinencia,
-
-al que si no les suplimos su realización,
-
-con convulsiones nos cobrará la deuda.
 
 &nbsp;
 
@@ -169,12 +153,14 @@ sino también de los medios.
 
 &nbsp;
 
-Al final, los medios, son lo único que importa,
+Los medios, 
+
+son lo único que importa,
 
 porque son lo único que existe,
 
 tu recorrido de experiencias,
 
-porque cuando se acaba,
+porque cuando se acaba
 
-es porque ya no existes.
+ya no existes.
