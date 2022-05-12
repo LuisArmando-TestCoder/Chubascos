@@ -17,7 +17,7 @@ pues te sientes desolado
 
 ahora que sacaste la basura
 
-a la que le tomaste tanto cariño.
+a la que le tomaste cariño.
 
 &nbsp;
 
