@@ -33,7 +33,7 @@ al orgullo.
 
 Ojalá ames
 
-a quien te ama
+a quien te ame
 
 y que ese alguien
 
