@@ -27,7 +27,7 @@ no es adecuada.
 
 &nbsp;
 
-La soledad mata
+El silencio mata
 
 a los inquietos.
 
