@@ -1,19 +1,13 @@
 ---
-slug: "/poemas/ya-no-quedan-muchos-annos-en-el-futuro"
+slug: "/poemas/no-quedan-muchos-annos-en-el-futuro"
 tags: ["normal"]
-title: "ya-no-quedan-muchos-años-en-el-futuro"
+title: "no-quedan-muchos-años-en-el-futuro"
 ---
-Ya no quedan muchos años en el futuro,
+No quedan muchos años en el futuro,
 
 por eso me visito ahora,
 
 para empujarme a escribir ahora,
-
-porque puedo y mis capacidades sin usar
-
-son un delito que no puedo perdonarme,
-
-porque los talentos deben de aprovecharse
 
 y esta es mi rebeldía que dicta,
 
