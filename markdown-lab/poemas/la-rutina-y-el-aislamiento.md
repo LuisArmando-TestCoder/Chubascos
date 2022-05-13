@@ -51,9 +51,7 @@ como punto de referencia,
 
 porque somos cartógrafos
 
-que descubren,
-
-aunque otros
+que descubren, aunque otros
 
 conozcan sus secretos,
 
