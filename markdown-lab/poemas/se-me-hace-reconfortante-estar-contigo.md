@@ -47,4 +47,6 @@ que no puedo más que revelar.
 
 &nbsp;
 
-Sinceramente, somos dioses que se miran.
+Sinceramente, somos
+
+dioses que se miran.
