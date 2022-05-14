@@ -1723,3 +1723,8 @@ se está filtrando por mis hebras.
 
 Por favor, deja de sostenerme.
 <sad
+---
+A los que tocan la cima
+con sus pies en la tierra
+les llaman gigantes.
+<normal
