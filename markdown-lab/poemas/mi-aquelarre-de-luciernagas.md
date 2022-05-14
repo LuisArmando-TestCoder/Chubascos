@@ -13,16 +13,6 @@ y esotéricas y exóticas.
 
 &nbsp;
 
-Mis articulaciones quebradizas
-
-me obligan a escribirles
-
-trasluz de parto al faro
-
-de una noche despierta.
-
-&nbsp;
-
 Tatuadas, lisas e impías,
 
 repletas de botines
