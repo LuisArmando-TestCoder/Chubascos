@@ -1728,3 +1728,8 @@ A los que tocan la cima
 con sus pies en la tierra
 les llaman gigantes.
 <normal
+---
+Aquellos que miran lo bello
+entre lo cruel del mundo
+son preámbulos de sublimidad.
+<happy
