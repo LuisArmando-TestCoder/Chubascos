@@ -229,7 +229,9 @@ hasta olvidar nuestro orgullo,
 
 para verla secos y sedientos
 
-resplandeciendo en nuestras manos.
+resplandeciendo líquida
+
+en nuestras manos.
 
 &nbsp;
 
