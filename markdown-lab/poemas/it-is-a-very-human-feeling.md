@@ -1,15 +1,15 @@
 ---
-slug: "/poemas/it's-a-very-human-feeling"
+slug: "/poemas/it-is-a-very-human-feeling"
 tags: ["normal"]
-title: "it's-a-very-human-feeling"
+title: "it-is-a-very-human-feeling"
 ---
-It's a very human feeling,
+It is a very human feeling,
 
 not feeling like a human.
 
 &nbsp;
 
-It's kind of nice.
+It is kind of nice.
 
 &nbsp;
 
@@ -33,9 +33,9 @@ would say otherwise,
 
 but an insane folk
 
-could say it's the rainbow,
+could say it is the rainbow,
 
-cuz when you squeeze it
+because when you squeeze it
 
 it becomes white.
 
@@ -47,10 +47,10 @@ towards the noir.
 
 &nbsp;
 
-It's a very common feeling
+It is a very common feeling
 
 not to feel part of the world,
 
-you're surrounded by peers
+you are surrounded by peers
 
 in your lonely clustered town.
