@@ -27,7 +27,7 @@ it does not portrait as much
 
 of what you expected
 
-but as well, not to little,
+but as well, not too little,
 
 it usually lies in the middle
 
