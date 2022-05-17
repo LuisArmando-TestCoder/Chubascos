@@ -13,7 +13,7 @@ no es mi estilo,
 
 llevo deseando salir de esto,
 
-pero cada mes que no lo hago
+pero cada vez que no lo hago
 
 por temor a romper
 
