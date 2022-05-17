@@ -117,6 +117,6 @@ se está filtrando por mis hebras.
 
 Por favor, deja de sostenerme,
 
-que esta belleza de envidiar
+que esta belleza de envidiar...
 
-quiero cortarme.
+Quiero cortarme.
