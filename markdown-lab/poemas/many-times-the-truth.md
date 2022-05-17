@@ -23,9 +23,11 @@ If a statement confuses you
 
 because it seems like
 
-it should not be too much
+it does not portrait as much
 
-but not too little as well,
+of what you expected
+
+but as well, not to little,
 
 it usually lies in the middle
 
