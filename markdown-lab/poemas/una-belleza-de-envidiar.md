@@ -106,17 +106,3 @@ pero no quiero parecer mal agradecido,
 pero cuando pese demasiado mi cabello,
 
 mi cuello se desconectará.
-
-&nbsp;
-
-Este egoísmo que sostengo
-
-se está filtrando por mis hebras.
-
-&nbsp;
-
-Por favor, deja de sostenerme,
-
-que esta belleza de envidiar
-
-ya no quiero fingirla.
