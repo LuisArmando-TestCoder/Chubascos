@@ -53,7 +53,7 @@ Y tal vez gritarás,
 
 y querrás partirte
 
-para convertirte 
+para convertirte
 
 en individuos,
 
@@ -63,15 +63,15 @@ sino varios motivos.
 
 &nbsp;
 
-Y tal vez te digas, 
+Y tal vez te digas,
 
 racionalizando:
 
-pero si ya otros 
+pero si ya otros
 
 lo están haciendo,
 
-si ya otros viven 
+si ya otros viven
 
 las vidas que sueño,
 
@@ -160,13 +160,3 @@ no se tratará entonces,
 como decía Maquiavelo, solo del fin,
 
 sino también de los medios.
-
-&nbsp;
-
-Solo los medios importan,
-
-porque son lo único que existe;
-
-tu recorrido de experiencias,
-
-cuando se acaba, ya no existes.
