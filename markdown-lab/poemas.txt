@@ -981,67 +981,6 @@ siempre estarás contigo
 hasta el final de tus días.
 <happy
 ---
-Make this an incantation,
-for the ones who understand
-or for those who want to.
-
-Our mind has to open.
-
-To some,
-some words,
-sometimes hurt,
-we don't know them
-but they need us
-to be delicate
-with the ones
-we choose.
-
-Despite paradigms,
-biases and stereotypes,
-we can pay attention
-to each person
-that talks with us,
-regardless of the box
-we think they come from.
-
-Regardless of the fact
-that many of us
-are constantly
-navigating other people
-just to find our
-place in the world,
-we don't have to
-shut our voice up
-and stop displaying
-our inner self
-for them to
-have the chance to
-display theirs.
-
-We can show our likes
-and dislikes,
-just like others can.
-
-Someone feeling uncomfortable
-is not always bad;
-someone feeling comfortable
-is not always good,
-sometimes it is,
-sometimes it is not.
-
-Our mind has to open.
-
-We have to stop looking
-for a formula that solves
-the chaotic Game of Life
-(not Conway's one).
-
-Either way, we do have to stop
-seeing life as a game to win
-and look at it as
-a reality to experience.
-<normal
----
 Me sumerjo en tu inicial,
 en el vértice de una consonante
 en el prefijo de la vocal
@@ -1368,16 +1307,6 @@ si mi amigo más fiel
 o mi enemigo más perseverante.
 <sad
 ---
-Loneliness, as light as it is,
-feels heavier day by day
-like a bone crushing
-bottom of the sea.
-
-But whenever I can share
-my loneliness with somebody,
-I smile a little while dying.
-<sad
----
 Una belleza de envidiar
 experimento todos los días,
 pero esta hermosura
@@ -1492,21 +1421,3 @@ maldito perverso,
 que confundan los adjetivos que te incumben,
 por el vocablo de sublime.
 <desperation
----
-Many times the truth
-does not lie on either side,
-but within an average of averages.
-
-Many times we have to
-walk away from a biased side
-to see a much richer perspective.
-
-If a statement confuses you
-because it seems like
-it does not portrait as much
-of what you expected
-but as well, not too little,
-it usually lies in the middle
-of a spectrum that was
-mistakenly contrasted.
-<normal
