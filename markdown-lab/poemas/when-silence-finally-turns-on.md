@@ -9,9 +9,9 @@ the very creep you are inside,
 
 all the voices sinking,
 
-they reminding you,
+they remind you,
 
-your loneliness you keep.
+that loneliness you keep.
 
 &nbsp;
 
