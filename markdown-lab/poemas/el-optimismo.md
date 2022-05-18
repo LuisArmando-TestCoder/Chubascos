@@ -37,7 +37,7 @@ de un desfibrilador
 
 en un corazón
 
-que se ha detenido.
+que se había detenido.
 
 &nbsp;
 

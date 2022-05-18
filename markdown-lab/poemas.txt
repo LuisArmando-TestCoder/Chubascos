@@ -626,7 +626,7 @@ una escena oscura,
 es un impulso
 de un desfibrilador
 en un corazón
-que se ha detenido.
+que se había detenido.
 
 El optimismo no es
 una mentira esotérica,
