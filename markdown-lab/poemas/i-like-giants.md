@@ -13,15 +13,31 @@ who touch the sky.
 
 &nbsp;
 
-But irony is funny
+But irony, muse for comedy;
 
-because they are quite notorious,
+they are quite notorious,
 
 not because of how tall they are
 
 but because of how rare
 
-they turn out.
+it turns out to see at least one
+
+standing out from any crowd.
+
+&nbsp;
+
+Giants disguised as landscapes
+
+growing flower and ecosystems
+
+and the do not stand
+
+from all the dirt
+
+they were reciving
+
+so keep they were mountains.
 
 &nbsp;
 
