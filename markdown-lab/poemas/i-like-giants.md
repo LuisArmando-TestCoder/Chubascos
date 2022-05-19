@@ -29,11 +29,9 @@ standing out from any crowd.
 
 Giants disguised as landscapes
 
-growing flower and ecosystems
+growing flowers and ecosystems
 
-and the do not stand
-
-from all the dirt
+on top of all the dirt
 
 they were reciving
 
