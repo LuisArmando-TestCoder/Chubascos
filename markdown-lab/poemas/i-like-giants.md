@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/i-like-giants"
-tags: ["normal"]
+tags: ["happy"]
 title: "i-like-giants"
 ---
 I like giants,
