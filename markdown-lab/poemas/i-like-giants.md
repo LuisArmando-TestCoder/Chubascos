@@ -101,11 +101,11 @@ do just that?
 
 &nbsp;
 
-Walk cruel Pachamama
+Walk, cruel Pachamama,
 
 not consedering
 
-what you leave behind
+what you leave behind,
 
 because giants
 
