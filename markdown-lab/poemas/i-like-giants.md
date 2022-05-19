@@ -65,25 +65,23 @@ so they keep themselves
 
 as steady hills
 
-while letting birds
-
-build nests
+while letting birds build nests
 
 around their head and back and neck,
 
-that way they will be safe
+that way everybody will be safe
 
-and you will be buried forever.
+but just one body will be buried.
 
 &nbsp;
 
 But, is not an insect
 
-gigantic to somebody else?
+gigantic to somebody else
 
 and they go around crawling
 
-despite of what they might alter.
+despite of what they might alter?
 
 &nbsp;
 
@@ -113,4 +111,4 @@ are part of Everything,
 
 just like Everything
 
-contains giants.
+makes giants a part of it.
