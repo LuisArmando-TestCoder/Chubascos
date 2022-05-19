@@ -57,13 +57,33 @@ Giants disguised as landscapes
 
 growing flowers and ecosystems
 
-on top of all the dirt
+on top of all that dirt
 
 they were reciving,
 
 so they keep themselves
 
-as steady hills.
+as steady hills
+
+while letting birds
+
+build nests
+
+around their head and back and neck,
+
+that way they will be safe
+
+and you will be buried forever.
+
+&nbsp;
+
+But, is not an insect
+
+gigantic to somebody else?
+
+and they go around crawling
+
+despite of what they might alter.
 
 &nbsp;
 
@@ -71,27 +91,7 @@ Being a giant implies
 
 destroying the status quo
 
-with each and every step,
-
-so why not being part of it
-
-while letting birds build nests
-
-around your head and back and neck,
-
-that way they will be safe
-
-and you will be buried.
-
-&nbsp;
-
-But is not an insect
-
-gigantic to somebody else?
-
-they go around crawling
-
-despite of what they might alter.
+with each and every step.
 
 &nbsp;
 
@@ -105,4 +105,12 @@ Walk cruel Pachamama
 
 not consedering
 
-what you leave behind.
+what you leave behind
+
+because giants
+
+are part of Everything,
+
+just like Everything
+
+contains giants.
