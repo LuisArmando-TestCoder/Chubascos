@@ -113,4 +113,4 @@ are part of Everything,
 
 just like Everything
 
-makes giants a part of it.
+makes them a part of All.
