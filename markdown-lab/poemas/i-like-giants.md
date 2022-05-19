@@ -79,11 +79,11 @@ but just one body will be buried.
 
 But, is not an insect
 
-gigantic to somebody else
+gigantic to somebody else?
 
-and they go around crawling
+And they go around crawling
 
-despite of what they might alter?
+despite of what they might alter.
 
 &nbsp;
 
@@ -92,8 +92,6 @@ Being a giant implies
 destroying the status quo
 
 with each and every step.
-
-&nbsp;
 
 So why can not giants
 
