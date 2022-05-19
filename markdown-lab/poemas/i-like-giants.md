@@ -93,7 +93,7 @@ destroying the status quo
 
 with each and every step.
 
-So why can not giants
+So, why can not giants
 
 do just that?
 
