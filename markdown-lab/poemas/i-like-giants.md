@@ -33,9 +33,11 @@ growing flowers and ecosystems
 
 on top of all the dirt
 
-they were reciving
+they were reciving,
 
-so keep they were mountains.
+so they keep themselves
+
+as steady mountains.
 
 &nbsp;
 
