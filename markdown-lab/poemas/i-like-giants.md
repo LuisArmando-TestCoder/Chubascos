@@ -111,4 +111,4 @@ are part of Everything,
 
 just like Everything
 
-makes them a part of All.
+makes them a part of you.
