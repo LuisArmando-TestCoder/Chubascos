@@ -47,6 +47,8 @@ a topic, an office,
 
 a smartphone,
 
+a biased perspective,
+
 a single reason
 
 to stay alive.
