@@ -37,7 +37,7 @@ they were reciving,
 
 so they keep themselves
 
-as steady mountains.
+as steady hills.
 
 &nbsp;
 
