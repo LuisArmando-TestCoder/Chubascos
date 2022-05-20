@@ -33,9 +33,9 @@ de yacer subyugado
 
 por las expectativas
 
-de la sociedad en mi cabeza
+que la sociedad en mi cabeza
 
-que me han proyectado.
+me ha proyectado.
 
 &nbsp;
 
