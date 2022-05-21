@@ -65,9 +65,13 @@ quebrados en el suelo.
 
 &nbsp;
 
-¿Se les ha dormido la voluntad
+¿Se les han dormido las ganas
 
-para seguir con vida?
+para seguir con vida
+
+y la voluntad
+
+para resistir el sueño?
 
 &nbsp;
 
