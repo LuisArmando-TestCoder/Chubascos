@@ -15,9 +15,9 @@ o el aroma mientras
 
 sostienen una flor fallecida,
 
-o los labios
+o los labios mientras
 
-mientras labios de otros
+labios de otros
 
 acarician los suyos.
 
@@ -47,7 +47,7 @@ no tuvieran sentido,
 
 y los demás asienten
 
-a un lenguaje desconocido.
+a un lenguaje extranjero.
 
 &nbsp;
 
