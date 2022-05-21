@@ -9,7 +9,7 @@ las yemas mientras escriben,
 
 o los dedos mientras
 
-sostienen un libro,
+cargan un libro,
 
 o el aroma mientras
 
