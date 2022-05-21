@@ -29,7 +29,7 @@ a un alma que contrasta
 
 en su plenitud tan extrema
 
-a tu alma vacía.
+con tu alma vacía.
 
 &nbsp;
 
