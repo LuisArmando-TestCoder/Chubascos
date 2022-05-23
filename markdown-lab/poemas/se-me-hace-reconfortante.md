@@ -11,25 +11,25 @@ ver y besar
 
 desde el dorso de tus manos
 
-que te avisa en la psique 
+que te avisa en la psique
 
 los espasmos
 
-para luego sumergirme 
+para luego sumergirme
 
 y pintar hipnotizado
 
-hasta las fosas 
+hasta las fosas
 
 en los relieves de tu cuerpo.
 
 &nbsp;
 
-Me vuelves tan loco 
+Me vuelves tan loco
 
 que estoy tranquilo,
 
-tus dedos sumergidos 
+tus dedos sumergidos
 
 tocan los míos,
 
