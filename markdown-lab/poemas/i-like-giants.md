@@ -61,7 +61,7 @@ growing flowers and ecosystems
 
 on top of all that dirt
 
-they were reciving,
+they were receiving,
 
 so they keep themselves
 
