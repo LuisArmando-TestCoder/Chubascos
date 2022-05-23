@@ -121,7 +121,7 @@ en tu corriente?
 
 Blando respuestas por tu culpa,
 
-ante oleadas de persecusiones,
+ante oleadas de persecuciones,
 
 incursionando para robarme
 
