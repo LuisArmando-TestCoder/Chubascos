@@ -109,7 +109,9 @@ Me aterra desde el fondo
 
 que me entregues tu ser
 
-con tanta fuerza y que yo
+con tanta fuerza
+
+y que yo
 
 no vaya a sostenerlo.
 
