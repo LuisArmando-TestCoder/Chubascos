@@ -143,13 +143,13 @@ ya estoy envejeciendo.
 
 ¿Cómo puedo perdonarme,
 
-si siento que hice lo correcto?
+si pienso que hice lo correcto?
 
 &nbsp;
 
-¿Y cómo puede ser
+¿Y cómo puede ser lo correcto,
 
-lo correcto, tan maligno?
+tan maligno?
 
 &nbsp;
 
