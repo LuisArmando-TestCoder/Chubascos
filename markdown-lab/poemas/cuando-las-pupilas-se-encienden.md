@@ -11,4 +11,4 @@ en colores de su aura
 
 y en consecuencia te enamoras
 
-de espaldas que te hipnotizan.
+de espaldas que hipnotizan.
