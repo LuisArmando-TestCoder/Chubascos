@@ -101,7 +101,7 @@ do just that?
 
 Walk, cruel Pachamama,
 
-not consedering
+not considering
 
 what you leave behind,
 
