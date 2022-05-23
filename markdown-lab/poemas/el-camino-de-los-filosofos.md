@@ -107,7 +107,9 @@ con tus sensores integrados.
 
 &nbsp;
 
-Cada activación es una estimulación.
+Cada activación
+
+es una estimulación.
 
 &nbsp;
 
