@@ -1,43 +1,29 @@
 ---
-slug: "/poemas/el-optimismo"
+slug: "/poemas/el-optimismo-no-enmascara"
 tags: ["happy"]
-title: "el-optimismo"
+title: "el-optimismo-no-enmascara"
 ---
-El optimismo
-
-no enmascara
+El optimismo no enmascara
 
 la verdad más fatalista,
 
-es solo un buen día
+es sino un buen día
 
-en el rostro
+en el rostro de una pesimista,
 
-de una chica pesimista,
-
-es un respiro
+es un respiro fortuito
 
 después de aguantar
 
-tres minutos
+una jornada bajo el agua,
 
-bajo el agua,
+es un destello que vislumbra
 
-es un destello
+en un chasquido una escena oscura,
 
-que vislumbra
+es un impulso de desfibrilador
 
-en un chasquido
-
-una escena oscura,
-
-es un impulso
-
-de un desfibrilador
-
-en un corazón
-
-que se había detenido.
+en un corazón detenido.
 
 &nbsp;
 
@@ -57,7 +43,9 @@ nos dará la plenitud eterna,
 
 más que solo aceptar
 
-el Cielo interno.
+que el Cielo
+
+vive dentro de nosostros.
 
 &nbsp;
 
@@ -103,4 +91,4 @@ actitudes en medio.
 
 Decidimos ser optimistas
 
-como así lo deseamos.
+porque así lo deseamos.

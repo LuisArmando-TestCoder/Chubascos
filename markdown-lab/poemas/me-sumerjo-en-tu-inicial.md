@@ -5,7 +5,7 @@ title: "me-sumerjo-en-tu-inicial"
 ---
 Me sumerjo en tu inicial,
 
-en el vértice de una consonante
+en el vértice de una consonante,
 
 en el prefijo de la vocal
 

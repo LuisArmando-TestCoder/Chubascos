@@ -21,11 +21,7 @@ un palpitante pedazo de metal.
 
 Cuando me da sueño
 
-me vuelvo vulnerable,
-
-me derrito un poco
-
-en medio de la nostalgia,
+me derrito en la nostalgia,
 
 mi compañera de viaje.
 
@@ -33,21 +29,13 @@ mi compañera de viaje.
 
 Si tan solo recuperase
 
-esa gana de niño,
-
-la usaría en canciones.
+esa gana, la usaría.
 
 &nbsp;
 
 Mis sensaciones
 
-están bajo control,
-
-pero cómo disfrutaba
-
-de mis excesivos
-
-sentimientos.
+están bajo control.
 
 &nbsp;
 
@@ -55,29 +43,29 @@ Me gusta este equilibrio,
 
 pero cómo extraño
 
-en el amor irnos de lleno.
+irme de cabeza
+
+en el amor.
 
 &nbsp;
 
 He quemado neuronas
 
-disfrutando y sufriendo;
+disfrutando y sufriendo,
 
-ahora me limpian las brasas
+y ahora me limpian las brasas
 
 en un incendio controlado.
 
 &nbsp;
 
-No todas mis sensaciones
+No todas mis sensaciones me rehuyen,
 
-se me han escapado,
-
-aún en vida no me he dormido,
+aún en vida no me duermo,
 
 todavía estoy a tiempo
 
-de encontrar nuevos sonidos.
+de encontrar nuevos estímulos.
 
 &nbsp;
 
@@ -89,9 +77,9 @@ sean vivencias y no películas.
 
 Solo necesito los impulsos
 
-de mis palpitaciones;
+de mis palpitaciones,
 
-me liberan de la esclavitud.
+pues son la libertad que necesito.
 
 &nbsp;
 
@@ -101,13 +89,11 @@ y por eso lo aprecio.
 
 &nbsp;
 
-Me gustaría existir,
+Me gustaría existir
 
-en amor romántico,
+en amor fraternal,
 
-fraternal, paternal
-
-o en amor por mi trabajo.
+paternal o romántico.
 
 &nbsp;
 
@@ -127,31 +113,27 @@ y luego pierda el tacto.
 
 Ojalá mis yemas
 
-se electrocutaran,
+se electrocuten,
 
-como siempre,
-
-al acariciar tu piel.
+cuando acaricie tu rostro.
 
 &nbsp;
 
 Ojalá me enamore
 
-de ti por completo;
+de ti por completo,
 
-no solo de la sensación.
+no solo de la sensación
 
-&nbsp;
-
-Por lo pronto, prestaré atención,
-
-y me dispondré a escuchar estos,
-
-mis evaporantes sentimientos.
+de estar enamorado.
 
 &nbsp;
 
-La vida solo tiene sentido
+Por lo pronto escucharé
+
+a mis evaporantes sentimientos,
+
+pues la vida solo tiene sentido
 
 cuando vives con quien amas
 

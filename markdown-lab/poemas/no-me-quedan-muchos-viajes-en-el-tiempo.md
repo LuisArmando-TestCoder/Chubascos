@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/no-quedan-muchos-annos-en-el-futuro"
+slug: "/poemas/no-me-quedan-muchos-viajes-en-el-tiempo"
 tags: ["normal"]
-title: "no-quedan-muchos-años-en-el-futuro"
+title: "no-me-quedan-muchos-viajes-en-el-tiempo"
 ---
-No quedan muchos años en el futuro,
+No me quedan muchos viajes en el tiempo,
 
 por eso me visito ahora,
 
@@ -45,12 +45,12 @@ como considere adecuado?
 
 Esto que siento no se satisface
 
-con un par de versos,
+con un par de miles de versos,
 
 si no hasta que no hayan
 
 viajes en el tiempo disponibles,
 
-porque mi última memoria
+porque la última memoria a la que viajo
 
 es la de mi último suspiro.

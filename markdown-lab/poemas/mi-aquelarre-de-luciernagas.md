@@ -13,11 +13,11 @@ y esotéricas y exóticas.
 
 &nbsp;
 
-Tatuadas, lisas e impías,
-
-repletas de botines
+Repletas de botines
 
 y otras de joyería,
+
+y otras de tatuajes,
 
 y otras, de piercings.
 
@@ -25,29 +25,13 @@ y otras, de piercings.
 
 Cándidas e inocuas,
 
-maliciosas y astutas.
+maliciosas y astutas,
+
+ambivalentes, sin duda.
 
 &nbsp;
 
-Y aunque no lo acepten
-
-para mí son tan inocentes.
-
-&nbsp;
-
-Quieren ser amadas
-
-por su amor platónico,
-
-y no se conformarán
-
-sin conseguirlo.
-
-&nbsp;
-
-Y se dicen tan valientes,
-
-y aunque nobles son cobardes.
+Nobles y a veces cobardes.
 
 &nbsp;
 
@@ -65,47 +49,43 @@ pero sí todos los gatos.
 
 &nbsp;
 
-Aún, con memorias sucias,
-
-son tan limpias por dentro.
-
-&nbsp;
-
-No se emboban por nadie
-
-que no sea como los árboles,
+Si se emboban será por los árboles,
 
 majestuosos y callados.
 
 &nbsp;
 
-Aún siendo tan hermosas,
+Aún siendo tan orgullosas,
 
-ilusas, no me causaría
+con complejo de diosas,
 
-ni un ápice de remordimiento
+ilusas, ni un ápice
+
+me causaría remordimiento
 
 protegerlas.
 
 &nbsp;
 
-Entre reverencias
+Y entre reverencias
 
 me arrodillaría,
 
 pero entre reverencias
 
-de disculpas, porque esto
-
-es una sarta de mentiras.
+de disculpas.
 
 &nbsp;
 
-No es que me gusten
+Esto es una sarta de mentiras.
+
+&nbsp;
+
+No es que me gustan
 
 los cardos negros,
 
-o que aprecie los ángeles
+o que aprecio los ángeles
 
 con alas de cuervo,
 
@@ -115,19 +95,17 @@ que veo a alguien
 
 que se te parece,
 
-me aleo en recuerdos
+me derrito en recuerdos
 
-y siento que
-
-le tomo cariño.
+y le tomo cariño.
 
 &nbsp;
 
 No tengo un tipo,
 
-sino que eras mi tipo
+sino que eres mi tipo
 
-como sea que fueras.
+cual sea la forma que tengas.
 
 &nbsp;
 

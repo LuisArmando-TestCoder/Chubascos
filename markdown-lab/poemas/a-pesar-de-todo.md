@@ -293,4 +293,4 @@ mi mejor destino.
 
 Seamos valerosos,
 
-siempre juntos.
+como siempre lo hemos sido.
