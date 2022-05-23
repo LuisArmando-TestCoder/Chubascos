@@ -17,7 +17,7 @@ los sonidos que me identifican.
 
 &nbsp;
 
-La percución
+La percusión
 
 de mis articulaciones
 
@@ -81,7 +81,7 @@ para convertirla en mi vestido,
 
 dignificando mi estilo,
 
-mi estilo de exitencia,
+mi estilo de existencia,
 
 para vestirlo todos los días
 
