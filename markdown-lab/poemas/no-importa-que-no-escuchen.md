@@ -19,7 +19,7 @@ las nubes de tus ideas
 
 se precipitan
 
-y si son vigorozas,
+y si son vigorosas,
 
 se convierten en granizo,
 
