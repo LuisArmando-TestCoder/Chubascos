@@ -45,7 +45,7 @@ más que solo aceptar
 
 que el Cielo
 
-vive dentro de nosostros.
+vive dentro de nosotros.
 
 &nbsp;
 
