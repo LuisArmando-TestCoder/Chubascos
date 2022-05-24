@@ -13,7 +13,7 @@ coming back again
 
 and coming back
 
-with no end inside,
+with no end in sight,
 
 this is not just my ego,
 
