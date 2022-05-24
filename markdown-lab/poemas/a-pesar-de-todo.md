@@ -97,7 +97,7 @@ me acompañaste,
 
 cada vez me levantaste,
 
-y a veces ingorándote,
+y a veces ignorándote,
 
 pero Dios en mí,
 
