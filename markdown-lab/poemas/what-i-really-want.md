@@ -5,9 +5,9 @@ title: "what-i-really-want"
 ---
 What I really want
 
-is to shine like a thrust
+is to shine like a shooting beam
 
-of a pulsar to your eyes,
+of a pulsar star to your eyes,
 
 coming back again
 
