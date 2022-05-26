@@ -25,9 +25,11 @@ de la identidad que reconozco.
 
 Eres más que solo
 
-las opiniones de tus amigos,
+las opiniones de tus amigos.
 
-eres mucho más de lo que crees
+&nbsp;
+
+Eres mucho más de lo que crees
 
 y de lo que ve el mundo.
 
@@ -35,8 +37,10 @@ y de lo que ve el mundo.
 
 Eres todo lo desconocido,
 
-hasta para tí mismo,
+hasta para tí mismo.
 
-eres un campo de posibilidades
+&nbsp;
+
+Eres un campo de posibilidades
 
 esperando a que lo explores.

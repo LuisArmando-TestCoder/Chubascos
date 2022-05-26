@@ -11,7 +11,7 @@ porque si fuera piadosa,
 
 sería negligente,
 
-las leyes de la naturaleza
+y las leyes de la naturaleza
 
 permitirían excepciones
 
@@ -25,4 +25,6 @@ La fricción es la evidencia
 
 de que ocultamos fuerzas
 
-para avanzar y resistirnos.
+para avanzar y resistirnos
+
+al destino y a la voluntad ajena.
