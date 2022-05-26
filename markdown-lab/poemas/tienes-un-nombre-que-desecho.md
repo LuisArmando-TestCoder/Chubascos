@@ -9,9 +9,11 @@ no me gusta llamarte
 
 como a un solo sustantivo,
 
-porque eres tanto más que eso,
+porque eres tanto más que eso.
 
-no eres ni siquiera
+&nbsp;
+
+No eres ni siquiera
 
 el nombre que llevas puesto,
 
@@ -27,9 +29,11 @@ las opiniones de tus amigos,
 
 eres mucho más de lo que crees
 
-y de lo que ve el mundo,
+y de lo que ve el mundo.
 
-eres todo lo desconocido,
+&nbsp;
+
+Eres todo lo desconocido,
 
 hasta para tí mismo,
 
