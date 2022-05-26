@@ -7,13 +7,13 @@ Se necesita al Dios Silencio
 
 para crear nuevos verbos.
 
- 
+&nbsp;
 
-Se necesitan campos vacíos 
+Se necesitan campos vacíos
 
 para rellenarlos de significado.
 
- 
+&nbsp;
 
 Se necesitan cientos de evos
 
@@ -23,7 +23,7 @@ para que alguien se enfoque
 
 en replicar sus adentros.
 
- 
+&nbsp;
 
 Los que tienen un vacío interno,
 
