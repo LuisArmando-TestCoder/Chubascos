@@ -67,9 +67,7 @@ no es ser balanceado,
 
 pero ser balanceado
 
-es un extremismo
-
-descarado.
+es un extremismo descarado.
 
 &nbsp;
 
