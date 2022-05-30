@@ -97,11 +97,9 @@ pero,
 
 Haz de cuestionar
 
-hasta las leyes
+hasta a las leyes
 
-de la física
-
-y su vigencia.
+de la física.
 
 &nbsp;
 
