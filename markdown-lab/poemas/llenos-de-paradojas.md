@@ -55,7 +55,9 @@ como algunos, a la lógica.
 
 Deberían de ignorar
 
-el ignorar las paradojas.
+el ignorar
+
+de las paradojas.
 
 &nbsp;
 
