@@ -89,9 +89,9 @@ El que no se cuestiona,
 
 no dura,
 
-pero,
+pero...
 
-¿será esto cierto?.
+¿será esto cierto?
 
 &nbsp;
 
