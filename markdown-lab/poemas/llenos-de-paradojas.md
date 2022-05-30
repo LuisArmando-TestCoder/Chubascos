@@ -45,6 +45,12 @@ bullicios que revolotean.
 
 &nbsp;
 
+Un brillo virtuoso
+
+solo para ellos.
+
+&nbsp;
+
 ¿No ven que se mienten?
 
 Deberían de ignorarse,
