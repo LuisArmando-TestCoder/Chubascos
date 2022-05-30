@@ -195,4 +195,4 @@ porque me estupefactan
 
 los callejones sin salida
 
-con los que me educan.
+en los que me educan.
