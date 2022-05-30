@@ -11,6 +11,10 @@ Are rodents sentient?
 
 Are humans sentient?
 
+Are you sentient?
+
+Is God sentient?
+
 How much "sentient" is enough
 
-for you to not harm them?
+to avoid harm?
