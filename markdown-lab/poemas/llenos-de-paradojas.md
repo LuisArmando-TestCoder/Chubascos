@@ -193,12 +193,6 @@ sostiene todas las preguntas.
 
 &nbsp;
 
-De ahí el asombro,
+De ahí el asombro, educadores,
 
-educadores,
-
-me sorprenden
-
-los callejones
-
-sin salida.
+me sorprenden los callejones sin salida.
