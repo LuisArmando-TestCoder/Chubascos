@@ -149,7 +149,7 @@ entre contrastes,
 
 y en donde está esta
 
-e inaceptables a los lados,
+e intolerables a los lados,
 
 en las intersecciones;
 
