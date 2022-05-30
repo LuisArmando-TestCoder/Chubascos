@@ -11,6 +11,6 @@ Are rodents sentient?
 
 Are humans sentient?
 
-How much "sentient"?
+How much "sentient" is enough
 
-Why do you kill then?
+for you to not harm them?
