@@ -191,6 +191,10 @@ sostiene todas las preguntas.
 
 &nbsp;
 
-De ahí el asombro, educadores,
+De ahí el asombro,
 
-me sorprenden los callejones sin salida.
+porque me estupefactan
+
+los callejones sin salida
+
+con los que me educan.
