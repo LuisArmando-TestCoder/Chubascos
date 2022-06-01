@@ -1,8 +1,16 @@
 ---
-slug: "/poemas/my-sweat-of-purple-alien-blood"
+slug: "/poemas/i-want-to-shine"
 tags: ["normal"]
-title: "my-sweat-of-purple-alien-blood"
+title: "i-want-to-shine"
 ---
+I want to shine
+
+like a shooting beam
+
+of a pulsar star.
+
+&nbsp;
+
 My sweat of purple alien blood,
 
 it does not feel like acid,
@@ -18,14 +26,6 @@ through my veins of tantalum.
 I knew from the beginning
 
 I was a damn alien in this world.
-
-&nbsp;
-
-I want to shine
-
-like a shooting beam
-
-of a pulsar star.
 
 &nbsp;
 
