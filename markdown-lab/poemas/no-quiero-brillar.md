@@ -41,9 +41,7 @@ Al brillo, el óleo,
 
 y al opaco,
 
-los brochazos
-
-de sobra.
+los brochazos de sobra.
 
 &nbsp;
 
