@@ -55,4 +55,4 @@ So, how can I shine
 
 ultraviolet light
 
-to their biased eyes?
+to their biased sight?
