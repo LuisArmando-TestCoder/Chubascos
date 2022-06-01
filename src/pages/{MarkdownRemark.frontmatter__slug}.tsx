@@ -14,7 +14,6 @@ export default function Template({
 
     return (
         <Components.strings.GlobalWrapper title={`Chubascos / ${title}`}>
-            <Components.quarks.ReadModeToggler/>
             <Components.strings.ContainerDecorator
                 title={
                     `Chubascos / ${title}`
