@@ -78,3 +78,17 @@ y otros cientos
 de miles de millones
 
 que persiguen a la Luna.
+
+&nbsp;
+
+No quiero brillar,
+
+quiero ser sincero,
+
+y si le incandilo a alguien,
+
+adelante, que así sea,
+
+porque estoy harto de glorificar
+
+colores ajenos.
