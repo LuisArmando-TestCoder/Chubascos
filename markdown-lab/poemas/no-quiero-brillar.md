@@ -69,7 +69,7 @@ y en la cara polvorienta
 
 tras el halo de mi cara
 
-el brillo robado del Sol
+el realce robado del Sol
 
 atrae exploradores
 
