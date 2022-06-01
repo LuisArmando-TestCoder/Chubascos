@@ -55,7 +55,7 @@ y estoy cansado
 
 de ocultarme
 
-con una cortina.
+tras cortinas.
 
 &nbsp;
 
