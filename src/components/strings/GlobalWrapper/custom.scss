@@ -22,6 +22,14 @@
         color: white;
     }
 
+    &--color-black[class] {
+        color: black;
+    }
+
+    &--background-white[class] {
+        background: white;
+    }
+
     &--front[class] {
         z-index: 1;
     }

@@ -25,7 +25,7 @@ export default function Template({
                 <Components.strings.Canvas effect='rain'/>
             </Components.strings.ContainerDecorator>
             <div
-                className='wrapper--padding wrapper--color-white wrapper--front'
+                className='wrapper--padding wrapper--color-black wrapper--background-white wrapper--front'
                 dangerouslySetInnerHTML={{
                     __html: data.markdownRemark.html
                 }}
