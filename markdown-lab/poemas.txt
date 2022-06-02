@@ -1749,7 +1749,7 @@ con abandonarlo,
 pero el día que lo hagan
 él ya estará preparado
 para comerse al Sistema Solar.
-<sad
+<normal
 ---
 No quiero brillar
 como una estrella de neutrones

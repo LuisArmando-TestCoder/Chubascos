@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/el-sol-es-intocable"
-tags: ["sad"]
+tags: ["normal"]
 title: "el-sol-es-intocable"
 ---
 El Sol es intocable
