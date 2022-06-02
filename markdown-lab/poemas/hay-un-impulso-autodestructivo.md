@@ -35,7 +35,7 @@ hasta de mí mismo.
 
 Antes que perder la compostura
 
-mejor me acurruco de vicios,
+mejor me acurruco entre mis vicios,
 
 pues al menos ellos
 
