@@ -7,9 +7,9 @@ You do not even have to
 
 conquer yourself,
 
-you have to let yourself
+you have to let yourself go
 
-go in your passions,
+in your passions,
 
 and within each one of them,
 
