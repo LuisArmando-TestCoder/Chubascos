@@ -53,4 +53,4 @@ sólo las aguantan
 
 quienes resisten la presión
 
-del absurdo.
+de lo absurdo.
