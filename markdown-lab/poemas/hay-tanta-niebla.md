@@ -65,7 +65,7 @@ de mi persona,
 
 pero nunca soy el mismo
 
-cada que cada día que pasa.
+cada día que pasa.
 
 &nbsp;
 
