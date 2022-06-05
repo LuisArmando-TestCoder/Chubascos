@@ -69,8 +69,8 @@ his own creations.
 
 I think I am opening,
 
-this is what heat feels like,
+this is what melting feels like,
 
-I am blending into metal
+I am blending into expansion,
 
 waking up another layer.
