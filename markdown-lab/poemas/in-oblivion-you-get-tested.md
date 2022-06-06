@@ -61,6 +61,8 @@ your real mind.
 
 &nbsp;
 
-Lonely gods do not lie,
+Lonely gods do not hide,
 
-so what type of god are you?
+so what type of god is there,
+
+awaiting?
