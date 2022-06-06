@@ -15,6 +15,6 @@ but do not recall each lie.
 
 &nbsp;
 
-I was supposed to live in
+I was supposed to live
 
 a life worth all cries.
