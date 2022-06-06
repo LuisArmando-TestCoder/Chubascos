@@ -35,7 +35,7 @@ which takes exploring
 
 the intended
 
-the Valley of the Unknown.
+Valley of the Unknown.
 
 &nbsp;
 
