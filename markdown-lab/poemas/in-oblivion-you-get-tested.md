@@ -57,7 +57,7 @@ with no other body,
 
 your actions display
 
-your real mind.
+your real testament.
 
 &nbsp;
 
