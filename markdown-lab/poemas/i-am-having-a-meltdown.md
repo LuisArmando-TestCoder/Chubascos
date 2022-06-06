@@ -57,13 +57,13 @@ I am taste, I am senses.
 
 God is not out there,
 
-is right here in everything,
+God is here and everywhere,
 
-betting for life in possibilities,
+betting for life in randomness
 
-which lets him experience
+to feel what is like to live
 
-his own creations.
+in another skin.
 
 &nbsp;
 
@@ -71,6 +71,6 @@ I think I am opening,
 
 this is what melting feels like,
 
-I am blending into expansion,
+I am blending into thy,
 
-waking up another layer.
+waking up in another height.
