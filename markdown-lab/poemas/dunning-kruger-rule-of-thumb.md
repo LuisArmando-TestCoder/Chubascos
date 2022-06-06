@@ -29,9 +29,11 @@ most likely knows a lot,
 
 because of understanding
 
-its own ignorance;
+its own ignorance,
 
-exploring as intended
+which takes exploring
+
+the intended
 
 the Valley of the Unknown.
 
