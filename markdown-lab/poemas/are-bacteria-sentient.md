@@ -15,6 +15,8 @@ Are you sentient?
 
 Is God sentient?
 
-How much "sentient" is enough
+How much sentience
 
-to avoid harm?
+is enough for you
+
+to care?
