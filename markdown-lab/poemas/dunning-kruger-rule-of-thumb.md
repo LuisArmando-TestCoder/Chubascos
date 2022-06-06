@@ -25,20 +25,18 @@ feels like an impostor,
 
 most likely knows a lot,
 
-but more experiences
+because of understanding
 
-are waiting
-
-on the other side
-
-of the Valley of the Unknown.
+its own ignorance.
 
 &nbsp;
 
-If a cultured one
+If a cultured one is amazed
 
-is amazed of its own knowledge,
+of its own knowledge,
 
-we most likely have
+we most likely
 
-an expert in front of us.
+have an expert
+
+in front of us.
