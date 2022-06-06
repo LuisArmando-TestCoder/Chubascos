@@ -11,11 +11,11 @@ of not being watched
 
 displays
 
-what you are truly made of,
+what you truly are,
 
 just like power amplifies
 
-your true identity.
+your identity.
 
 &nbsp;
 
@@ -43,19 +43,19 @@ of your life?
 
 When you are truly free,
 
-when you are being forgotten
+when you are being
 
-by society,
+forgotten by society,
 
-when you escape the need
+when you escape
 
-for acceptance,
+the need for acceptance,
 
 when you are one
 
 with no other body,
 
-your actions display
+your actions show in handsight
 
 your real testament.
 
