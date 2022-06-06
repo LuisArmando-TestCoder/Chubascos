@@ -15,7 +15,9 @@ most likely
 
 we call that
 
-an idiot with a loose tongue.
+an idiot
+
+with a loose tongue.
 
 &nbsp;
 
