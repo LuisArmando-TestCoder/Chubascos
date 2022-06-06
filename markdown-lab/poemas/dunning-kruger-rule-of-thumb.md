@@ -7,35 +7,11 @@ Dunning Kruger rule of thumb.
 
 &nbsp;
 
-If a non expert
-
-is feeling all mighty,
-
-most likely
-
-we call that
-
-an idiot
-
-with a loose tongue.
-
-&nbsp;
-
-If a person
+If somebody
 
 feels like an impostor,
 
-most likely knows a lot,
-
-because of understanding
-
-its own ignorance,
-
-which takes exploring
-
-the intended
-
-Valley of the Unknown.
+most likely knows a lot.
 
 &nbsp;
 
@@ -48,3 +24,17 @@ we most likely
 have an expert
 
 in front of us.
+
+&nbsp;
+
+If a non expert
+
+is feeling all mighty,
+
+most likely
+
+we call that
+
+an idiot
+
+with a loose tongue.
