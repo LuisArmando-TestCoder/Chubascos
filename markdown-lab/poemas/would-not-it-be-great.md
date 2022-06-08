@@ -27,6 +27,4 @@ From being born again,
 
 within your skin
 
-I am feeling
-
-like I am steaming.
+I feel like steaming.
