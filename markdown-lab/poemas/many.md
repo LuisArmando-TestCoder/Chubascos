@@ -29,7 +29,7 @@ they said screaming.
 
 "Are you crazy,
 
-or possessed by demons?!".
+are you possessed?!".
 
 &nbsp;
 
