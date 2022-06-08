@@ -159,6 +159,6 @@ que la forma de luchar también importa,
 
 no se tratará entonces,
 
-como decía Maquiavelo, solo del fin,
+como decía Napoleón, solo del fin,
 
 sino también de los medios.
