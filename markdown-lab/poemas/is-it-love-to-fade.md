@@ -11,7 +11,7 @@ to forget about lies?
 
 to fall for somebody?
 
- 
+&nbsp;
 
 To love is to give up
 
@@ -23,7 +23,7 @@ To love is to caress
 
 regardless of their silence.
 
- 
+&nbsp;
 
 To love is to care completely;
 
@@ -35,7 +35,7 @@ To love is to love yourself
 
 to love somebody.
 
- 
+&nbsp;
 
 To love is to be
 
@@ -47,7 +47,7 @@ To love is to love
 
 regardless.
 
- 
+&nbsp;
 
 Love is to give up
 
