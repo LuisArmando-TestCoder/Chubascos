@@ -45,19 +45,19 @@ but with my instinct.
 
 &nbsp;
 
-I draw graphs,
+I am drawing graphs,
 
-magic leans toward my index,
+magic from my index,
 
-I am learning from patterns,
+learning from patterns,
 
-that is what I am doing.
+magic is leaning.
 
 &nbsp;
 
 "I will tell everybody
 
-you are a dumb fuck, weirdow!".
+you are a dumb fuck!".
 
 &nbsp;
 
@@ -65,9 +65,11 @@ If only you had
 
 one additional eye,
 
-you would understand,
+you would understand
 
-once you take the mold
+that once
+
+you take the mold
 
 you melt it,
 
@@ -82,3 +84,7 @@ There is no prototype,
 just legends
 
 of a rising dumb fuck.
+
+&nbsp;
+
+We walk, paths lean on.
