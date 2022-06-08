@@ -15,19 +15,23 @@ to fall for somebody?
 
 To love is to give up
 
-in their caresses,
+in their caresses.
 
-to love is to caress
+&nbsp;
+
+To love is to caress
 
 regardless of their silence.
 
  
 
-To love is to care completely,
+To love is to care completely;
 
-to love is to give if needed,
+to love is to give if needed.
 
-to love is to love yourself
+&nbsp;
+
+To love is to love yourself
 
 to love somebody.
 
@@ -35,9 +39,11 @@ to love somebody.
 
 To love is to be
 
-available in secret,
+available in secret.
 
-to love is to love
+&nbsp;
+
+To love is to love
 
 regardless.
 
@@ -50,3 +56,9 @@ on deciding
 who you are going to spend
 
 the rest of your life with.
+
+&nbsp;
+
+Love is not a choice,
+
+is a happening.
