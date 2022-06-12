@@ -1,16 +1,8 @@
 ---
-slug: "/poemas/llenos-de-paradojas"
+slug: "/poemas/cuando-eres"
 tags: ["normal"]
-title: "llenos-de-paradojas"
+title: "cuando-eres"
 ---
-Llenos de paradojas
-
-miro asombrado
-
-a mis educadores.
-
-&nbsp;
-
 Cuando eres
 
 quien quieren,
@@ -24,30 +16,6 @@ Cuando eres
 quien quieres,
 
 no te quieren.
-
-&nbsp;
-
-De contradicciones;
-
-repletos.
-
-&nbsp;
-
-Quieren a un brillo virtuoso,
-
-que pase inadvertido
-
-en un salón oscuro,
-
-con moscas y córneas;
-
-bullicios que revolotean.
-
-&nbsp;
-
-Un brillo virtuoso
-
-solo para ellos.
 
 &nbsp;
 
@@ -101,14 +69,6 @@ pero...
 
 &nbsp;
 
-Haz de cuestionar
-
-hasta a las leyes
-
-de la física.
-
-&nbsp;
-
 Para algunos
 
 el mundo es
@@ -127,37 +87,9 @@ no es ser balanceado,
 
 pero ser balanceado,
 
-en un mundo de tonos,
+en un mundo de tontos,
 
-es rebelarse
-
-en contra de la norma.
-
-&nbsp;
-
-Para los iluminados
-
-no hay balance,
-
-no hay extremos,
-
-todo es un espectro,
-
-para los extremistas
-
-este está dispuesto
-
-en una línea
-
-entre contrastes,
-
-y en donde está esta
-
-e intolerables a los lados,
-
-en las intersecciones;
-
-guerras.
+es rebelarse.
 
 &nbsp;
 

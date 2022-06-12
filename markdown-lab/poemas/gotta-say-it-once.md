@@ -11,21 +11,21 @@ and stay it once
 
 and once and for all.
 
- 
+&nbsp;
 
 Is tiring to pursue
 
 meanings of absurds.
 
- 
+&nbsp;
 
 What an absurd life.
 
- 
+&nbsp;
 
 What an absurd life.
 
- 
+&nbsp;
 
 Is tiring to pursue
 
@@ -41,15 +41,15 @@ Lying many proverbs
 
 on each of my bed times.
 
- 
+&nbsp;
 
 What an absurd life.
 
- 
+&nbsp;
 
 What an absurd life.
 
- 
+&nbsp;
 
 Sure to end my life,
 
@@ -59,7 +59,7 @@ I have not tasted yet
 
 being the shining melt.
 
- 
+&nbsp;
 
 So it's time to break,
 

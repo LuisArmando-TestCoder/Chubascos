@@ -7,26 +7,6 @@ Dunning Kruger rule of thumb.
 
 &nbsp;
 
-If somebody
-
-feels like an impostor,
-
-most likely knows a lot.
-
-&nbsp;
-
-If a cultured one is amazed
-
-of its own knowledge,
-
-we most likely
-
-have an expert
-
-in front of us.
-
-&nbsp;
-
 If a non expert
 
 is feeling all mighty,

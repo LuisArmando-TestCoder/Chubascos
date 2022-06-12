@@ -65,4 +65,4 @@ Lonely gods do not hide,
 
 so what type of god is there,
 
-awaiting?
+awaiting within?
