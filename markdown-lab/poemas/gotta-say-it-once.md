@@ -29,17 +29,17 @@ What an absurd life.
 
 Is tiring to pursue
 
-being a bad cop,
+being a good cop,
 
 I do not really want
 
-to be the good one.
+being bad at all.
 
 &nbsp;
 
-I am lying many proverbs
+Lying many proverbs
 
-on each bed time.
+on each of my bed times.
 
  
 
@@ -57,7 +57,7 @@ but I'm not sure at all,
 
 I have not tasted yet
 
-to be the melting pot.
+being the shining melt.
 
  
 
