@@ -47,7 +47,7 @@ quiero quebrar en llanto,
 
 pero después de tantos lloros
 
-soy barro y estropeado.
+soy barro y estoy seco.
 
 &nbsp;
 
