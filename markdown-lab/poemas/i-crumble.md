@@ -25,9 +25,9 @@ What would have happened?
 
 What a futile experience,
 
-what for but feeling
+what for but a feeling;
 
-like submitting on a knee,
+submitting on a knee,
 
 on a thought, on a bed,
 
