@@ -35,15 +35,23 @@ me posea.
 
 &nbsp;
 
+Ser ignorante sin quererlo
+
+y perseguir conocimiento
+
+es encontrar de improvisto
+
+el secreto a la alegría.
+
+&nbsp;
+
 No hay nada malo conmigo,
 
-pero no hay nada bueno que envidio,
+no hay nada bueno que envidio,
 
-pero es el movimiento
+el movimiento diferencia
 
-lo que diferencia
-
-a los muertos de los vivos.
+a los muertos, de la vida.
 
 &nbsp;
 
