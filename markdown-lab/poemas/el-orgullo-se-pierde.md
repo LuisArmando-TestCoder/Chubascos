@@ -49,6 +49,6 @@ a los muertos de los vivos.
 
 Solo hay un deseo que mantengo,
 
-fluir y seguir fluyendo,
+fluir y seguir fluyendo
 
-mientras estoy despierto.
+en todo cuanto existo.
