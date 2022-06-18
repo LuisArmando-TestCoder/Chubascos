@@ -131,4 +131,4 @@ somos eso mismo.
 
 Somos la nada y lo que nace,
 
-el Universo.
+el Universo con ojos.
