@@ -23,11 +23,15 @@ o es que nunca mueren?
 
 &nbsp;
 
-Es acaso un observador
+¿Es acaso un observador
 
-lo mismo que una cámara,
+lo mismo que una cámara?
 
-¿y una cámara vive?
+&nbsp;
+
+¿Una cámara vive
+
+o vive el que la usa?
 
 &nbsp;
 
@@ -35,7 +39,7 @@ lo mismo que una cámara,
 
 solo por afuera de una fotografía
 
-y no del lado en el que fotografíen?
+y no del lado en el que fotografían?
 
 &nbsp;
 
