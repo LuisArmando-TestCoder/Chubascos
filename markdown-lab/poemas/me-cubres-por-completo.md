@@ -169,7 +169,9 @@ no nos veremos,
 
 pero aún así,
 
-fue un placer suponer que sí.
+fue un placer
+
+suponer que lo hicimos.
 
 &nbsp;
 
@@ -181,7 +183,7 @@ hasta convertirse
 
 en los pendientes que evidencian
 
-que algún día fui sordo.
+que algún día estuve sordo.
 
 &nbsp;
 
@@ -217,19 +219,21 @@ La muerte es un amigo
 
 que me guiña esperando
 
-frente a la puerta de las Posibilidades
+frente a la puerta
 
-de la que vengo,
+de las Posibilidades,
 
-mi nacimiento fue obsequio,
+de la cual que vengo,
 
-porque sentí el mundo.
+mi nacimiento fue su obsequio,
+
+porque sentí al Mundo.
 
 &nbsp;
 
-Doy fé de que sentí algo
+Doy fé de que de hecho
 
-por un breve lapso
+sentí algo, por un breve lapso
 
 entre el aniversario de mi cumpleaños
 
