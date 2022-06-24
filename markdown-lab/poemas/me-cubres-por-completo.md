@@ -77,9 +77,7 @@ cómo venero todas mis costuras.
 
 Me cobijan las acciones
 
-que me marcan el futuro,
-
-que así sea;
+que me marcan el futuro;
 
 el pasado pesa más
 
