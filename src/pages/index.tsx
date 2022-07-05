@@ -31,15 +31,10 @@ export default () => {
                 <Components.strings.Canvas effect='rain'/>
             </Components.strings.ContainerDecorator>
             <div className='wrapper--color-white wrapper--padding'>
-                <p>Los poetas como chubascos,</p>
+                <p>Los poetas,</p>
+                <p>como chubascos;</p>
                 <p>lluvias repentinas</p>
                 <p>dejando charcos.</p>
-                <br/>
-                <p>Los poetas como aguaceros</p>
-                <p>o como tormentas,</p>
-                <p>son impredecibles,</p>
-                <p>pero sin ellos</p>
-                <p>la tierra se marchitaría.</p>
             </div>
             <ul className='wrapper--color-white wrapper--padding'>
                 {

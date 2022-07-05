@@ -99,7 +99,9 @@ love is not a bitch,
 
 it is a conqueror,
 
-and you are losing.
+and you are resigning
+
+th kingdom of your soul.
 
 &nbsp;
 
