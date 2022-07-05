@@ -101,7 +101,7 @@ it is a conqueror,
 
 and you are resigning
 
-th kingdom of your soul.
+the kingdom of your soul.
 
 &nbsp;
 
