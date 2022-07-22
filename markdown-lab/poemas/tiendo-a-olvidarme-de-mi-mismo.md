@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/tiendo-a-olvidarme-de-mi-mismo"
-tags: ["sad"]
+tags: ["normal"]
 title: "tiendo-a-olvidarme-de-mí-mismo"
 ---
 Tiendo a olvidarme de mí mismo
@@ -91,6 +91,6 @@ que somos un espejo
 
 de nuestra media naranja,
 
-y tenemos por dentro
+y que tenemos por dentro
 
-aquello que más amamos.
+aquello que tanto amamos.

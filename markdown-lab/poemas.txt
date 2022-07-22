@@ -2697,6 +2697,6 @@ para sentirnos enteros,
 pero al final nos percatamos
 que somos un espejo
 de nuestra media naranja,
-y tenemos por dentro
-aquello que más amamos.
-<sad
+y que tenemos por dentro
+aquello que tanto amamos.
+<normal
