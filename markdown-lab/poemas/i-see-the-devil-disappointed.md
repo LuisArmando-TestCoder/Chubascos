@@ -133,7 +133,7 @@ have they found themselves
 
 rottened in the shrine
 
-of their own consciousness".
+of their own consciousness.
 
 &nbsp;
 
@@ -147,4 +147,4 @@ their own stories,
 
 they wanted to live
 
-someone else's.
+someone else's".
