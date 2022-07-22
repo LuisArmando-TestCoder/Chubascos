@@ -137,4 +137,14 @@ of their own consciousness".
 
 &nbsp;
 
-And God is mourning.
+And God is mourning,
+
+because in the end,
+
+they didn't want to live
+
+their own stories,
+
+they wanted to live
+
+someone else's.
