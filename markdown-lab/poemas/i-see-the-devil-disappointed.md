@@ -121,7 +121,7 @@ While the good ones
 
 just need to walk
 
-across freezed a civilization.
+across a freezed civilization.
 
 &nbsp;
 
