@@ -57,7 +57,7 @@ I am good and a catastrophe.
 
 I do not deserve nobody,
 
-I do not deserve nobody’s pity,
+I do not deserve nobody's pity,
 
 I deserve nothing in this world,
 
@@ -83,7 +83,7 @@ a sentient being in a grain of sand.
 
 &nbsp;
 
-I am a frames of experiences,
+I am frames of experiences,
 
 taken from my shallow senses
 
@@ -95,7 +95,7 @@ of what there is.
 
 &nbsp;
 
-I am God’s eyes watching.
+I am God's eyes watching.
 
 &nbsp;
 
