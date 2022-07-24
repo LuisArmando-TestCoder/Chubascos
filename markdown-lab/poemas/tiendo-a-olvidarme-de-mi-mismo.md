@@ -49,7 +49,7 @@ en la tuya de lleno;
 
 pierdo el gusto por todo lo bueno
 
-para tener un pizca del sabor
+para tener una pizca del sabor
 
 que me halló corrupto sobre tus labios.
 
