@@ -29,7 +29,7 @@ I am not me,
 
 I am all the people I am made of,
 
-I am past and the unknown,
+I am the past and the unknown,
 
 I am weak and strong,
 
