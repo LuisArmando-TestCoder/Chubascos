@@ -73,28 +73,6 @@ you are not a name.
 
 &nbsp;
 
-To live is to decide
-
-which desire you go for.
-
- 
-
-To live is to want and pursue,
-
-but wanting nothing at all
-
-leads to transcend life as is.
-
- 
-
-To finally be yourself
-
-beyond life's meaning,
-
-flow and let go forever.
-
-&nbsp;
-
 I am what I imagine,
 
 I am a path, I am faith,
@@ -125,14 +103,8 @@ Allegedly I am "alive",
 
 almost just a word,
 
-so it almost has a meaning.
+so it almost has a meaning,
 
-&nbsp;
+but it is all there is
 
-I know nothing, but I know
-
-that within the body of All,
-
-there it is, it is there,
-
-and I believe in it.
+that we need.
