@@ -59,19 +59,39 @@ I do not deserve nobody,
 
 I do not deserve nobody's pity,
 
-I deserve nothing in this world,
+I deserve nothing in this world.
 
-everything is given,
+&nbsp;
 
-everything calls you out to get it,
+Everything is given,
 
-to live is to decide which one
+you got yourself,
 
-do you want,
+you are everywhere,
 
-to live is to want,
+you are not a name.
 
-to live, let go.
+&nbsp;
+
+To live is to decide
+
+which desire you go for.
+
+ 
+
+To live is to want and pursue,
+
+but wanting nothing at all
+
+leads to transcend life as is.
+
+ 
+
+To finally be yourself
+
+beyond life's meaning,
+
+flow and let go forever.
 
 &nbsp;
 
@@ -79,7 +99,9 @@ I am what I imagine,
 
 I am a path, I am faith,
 
-a sentient being in a grain of sand.
+a sentient being
+
+in a pale blue grain.
 
 &nbsp;
 
@@ -99,17 +121,15 @@ I am God's eyes watching.
 
 &nbsp;
 
-Allegedly I am alive,
+Allegedly I am "alive",
 
-it is almost just a word,
+almost just a word,
 
-so it has a meaning.
+so it almost has a meaning.
 
 &nbsp;
 
-I know nothing,
-
-but I know
+I know nothing, but I know
 
 that within the body of All,
 
