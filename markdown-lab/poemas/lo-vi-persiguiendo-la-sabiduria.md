@@ -65,12 +65,6 @@ susurra el futuro,
 
 cada susurro
 
-cambia las tornas.
+cambia el rumbo
 
-&nbsp;
-
-Siempre se puede
-
-escoger el ahora
-
-para iniciar.
+de alguna persona.
