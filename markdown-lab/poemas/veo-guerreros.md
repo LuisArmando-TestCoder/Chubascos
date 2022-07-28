@@ -15,11 +15,11 @@ que me trae el olfato,
 
 no en sus ojos arrogantes
 
-que veneran cuales
+que veneran cual adictos
 
 a la dulce violencia,
 
-a su ciencia y arte,
+a su arte y ciencia,
 
 a la apuesta por glorificarse,
 
