@@ -21,11 +21,11 @@ a la dulce violencia,
 
 a su arte y ciencia,
 
-a la apuesta por glorificarse,
+a la apuesta por la gloria,
 
 sino, en sus deseos,
 
-en sus objetivos verdaderos,
+en sus objetivos,
 
 en su lucha por alcanzarlos.
 
