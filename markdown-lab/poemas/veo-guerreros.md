@@ -99,7 +99,7 @@ de algunos cuantos anhelos.
 
 &nbsp;
 
-Podemos ver la victoria
+Podemos ver su naturaleza
 
 abriendo los ojos del alma,
 
