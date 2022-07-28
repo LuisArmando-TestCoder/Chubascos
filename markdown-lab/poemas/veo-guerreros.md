@@ -25,13 +25,13 @@ a la apuesta por glorificarse,
 
 sino, en sus deseos,
 
-en sus objetivos verdaderos
+en sus objetivos verdaderos,
 
-y en su lucha por alcanzarlos.
+en su lucha por alcanzarlos.
 
 &nbsp;
 
-Si algo debe ser vencido,
+Si algo debe vencerse,
 
 los guerreros pueden derrotarlo.
 
@@ -41,13 +41,19 @@ si no es por un objetivo más elevado.
 
 &nbsp;
 
-Obtener la victoria
+Obtener la misma
 
-es como escalar por la cima,
+es como escalar
 
-y sentir el paraíso por un segundo:
+hasta la cima,
 
-—Estoy aquí, encima del mundo,
+y sentir el paraíso 
+
+por un segundo:
+
+—Estoy aquí, 
+
+encima del mundo,
 
 no existe nada más
 
@@ -57,15 +63,19 @@ y estoy completo.
 
 &nbsp;
 
-La victoria, un trago de éxtasis,
+La victoria, 
 
-no por el momento en sí,
+un trago de éxtasis,
+
+no por el momento,
 
 si no por los recuerdos
 
-que plenaron el ascenso;
+que plenaron el ascenso.
 
-las heridas se vuelven tesoros
+&nbsp;
+
+Las heridas se vuelven tesoros
 
 por su propio costo,
 
@@ -87,13 +97,13 @@ tan perseguido.
 
 Podemos ser victoriosos
 
-abriendo los ojos del alma;
+abriendo los ojos del alma,
 
 podemos abrirlos
 
-observando la cima
+observando desde la cima
 
-extasiados.
+desde donde sea.
 
 &nbsp;
 
