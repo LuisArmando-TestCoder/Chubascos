@@ -47,7 +47,7 @@ es como escalar por la cima,
 
 y sentir el paraíso por un segundo:
 
-— Estoy aquí, encima del mundo,
+—Estoy aquí, encima del mundo,
 
 no existe nada más
 
