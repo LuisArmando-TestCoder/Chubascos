@@ -9,7 +9,7 @@ no en la sangre ajena
 
 que les cubre los hombros,
 
-no en el sabor a metal
+no en el sabor a hierro
 
 que me trae el olfato,
 
