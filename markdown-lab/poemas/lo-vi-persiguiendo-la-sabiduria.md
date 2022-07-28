@@ -66,3 +66,11 @@ susurra el futuro,
 cada susurro
 
 cambia las tornas.
+
+&nbsp;
+
+Siempre se puede
+
+escoger el ahora
+
+para iniciar.

@@ -2822,6 +2822,10 @@ Cada respirar
 susurra el futuro,
 cada susurro
 cambia las tornas.
+
+Siempre se puede
+escoger el ahora
+para iniciar.
 <happy
 ---
 Veo guerreros,
@@ -2874,9 +2878,6 @@ Podemos ser victoriosos
 abriendo los ojos del alma,
 podemos abrirlos
 observando desde la cima
-desde donde sea.
-
-Siempre se puede
-escoger el ahora
-para despertar el alma.
+desde donde sea
+cuánto valemos.
 <happy

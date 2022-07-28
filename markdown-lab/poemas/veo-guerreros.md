@@ -103,12 +103,6 @@ podemos abrirlos
 
 observando desde la cima
 
-desde donde sea.
+desde donde sea
 
-&nbsp;
-
-Siempre se puede
-
-escoger el ahora
-
-para despertar el alma.
+cuánto valemos.
