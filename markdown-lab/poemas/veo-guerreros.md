@@ -11,9 +11,9 @@ que les cubre los hombros,
 
 no en el sabor a hierro
 
-que me trae el olfato,
+que me traen hediondos,
 
-no en sus ojos arrogantes
+no en sus miradas arrogantes
 
 que veneran cual adictos
 
@@ -23,25 +23,27 @@ a su arte y ciencia,
 
 a la apuesta por la gloria,
 
-sino, en sus deseos,
+sino, en los deseos de sus ojos,
 
-en sus objetivos,
+en sus objetivos más ocultos,
 
-en su lucha por alcanzarlos.
+en su lucha por gozarlos.
 
 &nbsp;
 
 Si algo debe vencerse,
 
-los guerreros pueden derrotarlo.
+ellos pueden derrotarlo.
 
-Pero para qué se persigue la victoria
+&nbsp;
+
+Pero, para qué se persigue la gloria
 
 si no es por un objetivo más elevado.
 
 &nbsp;
 
-Obtener la misma
+Obtenerla
 
 es como escalar
 
@@ -49,23 +51,21 @@ hasta la cima,
 
 y sentir el paraíso 
 
-por un segundo:
+por fracciones de segundo.
 
-—Estoy aquí, 
+«Estoy aquí, 
 
 encima del mundo,
 
 no existe nada más
 
-que este momento
-
-y estoy completo.
+que este momento».
 
 &nbsp;
 
 La victoria, 
 
-un trago de éxtasis,
+un trago extásico,
 
 no por el momento,
 
@@ -75,7 +75,7 @@ que plenaron el ascenso.
 
 &nbsp;
 
-Las heridas se vuelven tesoros
+Las heridas son tesoros
 
 por su propio costo,
 
@@ -83,42 +83,38 @@ y te hallas repleto
 
 de gracias, virtudes
 
-y monumentos
+y monumentos en honor
 
-en las cicatrices.
+a tus cicatrices.
 
 &nbsp;
 
-La victoria es
+La victoria es alcanzar
 
-alcanzar el valor
-
-que persigues
+el valor que persigues
 
 para rellenar el abismo
 
-de tus anhelos.
+de algunos cuantos anhelos.
 
 &nbsp;
 
-Podemos ser victoriosos
+Podemos ver la victoria
 
 abriendo los ojos del alma,
 
-podemos abrirlos
+y podemos abrirlos
 
-desde la cima del entendimiento,
+desde la cúspide
 
-donde la gravedad se calma
+de nuestro entendimiento,
 
-y ver así nuestro núcleo,
+donde la gravedad calma
 
-siempre presente
-
-desde el principio.
+revela nuestro núcleo.
 
 &nbsp;
 
 La victoria es una ilusión,
 
-pero perennes los destinos.
+pero perennes los relatos.
