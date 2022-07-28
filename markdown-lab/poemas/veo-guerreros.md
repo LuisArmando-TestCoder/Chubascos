@@ -81,9 +81,11 @@ por su propio costo,
 
 y te hallas repleto
 
-de gracias, virtudes,
+de gracias, virtudes
 
-y monumentos.
+y monumentos
+
+en las cicatrices.
 
 &nbsp;
 
@@ -91,7 +93,11 @@ La victoria es
 
 alcanzar el valor
 
-tan perseguido.
+que persigues
+
+para rellenar el abismo
+
+de tus anhelos.
 
 &nbsp;
 
@@ -101,8 +107,18 @@ abriendo los ojos del alma,
 
 podemos abrirlos
 
-observando desde la cima
+desde la cima del entendimiento,
 
-desde donde sea
+donde la gravedad se calma
 
-cuánto valemos.
+y ver así nuestro núcleo,
+
+siempre presente
+
+desde el principio.
+
+&nbsp;
+
+La victoria es una ilusión,
+
+pero perennes los destinos.
