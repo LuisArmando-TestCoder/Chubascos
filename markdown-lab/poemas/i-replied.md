@@ -133,7 +133,7 @@ stereotypical answers.
 
 There is no
 
-``should or shouldn't``
+`\`should or shouldn't`\`
 
 in my virtual list of manners,
 
@@ -201,6 +201,6 @@ So, now that I told you all of this,
 
 let me tell you once again:
 
-``no, I'm not mad at you,
+no, I'm not mad at you,
 
-nor at anyone else``".
+nor at anyone else".

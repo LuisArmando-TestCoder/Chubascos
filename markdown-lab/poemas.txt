@@ -2950,7 +2950,7 @@ acquired character's
 stereotypical answers.
 
 There is no
-``should or shouldn't``
+`\`should or shouldn't`\`
 in my virtual list of manners,
 just my natural sense of rightfulness.
 
@@ -2984,6 +2984,6 @@ Everything.
 
 So, now that I told you all of this,
 let me tell you once again:
-``no, I'm not mad at you,
-nor at anyone else``".
+no, I'm not mad at you,
+nor at anyone else".
 <normal
