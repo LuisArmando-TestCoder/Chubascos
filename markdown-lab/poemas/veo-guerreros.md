@@ -49,11 +49,11 @@ es como escalar
 
 hasta la cima,
 
-y sentir el paraíso 
+y sentir el paraíso
 
 por fracciones de segundo.
 
-«Estoy aquí, 
+«Estoy aquí,
 
 encima del mundo,
 
@@ -63,7 +63,7 @@ que este momento».
 
 &nbsp;
 
-La victoria, 
+La victoria,
 
 un trago extásico,
 

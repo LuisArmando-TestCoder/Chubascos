@@ -15,186 +15,186 @@ is applying the knowledge
 
 I was given".
 
- 
+&nbsp;
 
 "Yes!", the voice replied,
 
 so I stared back,
 
-but the look in my eyes 
+but the look in my eyes
 
-didn't hold any positivity within, 
+didn't hold any positivity within,
 
-so then, scared and in secrecy, 
+so then, scared and in secrecy,
 
-his mind became foggy and storming, 
+his mind became foggy and storming,
 
 building possible outcomes.
 
- 
+&nbsp;
 
-"Is he mad at me?", 
+"Is he mad at me?",
 
 I said, mimicking his demeanor.
 
- 
+&nbsp;
 
-"Did you just read my mind?", 
+"Did you just read my mind?",
 
 he laughed in a puzzled awe.
 
- 
+&nbsp;
 
-So I kept going: 
+So I kept going:
 
-"You are not looking in my eyes, 
+"You are not looking in my eyes,
 
-you are strategizing 
+you are strategizing
 
-how to avoid conflict 
+how to avoid conflict
 
-and/or get the best outcome, 
+and/or get the best outcome,
 
-while coming out unharmed and proudful, 
+while coming out unharmed and proudful,
 
-but I forgive you, 
+but I forgive you,
 
-as that is the so-called veil 
+as that is the so-called veil
 
-by which so many 
+by which so many
 
-get infected by 
+get infected by
 
-in the later stages 
+in the later stages
 
 of their childhood.
 
- 
+&nbsp;
 
-Get rid of everything you know, 
+Get rid of everything you know,
 
-so you understand what you don't, 
+so you understand what you don't,
 
-be ready to be surprised or not, 
+be ready to be surprised or not,
 
-be ready for what might come 
+be ready for what might come
 
 and what might not.
 
- 
+&nbsp;
 
-My lack of expressions 
+My lack of expressions
 
-makes you wonder in a split second: 
+makes you wonder in a split second:
 
-``what is this response? 
+``what is this response?
 
-could it be that he is mad at me? 
+could it be that he is mad at me?
 
-If he was, that would make sense, 
+If he was, that would make sense,
 
-and if that makes sense, 
+and if that makes sense,
 
-that is likely to be true, 
+that is likely to be true,
 
-and if that is likely to be true, 
+and if that is likely to be true,
 
 I will make it my safe truth``.
 
- 
+&nbsp;
 
-But the machinery 
+But the machinery
 
-keeps going on and on: 
+keeps going on and on:
 
-``then, it doesn't make sense! 
+``then, it doesn't make sense!
 
-Why is he mad in the first place? 
+Why is he mad in the first place?
 
-Was it me or someone else? 
+Was it me or someone else?
 
 Is he passing through some ache?``.
 
- 
+&nbsp;
 
 Easy, I'm flowing,
 
-which means 
+which means
 
-that I'm not forcing myself 
+that I'm not forcing myself
 
-into any sort of 
+into any sort of
 
-acquired character's 
+acquired character's
 
 stereotypical answers.
 
- 
+&nbsp;
 
-There is no 
+There is no
 
-``should or shouldn't`` 
+``should or shouldn't``
 
-in my virtual list of manners, 
+in my virtual list of manners,
 
 just my natural sense of rightfulness.
 
- 
+&nbsp;
 
-So my actions are my will 
+So my actions are my will
 
-sinking in the Sea of Time. 
+sinking in the Sea of Time.
 
- 
+&nbsp;
 
 I'm not mad at you.
 
- 
+&nbsp;
 
 I'm free to not look enlightened.
 
- 
+&nbsp;
 
-I don't have to fit 
+I don't have to fit
 
-anybody's code of conduct, 
+anybody's code of conduct,
 
-nor the acceptance of the world 
+nor the acceptance of the world
 
 that I'm part of.
 
- 
+&nbsp;
 
-I'm open to being wrong 
+I'm open to being wrong
 
 and changing my subjective wrong doings.
 
- 
+&nbsp;
 
-I'm open to hardheadedness 
+I'm open to hardheadedness
 
-and sticking to my made up 
+and sticking to my made up
 
 dozen commandments.
 
- 
+&nbsp;
 
-But I, at all costs, 
+But I, at all costs,
 
-accept my consistency, 
+accept my consistency,
 
 accept my changes
 
-and my made up destiny, 
+and my made up destiny,
 
 and that is enough.
 
- 
+&nbsp;
 
-So, now that I told you all of this, 
+So, now that I told you all of this,
 
-let me tell you once again: 
+let me tell you once again:
 
-``no, I'm not mad at you, 
+``no, I'm not mad at you,
 
 nor at anyone else... for now``".
