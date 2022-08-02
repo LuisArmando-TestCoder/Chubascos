@@ -167,7 +167,9 @@ that I'm part of.
 
 I'm open to being wrong
 
-and changing my subjective wrong doings.
+and changing my subjective wrong doings
+
+for the sake of a subjective enhacement.
 
 &nbsp;
 
@@ -187,7 +189,11 @@ accept my changes
 
 and my made up destiny,
 
-and that is enough.
+and that is enough,
+
+as I am connected to
+
+Everything.
 
 &nbsp;
 
@@ -197,4 +203,4 @@ let me tell you once again:
 
 ``no, I'm not mad at you,
 
-nor at anyone else... for now``".
+nor at anyone else``".
