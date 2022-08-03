@@ -33,7 +33,7 @@ I am the past and the unknown,
 
 I am weak and strong,
 
-I am future and expansion,
+I am the future and expansion,
 
 a galactic neighborhood.
 
