@@ -19,7 +19,7 @@ No te asustes cuando lo logres, será normal sentirte menos humano, pero estará
 
 &nbsp;
 
-Tener este estado sin obsesiones en medio se llama iluminación.
+Tener este estado sin obsesiones en medio, se llama: iluminación.
 
 &nbsp;
 
