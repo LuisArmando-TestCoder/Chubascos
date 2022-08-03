@@ -31,7 +31,7 @@ Cuando la iluminación se completa, al aceptarse las propias tendencias de recti
 
 &nbsp;
 
-Toma lo mejor de todas partes del espectro de la rectitud y asciende, eso lo que hacen los seres vivos, tender a la ascensión (expansión temporal y/o multidimensional).
+Toma lo mejor de todas partes del espectro de la rectitud y asciende, eso es lo que hacen los seres vivos, tender a la ascensión (expansión temporal y/o multidimensional).
 
 &nbsp;
 
