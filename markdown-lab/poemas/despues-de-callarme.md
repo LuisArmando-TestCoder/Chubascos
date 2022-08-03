@@ -72,3 +72,19 @@ Un ser vivo es una alusión material a un universo, mientras más al futuro se v
 &nbsp;
 
 Nadie muere, nadie vive, solo hay caos que se distribuye.
+
+&nbsp;
+
+El material primario del Omniverso es el caos, el cual surge gracias gracias a la paradoja del vacío.
+
+&nbsp;
+
+Si Todo está vacío, no hay vacío, pues este es una unidad, y si existe la unidad, ya no existe el vacío.
+
+&nbsp;
+
+Entre el desorden de vacío y su negación se forma el caos.
+
+&nbsp;
+
+Este desorden contiene la verdadera aleatoriedad de la cual surge la distribución de caos, de la que se forma el Omniverso.
