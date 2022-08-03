@@ -75,7 +75,7 @@ Nadie muere, nadie vive, solo hay caos que se distribuye.
 
 &nbsp;
 
-El material primario del Omniverso es el caos, el cual surge gracias gracias a la paradoja del vacío.
+El material primario del Omniverso es el caos, el cual surge gracias a la paradoja del vacío.
 
 &nbsp;
 
