@@ -7,7 +7,7 @@ Después de callarme.
 
 &nbsp;
 
-Tu superioridad cognitiva en parte se basa en la proporción del control de tus emociones
+Tu superioridad cognitiva en parte se basa en la proporción del control de tus emociones.
 
 &nbsp;
 
@@ -15,7 +15,7 @@ Mientras más controles lo que sientes, más puedes retar al destino, el cual es
 
 &nbsp;
 
-No te asustes cuando lo logres, será normal sentirte menos humano, pero estarás despierto
+No te asustes cuando lo logres, será normal sentirte menos humano, pero estarás despierto.
 
 &nbsp;
 
@@ -27,11 +27,11 @@ Cuando se alcanza la primera iluminación (independencia), la personalidad comie
 
 &nbsp;
 
-Cuando la iluminación se completa, al aceptarse las propias tendencias de rectitud o el propio sentido del bien, la personalidad verdadera aparece en las acciones y su constancia, aunque el rostro no lo demuestre, las expresiones y gestos se vuelven genuinos, y el espíritu comienza a sentirse a salvo dentro del propio cuerpo 
+Cuando la iluminación se completa, al aceptarse las propias tendencias de rectitud o el propio sentido del bien, la personalidad verdadera aparece en las acciones y su constancia, aunque el rostro no lo demuestre, las expresiones y gestos se vuelven genuinos, y el espíritu comienza a sentirse a salvo dentro del propio cuerpo.
 
 &nbsp;
 
-Toma lo mejor de todas partes del espectro de la rectitud y asciende, eso lo que hacen los seres vivos, tender a la ascensión (expansión temporal y/o multidimensional)
+Toma lo mejor de todas partes del espectro de la rectitud y asciende, eso lo que hacen los seres vivos, tender a la ascensión (expansión temporal y/o multidimensional).
 
 &nbsp;
 
