@@ -11,7 +11,7 @@ Tu superioridad cognitiva en parte se basa en la proporción del control de tus 
 
 &nbsp;
 
-Mientras más controles lo que sientes, más puedes retar al destino, el cual es un nombre alternativo a: acciones conllevando reacciones. Retar es: aumentar la entropía.
+Mientras más controles lo que sientes, más puedes retar al destino, el cual es un nombre alternativo para: acciones conllevando reacciones. Retar sería: aumentar la entropía.
 
 &nbsp;
 
