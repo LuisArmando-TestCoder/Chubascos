@@ -51,11 +51,11 @@ Hay velos de iluminación que alcanzar entre cada etapa de ascensión.
 
 &nbsp;
 
-La existencia rodea los universos en burbujas temporales, las cuales más entrópicas se vuelven mientras más se aleja del centro infinitesimal del Universo.
+La existencia rodea los universos en burbujas temporales, las cuales se vuelven más entrópicas mientras más se aleja del centro infinitesimal del Universo.
 
 &nbsp;
 
-Entre cada Universo de tipo expansivo hay un abismo de caos disfrazado de silencio, los bordes de las burbujas son futuros tan silenciosos que se hacen alusión a un tiempo que se detiene.
+Entre cada Universo de tipo expansivo hay un abismo de caos disfrazado de silencio, los bordes de las burbujas son futuros tan silenciosos que hacen alusión a un tiempo que se detiene.
 
 &nbsp;
 
@@ -67,7 +67,7 @@ No existe distancia ni tiempo en realidad, solo una distribución de caos.
 
 &nbsp;
 
-Un ser vivo es una alusión material a un universo, mientras más al futuro se vaya, más caos genera, hasta tal punto en el que parece que ya no hay caos en él y se le puede categorizar como muerto, los bordes de la burbuja temporal serían la muerte de los Universos, pero realmente no hay bordes entre la vida y la muerte, solo un mutuo acuerdo entre seres sintientes de que tal concepto existe.
+Un ser vivo es una alusión material a un universo, mientras más al futuro se vaya, más caos genera, hasta tal punto en el que parece que ya no hay caos en él y se le puede categorizar como muerto, los bordes de la burbuja temporal serían la muerte de los universos, pero realmente no hay bordes entre la vida y la muerte, solo un mutuo acuerdo entre seres sintientes de que tal concepto existe.
 
 &nbsp;
 
