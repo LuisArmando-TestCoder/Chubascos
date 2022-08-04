@@ -15,17 +15,37 @@ no vale la pena buscarlo.
 
 &nbsp;
 
-Pero bailar, cantar,
+Pero bailar, cantar;
 
-jugar, explorar,
+construir, imaginar;
 
-crear, experimentar
+aprender, intentar;
 
-y el arte llenan.
+empezar, terminar;
+
+crear, experimentar;
+
+escuchar, callar;
+
+discutir, debatir;
+
+leer, escribir;
+
+correr, nadar;
+
+perder, ganar;
+
+reconocer, recordar;
+
+observar, notar
+
+y también el arte
+
+vale la pena.
 
 &nbsp;
 
-No vale la pena buscarlo
+Lo que no vale es buscarlo,
 
 porque el sentido
 
@@ -37,6 +57,8 @@ a lo que sea.
 
 &nbsp;
 
-Una vez que lo hayas hecho,
+Una vez hecho,
 
-podrías enamorarte de la vida.
+podría uno enamorarse
+
+de la vida.
