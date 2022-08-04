@@ -25,6 +25,4 @@ que el aterrizaje.
 
 Ascender y recordar
 
-que vencimos
-
-por un momento.
+que vencimos.
