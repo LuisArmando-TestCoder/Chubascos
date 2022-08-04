@@ -11,14 +11,12 @@ nos persigue
 
 la cobardía
 
-que insta
-
-intentarlo.
+que insta a retarlo.
 
 &nbsp;
 
-Por eso lanzarse
+Por eso el salto
 
 es más grato
 
-que aterrizar.
+que el aterrizaje.
