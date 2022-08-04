@@ -13,11 +13,11 @@ porque cada vez
 
 que hacía aquello,
 
-brillaba.
+luego... sucedía.
 
 &nbsp;
 
-En algún momento 
+En algún momento
 
 olvidé lo que aquello era
 
@@ -63,7 +63,7 @@ solo en movimiento.
 
 &nbsp;
 
-Un juego obsesivo 
+Un juego obsesivo
 
 es lo que anhelo.
 
