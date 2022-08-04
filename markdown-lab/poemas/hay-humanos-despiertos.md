@@ -1,17 +1,15 @@
 ---
-slug: "/poemas/por-mucho-que-hayan"
+slug: "/poemas/hay-humanos-despiertos"
 tags: ["normal"]
-title: "por-mucho-que-hayan"
+title: "hay-humanos-despiertos"
 ---
-Por mucho que hayan
-
-humanos despiertos,
+Hay humanos despiertos,
 
 hay otros tantos en medio
 
 que obstaculizan el paso
 
-con los ojos cerrados,
+con sus ojos cerrados,
 
 pues por estar ciegos,
 
