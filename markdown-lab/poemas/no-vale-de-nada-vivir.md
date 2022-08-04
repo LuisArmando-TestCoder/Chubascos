@@ -27,7 +27,7 @@ crear, experimentar;
 
 escuchar, callar;
 
-discutir, debatir;
+conversar, debatir;
 
 leer, escribir;
 

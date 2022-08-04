@@ -3088,7 +3088,7 @@ aprender, intentar;
 empezar, terminar;
 crear, experimentar;
 escuchar, callar;
-discutir, debatir;
+conversar, debatir;
 leer, escribir;
 correr, nadar;
 perder, ganar;
