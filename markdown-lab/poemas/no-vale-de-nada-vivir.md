@@ -59,6 +59,6 @@ a lo que sea.
 
 Una vez otorgado
 
-podría uno enamorarse
+podría uno
 
-de la vida.
+enamorarse de la vida.
