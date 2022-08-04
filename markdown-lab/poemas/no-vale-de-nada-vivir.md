@@ -41,7 +41,7 @@ observar, notar
 
 y también el arte
 
-vale la pena.
+valen la pena.
 
 &nbsp;
 
@@ -57,7 +57,7 @@ a lo que sea.
 
 &nbsp;
 
-Una vez hecho,
+Una vez otorgado
 
 podría uno enamorarse
 
