@@ -5,27 +5,31 @@ title: "i-am-happy"
 ---
 I am happy, but I crumble,
 
-grey looks like my new color,
-
-seems rusty, so it is glowing
-
-in another dimension.
+grey looks like my new color.
 
 &nbsp;
 
 I am stock in
 
-this monochrome dementia,
+monochrome dementia,
 
-I want to see at least red.
+in another dimension
+
+even rustyness glows to me.
 
 &nbsp;
 
-Am I happy? Am I a man?
+Am I happy?
+
+Am I a man now?
 
 Can I get rid of
 
-this choking chains?
+these choking chains already?
+
+before my veins splatter
+
+along with my hope.
 
 &nbsp;
 
