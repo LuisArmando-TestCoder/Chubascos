@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/i-am-happy"
-tags: ["normal"]
+tags: ["sad"]
 title: "i-am-happy"
 ---
 I am happy, but I crumble,
