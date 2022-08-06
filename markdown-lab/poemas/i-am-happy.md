@@ -7,7 +7,7 @@ I am happy, but I crumble,
 
 grey looks like my new color,
 
-seems rusty, so it's glowing
+seems rusty, so it is glowing
 
 in another dimension.
 
@@ -51,6 +51,6 @@ or get stock in a loop
 
 before giving you access
 
-to my most precious
+to my dearest
 
-and metaphysical belongings.
+spectral belongings.

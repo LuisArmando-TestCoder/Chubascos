@@ -3197,7 +3197,7 @@ pero la repetición hipnotiza.
 ---
 I am happy, but I crumble,
 grey looks like my new color,
-seems rusty, so it's glowing
+seems rusty, so it is glowing
 in another dimension.
 
 I am stock in
@@ -3219,6 +3219,6 @@ corrupt my shrine.
 I will rather die
 or get stock in a loop
 before giving you access
-to my most precious
-and metaphysical belongings.
+to my dearest
+spectral belongings.
 <sad
