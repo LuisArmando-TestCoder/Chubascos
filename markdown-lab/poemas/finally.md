@@ -19,11 +19,9 @@ is going to make you less unimportant.
 
 &nbsp;
 
-There is no I, no us,
+All there is nothingness
 
-just nothingness
-
-and its paradoxical unity,
+in its paradoxical unity,
 
 giving birth in a looping kiss
 
