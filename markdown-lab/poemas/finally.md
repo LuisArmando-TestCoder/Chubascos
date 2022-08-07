@@ -25,41 +25,29 @@ just nothingness
 
 and its paradoxical unity,
 
-giving birth in a kiss
+giving birth in a looping kiss
 
-to a spontaneous everything.
+to a spontaneous Everything.
 
 &nbsp;
 
-My only comfort was
+My only comfort was that,
 
-that I know I am two eyes in a body;
+I am making Existence sentient.
 
-egocentric nobody;
+&nbsp;
 
-almost sentient;
+Egocentric nonentity;
 
-almost living;
+there is no loneliness
 
-senses of The Everything,
-
-and within it,
-
-splattered,
-
-I arise.
+as there is nobody.
 
 &nbsp;
 
 I salute the epoch
 
 of my heretic awareness.
-
-&nbsp;
-
-There is no loneliness.
-
-There is nobody.
 
 &nbsp;
 
