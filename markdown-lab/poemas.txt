@@ -3293,3 +3293,8 @@ de mi conciencia herética.
 Mis cadenas primigenias
 yacen rotas.
 <normal
+---
+No se trata de lo que te llevas,
+se trata de lo que recogen
+los que dejas atrás.
+<normal
