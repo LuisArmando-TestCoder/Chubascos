@@ -49,10 +49,12 @@ como equipaje para el otro mundo,
 
 pues al final del maratón, no hay trofeo,
 
-solo la muerte señalando con donaire
+solo la Parca señalando con donaire
 
-la dirección hacia un destino diferente.
+la dirección hacia un destino nuevo.
 
 &nbsp;
 
-Seamos descarados en este.
+Seamos descarados,
+
+mientras se pueda.
