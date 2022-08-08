@@ -5,11 +5,11 @@ title: "detente"
 ---
 Detente, me agrietas,
 
-y si continúas,
+y si continúas
 
 he de defenderme
 
-con un beso en la mejilla.
+con un asalto en la mejilla.
 
 &nbsp;
 
