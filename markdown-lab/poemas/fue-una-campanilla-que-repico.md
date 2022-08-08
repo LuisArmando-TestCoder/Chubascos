@@ -15,7 +15,7 @@ Fue una campanilla que repicó, un eco llenándome de alarmas: «¡Ahí está, e
 
 «¿Qué vas a hacer?».
 
-—No tengo ni idea... Tal vez, hablarle.
+—No tengo ni idea... Tal vez, ¿hablarle?
 
 «Ah, ¡claro que no!». Ellas, enojadas, me enmudecieron. «No sabes hacerlo, así que no irás», agregó, mi miedo.
 
