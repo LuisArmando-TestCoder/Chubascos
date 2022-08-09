@@ -11,7 +11,7 @@ El papel de Satanás.
 
 &nbsp;
 
-A a esto, dirigiéndose a la corte de demonios, prosiguió: —Mis hermosos, no les hagan caso a las almas condenadas, dejen que los odien, porque hay otros seres como mis compañeros, que los cobijamos con nuestras alas azabache, y otorgarles así el cariño que les despojaron, aunque muchos los denominan “bichos raros”. Estén orgullosos de esto mis demonios. Sean ustedes mismos frente a los condenados y regodéense mientras lo hacen, sean la versión con la se sientan más cómodos y estiren sus extremidades, que sus arañazos sean masajes, y sus gritos, armonías. Dejen que los miren, dejen que los apunten, dejen que corran, y ustedes sean libres, y cuando los hayan insultado demasiado por simplemente ser ustedes, vuelvan al manto de los “ángeles caídos”.
+A a esto, dirigiéndose a la corte de demonios, prosiguió: —Mis hermosos, no les hagan caso a las almas condenadas, dejen que los odien, porque hay otros seres como mis compañeros, que los cobijamos con nuestras alas azabache, y otorgarles así el cariño que les despojaron, aunque muchos los denominan "bichos raros". Estén orgullosos de esto mis demonios. Sean ustedes mismos frente a los condenados y regodéense mientras lo hacen, sean la versión con la se sientan más cómodos y estiren sus extremidades, que sus arañazos sean masajes, y sus gritos, armonías. Dejen que los miren, dejen que los apunten, dejen que corran, y ustedes sean libres, y cuando los hayan insultado demasiado por simplemente ser ustedes, vuelvan al manto de los "ángeles caídos".
 
 &nbsp;
 
@@ -33,7 +33,7 @@ Después de unos momentos se incorporó:
 
 &nbsp;
 
-⟫ Algunos espíritus, heridos por la humanidad, comenzaron a odiarla, y creé este lugar para proteger a los mortales y acurrucar a los que llamaron monstruos, y ustedes condenados, fueron versiones fallidas del supuesto “animal perfecto”, y por eso están aquí, porque no dieron la talla, porque mal usaron su libre albedrío en placeres peligrosos y demostraron que eran víctimas de sus instintos, y que no tenían voluntad propia; ¿para que darle la ascensión a quien no puede usarla?
+⟫ Algunos espíritus, heridos por la humanidad, comenzaron a odiarla, y creé este lugar para proteger a los mortales y acurrucar a los que llamaron monstruos, y ustedes condenados, fueron versiones fallidas del supuesto "animal perfecto", y por eso están aquí, porque no dieron la talla, porque mal usaron su libre albedrío en placeres peligrosos y demostraron que eran víctimas de sus instintos, y que no tenían voluntad propia; ¿para que darle la ascensión a quien no puede usarla?
 
 &nbsp;
 
