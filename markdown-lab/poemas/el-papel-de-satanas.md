@@ -65,7 +65,7 @@ Luzbel miró hacia arriba, por fuera del manto de la Tierra, hasta la estratósf
 
 &nbsp;
 
-De repente, una voz ajena, resonando una divinidad desconocida mientras azotaba al Infierno en un temblor, exclamó: —despójate.
+De repente, una voz ajena, resonando en un estilo de divinidad desconocida, azotó el Infierno y exclamó: —despójate.
 
 &nbsp;
 
