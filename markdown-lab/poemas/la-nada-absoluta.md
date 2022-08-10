@@ -34,3 +34,21 @@ estamos ocurriendo.
 Si existen todos los futuros,
 
 no hay destino, solo posibilidades.
+
+&nbsp;
+
+La existencia empieza
+
+en un punto de aleatoriedad fractal
+
+por su misma indeterminación,
+
+pero en la aleatoriadad absoluta
+
+se encuentra la forma final del Todo.
+
+&nbsp;
+
+Que esto nos permita
+
+volver la mirada y explorar.
