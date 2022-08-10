@@ -29,6 +29,6 @@ Como existen todos los futuros,
 
 no existe ningún futuro único,
 
-y tenemos libre albedrío,
+y no vamos hacia ningún futuro determinado,
 
-pues vivimos indeterminados.
+pues vivimos en la indeterminación.
