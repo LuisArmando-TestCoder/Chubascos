@@ -21,14 +21,16 @@ lo que gesta el Todo mismo.
 
 Por eso Nada es imposible
 
-y Todo ya ha ocurrido.
+y Todo ya ha ocurrido,
+
+o se podría decir,
+
+si uno se identifica como el Todo,
+
+estamos ocurriendo.
 
 &nbsp;
 
-Como existen todos los futuros,
+Si existen todos los futuros,
 
-no existe ningún futuro único,
-
-y no vamos hacia ningún futuro determinado,
-
-pues vivimos en la indeterminación.
+no hay destino, solo posibilidades.
