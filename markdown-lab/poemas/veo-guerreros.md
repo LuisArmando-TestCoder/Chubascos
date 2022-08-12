@@ -11,7 +11,7 @@ que les cubre los hombros,
 
 no en el sabor a hierro
 
-que me traen hediondos,
+que me traen pestilentes,
 
 no en sus miradas arrogantes
 
