@@ -15,7 +15,9 @@ But when I do,
 
 life is to confront,
 
-and when you do,
+and when you apply
+
+the meaning of life,
 
 ghost no more they see.
 
