@@ -25,4 +25,4 @@ Finding new unknowns
 
 makes you stronger,
 
-most lie within you.
+most lie within.
