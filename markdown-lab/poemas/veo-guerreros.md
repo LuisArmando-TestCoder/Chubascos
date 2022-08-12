@@ -57,9 +57,7 @@ por fracciones de segundo.
 
 encima del mundo,
 
-no existe nada más
-
-que este momento».
+no existe nada más».
 
 &nbsp;
 
