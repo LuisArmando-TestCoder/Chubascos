@@ -15,8 +15,14 @@ Are you sentient?
 
 Is God sentient?
 
-How much sentience
+How much of sentience?
 
-is enough?
+&nbsp;
 
-Does it matter?
+If it is measurable,
+
+machines would be alive,
+
+and fellow humans
+
+with more life than others.
