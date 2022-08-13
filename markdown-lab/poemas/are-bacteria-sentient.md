@@ -23,6 +23,6 @@ If it is measurable,
 
 machines would be alive,
 
-and fellow humans
+and some fellow humans
 
 with more life than others.
