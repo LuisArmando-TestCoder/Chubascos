@@ -15,4 +15,4 @@ no hay trofeo,
 
 solo la Parca con donaire
 
-señalando un nuevo destino.
+señalando un destino nuevo.
