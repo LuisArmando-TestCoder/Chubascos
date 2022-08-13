@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/el-orgullo-se-pierde"
-tags: ["normal"]
+tags: ["sad"]
 title: "el-orgullo-se-pierde"
 ---
 El orgullo se pierde,
@@ -23,40 +23,6 @@ de llevar la piedra
 
 cuesta arriba
 
-y las cadenas
+y roce de cadenas
 
-que adornaban las llagas,
-
-y ahora sigo caminando,
-
-esperando que un alma
-
-me posea.
-
-&nbsp;
-
-Ser ignorante sin quererlo
-
-y perseguir conocimiento
-
-es encontrar de improvisto
-
-el secreto a la alegría.
-
-&nbsp;
-
-No hay nada malo conmigo,
-
-no hay nada bueno que envidio,
-
-el movimiento diferencia
-
-a los muertos, de la vida.
-
-&nbsp;
-
-Solo hay un deseo que mantengo,
-
-fluir y seguir fluyendo
-
-en todo cuanto existo.
+que adornaban las llagas.

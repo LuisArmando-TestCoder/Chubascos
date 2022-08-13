@@ -15,22 +15,6 @@ Pero siendo uno de tantos,
 
 &nbsp;
 
-Estamos repletos
-
-de historias,
-
-de obras maestras
-
-que nos cubren la vista,
-
-y aunque parece ruido,
-
-es el Universo
-
-lo que estamos observando.
-
-&nbsp;
-
 Somos muchísimos
 
 y somos tan libres por ello.

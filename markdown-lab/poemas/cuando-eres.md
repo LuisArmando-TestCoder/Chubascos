@@ -111,26 +111,20 @@ de las dudas,
 
 la seguridad
 
-es arrogancia.
-
-&nbsp;
-
-Por eso estoy arrogantísimo
-
-de que nadie en este mundo
-
-tiene todas las respuestas,
-
-porque simplemente nadie
-
-sostiene todas las preguntas.
+parece arrogancia.
 
 &nbsp;
 
 De ahí el asombro,
 
-porque me estupefactan
+me estupefactan
 
 los callejones sin salida
 
 en los que me educan.
+
+&nbsp;
+
+Dicen buscar respuestas,
+
+limitando las preguntas.

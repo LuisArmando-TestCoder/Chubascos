@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/from-facing-all-atrocities"
-tags: ["happu"]
+tags: ["happy"]
 title: "from-facing-all-atrocities"
 ---
 From facing all atrocities
@@ -9,6 +9,6 @@ by knowing how sinful
 
 one and others can get,
 
-genuine good comes
+genuine goodness comes
 
-from choosing it regardless.
+by choosing it regardless.

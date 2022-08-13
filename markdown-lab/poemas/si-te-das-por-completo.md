@@ -69,11 +69,9 @@ de los más apasionados,
 
 me despedí de ti
 
-y de mi verdadero yo
+y de mi verdadero yo,
 
-en una esquina,
-
-porque verme existiendo
+porque verme disfrutando,
 
 no podía soportarlo,
 
@@ -85,9 +83,7 @@ y entre recuerdos,
 
 por eso me he guardado
 
-con llave del mundo
-
-que experimento.
+con llave del mundo.
 
 &nbsp;
 
@@ -131,16 +127,6 @@ y te sigo rechazando.
 
 &nbsp;
 
-Pero sé que vivirás...
-
-o eso espero...
-
-porque yo
-
-ya estoy envejeciendo.
-
-&nbsp;
-
 ¿Cómo puedo perdonarme,
 
 si pienso que hice lo correcto?
@@ -158,33 +144,3 @@ Si eras redención,
 mi redención,
 
 te he rehuido.
-
-&nbsp;
-
-Me corrijo en esto:
-
-ya había perdido mi mente
-
-desde antes
-
-de haberte conocido.
-
-&nbsp;
-
-No quiero ver las características,
-
-quiero ver la esencia,
-
-pero por eso me flagelo,
-
-porque siempre pude hacerlo.
-
-&nbsp;
-
-Entonces sí,
-
-desde el fondo
-
-de mi centro,
-
-me disculpo.

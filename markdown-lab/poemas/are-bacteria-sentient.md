@@ -17,6 +17,6 @@ Is God sentient?
 
 How much sentience
 
-is enough for you
+is enough?
 
-to care?
+Does it matter?

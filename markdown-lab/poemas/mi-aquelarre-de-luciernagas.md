@@ -5,65 +5,29 @@ title: "mi-aquelarre-de-luciérnagas"
 ---
 Mi aquelarre de luciérnagas
 
-sombrías y confusas
+sombrías, confusas,
 
-y contradictorias
-
-y esotéricas y exóticas.
+esotéricas y exóticas.
 
 &nbsp;
 
-Repletas de botines
+Repletas de botines,
 
-y otras de joyería,
-
-y otras de tatuajes,
-
-y otras, de piercings.
+de tatuajes y piercings.
 
 &nbsp;
 
 Cándidas e inocuas,
 
-maliciosas y astutas,
-
-ambivalentes, sin duda.
+maliciosas y astutas.
 
 &nbsp;
 
-Nobles y a veces cobardes.
+Si se enamoran
 
-&nbsp;
-
-Les aterran los espectros,
-
-les asustan los estruendos,
-
-pero les encantan las arañas
-
-y las serpientes y los sapos
-
-e insectos, pero no todos,
-
-pero sí todos los gatos.
-
-&nbsp;
-
-Si se emboban será por los árboles,
+será de los árboles,
 
 majestuosos y callados.
-
-&nbsp;
-
-Aún siendo tan orgullosas,
-
-con complejo de diosas,
-
-ilusas, ni un ápice
-
-me causaría remordimiento
-
-protegerlas.
 
 &nbsp;
 
@@ -71,44 +35,30 @@ Y entre reverencias
 
 me arrodillaría,
 
-pero entre reverencias
-
-de disculpas.
+para pedir disculpas.
 
 &nbsp;
 
-Esto es una sarta de mentiras.
-
-&nbsp;
-
-No es que me gustan
+No me gustan
 
 los cardos negros,
 
-o que aprecio los ángeles
+o los ángeles
 
-con alas de cuervo,
-
-sino que cada vez
-
-que veo a alguien
-
-que se te parece,
-
-me derrito en recuerdos
-
-y le tomo cariño.
+con alas de cuervo.
 
 &nbsp;
 
-No tengo un tipo,
+Cada vez que les veo
 
-sino que eres mi tipo
+me derrito en recuerdos,
 
-cual sea la forma que tengas.
+por un amor pasado.
 
 &nbsp;
 
-Amé tu alma a ciegas
+No son ustedes mi tipo,
 
-y eso es lo que extraño.
+sino el alma de ella
+
+que a ciegas extraño.

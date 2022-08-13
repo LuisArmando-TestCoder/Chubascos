@@ -79,12 +79,6 @@ convertirse en obligaciones.
 
 &nbsp;
 
-¡Tengo que ser exitoso! —Me gritaba.
-
-Pero bueno, ya pasó.
-
-&nbsp;
-
 Es tiempo de
 
 ordenar mi vida

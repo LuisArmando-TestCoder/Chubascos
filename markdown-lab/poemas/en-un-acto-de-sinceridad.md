@@ -33,11 +33,7 @@ de mi mecanismo.
 
 &nbsp;
 
-Aquellas manos que apreciaba
-
-con tanto respeto,
-
-diáfanas como fantasmas,
+Aquellas manos diáfanas
 
 me pulverizaron por completo.
 

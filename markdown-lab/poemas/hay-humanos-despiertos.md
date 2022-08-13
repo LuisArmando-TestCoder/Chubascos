@@ -17,10 +17,10 @@ chocan contra uno.
 
 &nbsp;
 
-Por eso, los que vemos
+Los que vemos más allá
 
-más allá del velo de los párpados,
+del velo de los párpados,
 
-debemos hacer espacio entre la multitud
+debemos hacer espacio
 
-y seguir nuestro rumbo.
+entre la multitud.

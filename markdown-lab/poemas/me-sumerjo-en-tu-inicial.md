@@ -39,11 +39,11 @@ me falle entre apagones;
 
 un poco más lejos después de que
 
-se me escapen todas las vocales
+se me escapen las vocales
 
-de mis apellidos entre
+de mis apellidos
 
-las consonantes de tu nombre.
+entre las consonantes de tu nombre.
 
 &nbsp;
 

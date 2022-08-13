@@ -17,7 +17,7 @@ entre el nacimiento y la muerte?
 
 &nbsp;
 
-¿Los dioses inmortales viven
+¿Los dioses inmortales viven,
 
 o es que nunca mueren?
 
@@ -25,28 +25,4 @@ o es que nunca mueren?
 
 ¿Es acaso un observador
 
-lo mismo que una cámara?
-
-&nbsp;
-
-¿Una cámara vive
-
-o vive el que la usa?
-
-&nbsp;
-
-¿Por qué pasarías tu vida
-
-solo por afuera de una fotografía
-
-y no del lado en el que fotografían?
-
-&nbsp;
-
-Si un humano solo observa,
-
-y un observador no interacciona,
-
-no es diferente entonces
-
-de un muerto cataléptico.
+lo mismo que lo que observa?

@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/lo-vi-persiguiendo-la-sabiduria"
-tags: ["happy"]
+tags: ["normal"]
 title: "lo-vi-persiguiendo-la-sabiduría"
 ---
 Lo vi persiguiendo la sabiduría.
@@ -39,32 +39,16 @@ sin importar el futuro,
 
 lo que importa es que hay varios
 
-y todos brillan flamantes en cada uno.
+y todos brillan flamantes.
 
 &nbsp;
 
 Aunque no se valoren,
 
-veo en todos
-
-posibilidades,
+veo en todos posibilidades,
 
 pues hasta en su respirar,
 
 como tenues aleteos,
 
-cambia el curso fluvial
-
-del caos.
-
-&nbsp;
-
-Cada respirar
-
-susurra el futuro,
-
-cada susurro
-
-cambia el rumbo
-
-de alguna persona.
+cambia el curso del caos.

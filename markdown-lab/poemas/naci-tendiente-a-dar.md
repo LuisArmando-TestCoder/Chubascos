@@ -31,9 +31,9 @@ también me paralizo
 
 reflexionando mientras
 
-me estrujan el abdomen
+me estrujan el abdomen;
 
-y la garganta.
+me estoy ahogando.
 
 &nbsp;
 
@@ -51,16 +51,4 @@ aquello frágil y precioso.
 
 Llevo el amor con cautela
 
-porque temo agrietarlo,
-
-aunque me encantaría
-
-planear sobre cerros
-
-a la velocidad del sonido,
-
-e inclinarnos más alto,
-
-ingrávidos y tomados de la mano
-
-y con el dedo anular encadenado.
+porque temo agrietarlo.

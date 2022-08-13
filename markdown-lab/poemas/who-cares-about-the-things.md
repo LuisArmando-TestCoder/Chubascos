@@ -20,11 +20,3 @@ and when you apply
 the meaning of life,
 
 ghost no more they see.
-
-&nbsp;
-
-Finding new unknowns
-
-makes you stronger,
-
-most lie within.

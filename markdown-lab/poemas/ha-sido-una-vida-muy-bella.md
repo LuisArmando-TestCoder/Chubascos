@@ -39,21 +39,19 @@ grave y lenta.
 
 &nbsp;
 
-Las campanillas de mis ideas
+La tarola de mis ideas
 
-que se atempan
+que atempan el llamado
 
-al llamado de mis acertijos
+de mi curiosidad
 
-mientras marchan a materializarse
+mientras marchan
 
 fuera de mis dedos.
 
 &nbsp;
 
 El sintetizador
-
-de la bobina de Tesla
 
 de mis vértebras electrizadas.
 
@@ -85,4 +83,4 @@ mi estilo de existencia,
 
 para vestirlo todos los días
 
-en el concierto del tiempo.
+en la gala de mi vida.

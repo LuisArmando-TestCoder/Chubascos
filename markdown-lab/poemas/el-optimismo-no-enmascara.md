@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/el-optimismo-no-enmascara"
-tags: ["happy"]
+tags: ["normal"]
 title: "el-optimismo-no-enmascara"
 ---
 El optimismo no enmascara
@@ -23,13 +23,11 @@ en un chasquido una escena oscura,
 
 es un impulso de desfibrilador
 
-en un corazón detenido.
+en un corazón pausado.
 
 &nbsp;
 
-El optimismo no es
-
-una mentira esotérica,
+No es una mentira esotérica,
 
 es la perspectiva alterna
 
@@ -41,11 +39,9 @@ Nada de lo que hagamos
 
 nos dará la plenitud eterna,
 
-más que solo aceptar
+más que solo el Cielo
 
-que el Cielo
-
-vive dentro de nosotros.
+que vive dentro.
 
 &nbsp;
 
@@ -69,12 +65,6 @@ las lágrimas que nos baldean.
 
 &nbsp;
 
-Tenemos que aceptar
-
-el desahogo.
-
-&nbsp;
-
 El objetivo de la vida
 
 no es sonreir,
@@ -86,9 +76,3 @@ el optimismo,
 estas son solo
 
 actitudes en medio.
-
-&nbsp;
-
-Decidimos ser optimistas
-
-porque así lo deseamos.

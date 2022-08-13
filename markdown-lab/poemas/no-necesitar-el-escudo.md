@@ -61,7 +61,7 @@ de blindada resistencia.
 
 Sé tan real
 
-que alucinen
+que alucinen,
 
 y tan despierto
 
@@ -69,8 +69,6 @@ que sueñen contigo.
 
 &nbsp;
 
-Las guerras que siempre ganarás,
+Las guerras que siempre ganarás;
 
-son aquellas en las que
-
-ni tienes que luchar.
+aquellas en las que no te entrometes.

@@ -25,15 +25,7 @@ y Todo ya ha ocurrido,
 
 o se podría decir,
 
-si uno se identifica como el Todo,
-
 estamos ocurriendo.
-
-&nbsp;
-
-Si existen todos los futuros,
-
-no hay destino, solo posibilidades.
 
 &nbsp;
 
@@ -43,12 +35,6 @@ en un punto de aleatoriedad fractal
 
 por su misma indeterminación,
 
-pero en la aleatoriadad absoluta
+en la aleatoriadad absoluta
 
-se encuentra la forma final del Todo.
-
-&nbsp;
-
-Que esto nos permita
-
-volver la mirada y explorar.
+se encuentra la forma final.

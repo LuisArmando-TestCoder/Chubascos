@@ -15,16 +15,6 @@ to be sober.
 
 I am crawling on the floor
 
-pressing down on the planet
-
-so I can get up and take
-
-one more cup
+for one more cup
 
 of looking at your irises.
-
-&nbsp;
-
-You are vast
-
-and I am lost already.
