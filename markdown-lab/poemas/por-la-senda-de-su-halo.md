@@ -3,7 +3,7 @@ slug: "/poemas/por-la-senda-de-su-halo"
 tags: ["love"]
 title: "por-la-senda-de-su-halo"
 ---
-Por la senda de su halo, amor a primera vista, de su espalda tarareante se enamoró.
+Por la senda de su halo, amor a primera vista, en su espalda tarareante se enamoró.
 
 &nbsp;
 
