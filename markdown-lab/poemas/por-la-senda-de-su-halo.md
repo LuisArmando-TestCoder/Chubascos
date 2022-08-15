@@ -115,7 +115,7 @@ A lo que ella replicó: —Pero el espacio es infinito.
 
 &nbsp;
 
-—Entonces ¡búho —dijo el gato—, estrecha por favor la eternidad!
+—Entonces, ¡búho —dijo el gato—, estrecha por favor la eternidad!
 
 &nbsp;
 
