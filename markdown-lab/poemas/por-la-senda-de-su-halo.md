@@ -15,11 +15,11 @@ Por la senda de su halo, amor a primera vista, en su espalda tarareante se enamo
 
 &nbsp;
 
-Y ella en su sonrisa le respondió: —Aquí estoy... cantemos.
+Y ella, en su sonrisa, le respondió: —Aquí estoy... cantemos.
 
 &nbsp;
 
-Y él continuó: —Quiero acompañar tus extraños sonidos y nunca jamás abandonarlos. Podría marcar el tempo, con mi cola marchando, pero mi metrónomo se ha atascado en las olas que le regalas al aire, y aquí estoy plantado, eres mi puerto, y embarco.
+Y él continuó: —Quiero acompañar tus extraños sonidos y nunca jamás abandonarlos. Podría marcar el tempo con mi cola marchando, pero mi metrónomo se ha atascado en las olas que le regalas al aire, y aquí estoy plantado, eres mi puerto, y embarco.
 
 &nbsp;
 
@@ -115,7 +115,7 @@ A lo que ella replicó: —Pero el espacio es infinito.
 
 &nbsp;
 
-—Entonces búho —dijo el gato—, estrecha por favor la eternidad.
+—Entonces ¡búho —dijo el gato—, estrecha por favor la eternidad!
 
 &nbsp;
 
