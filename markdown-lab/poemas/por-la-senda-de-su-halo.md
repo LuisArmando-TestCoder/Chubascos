@@ -19,7 +19,7 @@ Y ella en su sonrisa le respondió: —Aquí estoy... cantemos.
 
 &nbsp;
 
-Y él continuó: —Quiero acompañar tus extraños sonidos y nunca jamás abandonarlos. Podría marcar el tempo, con mi cola marchando. Pero mi metrónomo se ha atascado en las olas que le regalas al aire, y aquí estoy plantado, eres mi puerto, y embarco.
+Y él continuó: —Quiero acompañar tus extraños sonidos y nunca jamás abandonarlos. Podría marcar el tempo, con mi cola marchando, pero mi metrónomo se ha atascado en las olas que le regalas al aire, y aquí estoy plantado, eres mi puerto, y embarco.
 
 &nbsp;
 
