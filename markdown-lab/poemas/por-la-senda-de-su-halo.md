@@ -119,7 +119,7 @@ A lo que ella replicó: —Pero el espacio es infinito.
 
 &nbsp;
 
-—No —dijo ella incorporándose—, porque si la eternidad se hace pequeña, no alcanzaría para los infinitos más extensos de los sueños de los que poseen insomnio.
+—No —dijo ella, incorporándose—, porque si la eternidad se hace pequeña, no alcanzaría para los infinitos más extensos de los sueños de los que poseen insomnio.
 
 &nbsp;
 
