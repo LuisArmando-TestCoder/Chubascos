@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/entonces-me-gustan"
-tags: ["happy"]
-title: "entonces-me-gustan"
+slug: "/poemas/entonces-me-gustan-mas"
+tags: ["desperation"]
+title: "entonces-me-gustan-más"
 ---
-Entonces me gustan
+Entonces me gustan más
 
 las personas deprimidas.
 
