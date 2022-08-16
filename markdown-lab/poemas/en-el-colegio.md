@@ -7,8 +7,6 @@ En el colegio
 
 me salía de clases
 
-para hacer algo más productivo.
+para hacer algo más productivo,
 
-&nbsp;
-
-Ver las nubes.
+como ver las nubes.

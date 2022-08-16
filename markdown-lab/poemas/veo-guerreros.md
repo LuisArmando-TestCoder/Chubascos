@@ -17,18 +17,12 @@ no en sus miradas arrogantes
 
 que veneran cual adictos
 
-a la dulce violencia,
+a la dulce gloria
 
-a su arte y ciencia,
+de la violencia,
 
-sino, en los deseos,
+de su arte y ciencia,
 
-y objetivos ocultos.
+sino, en sus deseos,
 
-&nbsp;
-
-La victoria,
-
-un trago extásico,
-
-de recuerdos del ascenso.
+y su lucha por alcanzarlos.

@@ -31,24 +31,16 @@ de la opacidad de su desespero.
 
 &nbsp;
 
-Hay en cada uno un destino valioso,
+Hay en cada uno un destino flamante,
 
 probabilidades invaluables,
 
-sin importar el futuro,
-
-lo que importa es que hay varios
-
-y todos brillan flamantes.
-
-&nbsp;
-
-Aunque no se valoren,
+aunque no se valoren,
 
 veo en todos posibilidades,
 
 pues hasta en su respirar,
 
-como tenues aleteos,
+con sus tenues aleteos,
 
-cambia el curso del caos.
+cambian el curso del caos.

@@ -11,10 +11,10 @@ or along those lines;
 
 "and live a life so worth it",
 
-but do not recall each lie.
+but I do not recall each lie.
 
 &nbsp;
 
 I was supposed to live
 
-a life worth all cries.
+a life worth all this crying.
