@@ -72,3 +72,21 @@ o en tímpanos despiertos?
 Está en los corazones,
 
 no en las carcasas vacías.
+
+&nbsp;
+
+Los que estamos concientes
+
+en coma vigil,
+
+para despertar
+
+necesitamos cachetadas,
+
+que griten nuestro nombre
+
+y que digan que nos aman,
+
+porque habemos almas atrapadas,
+
+en un armazón de maniquí.
