@@ -81,6 +81,6 @@ que griten nuestro nombre
 
 y que digan que nos aman,
 
-porque habemos almas atrapadas,
+porque habemos almas atrapadas
 
 en un armazón.
