@@ -69,12 +69,6 @@ o en tímpanos despiertos?
 
 &nbsp;
 
-Está en los corazones,
-
-no en las carcasas vacías.
-
-&nbsp;
-
 Los que estamos concientes
 
 en coma vigil,
