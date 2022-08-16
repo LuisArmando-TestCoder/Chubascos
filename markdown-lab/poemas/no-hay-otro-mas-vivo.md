@@ -57,11 +57,11 @@ Que se permite ser un misterio
 
 y estar mudo de vez en cuando,
 
-o simplemente ser discreto,
+y simplemente ser discreto,
 
 o quizá, en alguna oportunidad,
 
-llorar con descaro y contarlo todo.
+solo contarlo todo.
 
 &nbsp;
 
