@@ -83,4 +83,4 @@ y que digan que nos aman,
 
 porque habemos almas atrapadas,
 
-en un armazón de maniquí.
+en un armazón.
