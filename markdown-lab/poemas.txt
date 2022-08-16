@@ -1633,10 +1633,10 @@ Así que grita,
 por favor.
 <desperation
 ---
-No hay otro más vivo
-que aquel que ve a los ojos.
-
-Que digiere la identidad ajena sin tapujos.
+No hay otro más vivo que aquel
+que ve a otros a los ojos,
+y digiere la identidad
+sin tapujos.
 
 Que experimenta con descaro,
 sus sentimientos desatados
@@ -1644,7 +1644,8 @@ sin tener que demostrarlos.
 
 Que accede a estar sobrio
 por un tiempo indeterminado,
-si así lo ha decidido.
+si así
+lo ha decidido.
 
 Que sale de donde es rechazado,
 sin remordimientos.
@@ -1656,36 +1657,43 @@ como fluye el viento.
 
 Que no lucha contra el tiempo
 y las canas nuevas
-no lo encuentran preocupado.
+no lo encuentran
+preocupado.
 
 Que se permite ser un misterio
 y estar mudo de vez en cuando,
-y simplemente ser discreto,
 o quizá, en alguna oportunidad,
-solo contarlo todo.
+se deje contarlo todo.
 
 Que sufre en silencio
 percibiendo su dolor
-mientras sigue meditando.
+mientras sigue
+meditando.
 
 Que deja ser al mundo
-y se permite a sí mismo
+y se permite
+a sí mismo
 cambiarlo.
 
 Que se equilibra como volatinero
 cuando lo percibe menester
-entre la caída de un acantilado.
+entre la caída
+de un acantilado.
 
 Que deja que sus oponentes se tropiecen
 mientras que como una gota paciente
-dibuja un curso fluvial, moldeándolos.
+dibuja un curso fluvial,
+moldeándolos.
 
 Que hace lo correcto
 aunque lo correcto
-siga siendo subjetivo.
+siga siendo
+subjetivo.
 
 Que no sentencia a nadie,
-porque todos se sentencian a sí mismos.
+porque todos
+se sentencian
+a sí mismos.
 
 Que se concientiza de su no saber,
 para aprender de nuevo,
@@ -1698,4 +1706,9 @@ que muera sin saberlo todo,
 o tan rápidos que se devuelva en el tiempo,
 y destaque por estar adelantado
 ante sus contemporáneos suyos.
+
+No hay otro más vivo que aquel
+que se ve tal y como es,
+aunque él no sea él,
+sino que sea el Todo.
 <normal

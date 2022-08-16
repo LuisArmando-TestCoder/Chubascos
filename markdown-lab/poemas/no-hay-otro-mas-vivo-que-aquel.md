@@ -1,15 +1,15 @@
 ---
-slug: "/poemas/no-hay-otro-mas-vivo"
+slug: "/poemas/no-hay-otro-mas-vivo-que-aquel"
 tags: ["normal"]
-title: "no-hay-otro-más-vivo"
+title: "no-hay-otro-más-vivo-que-aquel"
 ---
-No hay otro más vivo
+No hay otro más vivo que aquel
 
-que aquel que ve a los ojos.
+que ve a otros a los ojos,
 
-&nbsp;
+y digiere la identidad
 
-Que digiere la identidad ajena sin tapujos.
+sin tapujos.
 
 &nbsp;
 
@@ -25,7 +25,9 @@ Que accede a estar sobrio
 
 por un tiempo indeterminado,
 
-si así lo ha decidido.
+si así
+
+lo ha decidido.
 
 &nbsp;
 
@@ -49,7 +51,9 @@ Que no lucha contra el tiempo
 
 y las canas nuevas
 
-no lo encuentran preocupado.
+no lo encuentran
+
+preocupado.
 
 &nbsp;
 
@@ -57,11 +61,9 @@ Que se permite ser un misterio
 
 y estar mudo de vez en cuando,
 
-y simplemente ser discreto,
-
 o quizá, en alguna oportunidad,
 
-solo contarlo todo.
+se deje contarlo todo.
 
 &nbsp;
 
@@ -69,13 +71,17 @@ Que sufre en silencio
 
 percibiendo su dolor
 
-mientras sigue meditando.
+mientras sigue
+
+meditando.
 
 &nbsp;
 
 Que deja ser al mundo
 
-y se permite a sí mismo
+y se permite
+
+a sí mismo
 
 cambiarlo.
 
@@ -85,7 +91,9 @@ Que se equilibra como volatinero
 
 cuando lo percibe menester
 
-entre la caída de un acantilado.
+entre la caída
+
+de un acantilado.
 
 &nbsp;
 
@@ -93,7 +101,9 @@ Que deja que sus oponentes se tropiecen
 
 mientras que como una gota paciente
 
-dibuja un curso fluvial, moldeándolos.
+dibuja un curso fluvial,
+
+moldeándolos.
 
 &nbsp;
 
@@ -101,13 +111,19 @@ Que hace lo correcto
 
 aunque lo correcto
 
-siga siendo subjetivo.
+siga siendo
+
+subjetivo.
 
 &nbsp;
 
 Que no sentencia a nadie,
 
-porque todos se sentencian a sí mismos.
+porque todos
+
+se sentencian
+
+a sí mismos.
 
 &nbsp;
 
@@ -132,3 +148,13 @@ o tan rápidos que se devuelva en el tiempo,
 y destaque por estar adelantado
 
 ante sus contemporáneos suyos.
+
+&nbsp;
+
+No hay otro más vivo que aquel
+
+que se ve tal y como es,
+
+aunque él no sea él,
+
+sino que sea el Todo.
