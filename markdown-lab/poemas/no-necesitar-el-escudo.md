@@ -66,9 +66,3 @@ que alucinen,
 y tan despierto
 
 que sueñen contigo.
-
-&nbsp;
-
-Las guerras que siempre ganarás;
-
-aquellas en las que no te entrometes.

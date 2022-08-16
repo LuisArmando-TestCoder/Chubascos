@@ -147,7 +147,7 @@ o tan rápidos que se devuelva en el tiempo,
 
 y destaque por estar adelantado
 
-ante sus contemporáneos suyos.
+ante contemporáneos suyos.
 
 &nbsp;
 

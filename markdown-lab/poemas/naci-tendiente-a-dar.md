@@ -49,6 +49,4 @@ aquello frágil y precioso.
 
 &nbsp;
 
-Llevo el amor con cautela
-
-porque temo agrietarlo.
+Llevo el amor con cautela.

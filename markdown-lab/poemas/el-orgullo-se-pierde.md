@@ -23,6 +23,6 @@ de llevar la piedra
 
 cuesta arriba
 
-y roce de cadenas
+y el roce de cadenas
 
-que adornaban las llagas.
+que adorna las llagas.

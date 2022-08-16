@@ -83,4 +83,4 @@ mi estilo de existencia,
 
 para vestirlo todos los días
 
-en la gala de mi vida.
+en el concierto de mi vida.

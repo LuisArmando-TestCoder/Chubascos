@@ -306,8 +306,7 @@ que repite el ciclo.
 No quiero que se me caiga
 aquello frágil y precioso.
 
-Llevo el amor con cautela
-porque temo agrietarlo.
+Llevo el amor con cautela.
 <sad
 ---
 Como en la arena lunar,
@@ -381,16 +380,6 @@ o haces lo que amas,
 pero al final, la vida,
 solo con amor en medio.
 <sad
----
-Somos miles de millones,
-no somos especiales.
-
-Pero siendo uno de tantos,
-¿por qué no serías tú mismo?
-
-Somos muchísimos
-y somos tan libres por ello.
-<happy
 ---
 Con películas de terror
 puedo dormir apaciblemente.
@@ -637,39 +626,7 @@ Sé tan real
 que alucinen,
 y tan despierto
 que sueñen contigo.
-
-Las guerras que siempre ganarás;
-aquellas en las que no te entrometes.
 <love
----
-A pesar de todo,
-aquí sigues conmigo,
-nos hemos vuelto la cara
-pero nunca soltado.
-
-Tu agarre me sostuvo.
-
-Aunque estuve hundido,
-aunque no supe mi nombre,
-me recordaste entre susurros
-que estabas presente.
-
-Y aquí, desnudo,
-escribiéndote,
-recuerdo nuestros viajes,
-a lo más hondo
-de nosotros mismos.
-
-Mi mente se llena de nosotros
-entre las imborrables
-visiones de las que
-fuimos testigos.
-
-Si esto es flotar,
-entonces soy un espíritu
-y lo tengo Todo
-estando contigo.
-<happy
 ---
 Serás fiel a ti mismo
 aunque no lo quieras.
@@ -974,11 +931,10 @@ if their soul wasn't nurtured.
 ---
 Gentle giants
 disguised as landscapes
-growing flowers and ecosystems
-on top of their backs,
-they keep themselves as steady hills
+growing flowers and ecosystems,
 while letting birds build nests
-on the roots of their head.
+on top of their backs,
+they keep themselves as steady hills.
 
 But, is not an insect
 gigantic to somebody else?
@@ -992,27 +948,17 @@ So walk,
 like our cruel Pachamama does.
 <happy
 ---
-Cuando la calina
-del pozo se aclara,
+Cuando la calina del pozo
+se aclara,
 las verdades se obvian.
-
-Las vivencias reflejan
-letras tatuadas
-en tinta carmesí.
 <normal
 ---
-Busca a un frágil convaleciente
+Busca
+a un frágil convaleciente
 que raquítico se niega a perecer,
 o a un pecador ansioso
 que se limpia las costras
 a costa de su piel.
-
-El peso de las capas
-sólo las aguantan
-quienes resisten la presión.
-
-La resistencia ajena
-inspira.
 <normal
 ---
 Ha sido una vida muy bella
@@ -1055,111 +1001,8 @@ para convertirla en mi vestido,
 dignificando mi estilo,
 mi estilo de existencia,
 para vestirlo todos los días
-en la gala de mi vida.
+en el concierto de mi vida.
 <happy
----
-No importa que no escuchen,
-sigue declamando y convierte
-tus céfiros versos
-en versos líquidos.
-
-Que con el rotar de la Tierra,
-las nubes de tus ideas
-se precipitan
-y si son vigorosas,
-se convierten en granizo,
-imposibles de ignorar.
-
-Capaces de convertirse en meteoritos
-que barran con generaciones
-de lectores ávidos.
-
-Busca a los vivos,
-hasta que queden grabados
-en los muros de sus memorias
-y en los muros de sus hijos,
-por los siglos de los siglos,
-tus versos de granizo.
-<happy
----
-Are bacteria sentient?
-Are insects sentient?
-Are rodents sentient?
-Are humans sentient?
-Are you sentient?
-Is God sentient?
-How much of sentience?
-
-If it is measurable,
-machines would be alive,
-and some fellow humans
-with more life than others.
-<normal
----
-Cuando eres
-quien quieren,
-no te quieres.
-
-Cuando eres
-quien quieres,
-no te quieren.
-
-¿No ven que se mienten?
-Deberían de ignorarse,
-como algunos, a la lógica.
-
-Deberían de ignorar
-el ignorar
-de las paradojas.
-
-Ser extremista
-no es ser balanceado,
-pero ser balanceado
-es un extremismo descarado.
-
-Aunque todo depende,
-depende del foco
-y de su ángulo,
-depende del sensor
-y de quien interprete
-lo que ha capturado.
-
-El que no se cuestiona,
-no dura,
-pero...
-¿será esto cierto?
-
-Para algunos
-el mundo es
-causalidades,
-para otros;
-reglas.
-
-Ser extremista
-no es ser balanceado,
-pero ser balanceado,
-en un mundo de tontos,
-es rebelarse.
-
-Las líneas cortadas
-se convierten en lianas,
-y las lianas soltadas,
-en aleteos.
-
-En un mundo
-que se alimenta
-de las dudas,
-la seguridad
-parece arrogancia.
-
-De ahí el asombro,
-me estupefactan
-los callejones sin salida
-en los que me educan.
-
-Dicen buscar respuestas,
-limitando las preguntas.
-<normal
 ---
 El Sol es intocable
 y, ¿no estará
@@ -1175,16 +1018,6 @@ alcancen a los suyos,
 ¿no querrá que lo llamen
 de vez en cuando?
 <normal
----
-There was a phrase,
-"in my own terms",
-or along those lines;
-"and live a life so worth it",
-but I do not recall each lie.
-
-I was supposed to live
-a life worth all this crying.
-<sad
 ---
 I crumble, I run,
 I tremble, my rifts,
@@ -1220,8 +1053,8 @@ de llevarlo colgando,
 no se olvida el peso
 de llevar la piedra
 cuesta arriba
-y roce de cadenas
-que adornaban las llagas.
+y el roce de cadenas
+que adorna las llagas.
 <sad
 ---
 Si el viento girase alrededor
@@ -1252,33 +1085,6 @@ en la inconsciencia
 y yo en la incredulidad
 de pensar que eres
 por ahora, solo mía.
-<love
----
-If you are poisonous,
-then I am intoxicated
-and I no longer desire
-to be sober.
-
-I am crawling on the floor
-for one more cup
-of looking at your irises.
-<love
----
-One in love goes numb,
-one can only tell how much
-of an obsession it becomes,
-so much that every facet
-is heavenly placed upon
-that character one now adores;
-a remembrance becomes a drug,
-a hypnotizing mirage, still, false,
-but that's allright.
-
-A storm is coming;
-oblivious to all callings
-of backing off forever
-from those dangerous wonders,
-your taciturn eyes.
 <love
 ---
 I see the Devil disappointed.
@@ -1327,29 +1133,6 @@ they ignite my pride and remorse,
 they split my soul in half;
 I feel blessed and cursed.
 <love
----
-Lo vi persiguiendo la sabiduría.
-—El valor que te dé
-vendrá del valor que te otorgues,
-—dijo, en la inflexión de su avidez.
-
-Pero no, puedo ser mejor que eso,
-puedo hacerlo mejor que aquellos
-que solo observan el valor
-que los demás cargan por dentro.
-Aunque valoren el odio,
-aunque valoren el entendimiento,
-puedo ver más allá
-de la opacidad de su desespero.
-
-Hay en cada uno un destino flamante,
-probabilidades invaluables,
-aunque no se valoren,
-veo en todos posibilidades,
-pues hasta en su respirar,
-con sus tenues aleteos,
-cambian el curso del caos.
-<normal
 ---
 Veo guerreros,
 no en la sangre ajena
@@ -1421,27 +1204,10 @@ La dependienta nos miraba, a mí, a mi vista glacial anonadada, y a mi silueta, 
 Mis pasos emprendieron aventura, y ante ella yacía este mudo, incrédulo. «¿De verdad lo has hecho?», y mis voces se callaron.
 <love
 ---
-Si me he dado cuenta de algo,
-es que no hay tal cosa
-como equipaje para el otro mundo,
-pues al final del maratón,
-no hay trofeo,
-solo la Parca con donaire
-señalando un destino nuevo,
-por eso y otras cosas,
-como el hecho de que nunca lo verás
-al final no hay final.
-
-No se trata entonces
-de lo que te llevas,
-se trata de lo que recogen
-los que dejas atrás.
-<normal
----
 En el colegio
 me salía de clases
 para hacer algo más productivo,
-como ver las nubes.
+ver las nubes.
 <happy
 ---
 La Nada Absoluta
@@ -1663,7 +1429,7 @@ aunque sean tan lentos
 que muera sin saberlo todo,
 o tan rápidos que se devuelva en el tiempo,
 y destaque por estar adelantado
-ante sus contemporáneos suyos.
+ante contemporáneos suyos.
 
 No hay otro más vivo que aquel
 que se ve tal y como es,

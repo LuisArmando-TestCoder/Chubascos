@@ -9,4 +9,4 @@ me salía de clases
 
 para hacer algo más productivo,
 
-como ver las nubes.
+ver las nubes.

@@ -7,15 +7,13 @@ Gentle giants
 
 disguised as landscapes
 
-growing flowers and ecosystems
-
-on top of their backs,
-
-they keep themselves as steady hills
+growing flowers and ecosystems,
 
 while letting birds build nests
 
-on the roots of their head.
+on top of their backs,
+
+they keep themselves as steady hills.
 
 &nbsp;
 
