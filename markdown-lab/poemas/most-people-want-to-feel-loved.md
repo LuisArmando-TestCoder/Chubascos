@@ -93,7 +93,7 @@ nor suffer from it,
 
 you are just there, wide awake,
 
-humbled, egoless and kindhearted.
+humbled, egoless.
 
 &nbsp;
 
