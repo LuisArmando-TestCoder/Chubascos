@@ -5,17 +5,33 @@ title: "most-people-want-to-feel-loved"
 ---
 Most people want to feel loved
 
-within a Disney love fantasy,
+in a fantastic manner,
 
-but most times it is a buzzword,
+some others let the fantasy go,
 
-that most likely, most people
+to replace it with bare decency
 
-will never know in practice.
+and kindheartedness.
 
-That is why there is so much fiction
+&nbsp;
+
+Most times it is a buzzword,
+
+that most likely,
+
+most people
+
+will never never get to experience.
+
+&nbsp;
+
+That is why there is so much fiction about it
 
 filled with hope and speculation.
+
+Writers are also human,
+
+nescient light seekers.
 
 &nbsp;
 
@@ -41,23 +57,27 @@ The world is full of fakes.
 
 What is love then?
 
-I only have a general testimony,
+I only have this testimony.
 
-I am sorry not sorry,
+I am sorry not sorry.
 
-that is what you get.
+This is what you get.
 
 &nbsp;
 
 When you do not want it,
 
-but you do care,
+but you do care;
 
-when you can live without it, unfazed,
+when you can live without it,
 
-but you still come back every time
+but life is not the same;
 
-and that warm holiness does not fade.
+and you still come back,
+
+and that warm holiness
+
+does not fade.
 
 &nbsp;
 
@@ -65,13 +85,15 @@ Where there is no desire, nor suffering;
 
 real love is enlightenment.
 
+&nbsp;
+
 You want nothing from it,
 
 nor suffer from it,
 
-you are just there,
+you are just there, wide awake,
 
-humbled, egoless.
+humbled, egoless and kindhearted.
 
 &nbsp;
 
@@ -79,12 +101,14 @@ Love is its own reason
 
 to do your best.
 
+&nbsp;
+
 Love does not feel good,
 
 it feels true.
 
 &nbsp;
 
-Where there is uselessness
+Where there is uselessness,
 
-and care regardless.
+and care, regardless.
