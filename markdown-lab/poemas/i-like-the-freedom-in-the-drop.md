@@ -23,7 +23,7 @@ But, is it control? or could it be that your brain waves get so much in sync wit
 
 &nbsp;
 
-It's the fucking glorious, brother.
+It's fucking glorious, brother.
 
 &nbsp;
 
