@@ -35,7 +35,7 @@ So be it, amen to its holy possession, my soul vows to its master.
 
 &nbsp;
 
-The God of music enters your ears and claims you as its, controls your body, your being, even if you wanted to escape, which you won't, it is impossible to get out of there, it is a loop, a time crystal.
+The God of music enters your ears and claims you as his, controls your body, your being, even if you wanted to escape, which you won't, it is impossible to get out of there, it is a loop, a time crystal.
 
 &nbsp;
 
