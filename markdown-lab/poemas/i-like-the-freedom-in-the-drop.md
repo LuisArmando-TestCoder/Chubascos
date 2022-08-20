@@ -27,7 +27,7 @@ It's fucking glorious, brother.
 
 &nbsp;
 
-The sounds of music can completely command your system, so much so that you lose the reign of your being and who you are, like excessive alcohol, your mind can't take it anymore and your sprawl awry sovereignty.
+The sounds of music can completely command your system, so much so that you lose the reign of your being and who you are, like excessive alcohol, your mind can't take it anymore and you sprawl in awry sovereignty.
 
 &nbsp;
 
