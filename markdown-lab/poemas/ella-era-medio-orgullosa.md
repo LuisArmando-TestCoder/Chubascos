@@ -37,15 +37,17 @@ imagino escenas en mi vida
 
 en las que me topo con ella,
 
-la mujer desconocida,
+la mujer desconocida;
 
 dos pupilas dilatadas,
 
-dos pupilas multiplicadas
+dos pupilas multiplicadas,
 
-cuatro ventanas zafadas,
+cuatro ventanas zafadas.
 
-me acerco y sin presentarme
+&nbsp;
+
+Me acerco y sin presentarme
 
 ella me conoce,
 
