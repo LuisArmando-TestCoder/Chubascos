@@ -95,7 +95,7 @@ o correcto e inadecuado.
 
 Tengo una brújula en la nuca
 
-que me dice lo que es adecuado,
+que me dice lo que es apropiado,
 
 y me aterra que su aguja
 
@@ -171,6 +171,6 @@ No soy la oveja de nadie,
 
 no necesito que me pastoreen,
 
-necesito liberarme
+necesito desencarcelarme
 
 y encontrar mi salvación.
