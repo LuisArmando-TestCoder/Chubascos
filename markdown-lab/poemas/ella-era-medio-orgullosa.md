@@ -39,19 +39,17 @@ en las que me topo con ella,
 
 la mujer desconocida,
 
-dos pupilas dilatadas
-
-frente al otro,
+dos pupilas dilatadas,
 
 dos pupilas multiplicadas
 
-y son cuatro,
+cuatro ventanas zafadas,
 
-y me acerco,
+me acerco y sin presentarme
 
-y sin presentarme
+ella me conoce,
 
-me conoce,
+una mirada es suficiente,
 
 porque ella y yo
 
@@ -61,6 +59,4 @@ toda la vida
 
 por este sello
 
-de verdadero
-
-e injustificable amor.
+de injustificable amor.
