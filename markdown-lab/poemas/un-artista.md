@@ -155,9 +155,11 @@ me está rasgando en dos alternativos,
 
 tengo que escoger a uno,
 
-aunque lo bueno sea malo,
+aunque lo bueno sea malo.
 
-evitaré la dualidad,
+&nbsp;
+
+Evitaré la dualidad,
 
 y reconstruiré mis pedazos,
 
