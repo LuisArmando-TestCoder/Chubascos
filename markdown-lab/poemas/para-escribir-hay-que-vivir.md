@@ -55,9 +55,11 @@ soy terrible describiendo,
 
 por eso no tomé la carrera de taxónomo,
 
-aunque me encante observar;
+aunque me encante observar.
 
-uso metáforas porque tengo miedo
+&nbsp;
+
+Uso metáforas porque tengo miedo
 
 de que alguien se burle
 
