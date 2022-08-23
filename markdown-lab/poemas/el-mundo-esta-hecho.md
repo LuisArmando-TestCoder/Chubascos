@@ -25,19 +25,15 @@ perfume leve de agua dulce;
 
 tierra, mugre y charcos;
 
-lágrimas calientes,
+lágrimas calientes;
 
 pies descalzos
 
-bajo una tormenta
-
-ensordecedora;
+bajo una tormenta;
 
 olor a biblioteca
 
-y estanterías
-
-acabadas de limpiar;
+y a estanterías;
 
 competencia de miradas
 
@@ -46,10 +42,6 @@ contra una mirada casual;
 polvo que se levanta a contraluz,
 
 ondas de escarcha lenta;
-
-la resonancia de una caja
-
-de un piano a la distancia;
 
 el día que despierta
 
@@ -61,27 +53,41 @@ y silbidos titilantes;
 
 la pesadez de las cobijas,
 
-y luego darse cuenta de que es sábado
+que luego se da cuenta
 
-y de que puedes terminar
+de que es sábado todavía
 
-la historia de tu sueño;
+y de que la historia
 
-volver a dormir.
+puede continuar;
+
+cerrar los ojos.
 
 &nbsp;
 
 Hay tanto más
 
-en las simplezas gratuitas
+en las simplezas gratuitas,
 
-que en la megalomanía
-
-de los agobiados,
+mucho más que en la megalomanía
 
 mucho más que en la desesperanza
 
-y los celos.
+que los celos tienen
+
+hacia el lujo ajeno.
+
+&nbsp;
+
+El lujo está bien,
+
+pero nunca será tan especial
+
+como la belleza fortuita
+
+con la que se topa
+
+la curiosidad.
 
 &nbsp;
 
@@ -89,10 +95,10 @@ Aunque el arte sea sagrado,
 
 solo es utilitario
 
-para los artistas vasallos
+para los artistas vasallos,
 
 que intentan expresar
 
-las verdaderas preciosidades
+las preciosidades
 
 y miniaturas de la vida.
