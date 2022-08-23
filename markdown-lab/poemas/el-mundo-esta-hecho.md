@@ -73,7 +73,7 @@ mucho más que en la megalomanía
 
 mucho más que en la desesperanza
 
-que los celos tienen
+que los celos causan
 
 hacia el lujo ajeno.
 
