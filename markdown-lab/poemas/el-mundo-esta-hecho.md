@@ -57,7 +57,7 @@ en medio del campo,
 
 repleto de alabanzas
 
-y conversaciones entre pájaros;
+y silbidos titilantes;
 
 la pesadez de las cobijas,
 
