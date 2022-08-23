@@ -19,6 +19,10 @@ When even right is wrong,
 
 choosing your rightfulness,
 
-makes you worthy of your own,
+makes you worthy of your own
 
-and that is all that matters.
+trustworthyness,
+
+and at the end
+
+that is all that matters.

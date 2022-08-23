@@ -909,58 +909,6 @@ que confundan los adjetivos que te incumben,
 por el vocablo de sublime.
 <desperation
 ---
-I like giants,
-I mean,
-down to earth people
-who touch the sky.
-
-But irony, muse for comedy;
-they are quite notorious,
-not because of how tall they are
-but because of how rare
-it turns out to see at least one
-standing out from any crowd.
-
-Most kids are born
-the size of planets,
-but the more they grow to our eyes,
-the more they tend
-to shrink in size,
-if their soul wasn't nurtured.
-<normal
----
-Gentle giants
-disguised as landscapes
-growing flowers and ecosystems,
-while letting birds build nests
-on top of their backs,
-they keep themselves as steady hills.
-
-But, is not an insect
-gigantic to somebody else?
-Is not an insect selfish.
-
-Being a giant implies
-destroying the status quo
-with every step.
-
-So walk,
-like our cruel Pachamama does.
-<happy
----
-Cuando la calina del pozo
-se aclara,
-las verdades se obvian.
-<normal
----
-Busca
-a un frágil convaleciente
-que raquítico se niega a perecer,
-o a un pecador ansioso
-que se limpia las costras
-a costa de su piel.
-<normal
----
 Ha sido una vida muy bella
 para un alguien que quería,
 no sus sueños,
@@ -1041,20 +989,6 @@ too much for quitting,
 too much for breathing,
 just enough, just enough,
 just enough for a tear.
-<sad
----
-El orgullo se pierde,
-pero no se pierde
-el mecanismo que lo lleva,
-no se pierde la nostalgia
-que lo contenía,
-no se olvida el hábito
-de llevarlo colgando,
-no se olvida el peso
-de llevar la piedra
-cuesta arriba
-y el roce de cadenas
-que adorna las llagas.
 <sad
 ---
 Si el viento girase alrededor
@@ -1183,8 +1117,10 @@ by choosing it regardless.
 
 When even right is wrong,
 choosing your rightfulness,
-makes you worthy of your own,
-and that is all that matters.
+makes you worthy of your own
+trustworthyness,
+and at the end
+that is all that matters.
 <happy
 ---
 Fue una campanilla que repicó, un eco llenándome de alarmas: «¡Ahí está, es ella!», decía mi alma, crujiendo.
@@ -1203,12 +1139,6 @@ La dependienta nos miraba, a mí, a mi vista glacial anonadada, y a mi silueta, 
 
 Mis pasos emprendieron aventura, y ante ella yacía este mudo, incrédulo. «¿De verdad lo has hecho?», y mis voces se callaron.
 <love
----
-En el colegio
-me salía de clases
-para hacer algo más productivo,
-ver las nubes.
-<happy
 ---
 La Nada Absoluta
 causa una paradoja
@@ -1229,24 +1159,6 @@ por su misma indeterminación,
 en la aleatoriadad absoluta
 se encuentra la forma final.
 <normal
----
-La herida no cierra.
-No es que sea una yaga,
-es que juego con ella.
-
-La herida respira,
-cada vez más blanda,
-se voluntaria rendida
-y se abre más
-ante mis travesuras.
-
-No debería tocarla,
-debería darle tiempo
-a que se llene de polvo
-y ya no duela el viento,
-pues nadie la mira,
-ni siquiera yo.
-<sad
 ---
 Por la senda de su halo, amor a primera vista, en su espalda tarareante se enamoró.
 
@@ -1494,9 +1406,7 @@ Where there is uselessness,
 and care, regardless.
 <love
 ---
-I like the freedom in the drop.
-
-Music is freedom achieved that does not end.
+Music is freedom achieved, that does not end.
 
 It is the closest thing to divinity, alongside real love.
 
@@ -1523,16 +1433,6 @@ We are all vibing to soul, banging to rock, dancing to funk, waving to rap.
 Music goes beyond science, metaphysicality.
 
 Music is holy, mantras in lyrics.
-<happy
----
-Es mejor andar por la vida tranquilo,
-aceptando el hecho de que nadie te quiere,
-y disfrutarla por vos mismo,
-buscando el centro del Universo
-en los momentos que te componen.
-
-Siendo verdadero,
-sin importar el precio.
 <happy
 ---
 Odio estar a tu lado
