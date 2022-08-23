@@ -13,7 +13,7 @@ por supuesto;
 
 insultarme no es nada nuevo,
 
-que me vean debajo del hombro
+que me vean debajo del hombro,
 
 tampoco.
 
@@ -21,7 +21,7 @@ tampoco.
 
 Mi vida no ha sido un martirio,
 
-pero sí
+pero sí,
 
 un matiz de tonos neutros.
 
