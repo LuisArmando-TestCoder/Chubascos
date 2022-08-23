@@ -11,7 +11,7 @@ no solo de injusticia
 
 y de las otras experiencias
 
-que acostumbras.
+a las que estás acostumbrado.
 
 &nbsp;
 
