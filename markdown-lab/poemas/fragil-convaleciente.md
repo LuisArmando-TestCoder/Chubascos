@@ -29,4 +29,4 @@ a estar en paz, a pesar de ello,
 
 eso es mucho más valioso
 
-que racionalizar en solitario.
+que racionalizar tu orgullo.
