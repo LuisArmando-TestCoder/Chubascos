@@ -39,7 +39,7 @@ una imagen divina
 
 de un momento de reafirmación,
 
-la identidad asegurada,
+la identidad asegurada
 
 que me diga
 
