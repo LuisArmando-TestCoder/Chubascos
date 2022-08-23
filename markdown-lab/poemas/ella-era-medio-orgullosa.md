@@ -11,7 +11,7 @@ como todos los hombres asustados
 
 lo somos.
 
- 
+&nbsp;
 
 No quiero ser un viejo de esos
 
@@ -29,7 +29,7 @@ pero temo, ¡cuánto temo!
 
 antes de siquiera haber luchado.
 
- 
+&nbsp;
 
 A veces,
 

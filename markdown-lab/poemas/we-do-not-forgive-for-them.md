@@ -5,9 +5,11 @@ title: "we-do-not-forgive-for-them"
 ---
 We do not forgive for them,
 
-we forgive for us,
+we forgive for us.
 
-for as long as we maintain
+&nbsp;
+
+For as long as we maintain
 
 our grievances
 
