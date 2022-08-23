@@ -5,7 +5,7 @@ title: "frágil-convaleciente"
 ---
 Frágil convaleciente
 
-que raquítico se niega a perecer,
+que raquítico se niega a perecer;
 
 pecador ansioso
 
@@ -23,10 +23,14 @@ porque amar, amar con arrebato
 
 y ser sincero, y aceptar el rechazo,
 
-y enfrentarlo, y aprender
+y enfrentarlo,
 
-a estar en paz, a pesar de ello,
+y aprender a estar en paz,
+
+a pesar de ello,
 
 eso es mucho más valioso
 
-que racionalizar tu orgullo.
+que racionalizar
+
+tu orgullo falso.
