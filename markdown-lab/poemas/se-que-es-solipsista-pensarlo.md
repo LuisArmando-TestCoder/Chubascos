@@ -43,24 +43,6 @@ rectos a su manera.
 
 &nbsp;
 
-Es mejor andar tranquilo,
-
-sin depender del amor externo,
-
-pero amar, amar con arrebato
-
-y ser sincero, y aceptar el rechazo,
-
-y enfrentarlo, y aprender
-
-a estar en paz, a pesar de ello,
-
-eso es mucho más valioso
-
-que regodearse en solitario.
-
-&nbsp;
-
 Más me vale
 
 que me halle
