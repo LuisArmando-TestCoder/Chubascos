@@ -99,6 +99,6 @@ para los artistas vasallos,
 
 que intentan expresar
 
-las preciosidades
+las preciosas
 
-y miniaturas de la vida.
+miniaturas de la vida.
