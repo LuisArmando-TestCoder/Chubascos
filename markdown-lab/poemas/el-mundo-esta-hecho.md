@@ -61,7 +61,11 @@ y de que la historia
 
 puede continuar;
 
-cerrar los ojos.
+cerrar los ojos,
+
+callando a todos
+
+al unísono.
 
 &nbsp;
 
