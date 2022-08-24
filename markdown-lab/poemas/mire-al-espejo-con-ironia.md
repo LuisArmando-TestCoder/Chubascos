@@ -85,7 +85,7 @@ No esperaba que me contestara, mucho menos que yo le respondiera, y aún con eso
 
 &nbsp;
 
-Me miró a los ojos, y tomando un respiro, prosiguió diciendo:
+Al decirle esto se detuvo, me miró a los ojos, largo y tendido, y tomando un respiro prosiguió, diciendo:
 
 —¿Cuál es el camino?
 
