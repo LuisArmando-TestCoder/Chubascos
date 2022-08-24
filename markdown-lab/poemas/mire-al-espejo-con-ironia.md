@@ -137,4 +137,4 @@ Y su sonrisa, aunque ajena, parecía mía.
 
 &nbsp;
 
-⟫ Soy quien te acompaña; soy quien te guía; soy quien te espera... Tu sonrisa fue mía, y esta pronto será tuya. —Ante lo que no respondí con nada más que con apreciación, sus palabras solo continuaron filtrándose—.Si necesitas fuerzas, no digas nada y olvídate del tiempo; entrégate a la incertidumbre y al infinito.
+⟫ Soy quien te acompaña; soy quien te guía; soy quien te espera... Tu sonrisa fue mía, y esta pronto será tuya. —Ante lo que no respondí con nada más que con apreciación, sus palabras solo continuaron filtrándose—. Si necesitas fuerzas, no digas nada y olvídate del tiempo; entrégate a la incertidumbre y al infinito.
