@@ -73,7 +73,7 @@ Hay tanto más
 
 en las simplezas gratuitas,
 
-mucho más que en la megalomanía
+mucho más que en la megalomanía,
 
 mucho más que en la desesperanza
 
