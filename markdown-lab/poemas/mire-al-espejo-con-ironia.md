@@ -99,7 +99,7 @@ Al decirle esto se detuvo, me miró a los ojos, largo y tendido, y tomando un re
 
 &nbsp;
 
-⟫ ¡¿El camino...?!
+⟫ ¿El camino...?
 
 &nbsp;
 
