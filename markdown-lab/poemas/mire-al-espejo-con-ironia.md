@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/mire-al-espejo-con-sarcasmo"
+slug: "/poemas/mire-al-espejo-con-ironia"
 tags: ["normal"]
-title: "miré-al-espejo-con-sarcasmo"
+title: "miré-al-espejo-con-ironía"
 ---
-Miré al espejo con sarcasmo:
+Miré al espejo con ironía:
 
 —¿Qué quieres que te diga?
 
@@ -45,7 +45,7 @@ No esperaba que me contestara, mucho menos que yo le respondiera, y aún con eso
 
 &nbsp;
 
-⟫ Escúchate, ¿no ves el problema? Estás amordazado por la percepción externa. Vamos, sé que eres sabio, aunque nadie lo entienda; visionario; aunque nadie vea; un oráculo; aunque nadie crea.
+⟫ Escúchate, ¿no ves el problema? Estás amordazado por la percepción externa. Vamos, sé que eres sabio, aunque nadie lo entienda; visionario, aunque nadie vea; un oráculo, aunque nadie crea.
 
 &nbsp;
 
@@ -77,7 +77,7 @@ No esperaba que me contestara, mucho menos que yo le respondiera, y aún con eso
 
 &nbsp;
 
-⟫ Entonces persigues la gloria ¿para controlarlos? ¿porque necesitas manos extra?
+⟫ Entonces, ¿persigues la gloria para controlarlos? ¿porque necesitas manos extra?
 
 &nbsp;
 
@@ -85,7 +85,7 @@ No esperaba que me contestara, mucho menos que yo le respondiera, y aún con eso
 
 &nbsp;
 
-Me miró a los ojos fijamente, y luego prosiguió diciendo:
+Me miró a los ojos, y tomando un respiro, prosiguió diciendo:
 
 —¿Cuál es el camino?
 
@@ -99,7 +99,7 @@ Me miró a los ojos fijamente, y luego prosiguió diciendo:
 
 &nbsp;
 
-⟫ ¿El camino...?
+⟫ ¡¿El camino...?!
 
 &nbsp;
 
@@ -109,29 +109,27 @@ Me miró a los ojos fijamente, y luego prosiguió diciendo:
 
 Y en mi cabizbajo lo entendí, entendí en el fondo de mi ser a lo que se refería, por lo que exclamé:
 
-&nbsp;
-
 —El camino...
 
 &nbsp;
 
-⟫¿Sí?
+⟫ ¿Sí?
 
 &nbsp;
 
-⟫ Empieza por... el momento en el que empiezo, aunque nadie me crea... Solo sigo progresando mudo... pero publicando mi progreso.... y lo demás... lo demás es...
+⟫ Empieza por... el momento en el que empiezo, aunque nadie me crea... y sigo progresando, mudo... pero publicando mi progreso.... y lo demás... lo demás es...
 
 &nbsp;
 
-⟫ Historia... así es mi niño. Pero aún veo entre esas cuencas que hay más, así que dime, ¿qué más?
+⟫ Historia... así es, mi niño. Pero aún entre esas cuencas veo que hay más, así que dime, ¿qué más?
 
 &nbsp;
 
-⟫ No necesito creer en ello, solo estar tan seguro que ni pienso en ello, ni me lo cuestiono... Ese es el camino.
+⟫ No necesito... ni creer, solo estar tan seguro que ni pienso en ello, ni me lo cuestiono... Ese es el camino.
 
 &nbsp;
 
-Y su sonrisa, aunque me parecía ajena, también parecía mía.
+Y su sonrisa, aunque ajena, parecía mía.
 
 &nbsp;
 
@@ -143,6 +141,6 @@ Y su sonrisa, aunque me parecía ajena, también parecía mía.
 
 &nbsp;
 
-A lo que no respondí nada, sus palabras se continuaron filtrando:
+A lo que no respondí nada, sus palabras solo continuaron filtrándose:
 
 —Si necesitas fuerzas, no digas nada y olvídate del tiempo; entrégate a la incertidumbre y al infinito.
