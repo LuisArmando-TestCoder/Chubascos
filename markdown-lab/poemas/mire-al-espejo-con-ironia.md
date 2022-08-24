@@ -121,11 +121,11 @@ Y en mi cabizbajo lo entendí, entendí en el fondo de mi ser a lo que se refer�
 
 &nbsp;
 
-⟫ Historia... así es, mi niño. Pero aún entre esas cuencas veo que hay más, así que dime, ¿qué más?
+⟫ Historia... así es, mi niño. Pero aún entre esas cuencas veo que hay más, así que dime, ¿qué más hay?
 
 &nbsp;
 
-⟫ No necesito... ni creer, solo estar tan seguro que ni pienso en ello, ni me lo cuestiono... Ese es el camino.
+⟫ No necesito... ni creer, solo estar seguro, tan seguro que ni pienso en ello, ni me lo cuestiono... Así me veo.
 
 &nbsp;
 
@@ -133,11 +133,11 @@ Y su sonrisa, aunque ajena, parecía mía.
 
 &nbsp;
 
-—¿Quién eres? —Aunque sabía la respuesta.
+—¿Quién eres? —pregunté, aunque por alguna razón y en mi interior, sabía la respuesta.
 
 &nbsp;
 
-⟫ Soy quien te acompaña; soy quien te guía; soy quien te espera... Tu sonrisa es mía, y esta pronto será tuya.
+⟫ Soy quien te acompaña; soy quien te guía; soy quien te espera... Tu sonrisa fue mía, y esta pronto será tuya.
 
 &nbsp;
 
