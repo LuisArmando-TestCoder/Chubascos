@@ -7,13 +7,15 @@ Odio estar a tu lado
 
 y sentir que desfallezco,
 
-que si cierro los ojos
+pensar que si cierro los ojos
 
 a la mañana siguiente
 
-desaparecerás,
+desaparecerás.
 
-o pensar que en ti como
+&nbsp;
+
+No quiero pensar que serás
 
 otro sueño kinestésico.
 
