@@ -11,13 +11,11 @@ que si cierro los ojos
 
 a la mañana siguiente
 
-desaparezcas
+desaparecerás,
 
-y pensar que fueras
+o pensar que en ti como
 
-otro sueño kinestésico,
-
-o pensar que no amanezco.
+otro sueño kinestésico.
 
 &nbsp;
 
