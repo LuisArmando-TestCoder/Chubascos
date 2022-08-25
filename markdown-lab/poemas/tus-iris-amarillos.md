@@ -19,7 +19,7 @@ a tu lado,
 
 la sensación de pertenencia;
 
-qué fácil es
+qué fácil,
 
 rodearte la cintura;
 
