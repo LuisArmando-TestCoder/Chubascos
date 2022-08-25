@@ -61,8 +61,8 @@ de blindada resistencia.
 
 Sé tan real
 
-que alucinen,
+que alucinen;
 
-y tan despierto
+tan despierto
 
-que sueñen contigo.
+que te sueñen.
