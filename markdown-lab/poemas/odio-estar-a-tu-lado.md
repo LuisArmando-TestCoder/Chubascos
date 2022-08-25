@@ -7,7 +7,7 @@ Odio estar a tu lado
 
 y sentir que desfallezco,
 
-pensar que si cierro los ojos
+y que si cierro los ojos
 
 a la mañana siguiente
 
