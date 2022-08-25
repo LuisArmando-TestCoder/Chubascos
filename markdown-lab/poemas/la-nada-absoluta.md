@@ -31,10 +31,8 @@ estamos ocurriendo.
 
 La existencia empieza
 
-en un punto de aleatoriedad fractal
+en un punto de aleatoriedad fractal.
 
-por su misma indeterminación,
-
-en la aleatoriadad absoluta
+Por su misma indeterminación,
 
 se encuentra la forma final.

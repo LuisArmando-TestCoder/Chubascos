@@ -73,11 +73,11 @@ when you can live without it,
 
 but life is not the same;
 
-and you still come back,
+and you still come back
 
-and that warm holiness
+to that warm holiness
 
-does not fade.
+that does not fade.
 
 &nbsp;
 
