@@ -27,12 +27,16 @@ rezo,
 
 posando en ti mis palmas;
 
-tus labios gestan mi codicia,
+tus labios
+
+gestan mi codicia;
 
 soy un pobre pecador
 
 que necesita de tu gracia;
 
-consagra a este peregrino,
+consagra a este peregrino.
 
-mi vida; tu ofrenda.
+&nbsp;
+
+Mi vida; tu ofrenda.
