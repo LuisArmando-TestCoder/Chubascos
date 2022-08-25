@@ -21,9 +21,9 @@ solo criaturas
 
 enfrentándose al mundo,
 
-indómitas, así como
+indómitas,
 
-lo hace un nómada,
+así como lo hace un nómada,
 
 explorando,
 
