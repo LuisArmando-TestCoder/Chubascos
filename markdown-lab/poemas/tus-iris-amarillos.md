@@ -1,11 +1,9 @@
 ---
-slug: "/poemas/vos-y-yo-bajo-cobijas"
+slug: "/poemas/tus-iris-amarillos"
 tags: ["love"]
-title: "vos-y-yo-bajo-cobijas"
+title: "tus-iris-amarillos"
 ---
-Vos y yo bajo cobijas;
-
-tus iris amarillos;
+Tus iris amarillos;
 
 la energía ya no siento;
 
@@ -37,4 +35,4 @@ que necesita de tu gracia;
 
 consagra a este peregrino,
 
-mi vida es una ofrenda.
+mi vida; tu ofrenda.
