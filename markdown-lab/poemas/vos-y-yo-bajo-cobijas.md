@@ -1,9 +1,11 @@
 ---
-slug: "/poemas/tus-iris-amarillos"
+slug: "/poemas/vos-y-yo-bajo-cobijas"
 tags: ["love"]
-title: "tus-iris-amarillos"
+title: "vos-y-yo-bajo-cobijas"
 ---
-Tus iris amarillos;
+Vos y yo bajo cobijas;
+
+tus iris amarillos;
 
 la energía ya no siento;
 
