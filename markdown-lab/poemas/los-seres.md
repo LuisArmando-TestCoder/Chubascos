@@ -7,7 +7,7 @@ Los seres
 
 no son dispensables,
 
-son cofres repletos de cristales de posibilidades,
+son cofres repletos de posibilidades,
 
 que pueden dar a luz;
 
