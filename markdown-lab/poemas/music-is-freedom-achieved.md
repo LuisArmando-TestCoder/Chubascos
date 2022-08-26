@@ -35,7 +35,7 @@ The God of music enters your ears and claims you as his, controls your body, you
 
 &nbsp;
 
-Endless paradox, where did you come from? imagination? As his image and likeness, this is a direct channel to its chamber, we visit our origin, we become Godlike
+Endless paradox, where did you come from? imagination? As his image and likeness, this is a direct channel to its chamber, we visit our origin, we become Godlike.
 
 &nbsp;
 
