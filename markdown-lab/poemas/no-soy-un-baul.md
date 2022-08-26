@@ -47,6 +47,8 @@ estás ahí,
 
 sin orgullo y al tanto.
 
+&nbsp;
+
 El amor verdadero
 
 es un peligro
@@ -71,7 +73,7 @@ mis recursos,
 
 no por orgullo,
 
-sino por respeto.
+sino por respeto propio.
 
 &nbsp;
 
