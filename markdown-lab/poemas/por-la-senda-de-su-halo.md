@@ -27,7 +27,7 @@ Ella se detuvo, e inquiriendo sostuvo: —¿Y si no tuviera voz?
 
 &nbsp;
 
-—Seguiría contigo —respondió—, porque te veo a los ojos, y el alma me arde apasionado. Te puedo ver entre una vigilia indeterminada. Toma mi palabra, mi nariz con la tuya, mis patas de almohada, mi lengua rasposa, ¿qué más debería ofrecerte para que me creas? Tal vez no tengo alma, pero siento la tuya en mí, y no me alejaré. Te acordarás de mí al caminar, porque desde la estantería, te invocaré.
+—Seguiría contigo —precipitó—, porque te veo a los ojos, y el alma me arde apasionado. Te puedo ver entre una vigilia indeterminada. Toma mi palabra, mi nariz con la tuya, mis patas de almohada, mi lengua rasposa, ¿qué más debería ofrecerte para que me creas? Tal vez no tengo alma, pero siento la tuya en mí, y no me alejaré. Te acordarás de mí al caminar, porque desde la estantería, te invocaré.
 
 &nbsp;
 
