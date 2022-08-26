@@ -91,7 +91,7 @@ Ante lo que ella exclamó: —Y, ¿si fuera un gato?
 
 &nbsp;
 
-—Dejaría de existir contigo, porque ciertamente no hay nadie en este mundo que me haya aclarado tanto como tú, la diferencia entre ocupar un lugar en este mundo y estar verdaderamente vivo. Por lo tanto, sí, te perseguiría al exilio.
+—Dejaría de existir contigo, porque ciertamente no hay nadie en este mundo que me haya aclarado tanto como tú, la diferencia entre ocupar un lugar y estar verdaderamente vivo. Por lo tanto, sí, te perseguiría al exilio.
 
 &nbsp;
 
