@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/no-soy-un-baul"
-tags: ["sad"]
+tags: ["desperation"]
 title: "no-soy-un-baúl"
 ---
 No soy un baúl
@@ -93,6 +93,6 @@ cuando sea necesario.
 
 No me importa que nadie me ame,
 
-pero sí que lo hagan,
+pero sí que lo hagan
 
-si claman hacerlo.
+cuando claman hacerlo.

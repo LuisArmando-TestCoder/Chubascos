@@ -1929,6 +1929,6 @@ para saltar a tu rescate,
 cuando sea necesario.
 
 No me importa que nadie me ame,
-pero sí que lo hagan,
-si claman hacerlo.
-<sad
+pero sí que lo hagan
+cuando claman hacerlo.
+<desperation
