@@ -21,9 +21,9 @@ por haberte utilizado.
 
 &nbsp;
 
-Una reina esclavizada
+Una reina esclavizada,
 
-que mantuvo su orgullo
+que mantuvo su orgullo,
 
 ahora es ignorada,
 
