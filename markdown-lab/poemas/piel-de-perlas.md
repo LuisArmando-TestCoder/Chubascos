@@ -33,9 +33,9 @@ piensan lo contrario;
 
 saben que jamás
 
-será olvidada.
+será olvidada,
 
-Que su piel de negra,
+que su piel de negra,
 
 de mulata y de canela
 
