@@ -33,7 +33,7 @@ todo lo que amamos?
 
 &nbsp;
 
-No elegimos obtenerlo,
+No elegimos obtenerlo;
 
 podemos controlar
 
