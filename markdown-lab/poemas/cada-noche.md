@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/cada-noche-abrazo-tu-recuerdo"
+slug: "/poemas/cada-noche"
 tags: ["sad"]
-title: "cada-noche-abrazo-tu-recuerdo"
+title: "cada-noche"
 ---
-Cada noche abrazo tu recuerdo,
+Cada noche, abrazo tu recuerdo,
 
 mis cobijas son testigos;
 
