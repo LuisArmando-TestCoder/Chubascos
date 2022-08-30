@@ -83,7 +83,9 @@ podemos controlar
 
 que no se barra con el polvo,
 
-pero no que el tiempo asegure su estadía;
+pero no que el tiempo
+
+asegure su estadía;
 
 amar es aceptarlo
 
