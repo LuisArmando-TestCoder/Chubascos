@@ -11,4 +11,4 @@ in times of despair,
 
 despair has been attached
 
-to the notion of prayers.
+to the notion of prayer.
