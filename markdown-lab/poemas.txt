@@ -1770,7 +1770,8 @@ el dolor ajeno nos pertenece a todos,
 porque es un peso demasiado grande
 para que lo lleve solo uno;
 afectamos hasta a nuestros seres queridos.
-
+<normal
+---
 Aunque no se den cuenta,
 no entiendan y no crean,
 el amor es gratuito.
