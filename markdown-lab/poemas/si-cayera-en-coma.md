@@ -17,13 +17,13 @@ un reflejo insostenible
 
 de un mundo como el nuestro,
 
-una bomba de tiempo
+una bomba desatable
 
 bajo el mando
 
-de criaturas pirómanas
+de criaturas piromaniacas
 
-con un atisbo de cordura;
+con un atisbo de cordura,
 
 que penderían de un hilo;
 
