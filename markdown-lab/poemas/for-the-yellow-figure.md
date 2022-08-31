@@ -33,6 +33,6 @@ is that you reside,
 
 like a blazing eternal candle,
 
-from you, 
+from you,
 
 emergent wonders.
