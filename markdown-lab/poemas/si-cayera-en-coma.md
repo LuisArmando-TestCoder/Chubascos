@@ -83,7 +83,7 @@ solo quiero distanciarme
 
 del día que me cuece,
 
-como lo hago en madrugada,
+como lo hago en madrugadas,
 
 pero siempre;
 
