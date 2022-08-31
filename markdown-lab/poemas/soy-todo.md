@@ -111,4 +111,4 @@ ni sabios,
 
 solo formas diferentes
 
-de ensamblar el ser.
+de ordenar el ser.
