@@ -7,7 +7,7 @@ There is a light in the city,
 
 that never dies,
 
-invisible to the daylight,
+invisible to daylight,
 
 a shrine for every night.
 
@@ -27,7 +27,7 @@ There is a light in the city,
 
 that never dies,
 
-made for the nomads,
+made for all the nomads,
 
 each and every night.
 
@@ -35,7 +35,7 @@ each and every night.
 
 Before the rise of the Sun,
 
-there is a light,
+there is a light;
 
 extended stain of darkness
 
