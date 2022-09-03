@@ -25,7 +25,7 @@ you might be like a volcano
 
 for somethings, like justice,
 
-but don’t they look pretty
+but don't they look pretty
 
 when thinking?
 
@@ -45,11 +45,11 @@ but that is perfect,
 
 I see right through,
 
-I’m winning.
+I'm winning.
 
 &nbsp;
 
-I don’t need you
+I don't need you
 
 to be in my palm,
 
@@ -65,9 +65,9 @@ Captivating.
 
 If you only knew
 
-all this I’m thinking,
+all this I'm thinking,
 
-but I won’t wake you up
+but I won't wake you up
 
 from your dreaming,
 
@@ -75,4 +75,4 @@ you look so cute,
 
 so happy, so peaceful,
 
-meanwhile, I’m a pillow.
+meanwhile, I'm a pillow.
