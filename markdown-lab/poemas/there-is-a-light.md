@@ -27,13 +27,13 @@ There is a light
 
 that never dies,
 
-made for all the nomads,
+made for nomads,
 
 each and every night.
 
 &nbsp;
 
-Before the rise of the Sun,
+Before the Sun,
 
 there is a light;
 
