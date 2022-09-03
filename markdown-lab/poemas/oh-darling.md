@@ -21,15 +21,13 @@ Endearing,
 
 all the assets that I notice,
 
-you might be like a volcano
+you might be explosive
 
-for somethings, like justice,
+for somethings,
 
-but don't they look pretty
+like justice;
 
-when thinking?
-
-their lava brings life
+your fire brings life
 
 to newer beginnings,
 
