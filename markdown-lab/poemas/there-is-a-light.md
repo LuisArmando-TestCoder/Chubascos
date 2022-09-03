@@ -43,10 +43,10 @@ that gets sliced.
 
 &nbsp;
 
-There is a light
+There is a light,
 
-that never dies;
+there is a light
 
-there is a light,
+that never dies,
 
 each and every night.
