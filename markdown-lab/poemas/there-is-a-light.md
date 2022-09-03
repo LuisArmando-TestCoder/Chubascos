@@ -1,15 +1,15 @@
 ---
-slug: "/poemas/there-is-a-light-in-the-city"
+slug: "/poemas/there-is-a-light"
 tags: ["happy"]
-title: "there-is-a-light-in-the-city"
+title: "there-is-a-light"
 ---
-There is a light in the city,
+There is a light
 
 that never dies,
 
 invisible to daylight,
 
-a shrine for every night.
+each and every night.
 
 &nbsp;
 
@@ -17,13 +17,13 @@ Before the dawn
 
 some walk pass by,
 
-and some little hope,
+some little hope,
 
-restored for a little while.
+for a little while.
 
 &nbsp;
 
-There is a light in the city,
+There is a light
 
 that never dies,
 
@@ -37,16 +37,16 @@ Before the rise of the Sun,
 
 there is a light;
 
-extended stain of darkness
+extended stain
 
 that gets sliced.
 
 &nbsp;
 
-There is a light in the city,
+There is a light,
 
 that never dies;
 
-there is a light in the city,
+there is a light,
 
 each and every night.
