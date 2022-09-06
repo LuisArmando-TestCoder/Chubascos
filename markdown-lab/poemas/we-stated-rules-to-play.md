@@ -5,10 +5,18 @@ title: "we-stated-rules-to-play"
 ---
 We stated rules to play
 
-and we agreed to play society's game,
+the game of theater,
 
-but we forgot
+we are props that talk,
 
-that we could step out from it
+we are the scenery.
 
-at any moment.
+&nbsp;
+
+But,
+
+at any given moment,
+
+we can step out,
+
+and choose not to perform.

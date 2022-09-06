@@ -2269,20 +2269,15 @@ I'm whole,
 but thank you for your feelings.
 <happy
 ---
-We perform in a theater,
-we are props that talk,
-we are always performing
-a scene in our life,
-and we are not only
-the characters,
-but also the scenery.
-<normal
----
 We stated rules to play
-and we agreed to play society's game,
-but we forgot
-that we could step out from it
-at any moment.
+the game of theater,
+we are props that talk,
+we are the scenery.
+
+But,
+at any given moment,
+we can step out,
+and choose not to perform.
 <normal
 ---
 Life might be a dream,
