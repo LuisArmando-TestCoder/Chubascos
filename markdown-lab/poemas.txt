@@ -2280,6 +2280,22 @@ we can step out,
 and choose not to perform.
 <normal
 ---
+Enunciamos reglas
+para jugar
+el juego
+del teatro.
+
+Somos accesorios
+que hablan;
+somos
+el escenario.
+
+Pero,
+en cualquier momento dado,
+podemos dar un paso al costado
+y elegir no actuar.
+<normal
+---
 Life might be a dream,
 so life and dreams could be the same,
 and a dream, could be a life,
