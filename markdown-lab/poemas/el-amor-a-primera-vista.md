@@ -9,7 +9,7 @@ es reconocer a la figura
 
 que tienes tatuada
 
-en la inconciencia;
+en la inconsciencia;
 
 al admirarla
 
