@@ -33,6 +33,10 @@ why would I suffer?
 
 &nbsp;
 
-I feel pleasure when touching art
+I feel cymbals
 
-or an authentic person comes up to me.
+when touching art
+
+or an authentic person
+
+comes up to me.
