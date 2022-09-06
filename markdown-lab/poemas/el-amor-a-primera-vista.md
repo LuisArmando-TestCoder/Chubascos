@@ -5,8 +5,24 @@ title: "el-amor-a-primera-vista"
 ---
 El amor a primera vista
 
-es reconocer a la persona
+es reconocer a la figura
 
 que tienes tatuada
 
-en la inconciencia.
+en la inconciencia;
+
+al admirarla
+
+el potencial
+
+de tu persona
+
+se desbloquea;
+
+tu vida
+
+y la suya
+
+se vuelven
+
+sagradas.
