@@ -7,9 +7,7 @@ Enunciamos reglas
 
 para jugar
 
-el juego
-
-del teatro.
+al teatro.
 
 &nbsp;
 

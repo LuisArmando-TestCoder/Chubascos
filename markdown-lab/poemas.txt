@@ -2282,8 +2282,7 @@ and choose not to perform.
 ---
 Enunciamos reglas
 para jugar
-el juego
-del teatro.
+al teatro.
 
 Somos accesorios
 que hablan;
