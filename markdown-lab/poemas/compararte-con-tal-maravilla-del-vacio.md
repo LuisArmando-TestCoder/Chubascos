@@ -13,7 +13,7 @@ en tu mirada yace el principio del Universo.
 
 En tu mirada las formas del espacio
 
-comenzaron a tener sentido,
+comenzaron a tener sentido;
 
 ya no rechazaba el tiempo,
 
