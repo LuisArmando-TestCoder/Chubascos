@@ -53,7 +53,7 @@ a mi mecanismo;
 
 estaba viviendo como fantasma
 
-hasta que esta aparición
+hasta que esta extraordinaria aparición
 
 se me cruzara.
 
