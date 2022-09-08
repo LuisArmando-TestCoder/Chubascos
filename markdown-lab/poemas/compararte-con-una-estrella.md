@@ -1,9 +1,11 @@
 ---
-slug: "/poemas/compararte-con-tal-maravilla-del-vacio"
+slug: "/poemas/compararte-con-una-estrella"
 tags: ["love"]
-title: "compararte-con-tal-maravilla-del-vacío"
+title: "compararte-con-una-estrella"
 ---
-Compararte con tal maravilla del vacío
+Compararte con una estrella,
+
+con tal maravilla del vacío,
 
 sería subestimar tu luminosidad,
 
@@ -102,8 +104,6 @@ Ella es ajena a esta partícula
 que tropezándose
 
 la encontró en una escena por accidente.
-
-&nbsp;
 
 Y ahora,
 
