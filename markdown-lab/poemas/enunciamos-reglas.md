@@ -27,4 +27,4 @@ en cualquier momento dado,
 
 podemos dar un paso al costado
 
-y elegir no actuar.
+y elegir: no actuar.
