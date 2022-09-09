@@ -7,7 +7,7 @@ Mis amigos se enamoran tanto;
 
 solo necesitan
 
-un encuentro y un “te acepto”.
+un encuentro y un "te acepto".
 
 &nbsp;
 
