@@ -103,7 +103,7 @@ Ella es ajena a esta partícula
 
 que tropezándose
 
-la encontró en una escena por accidente.
+la encontró en una escena, por accidente.
 
 Y ahora,
 
