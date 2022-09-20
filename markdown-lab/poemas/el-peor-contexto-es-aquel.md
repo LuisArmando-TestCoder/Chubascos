@@ -75,7 +75,7 @@ hasta que se compadezcan
 
 o hasta que el Sol Rojo las incinere,
 
-o hasta mueras en el proceso, de viejo,
+o hasta que mueras en el proceso, de viejo,
 
 y solo puedan aprovecharse de tu cadáver
 
