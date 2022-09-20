@@ -9,7 +9,7 @@ slightly smiled for years
 
 during your metamorphosis.
 
- 
+&nbsp;
 
 The little place
 
@@ -29,7 +29,7 @@ a little part of my everything,
 
 before my departure.
 
- 
+&nbsp;
 
 To you, this was oblivious,
 
@@ -41,7 +41,7 @@ you are dressed,
 
 cozy and sheltered.
 
- 
+&nbsp;
 
 I know this will be
 
@@ -53,7 +53,7 @@ when you get to look
 
 your life in reverse.
 
- 
+&nbsp;
 
 I'm grateful
 
@@ -63,7 +63,7 @@ in which I was able
 
 to embrace your essence.
 
- 
+&nbsp;
 
 Within all this noisy silence,
 
