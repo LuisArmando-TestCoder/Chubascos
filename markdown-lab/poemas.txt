@@ -2592,7 +2592,8 @@ pero hay otros a los que no les importa,
 pues al final somos polvo sobre polvo,
 entre el vacío polvoriento
 de escarcha nuclear.
-
+<normal
+---
 Fui el paria por muchos años,
 porque era el raro y la cura era transitiva,
 la máscara se caía sin avisar
@@ -2615,7 +2616,7 @@ y volvía luego con artefactos
 que su mente no entendían;
 cuatro pasos adelante,
 y cuatro pasos me perdía,
-y que fácil era rechazarme
+y que fácil era rechazar
 la figura incomprendida.
 
 Fui el marginado
@@ -2631,9 +2632,10 @@ y liberarme del exilio;
 el exilio
 de tener tanto dentro
 sin tener con quien compartirlo.
-
-La soledad no escogida es
-un suplicio
+<desperation
+---
+La soledad no escogida
+es un suplicio
 hasta que te enteras
 que representa
 la libertad de un explorador,
@@ -2671,8 +2673,9 @@ abandonan el proceso de buscar
 más absurdez entre el absurdo
 y le niegan a la vida
 su caótico destino.
-
-He notado esto de los neurotípicos;
+<normal
+---
+He notado esto;
 ven más los ciegos,
 aunque parezca incomprensible.
 
@@ -2687,8 +2690,8 @@ con ilusiones ópticas,
 como no pueden engañar
 a los clarividentes
 que exponen la esencia
-de sus microexpresiones,
-y del macro de sus actos.
+detrás de los actos
+de las personas.
 <normal
 ---
 Humans can fall in love
