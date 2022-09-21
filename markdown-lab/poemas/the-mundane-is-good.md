@@ -9,7 +9,7 @@ when looked from a window,
 
 when simplicity means
 
-that we live in world
+that we live in a world
 
 so peaceful
 
