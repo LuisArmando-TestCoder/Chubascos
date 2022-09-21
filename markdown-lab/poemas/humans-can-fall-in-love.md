@@ -11,7 +11,7 @@ but I just find everybody else
 
 so hideous,
 
-but here you are,
+and here you are,
 
 singular to my sight.
 
