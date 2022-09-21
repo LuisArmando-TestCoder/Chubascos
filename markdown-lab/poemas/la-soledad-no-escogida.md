@@ -25,58 +25,34 @@ aunque tome años de deriva.
 
 &nbsp;
 
-Los solitarios suelen propulsarse
+Los solitarios suelen propulsarse hacia la compañía,
 
-hacia la compañía,
+otros, hacia el consuelo de una expresión artística
 
-otros, hacia el consuelo
-
-de una expresión artística
-
-que les da la bienvenida,
+que les da la bienvenida, 
 
 otros, hacia la esperanza
 
-en sus esfuerzos obstinados
+en sus esfuerzos obstinados por convertirse en el oásis
 
-por convertirse en el oásis
+de algún nómada que los encuentre 
 
-de algún nómada
+en este desierto frío que a veces es la vida, 
 
-que los encuentre
+y otros, se embarcan en ese purgatorio
 
-en este desierto frío
+que se confunde con infierno, 
 
-que a veces es la vida,
+llamado metamorfosis, 
 
-y otros,
+para purificarse y hacerse dignos y deseados
 
-se embarcan en ese purgatorio
+y no sentirse inexorablemente abandonados
 
-que se confunde con infierno,
+por quienes no los miran, 
 
-llamado metamorfosis,
+así como hay otros tantos, que estando tan cansados, abandonan el proceso 
 
-para purificarse
+de buscar más absurdez entre el absurdo 
 
-y hacerse dignos
-
-y deseados
-
-y no sentirse
-
-inexorablemente abandonados
-
-por quienes no los miran,
-
-así como hay otros tantos,
-
-que estando tan cansados
-
-abandonan el proceso de buscar
-
-más absurdez entre el absurdo
-
-y le niegan a la vida
-
-su caótico destino.
+y le niegan a la vida su caótico destino.
