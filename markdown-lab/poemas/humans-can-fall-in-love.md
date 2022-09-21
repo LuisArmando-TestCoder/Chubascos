@@ -25,9 +25,7 @@ as I fall for your aura,
 
 which takes time;
 
-with your micro expressions
-
-and the words chosen,
+with your words, chosen,
 
 gracefully drawn by your mouth;
 
