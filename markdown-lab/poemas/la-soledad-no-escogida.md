@@ -29,30 +29,30 @@ Los solitarios suelen propulsarse hacia la compañía,
 
 otros, hacia el consuelo de una expresión artística
 
-que les da la bienvenida, 
+que les da la bienvenida,
 
 otros, hacia la esperanza
 
 en sus esfuerzos obstinados por convertirse en el oásis
 
-de algún nómada que los encuentre 
+de algún nómada que los encuentre
 
-en este desierto frío que a veces es la vida, 
+en este desierto frío que a veces es la vida,
 
 y otros, se embarcan en ese purgatorio
 
-que se confunde con infierno, 
+que se confunde con infierno,
 
-llamado metamorfosis, 
+llamado metamorfosis,
 
 para purificarse y hacerse dignos y deseados
 
 y no sentirse inexorablemente abandonados
 
-por quienes no los miran, 
+por quienes no los miran,
 
-así como hay otros tantos, que estando tan cansados, abandonan el proceso 
+así como hay otros tantos, que estando tan cansados, abandonan el proceso
 
-de buscar más absurdez entre el absurdo 
+de buscar más absurdez entre el absurdo
 
 y le niegan a la vida su caótico destino.
