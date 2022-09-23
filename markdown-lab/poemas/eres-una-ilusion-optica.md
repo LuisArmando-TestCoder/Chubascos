@@ -123,8 +123,8 @@ y cuántas otras constelaciones australes.
 
 ¿Cuándo me enamoré
 
-de los Brotes Estelares?
+de los Brotes Estelares
 
-Los que refractas
+que refractas
 
-de tu vinilo de espejo.
+de tu vinilo de espejo?
