@@ -45,7 +45,7 @@ que se asomaba quieta ante las visitas.
 
 &nbsp;
 
-Los malditos padres posesivos
+Los malditos posesivos
 
 matan a sus hijos,
 
@@ -59,7 +59,7 @@ por su avaricia no correspondida.
 
 &nbsp;
 
-Pero los padres posesivos
+Pero los posesivos
 
 se quedarán vacíos,
 
