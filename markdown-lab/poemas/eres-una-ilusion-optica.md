@@ -128,11 +128,3 @@ de los Brotes Estelares?
 Los que refractas
 
 de tu vinilo de espejo.
-
-&nbsp;
-
-¿Cuándo me enamoré
-
-de los espasmos
-
-que me electrocutan en silencio?
