@@ -19,7 +19,7 @@ Pero no me gustas per se, me gustan las estrellas y las supernovas, y los planet
 
 &nbsp;
 
-Me encanta ver en ti galaxias, me encanta abrazarlas, me encanta ser uno estando a tu lado.
+Me encanta ver en ti galaxias, me encanta abrazarlas, me encanta ser un estado, me encanta ser uno estando a tu lado.
 
 &nbsp;
 
