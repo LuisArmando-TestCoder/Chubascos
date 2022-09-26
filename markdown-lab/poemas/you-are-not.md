@@ -5,6 +5,8 @@ title: "you-are-not"
 ---
 You are not
 
+as a whole body
+
 better than nobody,
 
 you don't have to be,
