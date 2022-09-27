@@ -59,6 +59,4 @@ nos hemos esperado
 
 toda la vida
 
-por este sello
-
-de injustificable amor.
+por este sello.
