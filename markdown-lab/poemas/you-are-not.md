@@ -15,7 +15,7 @@ you are what you are.
 
 &nbsp;
 
-Keep it on,
+So keep it on,
 
 carry on
 
@@ -23,7 +23,7 @@ on your path,
 
 even if it is
 
-an straight line,
+a straight line,
 
 or full of vertices,
 
