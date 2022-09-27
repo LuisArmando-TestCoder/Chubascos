@@ -21,9 +21,9 @@ el personaje hace,
 
 el que están interpretando,
 
-el personaje de una audiencia;
+el de la audiencia que mira,
 
-mirando, pero no observando.
+pero no observa.
 
 &nbsp;
 
