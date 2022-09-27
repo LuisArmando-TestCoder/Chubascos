@@ -1,11 +1,9 @@
 ---
-slug: "/poemas/que-que-mi-arte"
+slug: "/poemas/que-mi-arte-no-se-contente"
 tags: ["normal"]
-title: "que-que-mi-arte"
+title: "que-mi-arte-no-se-contente"
 ---
-Que que mi arte
-
-no se contente
+Que mi arte no se contente
 
 con un público insensible
 
@@ -13,11 +11,9 @@ y sobreestimulado,
 
 que devora las obras,
 
-simplemente porque eso es
+porque eso es lo que se supone
 
-lo que se supone que
-
-el personaje hace,
+que el personaje hace,
 
 el que están interpretando,
 
