@@ -57,6 +57,6 @@ tan importante como una piedra,
 
 tan libre como tu cascarón
 
-y la ciudad plateada de su interior
+y la ciudad plateada
 
 alucinen serlo.
