@@ -51,7 +51,7 @@ como a su sangre y a su historia,
 
 eres parte no solo de este Universo,
 
-sino de Todos,
+sino de todos;
 
 tan importante como una piedra,
 
