@@ -23,8 +23,6 @@ mantener resguardada
 
 la Luz de Alfheim
 
-que bioluminice
-
 de mis pupilas celestes.
 
 &nbsp;
