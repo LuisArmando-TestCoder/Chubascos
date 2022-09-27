@@ -1,0 +1,48 @@
+---
+slug: "/poemas/quiero-que-mi-arte"
+tags: ["normal"]
+title: "quiero-que-mi-arte"
+---
+Quiero que mi arte
+
+no se contente
+
+con un público insensible
+
+y sobreestimulado,
+
+que devora las obras,
+
+simplemente porque eso es
+
+lo que se supone que
+
+el personaje hace,
+
+el que están interpretando,
+
+el personaje de una audiencia;
+
+mirando, pero no observando.
+
+&nbsp;
+
+Quiero que mi arte
+
+cambie vidas,
+
+o que a las reafirme,
+
+perdurando en sus recuerdos,
+
+ya que es importante para ellos,
+
+y que se mantenga
+
+a lo largo de los siglos.
+
+&nbsp;
+
+Larga vida a estas ideas,
+
+alimento de los sabios.
