@@ -23,9 +23,11 @@ alzar los brazos y el rostro
 
 bajo una tormenta;
 
-lágrimas calientes;
+lágrimas calientes.
 
-frases nuevas;
+&nbsp;
+
+Hay frases nuevas;
 
 el día que despierta,
 
@@ -33,23 +35,31 @@ con silbidos que titilan;
 
 lentas ondas de polvo
 
-que se levantan a contraluz;
+que se levantan a contraluz.
 
-la pesadez de las cobijas,
+&nbsp;
+
+Hay pesadez entre cobijas,
 
 que se da cuenta
 
-de que es sábado todavía;
+que es sábado, todavía.
 
-cerrar los ojos
+&nbsp;
+
+Cerrar los ojos
 
 en consecuencia
 
-a la voluntad de meditar;
+a la voluntad de meditar.
 
-competencia de miradas
+&nbsp;
 
-en una biblioteca.
+Competencia de miradas
+
+en una biblioteca,
+
+contra una mirada casual.
 
 &nbsp;
 
