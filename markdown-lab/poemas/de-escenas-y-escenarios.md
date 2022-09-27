@@ -5,13 +5,7 @@ title: "de-escenas-y-escenarios"
 ---
 De escenas y escenarios
 
-está hecho el mundo,
-
-no solo de injusticia
-
-y de las otras experiencias
-
-a las que estás acostumbrado.
+está hecho el mundo.
 
 &nbsp;
 
@@ -23,86 +17,44 @@ perfume leve de agua dulce;
 
 tierra, mugre y charcos;
 
-lágrimas calientes;
-
-pies descalzos sobre lodo;
+sobre lodo, pies descalzos;
 
 alzar los brazos y el rostro
 
 bajo una tormenta;
 
-olor a biblioteca;
+lágrimas calientes;
 
-ideas ingeniosas;
+frases nuevas;
 
-competencia de miradas
+el día que despierta,
 
-contra una mirada casual;
+con silbidos que titilan;
 
-lentas olas de polvo
+lentas ondas de polvo
 
 que se levantan a contraluz;
-
-el día que despierta
-
-en medio del campo,
-
-repleto de silbidos
-
-que titilan;
 
 la pesadez de las cobijas,
 
 que se da cuenta
 
-de que es sábado
+de que es sábado todavía;
 
-y de que la historia interrumpida
+cerrar los ojos
 
-puede continuar;
+en consecuencia
 
-cerrar los ojos,
+a la voluntad de meditar;
 
-y callar a todos
+competencia de miradas
 
-al unísono.
+en una biblioteca.
 
 &nbsp;
 
 Hay tanto más
 
-en las simplezas gratuitas,
-
-mucho más que en la megalomanía,
-
-mucho más que en la desesperanza
-
-que los celos causan
-
-hacia el lujo ajeno.
-
-&nbsp;
-
-El lujo está bien,
-
-pero nunca será tan especial
-
-como la belleza fortuita
-
-con la que se topa
-
-la curiosidad.
-
-&nbsp;
-
-Aunque el arte sea sagrado,
-
-solo es utilitario
-
-para los artistas vasallos,
-
-que intentan expresar
-
-las preciosas
+en las preciosas y gratuitas
 
 miniaturas de la vida.
