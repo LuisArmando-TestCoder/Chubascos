@@ -7,18 +7,14 @@ La ciudad plateada
 
 de magnetares miniatura,
 
-de grietas suspendidas
+de grietas suspendidas,
 
-en tu cerebro,
-
-de ahí vienen
-
-las posibilidades que alucinas,
+de ahí vienen las posibilidades,
 
 probabilidades remotas
 
 que puedes gestar de tu imaginario,
 
-y alucinar tus sueños
+para gestar tus alucinaciones
 
 en el mundo físico.
