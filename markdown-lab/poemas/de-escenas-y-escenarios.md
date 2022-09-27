@@ -63,8 +63,8 @@ contra una mirada casual.
 
 &nbsp;
 
-Hay tanto más
+Hay tantas más escenas
 
-en las preciosas y gratuitas
+en las preciosas
 
 miniaturas de la vida.
