@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/quiero-que-mi-arte"
+slug: "/poemas/que-que-mi-arte"
 tags: ["normal"]
-title: "quiero-que-mi-arte"
+title: "que-que-mi-arte"
 ---
-Quiero que mi arte
+Que que mi arte
 
 no se contente
 
