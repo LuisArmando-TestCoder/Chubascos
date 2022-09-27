@@ -3,9 +3,9 @@ slug: "/poemas/you-are-not"
 tags: ["normal"]
 title: "you-are-not"
 ---
-You are not
+You are not,
 
-as a whole body
+as a whole body,
 
 better than nobody,
 
