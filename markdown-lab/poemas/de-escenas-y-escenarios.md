@@ -1,11 +1,11 @@
 ---
-slug: "/poemas/el-mundo-esta-hecho"
+slug: "/poemas/de-escenas-y-escenarios"
 tags: ["happy"]
-title: "el-mundo-está-hecho"
+title: "de-escenas-y-escenarios"
 ---
-El mundo está hecho
+De escenas y escenarios
 
-de escenas y escenarios,
+está hecho el mundo,
 
 no solo de injusticia
 
@@ -15,9 +15,7 @@ a las que estás acostumbrado.
 
 &nbsp;
 
-No solo hay tortura,
-
-también hay silencio;
+Hay silencio en las mañanas;
 
 espuma pura e inocente;
 
@@ -27,43 +25,45 @@ tierra, mugre y charcos;
 
 lágrimas calientes;
 
-pies descalzos
+pies descalzos sobre lodo;
+
+alzar los brazos y el rostro
 
 bajo una tormenta;
 
-olor a biblioteca
+olor a biblioteca;
 
-y a estanterías;
+ideas ingeniosas;
 
 competencia de miradas
 
 contra una mirada casual;
 
-polvo que se levanta a contraluz,
+lentas olas de polvo
 
-ondas de escarcha lenta;
+que se levantan a contraluz;
 
 el día que despierta
 
 en medio del campo,
 
-repleto de alabanzas
+repleto de silbidos
 
-y silbidos titilantes;
+que titilan;
 
 la pesadez de las cobijas,
 
-que luego se da cuenta
+que se da cuenta
 
-de que es sábado todavía
+de que es sábado
 
-y de que la historia
+y de que la historia interrumpida
 
 puede continuar;
 
 cerrar los ojos,
 
-callando a todos
+y callar a todos
 
 al unísono.
 
