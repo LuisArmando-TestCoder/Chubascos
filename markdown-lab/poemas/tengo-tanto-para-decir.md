@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/tengo-tanto-para-decir"
-tags: ["normal"]
+tags: ["sad"]
 title: "tengo-tanto-para-decir"
 ---
 Tengo tanto para decir, pero realmente no tengo nada; tengo tantos tonos y frecuencias guardadas.
