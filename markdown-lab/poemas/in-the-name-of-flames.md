@@ -27,9 +27,9 @@ but this moment.
 
 I feel the waves;
 
-I'm flowing,
+I'm flowing
 
-the tides are tsunamis,
+in tides like tsunamis,
 
 so high that on the tip of them,
 
