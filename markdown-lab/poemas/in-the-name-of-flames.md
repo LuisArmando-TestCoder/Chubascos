@@ -11,11 +11,7 @@ my eyes; the lighthouse.
 
 &nbsp;
 
-My synapses are lightning,
-
-traveling from the core of my solar plexus,
-
-through the branches of my body.
+My synapses are lightning.
 
 I'm delighted, enlightened
 
@@ -25,22 +21,10 @@ but this moment.
 
 &nbsp;
 
-I feel the waves;
-
-I'm flowing
-
-in tides like tsunamis,
-
-so high that on the tip of them,
-
-I'm weightless
-
-in the sense of ecstasy.
+In the sense of ecstasy.
 
 Samadhi.
 
 &nbsp;
 
-I'm an argonaut
-
-of the cosmos.
+I'm an argonaut of the cosmos.
