@@ -47,8 +47,8 @@ Quiero pasar un tiempo con mis amigos, y mejorarlo mientras estén vivos, quiero
 
 &nbsp;
 
-Podría detenerme ahora mismo, pero el absurdo no tendría sentido, y no lo tiene, pero un humano es capaz de un milagro disparatado, aferrarse a una contradicción que entiende, y seguir cuerdo.
+Podría detenerme ahora mismo, pero el absurdo no tendría sentido, y no lo tiene, pero un humano es capaz de un milagro disparatado, aferrarse a una contradicción, y seguir cuerdo, porque no solo de lógica se sirven los vivos.
 
 &nbsp;
 
-Aunque todos están locos, y por eso, no hay nada de contradictorio en esto: todo es posible y sigo vivo para demostrarlo.
+Aunque todos están locos entre sus rituales esotéricos, no hay nada de contradictorio en repetir esto: todo es posible y sigo vivo para demostrarlo.
