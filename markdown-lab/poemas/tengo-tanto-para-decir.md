@@ -47,6 +47,10 @@ Quiero pasar un tiempo con mis amigos, y mejorarlo mientras estén vivos, quiero
 
 &nbsp;
 
+Mi necedad inexorable, cuán cruel, que me mantiene vivo y agonizando, y me siento afortunado por ello.
+
+&nbsp;
+
 Podría detenerme ahora mismo, pero el absurdo no tendría sentido, aunque nunca lo tuvo, pero un humano es capaz de un milagro, aferrarse a una contradicción, y seguir cuerdo, porque no solo de lógica se sirven los vivos, aunque todos están locos en algún sentido, por sus rituales esotéricos.
 
 &nbsp;
