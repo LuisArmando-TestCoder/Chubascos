@@ -1,15 +1,17 @@
 ---
-slug: "/poemas/even-though-i-don't-believe"
+slug: "/poemas/even-though"
 tags: ["love"]
-title: "even-though-i-don't-believe"
+title: "even-though"
 ---
-Even though I don't believe
+Even though
+
+I don't believe
 
 in those esoteric treats,
 
 whatever phase that you face
 
-is plenitude to me.
+is plenitude to me... Kind of...
 
 &nbsp;
 
