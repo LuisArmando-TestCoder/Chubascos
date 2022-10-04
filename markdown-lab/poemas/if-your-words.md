@@ -43,7 +43,7 @@ and played their words your way?
 
 Wouldn't they be a simulation?
 
-What if,
+What if
 
 you never understood nobody
 
