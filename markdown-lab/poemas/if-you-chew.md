@@ -31,9 +31,9 @@ to circumvent
 
 ego's veil,
 
-what if you have ego
+what if you have an ego
 
-for each of them?
+for each one of them?
 
 &nbsp;
 
