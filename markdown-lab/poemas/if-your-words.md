@@ -29,21 +29,25 @@ you empathize with yourself
 
 to circumvent
 
-ego's veil,
-
-what if you have an ego
-
-for each one of them?
+ego's veil.
 
 &nbsp;
+
+What if you have an ego
+
+for each one of your friends,
+
+and you don't know them,
+
+and played their words your way?
+
+Wouldn't they be a simulation?
 
 What if,
 
 you never understood nobody
 
 outside of yourself?
-
-Aren't they a simulation within?
 
 &nbsp;
 
@@ -59,11 +63,11 @@ if not, with words?
 
 Raw words, decorated ones,
 
-ones, undervalued,
+some, undervalued,
 
 and the flavored ones,
 
-wasted.
+wasted in pretentious.
 
 &nbsp;
 
@@ -73,4 +77,4 @@ the perfect balance
 
 between memorable
 
-and beauteous.
+and important.
