@@ -5,7 +5,9 @@ title: "sometimes-love-is-not-that-profound"
 ---
 Sometimes love is not that profound,
 
-one falls for a mirage when there is no sound.
+one falls for a mirage
+
+when there is no sound.
 
 &nbsp;
 
@@ -13,9 +15,11 @@ One wishes one's hands
 
 kept molding that soft drawing
 
-and those curved lines,
+and those curved lines.
 
-one will insist on refining
+&nbsp;
+
+One will insist on refining
 
 with its own fingerprints,
 
@@ -27,22 +31,36 @@ what is already perfect.
 
 Like a meteor shower,
 
-one will fall for their encounter,
+one will go through an abyss
 
-to look for an instant at a wonder.
+and fall to their encounter,
+
+to look for an instant
+
+at a wonder.
 
 &nbsp;
 
-One might become enchanted,
+One might become bewitched and spellbound;
 
 romantic and full of platitudes,
 
-as that is the door that opens
+how wouldn't one?
 
-for every chance of us.
+That sight opens a chance of us.
 
 &nbsp;
 
 We are looking for someone
 
-to read aloud to our glyphs of love.
+to read aloud to
+
+the glyphs
+
+of these verses inside of us.
+
+&nbsp;
+
+We have been waiting to liberate
+
+all of these captive love words.
