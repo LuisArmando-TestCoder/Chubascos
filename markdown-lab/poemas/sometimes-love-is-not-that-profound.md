@@ -59,9 +59,7 @@ We are looking for someone
 
 to read aloud to
 
-the glyphs
-
-of these verses inside of us.
+the glyphs of these verses.
 
 &nbsp;
 
@@ -69,6 +67,4 @@ We have been waiting to liberate
 
 all of these captive love letters
 
-that were never meant to be hid
-
-behind fears and remorse.
+inside of us.
