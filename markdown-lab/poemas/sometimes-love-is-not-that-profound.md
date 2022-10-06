@@ -13,7 +13,7 @@ when there is no sound.
 
 One wishes one's hands
 
-kept molding that soft drawing
+kept molding that soft surface
 
 and those curved lines.
 
