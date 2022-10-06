@@ -5,7 +5,7 @@ title: "sometimes-love-is-not-that-profound"
 ---
 Sometimes love is not that profound,
 
-one falls for a mirage
+as one falls for a mirage
 
 when there is no sound.
 
@@ -29,7 +29,11 @@ what is already perfect.
 
 &nbsp;
 
-Like a meteor shower,
+One's superficial awareness
+
+becomes deeper,
+
+and like a meteor shower,
 
 one will go through an abyss
 
@@ -37,7 +41,7 @@ and fall to their encounter,
 
 to look for an instant
 
-at a wonder.
+at a wonder, in that person.
 
 &nbsp;
 
@@ -63,4 +67,8 @@ of these verses inside of us.
 
 We have been waiting to liberate
 
-all of these captive love words.
+all of these captive love letters
+
+that were never meant to be hid
+
+behind fears and remorse.
