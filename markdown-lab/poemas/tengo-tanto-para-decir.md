@@ -3,7 +3,7 @@ slug: "/poemas/tengo-tanto-para-decir"
 tags: ["sad"]
 title: "tengo-tanto-para-decir"
 ---
-Tengo tanto para decir, pero realmente no tengo nada; tengo tantos tonos y frecuencias guardadas.
+Tengo tanto para decir, tengo tantos tonos y frecuencias guardadas.
 
 &nbsp;
 
@@ -19,27 +19,27 @@ Solo quiero decirles que lo que de verdad importa, no es mío, es nuestro, y aho
 
 &nbsp;
 
-La verdad, es que me encuentro aquí, incrédulo, ¿cómo puedo creer en mí mismo? ¿cómo, si lo que he hecho no parece ser querido? y, ¿cómo podría no hacerlo, si soy un necio empedernido? Soy un lunático orgulloso.
+La verdad, es que me encuentro aquí, incrédulo, ¿cómo puedo creer en mí mismo? ¿cómo, si lo que he hecho nadie parece quererlo? y, ¿cómo podría no hacerlo, si soy un necio empedernido? Soy un lunático orgulloso.
 
 &nbsp;
 
-Parezco un fantasma, excepto por un pequeño orbe de jade amarillo, uno en mi interior, que vino de quién sabe dónde, que brilla, y ahora es mío.
+Parezco un fantasma, excepto por este orbe de jade amarillo, uno en mi interior, que vino de quién sabe dónde, y ahora es mío.
 
 &nbsp;
 
-Lo guardo como si le prometiera un rescate: juro que lograré sacarte de este entierro de decepciones.
+Lo guardo como si le prometiera un rescate: juro que lograré sacarte de este entierro.
 
 &nbsp;
 
-Saldré a tomar mi independencia por los cuernos, aunque la descarada avaricia me sostiene, y no quiere dejarlo todo en los dados de la incertidumbre; quiero hacer felices a mis seres queridos, y también quiero cumplir mis sueños, pero unos parecen ponerse en el camino de otros, los quiero a todos, aunque se contradigan; escribir, pelear, crear, bailar, y disfrutar la vida, y retarla, y ganarle, y vivir en paz con ella.
+Saldré a tomar mi independencia por los cuernos, aunque la descarada avaricia me sostenga, pues no quiere dejarlo todo entre la incertidumbre; quiero hacer felices a los que amo, y también quiero cumplir mis sueños, pero unos parecen ponerse en el camino, y se pelean entre ellos, los quiero a todos, aunque se contradigan; escribir, pelear, crear, bailar, y disfrutar la vida, y retarla, y ganarle, y vivir en paz.
 
 &nbsp;
 
-Me asusta, a veces, este desinterés, otras, me gusta, pues mi salud no es mi prioridad, sino, la de mis seres queridos.
+Me asusta, a veces, este desinterés, mi salud no es mi prioridad.
 
 &nbsp;
 
-Cuán en el centro, no necesito ser el centro; solo quiero liberar el orbe de jade amarillo que llevo dentro, y mientras se mantenga intacto, prefiero compartirlo.
+Cuán en el centro, no necesito ser el mismo; solo quiero liberar el orbe de jade amarillo que llevo dentro, y mientras se mantenga intacto, quiero compartirlo.
 
 &nbsp;
 
@@ -47,11 +47,11 @@ Quiero pasar un tiempo con mis amigos, y mejorarlo mientras estén vivos, quiero
 
 &nbsp;
 
-Mi necedad inexorable, cuán cruel, que me mantiene vivo y agonizando, y me siento afortunado por ello.
+Mi necedad inexorable, cuán cruel, que me mantiene vivo y agonizando.
 
 &nbsp;
 
-Podría detenerme ahora mismo, pero el absurdo no tendría sentido, aunque nunca lo tuvo, pero un humano es capaz de un milagro, aferrarse a una contradicción, y seguir cuerdo, porque no solo de lógica se sirven los vivos, aunque todos están locos en algún sentido, por sus rituales esotéricos.
+Podría detenerme ahora mismo, pero el absurdo no tendría sentido, aunque nunca lo tuvo, pero un humano es capaz de un milagro, aferrarse a una contradicción, y seguir "cuerdo", aunque todos están locos en algún sentido, pero pueden hacerlo, porque no solo de lógica se sirven los vivos, sino también de rituales esotéricos.
 
 &nbsp;
 
