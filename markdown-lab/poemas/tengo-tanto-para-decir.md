@@ -7,7 +7,7 @@ Tengo tanto para decir, pero realmente no tengo nada; tengo tantos tonos y frecu
 
 &nbsp;
 
-Cuando cierro las cortinas y caen mis pestañas, solo encuentro un cuarto cegador, tan aglomerado que el blanco es lo que imagino, y las palabras acumuladas son tantas, que las letras ahora parecen el fondo que solía colgarlas.
+Cuando cierro las cortinas y caen mis pestañas, solo encuentro un cuarto cegador, tan aglomerado que solo confundido me veo, y las palabras acumuladas son tantas, que las letras ahora parecen el fondo que solía colgarlas.
 
 &nbsp;
 
