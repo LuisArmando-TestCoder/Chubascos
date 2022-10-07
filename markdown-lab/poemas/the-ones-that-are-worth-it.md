@@ -13,9 +13,9 @@ how lonely they might be feeling
 
 in that peak of existence
 
-they sit on
+that they sit on,
 
-in their hallucinations,
+they are hallucinating,
 
 even though somebody might tell them:
 
