@@ -51,7 +51,7 @@ romantic and full of platitudes,
 
 how wouldn't one?
 
-That sight opens a chance of us.
+That sight opens up a chance for us.
 
 &nbsp;
 
