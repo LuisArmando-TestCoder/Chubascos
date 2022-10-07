@@ -2089,30 +2089,7 @@ solo formas diferentes
 de ordenar el ser.
 <normal
 ---
-There is a light
-that never dies,
-invisible to daylight,
-each and every night.
-
-Before the dawn
-some walk pass by,
-some little hope,
-for a little while.
-
-There is a light
-that never dies,
-made for nomads,
-each and every night.
-
-Before the Sun,
-there is a light;
-extended stain
-that gets sliced.
-
-There is a light,
-there is a light
-that never dies,
-each and every night.
+There is a light.
 <happy
 ---
 Oh! Darling,
