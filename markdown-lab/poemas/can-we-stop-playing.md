@@ -17,4 +17,10 @@ that you love me?
 
 Can we hush
 
-this game of shriving?
+this game of attrition
+
+to shrive our feelings?
+
+We both know it
+
+from the beginning.
