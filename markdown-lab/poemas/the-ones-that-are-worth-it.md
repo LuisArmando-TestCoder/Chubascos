@@ -19,11 +19,11 @@ in their hallucinations,
 
 even though somebody might tell them:
 
-“how can you feel lonely,
+"how can you feel lonely,
 
 if you are surrounded by the Everything,
 
-isn't this your chance to take it?”.
+isn't this your chance to take it?".
 
 And as they hear that,
 
