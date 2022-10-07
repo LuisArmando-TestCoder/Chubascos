@@ -3211,7 +3211,8 @@ that we all are floating
 in the middle of deep space
 in an infinitesimal pale blue dot,
 carelessly.
-
+<love
+---
 The ones that are worth it
 are meant to be loved authentically,
 to balance out
@@ -3225,4 +3226,4 @@ if you are surrounded by the Everything,
 isn't this your chance to take it?”.
 And as they hear that,
 they'll start imagining.
-<love
+<normal
