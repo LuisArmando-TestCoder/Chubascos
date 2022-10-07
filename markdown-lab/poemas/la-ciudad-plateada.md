@@ -15,6 +15,6 @@ probabilidades remotas
 
 que puedes gestar de tu imaginario,
 
-para gestar tus alucinaciones
+para que nazcan tus alucinaciones
 
 en el mundo físico.
