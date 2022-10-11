@@ -29,11 +29,9 @@ que debía de perder la cabeza,
 
 cercenada por tu halo,
 
-pero los dramaturgos no eran más
+pero los dramaturgos no eran más que adictos
 
-que adictos al éxtasis
-
-que no les fue asegurado.
+con síndrome de abstinencia.
 
 &nbsp;
 
