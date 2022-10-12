@@ -67,7 +67,7 @@ lo que el resto de mi existencia.
 
 Ahora no le temo al apagón,
 
-porque sé que fuimos descarados, y
+porque sé que fuimos descarados,
 
 y disfrutamos, y jugamos,
 
