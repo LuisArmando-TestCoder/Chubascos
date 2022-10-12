@@ -17,7 +17,9 @@ A este loco lo haces sentir cuerdo;
 
 mis tormentas de ideas parecen brisas contigo;
 
-siento que lo correcto es ser yo mismo.
+siento que lo correcto es ser yo;
+
+inevitable destino.
 
 &nbsp;
 
