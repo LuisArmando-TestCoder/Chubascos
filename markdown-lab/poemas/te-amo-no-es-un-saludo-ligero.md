@@ -39,7 +39,7 @@ Quedarme en silencio a tu lado es suficiente,
 
 y en contraste,
 
-el sonido de las armonías resonantes que jadeas
+el sonido de las armonías que jadeas
 
 son más de lo que la avaricia
 
