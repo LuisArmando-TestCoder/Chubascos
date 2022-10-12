@@ -43,7 +43,7 @@ el sonido de las armonías resonantes que jadeas
 
 son más de lo que la avaricia
 
-podría pedirle a la riqueza.
+podría pedirle a la abundancia.
 
 &nbsp;
 
