@@ -51,9 +51,11 @@ podría pedirle a la abundancia.
 
 Tu tacto electrizante
 
-y tus tiernas inflexiones que resuenan,
+y tus tiernas inflexiones
 
-tiemblan en gemidos y agonía.
+resuenan en temblores,
+
+en gemidos y agonía.
 
 &nbsp;
 
