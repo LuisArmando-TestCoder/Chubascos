@@ -13,8 +13,6 @@ me enamoré de estas pociones,
 
 que se combinan;
 
-me enamoré de la llave,
+me enamoré de esperanzas,
 
-que entre mis remembranzas,
-
-mis esperanzas alucinan.
+que remembranzas alucinan.
