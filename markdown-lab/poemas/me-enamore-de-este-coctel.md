@@ -5,11 +5,11 @@ title: "me-enamoré-de-este-cóctel"
 ---
 Me enamoré de este cóctel
 
-que tomo cada vez
+que ingiero cada vez
 
 que pienso en ella;
 
-me enamoré de estas pociones,
+me enamoré de estas pociones
 
 que se combinan;
 
