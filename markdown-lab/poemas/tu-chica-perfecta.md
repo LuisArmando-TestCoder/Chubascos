@@ -7,7 +7,7 @@ Tu chica perfecta, me dices que te diga cómo será ella; amigo, podría describ
 
 &nbsp;
 
-Te enamorarías de aquella por quien vos, que precipitándose de un acantilado, te haría saltar de tu indecisión, para que como un flecha, asentándote en su pecho, la tomarías en tus brazos, y serías su escudo; cubriéndola con tu velo la ocultarías del suelo, y con tu espalda reventada la esconderías de la caída, y te levantarías de inmediato, sin rasguños, ni remordimientos.
+Te enamorarías de aquella por quien vos, que precipitándose de un acantilado, te haría saltar de tu indecisión, para que como una flecha, asentándote en su pecho, la tomarías en tus brazos, y serías su escudo; cubriéndola con tu velo la ocultarías del suelo, y con tu espalda reventada la esconderías de la caída, y te levantarías de inmediato, sin rasguños, ni remordimientos.
 
 &nbsp;
 
