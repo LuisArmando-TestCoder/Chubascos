@@ -25,9 +25,9 @@ we lived in Neverland.
 
 Didn't realize;
 
-blessings were took
+blessings were took,
 
-for granted
+took for granted
 
 and were disguised.
 
