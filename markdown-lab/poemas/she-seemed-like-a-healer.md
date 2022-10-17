@@ -65,10 +65,6 @@ nor anyone.
 
 Did we spend our chance?
 
-Love is not the same.
-
 &nbsp;
-
-In the aftermath
 
 I'm having a cold.
