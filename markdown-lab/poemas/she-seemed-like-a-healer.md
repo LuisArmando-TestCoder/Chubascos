@@ -17,9 +17,9 @@ I was tiny and faithful
 
 call me a reckless child,
 
-time stopped for us
+time stopped for us;
 
-and lived in Neverland.
+we lived in Neverland.
 
 &nbsp;
 
@@ -65,8 +65,10 @@ nor anyone.
 
 Did we spend our chance?
 
-Love is not the same,
+Love is not the same.
 
-in the aftermath
+&nbsp;
 
-I'm cold but wise.
+In the aftermath
+
+I'm having a cold from ice.
