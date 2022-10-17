@@ -71,4 +71,4 @@ Love is not the same.
 
 In the aftermath
 
-I'm having a cold from ice.
+I'm having a cold.
