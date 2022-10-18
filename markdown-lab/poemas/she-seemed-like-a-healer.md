@@ -3,27 +3,27 @@ slug: "/poemas/she-seemed-like-a-healer"
 tags: ["sad"]
 title: "she-seemed-like-a-healer"
 ---
-She seemed like a healer,
+She seemed like a healer
 
 up to fix my life;
 
-she seemed like a fairy,
+she seemed like a fairy
 
 floating on my hands.
 
 &nbsp;
 
-I was tiny and faithful
+I was tiny and faithful,
 
-call me a reckless child,
+call me a reckless child;
 
-time stopped for us;
+time stopped for us,
 
 we lived in Neverland.
 
 &nbsp;
 
-Didn't realize;
+Didn't realize
 
 blessings were took,
 
