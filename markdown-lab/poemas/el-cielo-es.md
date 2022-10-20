@@ -7,17 +7,13 @@ El cielo es
 
 convertirme en un pañuelo,
 
-y que las ráfagas que empujan
+que las ráfagas que empujen
 
-vengan de la resonancia de tu canto,
+con la resonancia de tu canto,
 
-con el descaro
+y que el descaro de las ondas
 
-con el que las ondas
-
-mesen mis dobleces
-
-mientras me doblegan.
+mis dobleces dobleguen.
 
 &nbsp;
 
@@ -29,7 +25,7 @@ tan alta y tan profunda
 
 como el solemne y abismal
 
-firmamento que nos carga.
+firmamento que nos cubre.
 
 &nbsp;
 
