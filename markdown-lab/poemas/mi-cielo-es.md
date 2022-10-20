@@ -43,4 +43,4 @@ con tanto gusto,
 
 en ellos
 
-me estoy desvaneciendo.
+me desvanezco.
