@@ -39,15 +39,13 @@ a la imagen de su alma.
 
 Una flama con forma de niña
 
-canta y enamora a quien la oye,
+canta y enamora a quien la oye;
 
 con descaro,
 
 baila en una jaula
 
 en la que ella se ha adentrado.
-
-&nbsp;
 
 Porque para vivir sin danza
 
