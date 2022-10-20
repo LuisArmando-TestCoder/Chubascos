@@ -1,19 +1,21 @@
 ---
-slug: "/poemas/el-cielo-es"
+slug: "/poemas/mi-cielo-es"
 tags: ["love"]
-title: "el-cielo-es"
+title: "mi-cielo-es"
 ---
-El cielo es
+Mi cielo es
 
 convertirme en un pañuelo,
 
-que las ráfagas que empujen
+y que las ráfagas me empujen
 
 con la resonancia de tu canto,
 
 y que el descaro de las ondas
 
-mis dobleces dobleguen.
+dobleguen mis dobleces
+
+como si no fueran de titanio.
 
 &nbsp;
 
