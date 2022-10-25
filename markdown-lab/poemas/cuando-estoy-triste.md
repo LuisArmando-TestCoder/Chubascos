@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/cuando-estoy-triste"
-tags: ["normal"]
+tags: ["sad"]
 title: "cuando-estoy-triste"
 ---
 Cuando estoy triste
