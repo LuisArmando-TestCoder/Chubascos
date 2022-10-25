@@ -5,41 +5,51 @@ title: "cuando-estoy-triste"
 ---
 Cuando estoy triste
 
-sonrío en medio del océano,
+extraviado en medio del océano,
 
-extraviado
+sobre mi esperanza flotante,
 
-sobre mi esperanza flotante.
+sonrío ensayando
 
-&nbsp;
+el día que me olvidaré
 
-Ya no me importa llegar a tierra,
-
-se me ha olvidado que existe,
-
-así que trago agua lentamente
-
-hasta que un día
-
-vomito entre retorcijones.
+de mi época en la deriva.
 
 &nbsp;
 
-De vez en cuando lo compenso
+Pero ya no me importa,
 
-con los pasteles perdidos,
+ha pasado tanto tiempo
 
-que llegan flotando,
+que llegar a tierra
 
-pero el mar es tan vasto y tan denso
+se me ha olvidado que es posible,
 
-que sé
+así que ahora trago agua lentamente
 
-que el groso de los naúfragos
+hasta que un día vomite
 
-muere
+entre retorcijones.
 
-sin haber probado el dulce.
+&nbsp;
+
+De vez en cuando
+
+me compensan el ánimo
+
+los pasteles perdidos;
+
+sé que soy afortunado
+
+pues entre el mar tan vasto y denso
+
+me topo con ellos,
+
+aún cuando el groso de los naúfragos
+
+mueren ignaros
+
+del dulce hirviente.
 
 &nbsp;
 
@@ -113,16 +123,20 @@ y revienta contra el puerto,
 
 y las convulsiones, y la espuma
 
-dejan atrás la coraza
+dejan atrás
 
-de un miserable.
+a un miserable cuerpo hueco.
 
 &nbsp;
 
-Y eso es todo lo que hay,
+Y eso es todo,
 
-la tristeza solo permanece
+la tristeza permanece
 
-hasta que un crustáceo
+como un caparazón inerte
 
-se la lleve.
+hasta que un crustáceo se la lleve,
+
+o hasta que el tiempo
+
+la funda con la arena.
