@@ -15,7 +15,9 @@ y que el descaro de las ondas
 
 dobleguen mis dobleces
 
-como si no fueran de titanio.
+como si no fueran
+
+de titanio.
 
 &nbsp;
 
@@ -25,15 +27,15 @@ una melodía interminable,
 
 tan alta y tan profunda
 
-como el solemne y abismal
+como el firmamento
 
-firmamento que nos cubre.
+que nos cubre.
 
 &nbsp;
 
-En esta antesala de vacío
+En esta antesala
 
-y atmosférica burbuja
+y atmósfera del paraíso
 
 que flota entre el espacio
 
@@ -41,6 +43,4 @@ de tus muslos,
 
 con tanto gusto,
 
-en ellos
-
-me desvanezco.
+en ellos confío.
