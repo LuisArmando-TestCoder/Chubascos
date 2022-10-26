@@ -7,17 +7,17 @@ Mi cielo es
 
 convertirme en un pañuelo,
 
-y que las ráfagas me empujen
+que las ráfagas me empujen,
 
-con la resonancia de tu canto,
+con tu grandioso canto,
 
-y que el descaro de las ondas
+que el descaro de las ondas
 
-dobleguen mis dobleces
+dobleguen inseguridades,
 
-como si no fueran
+como si no fuera yo
 
-de titanio.
+un muñeco de titanio.
 
 &nbsp;
 
@@ -25,22 +25,20 @@ El cielo es
 
 una melodía interminable,
 
-tan alta y tan profunda
+tan alta y tan profunda,
 
-como el firmamento
-
-que nos cubre.
+el firmamento que nos cubre.
 
 &nbsp;
 
-En esta antesala
+En esta atmósfera
 
-y atmósfera del paraíso
+del paraíso
 
-que flota entre el espacio
+que flota entre el
 
-de tus muslos,
+espacio de tus muslos,
 
 con tanto gusto,
 
-en ellos confío.
+en ellos me suicido.
