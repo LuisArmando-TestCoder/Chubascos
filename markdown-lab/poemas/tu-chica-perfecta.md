@@ -267,6 +267,10 @@ ante sus brazos de
 
 los que yo infiero que
 
-su amor es lo contrario de grosero,
+su amor
 
-que tu valentía llegue con descaro.
+es lo contrario de grosero,
+
+que tu valentía
+
+llegue con descaro.
