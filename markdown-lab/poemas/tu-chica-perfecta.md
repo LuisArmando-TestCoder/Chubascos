@@ -213,13 +213,13 @@ de su pelo enmarañado.
 
 &nbsp;
 
-Que seas un romántico
+Que seas un romántico,
 
-y melancólico;
+un dramaturgo,
 
-un dramático,
+un melancólico,
 
-un dramaturgo.
+te quiere absurdo.
 
 &nbsp;
 
@@ -241,9 +241,11 @@ haberse encontrado.
 
 &nbsp;
 
-Tenés un arquetipo,
+Tienes un arquetipo,
 
-pero ella es del tipo que
+pero ella es
+
+del tipo que
 
 con el que conectas bien
 
@@ -261,6 +263,12 @@ con todos sus defectos.
 
 Ahora solo queda que
 
-tu valentía te
+tu valentía te lleve
 
-lleve ante sus brazos.
+ante sus brazos de
+
+los que yo infiero,
+
+su amor
+
+es lo contrario de grosero.
