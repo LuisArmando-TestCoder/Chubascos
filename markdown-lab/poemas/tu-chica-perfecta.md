@@ -163,15 +163,15 @@ es linda y se deprime.
 
 &nbsp;
 
-Tiene estilo;
+Tiene su estilo;
 
-se ve radiante con vestido.
+se ve tan radiante con vestido.
 
 &nbsp;
 
 Lee libros, los disfruta
 
-y le gusta vivir un sueño.
+y le gusta vivir en su sueño.
 
 &nbsp;
 
@@ -181,7 +181,9 @@ se entrega por completo a escucharlos.
 
 &nbsp;
 
-Una chica que no puede vivir
+Una chica que no
+
+puede vivir
 
 sin arte en su vida.
 
@@ -201,7 +203,7 @@ y no la dejes olvidarlo,
 
 que seas lo que ya eras
 
-como no puedes evitarlo,
+y no puedes evitarlo,
 
 aunque le salgan los rayos
 
@@ -211,9 +213,9 @@ de su pelo enmarañado.
 
 &nbsp;
 
-Que seas un romántico,
+Que seas un romántico
 
-un melancólico,
+y melancólico;
 
 un dramático,
 
