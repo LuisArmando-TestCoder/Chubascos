@@ -245,9 +245,7 @@ haberse encontrado.
 
 Tienes un arquetipo,
 
-pero ella es
-
-del tipo que
+pero ella es del tipo que
 
 con el que conectas bien
 
@@ -255,7 +253,7 @@ independientemente de
 
 tus alucinaciones de
 
-la chica de tus sueños,
+la chica perfecta,
 
 la chica ya es perfecta
 
