@@ -169,9 +169,9 @@ se ve tan radiante con vestido.
 
 &nbsp;
 
-Lee libros, los disfruta
+Lee libros y los disfruta,
 
-y le gusta vivir en su sueño.
+le gusta vivir en su sueño.
 
 &nbsp;
 
