@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/tu-chica-perfecta"
-tags: ["love"]
+tags: ["happy"]
 title: "tu-chica-perfecta"
 ---
 Tu chica perfecta,
@@ -263,12 +263,10 @@ con todos sus defectos.
 
 Ahora solo queda que
 
-tu valentía te lleve
+tu valentía te bien lleve
 
 ante sus brazos de
 
-los que yo infiero,
+los que yo infiero que
 
-su amor
-
-es lo contrario de grosero.
+su amor es lo contrario de grosero.
