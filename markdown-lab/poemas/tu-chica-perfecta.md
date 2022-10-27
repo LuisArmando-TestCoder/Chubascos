@@ -187,9 +187,9 @@ Independientemente
 
 de alucinaciones,
 
-la chica ya es perfecta;
+la chica ya es perfecta
 
-para ella tus canciones.
+para todas tus canciones.
 
 &nbsp;
 
@@ -199,4 +199,6 @@ que aquella valentía
 
 llegue a estar entera
 
-y suyo sea el día.
+y hagan suyo el día,
+
+y el siguiente.
