@@ -159,7 +159,7 @@ y, romántica y medio,
 
 pero ella lo sabe,
 
-la gente linda también se deprime.
+es linda y se deprime.
 
 &nbsp;
 
