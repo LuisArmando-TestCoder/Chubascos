@@ -59,7 +59,7 @@ y un tanto deshonesta,
 
 esa dicotomía
 
-cuenta que esta viva.
+cuenta que está viva.
 
 &nbsp;
 
