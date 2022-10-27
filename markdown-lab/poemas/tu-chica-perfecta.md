@@ -3,56 +3,262 @@ slug: "/poemas/tu-chica-perfecta"
 tags: ["love"]
 title: "tu-chica-perfecta"
 ---
-Tu chica perfecta, me dices que te diga cómo será ella; amigo, podría describir el arquetipo que llevas dentro, pero no le haría justicia al dedo de la persona a la que estás unido, sí, soy un oráculo, o tal vez un loco, pero esta es mi lectura de las líneas de tus manos.
+Tu chica perfecta,
+
+me dices que te diga
+
+cómo será ella;
+
+amigo,
+
+podría describir
+
+este arquetipo,
+
+pero no le haría justicia
+
+a la chica de tus sueños.
 
 &nbsp;
 
-Te enamorarías de aquella por quien vos, que precipitándose de un acantilado, te haría saltar de tu indecisión, para que como una flecha, asentándote en su pecho, la tomarías en tus brazos, y serías su escudo; cubriéndola con tu velo la ocultarías del suelo, y con tu espalda reventada la esconderías de la caída, y te levantarías de inmediato, sin rasguños, ni remordimientos.
+Sí, soy un oráculo,
+
+un poco loco yo,
+
+pero seguiré leyendo
+
+las líneas de tus manos.
 
 &nbsp;
 
-Pero, ¿cómo sería aquel espectro? Puedo ver en ti una sombra, y entre superficialidades puedo describirla.
+Te enamorarías
+
+de aquella por quien vos,
+
+que precipitándose,
+
+de tu indecisión
+
+te haría abandonar
+
+la arrogancia de tu pánico.
 
 &nbsp;
 
-No muy alta, no muy baja; normal en tantos aspectos; un hermoso promedio por quien darías la vida; diría que orgullosa, pero tampoco tan altiva; un tanto delicada, un tanto deshonesta, pero consigo misma, y esa dicotomía la vuelva tan humana y tan hermosa, una disonancia que resuena con los acordes de tu compañía.
+Como una flecha que arde,
+
+asentándote en su pecho,
+
+la tomarías en tus brazos;
+
+tú, un escudo humano.
 
 &nbsp;
 
-Ayuda su piel tersa; su alma tranquila, y su personalidad alborotada entre la ambivalencia.
+Cubriéndola con tu velo,
+
+tú ocultándola del suelo,
+
+con tu espalda reventada
+
+la esconderías
+
+de la caída,
+
+te levantarías
+
+de inmediato de los muertos,
+
+sin rasguños,
+
+ni remordimientos.
 
 &nbsp;
 
-Qué importa el flequillo, ella esconde su mirada de otras formas; cabizbaja a veces, tan linda como nadie se esconde en tus brazos; no es que quieras a las chicas con daddy issues, sino que te gustan las chicas pensativas que entienden cómo te has sentido.
+Pero, ¿cómo sería aquel espectro? 
+
+Puedo ver en ti una sombra,
+
+puede ser superficial
+
+pero puedo describirla.
 
 &nbsp;
 
-Medio melancólica, y medio tsundere, y, romántica y medio, pero a escondidas.
+No muy alta,
+
+no muy baja;
+
+normal en todos los aspectos;
+
+un hermoso promedio orgulloso,
+
+darías la vida por ello;
+
+un tanto delicada
+
+con tanta resistencia,
+
+un tanto transparente
+
+y un tanto deshonesta,
+
+y esa dicotomía
+
+la vuelve tan hermosa,
+
+una disonancia que resuena
+
+con los acordes
+
+de tu compañía.
 
 &nbsp;
 
-Con estilo; se ve radiante con vestido.
+Su piel tersa ayuda;
+
+su alma tranquila,
+
+y su personalidad
+
+entre la ambivalencia.
 
 &nbsp;
 
-Una chica normal y hermosa que te ama, que puede leer poemas y disfrutarlos.
+No importa el flequillo
+
+si esconde su mirada
+
+de otras formas;
+
+a veces cabizbaja,
+
+tan linda que se esconde.
 
 &nbsp;
 
-Que cuando suenan tus solos se entrega por completo a escucharlos.
+No es que te gusten las chicas
+
+con daddy issues,
+
+sino que te gustan pensativas
+
+como vos,
+
+que entienden cómo te has sentido
+
+como hoy.
 
 &nbsp;
 
-Una chica que no puede vivir sin arte en su vida.
+Medio melancólica,
+
+medio tsundere
+
+y, romántica y medio,
+
+pero ella lo sabe,
+
+la gente linda también se deprime.
 
 &nbsp;
 
-Y que lo único que quiere de ti es que estés vivo y que sigas haciendo lo que mejor haces, ser un romántico empedernido, melancólico, dramático y apasionado, porque no puedes evitarlo, y en eso le pareces tan altivo.
+Tiene estilo;
+
+se ve radiante con vestido.
 
 &nbsp;
 
-Aunque los dos se vean vivos el uno al otro, tal vez no se lo crean por dentro, y perseguirán la credulidad de merecerse, por la incredulidad de poseerse.
+Lee libros, los disfruta
+
+y le gusta vivir un sueño.
 
 &nbsp;
 
-Obviamente tenés un arquetipo, pero ella es el tipo con el que conectas independientemente de tus alucinaciones de chica perfecta.
+Cuando suenan tus solos
+
+se entrega por completo a escucharlos.
+
+&nbsp;
+
+Una chica que no puede vivir
+
+sin arte en su vida.
+
+&nbsp;
+
+Que lo único que quiere de ti
+
+es que la beses en la frente,
+
+de frente a la boca
+
+constante el descaro,
+
+que sigas muy vivo,
+
+y no la dejes olvidarlo,
+
+que seas lo que ya eras
+
+como no puedes evitarlo,
+
+aunque le salgan los rayos
+
+en un día de tormenta
+
+de su pelo enmarañado.
+
+&nbsp;
+
+Que seas un romántico,
+
+un melancólico,
+
+un dramático,
+
+un dramaturgo.
+
+&nbsp;
+
+Aunque los dos
+
+se vean vivos
+
+el uno al otro,
+
+perseguirán
+
+de merecerse
+
+la credulidad,
+
+qué incredulidad
+
+haberse encontrado.
+
+&nbsp;
+
+Tenés un arquetipo,
+
+pero ella es del tipo que
+
+con el que conectas bien
+
+independientemente de
+
+tus alucinaciones de
+
+la chica de tus sueños,
+
+la chica ya es perfecta
+
+con todos sus defectos.
+
+&nbsp;
+
+Ahora solo queda que
+
+tu valentía te
+
+lleve ante sus brazos.
