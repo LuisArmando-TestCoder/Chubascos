@@ -115,9 +115,9 @@ Veo en los dos
 
 el que perseguirán
 
-la credulidad
+esa credulidad
 
-y poderse encontrar.
+por poderse encontrar.
 
 &nbsp;
 
