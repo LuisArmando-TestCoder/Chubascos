@@ -11,11 +11,11 @@ cómo será ella;
 
 amigo,
 
-podría describir
+podría describirla
 
-este arquetipo,
+pero este arquetipo,
 
-pero no le haría justicia
+no le haría justicia
 
 a la chica de tus sueños.
 
