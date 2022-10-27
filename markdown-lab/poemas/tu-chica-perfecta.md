@@ -177,7 +177,7 @@ le gusta vivir en su sueño.
 
 Cuando suenan tus solos
 
-se entrega por completo a escucharlos.
+se entrega a escucharlos.
 
 &nbsp;
 
