@@ -53,17 +53,13 @@ Un tanto delicada
 
 con tanta resistencia,
 
-un tanto transparente,
+un tanto transparente
 
-un tanto deshonesta,
+y un tanto deshonesta,
 
 esa dicotomía
 
-la vuelve tan preciada;
-
-te das cuenta que esta viva;
-
-disonancia que resuena.
+cuenta que esta viva.
 
 &nbsp;
 
