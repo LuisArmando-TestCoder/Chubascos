@@ -9,13 +9,9 @@ me dices que te diga
 
 cómo será ella;
 
-amigo,
-
 podría describirla
 
-pero este arquetipo,
-
-no le haría justicia
+y no le haría justicia
 
 a la chica de tus sueños.
 
@@ -25,57 +21,45 @@ Sí, soy un oráculo,
 
 un poco loco yo,
 
-pero seguiré leyendo
+seguiré leyendo
 
-las líneas de tus manos.
+versos en tus manos.
 
 &nbsp;
 
-Te enamorarías
+Aquella por quien vos,
 
-de aquella por quien vos,
-
-que precipitándose,
+precipitándote
 
 de tu indecisión
 
 te haría abandonar
 
-la arrogancia de tu pánico.
+la arrogancia y ese pánico.
 
 &nbsp;
 
-Como una flecha que arde,
+Una flecha que
 
-asentándote en su pecho,
+asentándote
 
 la tomarías en tus brazos;
 
-tú, un escudo humano.
+un escudo humano.
 
 &nbsp;
 
-Cubriéndola con tu velo,
+Cubriéndola eres velo,
 
-tú ocultándola del suelo,
-
-con tu espalda reventada
+ocultándola del suelo,
 
 la esconderías
 
-de la caída,
-
-te levantarías
-
-de inmediato de los muertos,
-
-sin rasguños,
-
-ni remordimientos.
+de esa caída.
 
 &nbsp;
 
-Pero, ¿cómo sería aquel espectro? 
+¿Cómo sería el espectro? 
 
 Puedo ver en ti una sombra,
 
@@ -87,190 +71,136 @@ pero puedo describirla.
 
 No muy alta,
 
-no muy baja;
+ni muy baja;
 
-normal en todos los aspectos;
+orgulloso promedio,
 
-un hermoso promedio orgulloso,
+darías la vida por ello.
 
-darías la vida por ello;
+&nbsp;
 
-un tanto delicada
+Un tanto delicada
 
 con tanta resistencia,
 
-un tanto transparente
+un tanto transparente,
 
-y un tanto deshonesta,
+un tanto deshonesta,
 
-y esa dicotomía
+esa dicotomía
 
-la vuelve tan hermosa,
+la vuelve tan preciada;
 
-una disonancia que resuena
+te das cuenta que esta viva;
 
-con los acordes
-
-de tu compañía.
+disonancia que resuena.
 
 &nbsp;
 
-Su piel tersa ayuda;
+Piel tersa que te ayuda;
 
-su alma tranquila;
+su alma está tranquila;
 
-su personalidad,
+entre la ambivalencia
 
-entre ambivalencia.
-
-&nbsp;
-
-No importa el flequillo
-
-si esconde su mirada
-
-de otras formas;
-
-a veces cabizbaja,
-
-tan linda que se esconde.
+su actitud perdura.
 
 &nbsp;
 
-No es que te gusten las chicas
+Le importa su flequillo,
 
-con daddy issues,
+a veces cabizbaja
 
-sino que te gustan pensativas
+esconde su mirada,
 
-como vos,
-
-que entienden cómo te has sentido
-
-como hoy.
+siempre pensativa.
 
 &nbsp;
 
 Medio melancólica,
 
-medio tsundere
+sarcástica y romántica,
 
-y, romántica y medio,
+completamente irónica
 
-pero ella lo sabe,
+sabe que ella es linda,
 
-es linda y se deprime.
+se deprime otra vez,
 
-&nbsp;
+se compara con todas
 
-Tiene su estilo;
-
-se ve tan radiante con vestido.
+las chicas que ella ve.
 
 &nbsp;
 
-Lee libros y los disfruta,
+Pero tiene su estilo;
 
-le gusta vivir en su sueño.
-
-&nbsp;
-
-Cuando suenan tus solos
-
-se entrega a escucharlos.
+tan radiante con vestido.
 
 &nbsp;
 
-Una chica que no
+Lee libros, disfruta,
 
-puede vivir
-
-sin arte en su vida.
+el arte es prioridad.
 
 &nbsp;
 
-Que lo único que quiere de ti
+No le pide nada a nadie,
 
-es que la beses en la frente,
+lo único que quiere
 
-de frente a la boca
+es que la besen en la frente,
 
-constante el descaro,
+y que le digan que
 
-que sigas muy vivo,
+siempre valdrá la pena,
 
-no la dejes olvidarlo,
+luchar por lo sueña,
 
-que seas
+y ella es soñadora,
 
-lo que ya eras,
-
-no puedes evitarlo,
-
-aunque le salgan los rayos
-
-en días de tormenta
-
-de su pelo enmarañado.
+a la insomnia ella despierta.
 
 &nbsp;
 
-Que seas un romántico,
+Aunque tire rayos
 
-un dramaturgo,
+en días de tormenta,
 
-un melancólico,
+de ser una romántica
 
-te quiere absurdo.
+ella no está excenta.
 
 &nbsp;
 
-Aunque los dos
+Veo a los dos
 
-se vean vivos
-
-el uno al otro,
-
-perseguirán
+que perseguirán
 
 de merecerse
 
-la credulidad,
+la credulidad;
 
 qué incredulidad
 
-haberse encontrado.
+poderse encontrar.
 
 &nbsp;
 
-Tienes un arquetipo,
+Independientemente
 
-pero ella es del tipo que
+de alucinaciones,
 
-con el que conectas bien
+la chica ya es perfecta;
 
-independientemente de
-
-tus alucinaciones de
-
-la chica perfecta,
-
-la chica es perfecta
-
-con todos y sus momentos.
+para ella tus canciones.
 
 &nbsp;
 
-Ahora solo queda que
-
-ante sus brazos de
-
-los que yo infiero que
-
-su amor
-
-es lo contrario de grosero,
+Ahora solo queda
 
 que tu valentía
 
-llegue con descaro.
+llegue a estar entera
+
+y suyo sea el día.
