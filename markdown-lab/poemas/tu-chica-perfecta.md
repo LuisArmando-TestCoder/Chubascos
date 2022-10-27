@@ -13,35 +13,13 @@ podría describirla.
 
 &nbsp;
 
-Sí, soy un oráculo,
-
-un poco loco yo,
-
-seguiré leyendo
-
-versos en tus manos.
-
-&nbsp;
-
 Aquella por quien vos,
-
-precipitándote
 
 de tu indecisión
 
 te haría abandonar
 
-la arrogancia y ese pánico.
-
-&nbsp;
-
-Una flecha que
-
-asentándote
-
-la tomarías en tus brazos;
-
-un escudo humano.
+el pánico y la arrogancia.
 
 &nbsp;
 
@@ -49,19 +27,15 @@ Cubriéndola eres velo,
 
 ocultándola del suelo,
 
-la esconderías
+la esconderías de esa caída
 
-de esa caída.
+de su gran orgullo.
 
 &nbsp;
 
-¿Cómo sería el espectro? 
+¿Cómo es el espectro? 
 
-Puedo ver en ti una sombra,
-
-puede ser superficial
-
-pero puedo describirla.
+Veo en ti una sombra.
 
 &nbsp;
 
@@ -69,9 +43,9 @@ No muy alta,
 
 ni muy baja;
 
-orgulloso promedio,
+altivo promedio,
 
-darías la vida por ello.
+la vida por es por aquello.
 
 &nbsp;
 
