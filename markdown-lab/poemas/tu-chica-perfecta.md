@@ -105,7 +105,7 @@ Aunque tire rayos
 
 en días de tormenta,
 
-de ser ella romántica
+de ser una romántica
 
 ella no está excenta.
 
