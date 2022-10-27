@@ -39,4 +39,4 @@ inmediatamente,
 
 si tan solo supiera
 
-hbalar su idioma.
+hablar su idioma.
