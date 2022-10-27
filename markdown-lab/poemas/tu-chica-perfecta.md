@@ -117,11 +117,11 @@ de tu compañía.
 
 Su piel tersa ayuda;
 
-su alma tranquila,
+su alma tranquila;
 
-y su personalidad
+su personalidad,
 
-entre la ambivalencia.
+entre ambivalencia.
 
 &nbsp;
 
