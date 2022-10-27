@@ -63,45 +63,17 @@ cuenta que está viva.
 
 &nbsp;
 
-Piel tersa que te ayuda;
-
-su alma está tranquila;
-
-entre la ambivalencia
-
-su actitud perdura.
-
-&nbsp;
-
 Le importa su flequillo,
-
-a veces cabizbaja
 
 esconde su mirada,
 
-siempre pensativa.
+siempre pensativa,
 
-&nbsp;
+y a veces cabizbaja,
 
-Medio melancólica,
+un tanto melancólica,
 
-sarcástica y romántica,
-
-completamente irónica
-
-sabe que ella es linda,
-
-se deprime otra vez,
-
-se compara con todas
-
-las chicas que ella ve.
-
-&nbsp;
-
-Pero tiene aquel estilo
-
-radiante con vestido.
+y otro tanto de idealista.
 
 &nbsp;
 
@@ -117,11 +89,11 @@ lo único que quiere,
 
 que la besen en la frente,
 
-y que le digan que
+que le digan que la quieren,
 
-siempre valdrá la pena
+y que valdrá la pena
 
-luchar por lo sueña,
+luchar por lo que sueña,
 
 y ella es soñadora,
 
@@ -133,23 +105,19 @@ Aunque tire rayos
 
 en días de tormenta,
 
-de ser una romántica
+de ser ella romántica
 
 ella no está excenta.
 
 &nbsp;
 
-Veo a los dos
+Veo en los dos
 
-que perseguirán
+el que perseguirán
 
-de merecerse
+la credulidad
 
-la credulidad;
-
-qué incredulidad
-
-poderse encontrar.
+y poderse encontrar.
 
 &nbsp;
 
