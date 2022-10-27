@@ -45,7 +45,7 @@ ni muy baja;
 
 altivo promedio,
 
-la vida por es por aquello.
+la vida es por aquello.
 
 &nbsp;
 
