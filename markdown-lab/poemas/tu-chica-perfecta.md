@@ -19,7 +19,7 @@ de tu indecisión
 
 te haría abandonar
 
-el pánico y la arrogancia.
+miedos y arrogancia.
 
 &nbsp;
 
