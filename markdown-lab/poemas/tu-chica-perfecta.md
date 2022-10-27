@@ -199,15 +199,17 @@ constante el descaro,
 
 que sigas muy vivo,
 
-y no la dejes olvidarlo,
+no la dejes olvidarlo,
 
-que seas lo que ya eras
+que seas
 
-y no puedes evitarlo,
+lo que ya eras,
+
+no puedes evitarlo,
 
 aunque le salgan los rayos
 
-en un día de tormenta
+en días de tormenta
 
 de su pelo enmarañado.
 
