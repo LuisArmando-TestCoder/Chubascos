@@ -129,23 +129,23 @@ las chicas que ella ve.
 
 &nbsp;
 
-Pero tiene su estilo;
+Pero tiene aquel estilo
 
-tan radiante con vestido.
+radiante con vestido.
 
 &nbsp;
 
-Lee libros, disfruta,
+Disfruta el leer libros,
 
-el arte es prioridad.
+el arte es su testigo.
 
 &nbsp;
 
 No le pide nada a nadie,
 
-lo único que quiere
+lo único que quiere,
 
-es que la besen en la frente,
+que la besen en la frente,
 
 y que le digan que
 
@@ -195,7 +195,7 @@ para ella tus canciones.
 
 Ahora solo queda
 
-que tu valentía
+que aquella valentía
 
 llegue a estar entera
 
