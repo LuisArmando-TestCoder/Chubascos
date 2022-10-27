@@ -9,11 +9,7 @@ me dices que te diga
 
 cómo será ella;
 
-podría describirla
-
-y no le haría justicia
-
-a la chica de tus sueños.
+podría describirla.
 
 &nbsp;
 
