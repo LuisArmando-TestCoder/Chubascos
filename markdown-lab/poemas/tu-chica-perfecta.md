@@ -255,9 +255,9 @@ tus alucinaciones de
 
 la chica perfecta,
 
-la chica ya es perfecta
+la chica es perfecta
 
-con todos sus defectos.
+con todos y sus momentos.
 
 &nbsp;
 
