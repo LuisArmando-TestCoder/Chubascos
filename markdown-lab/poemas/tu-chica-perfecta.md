@@ -149,7 +149,7 @@ es que la besen en la frente,
 
 y que le digan que
 
-siempre valdrá la pena,
+siempre valdrá la pena
 
 luchar por lo sueña,
 
