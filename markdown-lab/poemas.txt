@@ -3314,7 +3314,7 @@ ocultándola del suelo,
 la esconderías de esa caída
 de su gran orgullo.
 
-¿Cómo es el espectro? 
+¿Cómo es el espectro?
 Veo en ti una sombra.
 
 No muy alta,
@@ -3620,3 +3620,16 @@ pero algún día veré
 a la niña interna desatada,
 y no a esa máscara de adulta.
 <normal
+---
+Si respiraras los rayos de Sol
+como yo los respiro
+te darías cuenta que
+todos tus problemas
+son alucinaciones que experimentas.
+
+¿Cuántas alucinaciones harán falta
+para que te des cuenta?
+La vida está dentro y no afuera,
+y es cuando adentro hay gloria
+que gloria exhalas.
+<happy

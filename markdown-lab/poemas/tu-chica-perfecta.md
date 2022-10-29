@@ -33,7 +33,7 @@ de su gran orgullo.
 
 &nbsp;
 
-¿Cómo es el espectro? 
+¿Cómo es el espectro?
 
 Veo en ti una sombra.
 
