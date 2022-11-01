@@ -7,7 +7,7 @@ This is the time of your life
 
 to step out of the line;
 
-a veil that we decide
+a veil we decide
 
 to rip from the inside out.
 
@@ -41,11 +41,9 @@ making all the fears vow.
 
 &nbsp;
 
-I'm the highway, holy cow,
+I'm the highway, ¡holy cow!
 
-speeding brain cells
-
-shouting so loud.
+Speeding brain cells shouting loud.
 
 &nbsp;
 
