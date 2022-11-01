@@ -111,7 +111,7 @@ My fingers stretched
 
 they'll grab my awe,
 
-I'll be free,
+I will be free,
 
 a zombie no more.
 
