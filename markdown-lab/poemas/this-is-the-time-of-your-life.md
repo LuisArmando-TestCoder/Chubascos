@@ -37,7 +37,7 @@ in the holes of the clouds,
 
 I'm the sunray that lasers,
 
-making all the fears vow.
+making fears vow.
 
 &nbsp;
 
