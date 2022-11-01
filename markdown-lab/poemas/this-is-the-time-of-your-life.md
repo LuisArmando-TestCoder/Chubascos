@@ -35,7 +35,7 @@ in a storm when I'm lightning,
 
 in the holes of the clouds,
 
-I'm the sunray that lasers,
+I'm the sunray lasering,
 
 making fears vow.
 
