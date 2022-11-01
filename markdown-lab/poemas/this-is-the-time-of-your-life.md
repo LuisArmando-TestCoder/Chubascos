@@ -33,25 +33,23 @@ I'm the chills, I'm the light,
 
 in a storm when I'm lightning,
 
-in the holes through the clouds,
+in the holes of the clouds,
 
-I'm the sunray,
+I'm the sunray that lasers,
 
-lasering down.
+making all the fears vow.
 
 &nbsp;
 
-I'm the highway,
-
-holy cow,
+I'm the highway, holy cow,
 
 speeding brain cells
 
-shouting loud.
+shouting so loud.
 
 &nbsp;
 
-I think I got it
+Think I've just got it
 
 and this is how,
 
