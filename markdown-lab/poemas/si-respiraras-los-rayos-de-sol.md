@@ -21,6 +21,6 @@ para que te des cuenta?
 
 La vida está dentro y no afuera,
 
-y es cuando adentro hay gloria
+y es cuando dentro hay gloria
 
 que gloria exhalas.
