@@ -19,19 +19,23 @@ pues es tu santuario.
 
 Orgullosa de tu vera
 
-y de tu recorrido,
+y de tu recorrido.
 
-cómo cuece el delirar
+&nbsp;
 
-de la fantasía,
+Cómo cuece el delirar,
 
-no la de tenerte,
+no de tenerte,
 
-si no de detenerte
+si no de decirte
 
-y mirarte, y decirte
+lo que ya sabes,
 
-lo que ya sabes.
+que se hace muy obvio
+
+con los gestos
+
+de este tipo embelesado.
 
 &nbsp;
 

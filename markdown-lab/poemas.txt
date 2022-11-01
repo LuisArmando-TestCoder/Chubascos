@@ -3568,13 +3568,15 @@ tienes que protegerla
 pues es tu santuario.
 
 Orgullosa de tu vera
-y de tu recorrido,
-cómo cuece el delirar
-de la fantasía,
-no la de tenerte,
-si no de detenerte
-y mirarte, y decirte
-lo que ya sabes.
+y de tu recorrido.
+
+Cómo cuece el delirar,
+no de tenerte,
+si no de decirte
+lo que ya sabes,
+que se hace muy obvio
+con los gestos
+de este tipo embelesado.
 
 Hay muchos comentarios
 que pasarían como obvios,
@@ -3625,11 +3627,47 @@ Si respiraras los rayos de Sol
 como yo los respiro
 te darías cuenta que
 todos tus problemas
-son alucinaciones que experimentas.
+son alucinaciones.
 
-¿Cuántas alucinaciones harán falta
+¿Cuántas harán falta
 para que te des cuenta?
 La vida está dentro y no afuera,
 y es cuando adentro hay gloria
 que gloria exhalas.
 <happy
+---
+Si las personas tienen miedo,
+yo me adelantaré por ellos,
+prepararé el camino
+aunque me tope
+con peligros a mi paso,
+y volveré a buscar
+a los deseosos
+que me permitan con sus ojos
+llevármelos del brazo
+y lanzarlos al destino,
+para que continúen,
+como yo,
+retando a la oscuridad.
+<normal
+---
+Veo chicas lindas,
+borrachas que buscan
+a su alma gemela
+en secreto entre las fiestas.
+<desperation
+---
+Tan considerada,
+ella quiere lo mejor para mí,
+y está dispuesta a regañarme
+si es necesario,
+por eso la amo,
+y por eso le hago caso,
+aunque tiendo a volar
+y estrellarme
+de vez en cuando.
+
+La amo;
+bella por dentro;
+mejor con los años.
+<love

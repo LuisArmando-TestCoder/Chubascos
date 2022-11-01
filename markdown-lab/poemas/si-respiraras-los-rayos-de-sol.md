@@ -11,11 +11,11 @@ te darías cuenta que
 
 todos tus problemas
 
-son alucinaciones que experimentas.
+son alucinaciones.
 
 &nbsp;
 
-¿Cuántas alucinaciones harán falta
+¿Cuántas harán falta
 
 para que te des cuenta?
 
