@@ -83,7 +83,7 @@ playground to explore.
 
 So just keep looking
 
-what my feet adore;
+what feet adore;
 
 I feel Pandora's
 
@@ -115,17 +115,19 @@ they'll grab my awe,
 
 I'll be free,
 
-true for long,
+a zombie no more.
 
-a zombie no more;
+&nbsp;
 
-in a suit, with a case,
+In a suit, with a case,
 
-I don't like how it tastes,
+I don't like how it tastes.
+
+&nbsp;
 
 I prefer to immerse
 
-in the rift of the sea
+in a rift of the sea
 
 in the abyssal zone,
 
