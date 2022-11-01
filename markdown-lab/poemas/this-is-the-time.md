@@ -39,7 +39,7 @@ in the holes through the clouds,
 
 I'm the sunray,
 
-laser down.
+lasering down.
 
 &nbsp;
 
