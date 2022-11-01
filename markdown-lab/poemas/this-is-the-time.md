@@ -53,9 +53,9 @@ shouting loud.
 
 &nbsp;
 
-I think I got it,
+I think I got it
 
-this is how,
+and this is how,
 
 I've just started it,
 
@@ -69,13 +69,13 @@ no more stutter
 
 or broken laws,
 
-no spirits
+no floating spirits
 
 adrift in love.
 
 &nbsp;
 
-I got shelter,
+I got my shelter,
 
 my body is whole,
 
@@ -89,17 +89,17 @@ So just keep looking
 
 what my feet adore;
 
-I feel Pandora´s
+I feel Pandora's
 
-sense of hope,
+sense of true hope,
 
-and I know better,
+and now I know better,
 
-I now know more,
+now know more;
 
-in uncertainty
+uncertainty is bitter,
 
-I can move on.
+but I can move on.
 
 &nbsp;
 
@@ -115,12 +115,24 @@ Heaven's above.
 
 My fingers stretched
 
-grab my awe,
+they'll grab my awe,
 
-I'll be free
+I'll be free,
 
-and true for long,
+true for long,
 
-I'll immerse myself
+a zombie no more;
 
-in the abyssal zone.
+in a suit, with a case,
+
+I don't like how it tastes,
+
+I prefer to immerse
+
+in the rift of the sea
+
+in the abyssal zone,
+
+where myself and my focus
+
+are one on its own.
