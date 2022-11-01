@@ -99,9 +99,9 @@ but I can move on.
 
 I will raise,
 
-I'll step up, 
+I'll step up;
 
-as I believe
+I believe
 
 Heaven's above.
 
