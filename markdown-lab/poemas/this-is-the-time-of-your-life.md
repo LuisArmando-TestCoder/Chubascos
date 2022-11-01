@@ -89,7 +89,7 @@ sense of true hope,
 
 and now I know better,
 
-now know more;
+now I know more;
 
 uncertainty is bitter,
 
