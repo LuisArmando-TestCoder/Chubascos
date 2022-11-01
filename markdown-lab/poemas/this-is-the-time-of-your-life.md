@@ -27,7 +27,7 @@ Holy enlightenment that faces the night,
 
 I'm the sun that comes up
 
-when pop out from sidewalks;
+when pop out from the sidewalk;
 
 I'm the chills, I'm the light,
 
