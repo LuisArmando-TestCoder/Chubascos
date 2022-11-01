@@ -71,9 +71,7 @@ a todo quien te invoca?
 
 No alcanzan a decir tu nombre
 
-sin morderse antes la lengua,
-
-porque la entumesiste.
+sin morderse antes la lengua.
 
 &nbsp;
 
@@ -85,11 +83,11 @@ más se me duerme la lógica.
 
 Solo lo diré una vez:
 
-eres injustamente bella,
+eres injustamente bella.
 
-y es absurdo
+&nbsp;
 
-que te escondas,
+Es absurdo que te escondas,
 
 pero entiendo,
 
@@ -97,9 +95,7 @@ no es la falta de experiencias,
 
 es la abundancia;
 
-estás traumada, pero deseosa,
-
-cómo no tendrías cautela.
+¿cómo no tendrías cautela?
 
 &nbsp;
 
