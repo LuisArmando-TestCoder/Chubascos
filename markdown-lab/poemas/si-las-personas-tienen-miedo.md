@@ -27,4 +27,4 @@ para que continúen,
 
 como yo,
 
-retando a la oscuridad.
+retando a la inseguridad.
