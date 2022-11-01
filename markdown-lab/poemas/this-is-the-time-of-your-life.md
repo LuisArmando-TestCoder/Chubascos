@@ -1,11 +1,9 @@
 ---
-slug: "/poemas/this-is-the-time"
+slug: "/poemas/this-is-the-time-of-your-life"
 tags: ["happy"]
-title: "this-is-the-time"
+title: "this-is-the-time-of-your-life"
 ---
-This is the time
-
-of your life
+This is the time of your life
 
 to step out of the line;
 
