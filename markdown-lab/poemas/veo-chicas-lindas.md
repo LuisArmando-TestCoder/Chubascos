@@ -9,4 +9,4 @@ borrachas que buscan
 
 a su alma gemela
 
-en secreto entre las fiestas.
+en secreto, entre las fiestas.
