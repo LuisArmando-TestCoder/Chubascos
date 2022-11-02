@@ -2,22 +2,22 @@ import React from 'react'
 import * as Components from '../components'
 
 const contacts = [
-    {
-        href: 'https://github.com/LuisArmando-TestCoder',
-        cta: 'Github',
-    },
-    {
-        href: 'https://www.wattpad.com/user/Odoriens',
-        cta: 'Wattpad',
-    },
+    // {
+    //     href: 'https://github.com/LuisArmando-TestCoder',
+    //     cta: 'Github',
+    // },
+    // {
+    //     href: 'https://www.wattpad.com/user/Odoriens',
+    //     cta: 'Wattpad',
+    // },
     {
         href: 'https://www.instagram.com/latestcoder/',
         cta: 'Instagram',
     },
-    {
-        href: 'https://testcoder.netlify.com',
-        cta: 'Portfolio',
-    },
+    // {
+    //     href: 'https://testcoder.netlify.com',
+    //     cta: 'Portfolio',
+    // },
 ]
 
 export default () => {
