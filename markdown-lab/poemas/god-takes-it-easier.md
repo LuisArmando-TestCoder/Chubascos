@@ -21,7 +21,9 @@ in moments.
 
 God truly dances,
 
-truly fights and truly flows.
+truly fights
+
+and truly flows.
 
 &nbsp;
 
@@ -35,7 +37,7 @@ out of any situation.
 
 It is so obvious
 
-everything he is saying,
+everything it is saying;
 
 by any means
 
@@ -45,13 +47,13 @@ God is escoteric.
 
 Feels younger
 
-than the children,
+than children,
 
 and way wiser
 
 than any other
 
-alien beings.
+alien being.
 
 &nbsp;
 
@@ -61,7 +63,7 @@ stable with a trigger,
 
 the biggest destruction button
 
-of any Universe.
+on a living being.
 
 &nbsp;
 
@@ -71,4 +73,30 @@ sees free will beings,
 
 with godly potential,
 
-if they feel it.
+if they can feel it.
+
+&nbsp;
+
+God looks forward,
+
+as one gives it all
+
+and then, keeps going.
+
+&nbsp;
+
+God is infinite
+
+in everybody,
+
+God is awakening
+
+in one's realization,
+
+that one, got it.
+
+&nbsp;
+
+When one is awake,
+
+God is awake within.
