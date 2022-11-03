@@ -15,6 +15,6 @@ telling us what our role in it is,
 
 so we have to learn to let go,
 
-I mean, the comments that we get
+I mean, the comments that we face
 
 and the impulse to shit talk ourselves.
