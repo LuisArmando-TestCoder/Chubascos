@@ -11,4 +11,4 @@ as that was everything I wanted,
 
 in this stranded parade,
 
-you made holy my regular living.
+I once felt like living.
