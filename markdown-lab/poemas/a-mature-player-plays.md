@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/a-mature-player-plays"
-tags: ["normal"]
+tags: ["desperation"]
 title: "a-mature-player-plays"
 ---
 A mature player plays
