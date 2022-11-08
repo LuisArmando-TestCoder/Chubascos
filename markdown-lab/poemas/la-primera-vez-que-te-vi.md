@@ -95,9 +95,11 @@ acurrucado entre el silencio
 
 y darte besos en la frente,
 
-y en el cuello, y en los labios,
+y en el cuello, y en los labios.
 
-aunque soy un aburrido,
+&nbsp;
+
+Aunque soy un aburrido,
 
 eso es lo único que tengo,
 
