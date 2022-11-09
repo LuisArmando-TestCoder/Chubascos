@@ -133,7 +133,7 @@ A los que ese riesgo desestiman,
 
 los desestimo;
 
-cómo si no hubiese tomado años
+como si no hubiese tomado años
 
 de valentía
 
