@@ -175,7 +175,7 @@ por si hace frío.
 
 &nbsp;
 
-Me rehuso a que me tengan pena,
+Me rehuso a que me tengan pena;
 
 tomaré la mano que me ofrezcan,
 
