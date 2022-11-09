@@ -181,4 +181,4 @@ tomaré la mano que me ofrezcan,
 
 solo si esa mano la deseo
 
-más que a mi propia vida.
+más que a mi orgullo.
