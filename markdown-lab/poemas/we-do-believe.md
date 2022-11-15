@@ -29,29 +29,25 @@ our eyes kissed,
 
 our eyes held time tight,
 
-how can I eyes be
+how can eyes be
 
 so violent at ease?
 
 &nbsp;
 
-How can your eyes
+How can such sight
 
 inhale my soul?
 
-As I, my goddess,
+Darling, I'm a spirit,
 
-visit yours;
-
-I want, my darling,
-
-to live within them.
+I live in your lungs.
 
 &nbsp;
 
 This time
 
-I want to take you to the abyss
+I want to take you to the abyssS
 
 and light it on
 
@@ -59,6 +55,6 @@ with the sparks
 
 of our lithe gestures,
 
-we ought our gestures to move
+we ought our lithe gestures
 
-into each other.
+to move on unapologetically.
