@@ -23,11 +23,7 @@ aunque estoy cansado».
 
 &nbsp;
 
-Yo también estoy hastiado
-
-del sentido común que pregonan
-
-las ridículas "personas comunes",
+Yo también estoy hastiado,
 
 cansa encajar con ellos.
 
