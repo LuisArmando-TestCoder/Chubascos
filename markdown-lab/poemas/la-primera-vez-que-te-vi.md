@@ -19,7 +19,7 @@ al menos uno irradiara:
 
 «Estoy vivo, estoy aquí,
 
-aunque cansado».
+aunque estoy cansado».
 
 &nbsp;
 
