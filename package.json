@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
-    "upload": "cd auto && py markdown.py poemas && git add -A && git commit -m \"add poem\" && git push origin master",
+    "upload": "cd auto && py markdown.py poemas && git add -A && git commit -m \"Poem Update\" && git push origin master",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
