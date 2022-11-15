@@ -27,9 +27,11 @@ Our eyes resonated,
 
 our eyes kissed,
 
+our eyes held time tight,
+
 how can I eyes be
 
-so violent in ease?
+so violent at ease?
 
 &nbsp;
 
@@ -39,7 +41,11 @@ inhale my soul?
 
 As I, my goddess,
 
-inhale yours.
+visit yours;
+
+I want, my darling,
+
+to live within them.
 
 &nbsp;
 
@@ -47,6 +53,8 @@ This time
 
 I want to take you to the abyss
 
-and light it on with the sparks
+and light it on
+
+with the sparks
 
 of our lithe gestures.
