@@ -57,6 +57,6 @@ si esta vez me miras,
 
 como yo te estoy mirando,
 
-entonces seré el chico
+entonces seré
 
-que no tiembla.
+el chico que no tiembla.
