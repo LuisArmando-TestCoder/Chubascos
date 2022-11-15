@@ -57,4 +57,8 @@ and light it on
 
 with the sparks
 
-of our lithe gestures.
+of our lithe gestures,
+
+we ought our gestures to move on
+
+into each other.
