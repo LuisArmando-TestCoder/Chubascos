@@ -13,7 +13,7 @@ porque quería acercarme;
 
 te había dado, 
 
- sin que te dieras cuenta,
+sin que te dieras cuenta,
 
 las riendas de mi cuerpo.
 
@@ -27,16 +27,6 @@ te pertenecía por completo?
 
 &nbsp;
 
-Si te tuviera
-
-querría entonces 
-
-comerme a besos
-
-la divinidad de tu torso.
-
-&nbsp;
-
 Tal vez una mirada sería suficiente,
 
 pero sé que no estaría satisfecho;
@@ -45,7 +35,11 @@ querría entonces
 
 hacer el amor mirando 
 
-el iris del otro;
+el iris del otro.
+
+&nbsp;
+
+Si te tuviera
 
 querría entonces 
 
