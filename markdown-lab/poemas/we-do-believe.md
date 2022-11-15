@@ -59,6 +59,6 @@ with the sparks
 
 of our lithe gestures,
 
-we ought our gestures to move on
+we ought our gestures to move
 
 into each other.
