@@ -35,9 +35,13 @@ so violent at ease?
 
 &nbsp;
 
+How can eyes
+
+swallow a soul?
+
 How can such sight
 
-inhale my soul?
+inhale my ghost?
 
 Darling, I'm a spirit,
 
@@ -47,7 +51,7 @@ I live in your lungs.
 
 This time
 
-I want to take you to the abyssS
+I want to take you to the abyss
 
 and light it on
 
@@ -55,6 +59,6 @@ with the sparks
 
 of our lithe gestures,
 
-we ought our lithe gestures
+we ought them
 
-to move on unapologetically.
+to be unapologetic.
