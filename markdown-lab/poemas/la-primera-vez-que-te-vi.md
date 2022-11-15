@@ -5,31 +5,31 @@ title: "la-primera-vez-que-te-vi"
 ---
 La primera vez que te vi,
 
-dije: «Mira, una personita extraña
+dije: «Mira, una extrañeza
 
-con el pelo alborotado,
-
-quizá le guste Harry Potter,
-
-obvio, parece salida de Hogwarts».
+con el pelo alborotado».
 
 &nbsp;
 
-Fue un alivio
+Fue un alivio que
 
-que entre tantos desconocidos
+entre tantos desconocidos
 
-al menos una persona irradiara
+al menos uno irradiara:
 
-la frase: «Estoy viva, estoy aquí,
+«Estoy vivo, estoy aquí,
 
-aunque estoy cansada»
+aunque cansado».
+
+&nbsp;
 
 Yo también estoy hastiado
 
 del sentido común que pregonan
 
-las ridículas  "personas comunes".
+las ridículas "personas comunes",
+
+cansa encajar con ellos.
 
 &nbsp;
 
