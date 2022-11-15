@@ -5,13 +5,9 @@ title: "we-do-believe"
 ---
 We do believe,
 
-we, hopeless romantics,
+we, hopeless romantics.
 
-a look can mean something;
-
-don’t laugh, I mean it.
-
- 
+&nbsp;
 
 I witnessed a goddess
 
@@ -21,7 +17,11 @@ upon me,
 
 what was I then?
 
- 
+Are we two gods
+
+looking at each other?
+
+&nbsp;
 
 Our eyes resonated,
 
@@ -41,7 +41,7 @@ As I, my goddess,
 
 inhale yours.
 
- 
+&nbsp;
 
 This time
 
