@@ -25,8 +25,12 @@ siendo quien soy,
 
 nunca más me sentiría solo,
 
-los demás se acercarían de vez en cuando
+los demás se acercarían 
 
-y se curarían de lo que alguna vez sentí,
+de vez en cuando,
+
+y se curarían 
+
+de lo que alguna vez sentí,
 
 el desaliento.
