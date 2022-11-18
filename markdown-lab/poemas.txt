@@ -4045,22 +4045,22 @@ Yo era el chico tembloroso
 que apretaba las manos
 porque le aterraba tu ternura,
 porque quería acercarme;
-te había dado, 
+te había dado,
 sin que te dieras cuenta,
 las riendas de mi cuerpo.
 
 ¿Cómo podría hacerte mía
-si era yo el que 
+si era yo el que
 te pertenecía por completo?
 
 Tal vez una mirada sería suficiente,
 pero sé que no estaría satisfecho;
 querría entonces
-hacer el amor mirando 
+hacer el amor mirando
 el iris del otro.
 
 Si te tuviera
-querría entonces 
+querría entonces
 comerme a besos
 la divinidad de tu torso.
 
@@ -4092,20 +4092,28 @@ aunque ya no importa, me cansé de dudar,
 solo quiero ser real.
 <normal
 ---
-Lo único que ella quiere de mí 
-es que maraville a los demás 
-con lo que tengo por dentro, 
-que me libere y se lo muestre a todos, 
+Lo único que ella quiere de mí
+es que maraville a los demás
+con lo que tengo por dentro,
+que me libere y se lo muestre a todos,
 incluído a mí mismo,
-que me olvide de mis personajes 
-y de mi orgullo, 
-que sea aquello a lo que apunto, 
-con pareja o soltero, 
-siendo quien soy, 
+que me olvide de mis personajes
+y de mi orgullo,
+que sea aquello a lo que apunto,
+con pareja o soltero,
+siendo quien soy,
 nunca más me sentiría solo,
-los demás se acercarían 
+los demás se acercarían
 de vez en cuando,
-y se curarían 
+y se curarían
 de lo que alguna vez sentí,
 el desaliento.
 <happy
+---
+They are not NPCs,
+they were just raised in a way
+that made them affraid of conflict,
+so much so, that they are willing to
+put on a mask to fit the mold
+they think there is.
+<normal
