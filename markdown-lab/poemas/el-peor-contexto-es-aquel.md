@@ -79,4 +79,4 @@ o hasta que mueras en el proceso, de viejo,
 
 y solo puedan aprovecharse de tu cadáver
 
-para venderlo como abono.
+para vender sus órganos.

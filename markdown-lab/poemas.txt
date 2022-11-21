@@ -2492,7 +2492,7 @@ hasta que se compadezcan
 o hasta que el Sol Rojo las incinere,
 o hasta que mueras en el proceso, de viejo,
 y solo puedan aprovecharse de tu cadáver
-para venderlo como abono.
+para vender sus órganos.
 <desperation
 ---
 Esos posesivos
@@ -4116,4 +4116,28 @@ that made them affraid of conflict,
 so much so, that they are willing to
 put on a mask to fit the mold
 they think there is.
+<normal
+---
+Muéstrenle
+la pasión que llevan dentro.
+
+Que se den cuenta
+que hablan solos,
+que los vean
+bailar contemporáneo
+y dibujar símbolos.
+
+Que los vean
+concentrados y locos.
+
+Que los vean disfrutando,
+y digan: están drogados.
+Aunque están sobrios.
+
+Muestren, anárquicos,
+de los que están hechos,
+que el sistema es la ilusión
+que crean los grupos;
+muestren que tengo razón,
+que no existen los cuerdos.
 <normal
