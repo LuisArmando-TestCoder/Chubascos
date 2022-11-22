@@ -21,6 +21,8 @@ directo a la esencia.
 
 Hay un tipo de ciego
 
-al que le importan solo
+al que le importan
 
-las apariencias.
+las apariencias tanto;
+
+el vidente con velo.
