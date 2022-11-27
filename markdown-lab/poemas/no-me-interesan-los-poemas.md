@@ -87,7 +87,7 @@ es de ustedes.
 
 &nbsp;
 
-Hay algunos arapientos tan pensantes
+Hay algunos harapientos tan pensantes
 
 que algunos otros tantos
 
