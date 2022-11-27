@@ -33,7 +33,7 @@ sobre los que lo decifran,
 
 y una conversación al respecto
 
-late a un cambio.
+late un cambio.
 
 &nbsp;
 
