@@ -97,8 +97,6 @@ de sus divagaciones;
 
 ellos, muchas veces, dolidos,
 
-porque vivir duele, les duele
-
-porque están vivos,
+porque vivir duele, les duele,
 
 y ellos sí me interesan.
