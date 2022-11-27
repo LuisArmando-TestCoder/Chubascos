@@ -79,9 +79,7 @@ a los miserables?
 
 pero véanlos,
 
-esa tristeza
-
-que reflejan
+esa tristeza que reflejan
 
 es de ustedes.
 
