@@ -29,7 +29,7 @@ es la esencia del mensaje
 
 que se cierne
 
-sobre los que lo decifran,
+sobre los que lo descifran,
 
 y una conversación al respecto
 
