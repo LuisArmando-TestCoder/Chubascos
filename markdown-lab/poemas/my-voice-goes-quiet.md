@@ -71,4 +71,6 @@ soft grin,
 
 and this sinner
 
-hazy kiss.
+ductile; subtle; hazy
+
+kiss.
