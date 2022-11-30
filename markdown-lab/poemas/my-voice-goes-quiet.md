@@ -25,7 +25,9 @@ this might be
 
 the only chance we've got
 
-to strike a lightning?
+to strike a lightning
+
+into each other?
 
 &nbsp;
 
