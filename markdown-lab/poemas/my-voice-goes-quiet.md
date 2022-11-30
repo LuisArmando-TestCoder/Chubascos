@@ -25,9 +25,7 @@ this might be
 
 the only chance we've got
 
-to strike a lightning
-
-that nobody else will ever feel?
+to strike a lightning?
 
 &nbsp;
 
