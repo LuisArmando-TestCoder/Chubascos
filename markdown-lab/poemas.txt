@@ -4277,16 +4277,8 @@ sabrías que te amo.
 
 Si tomara tu lugar,
 aunque olvides mi nombre
-y mi memoria la odies,
 sabría yo que
 de verdad te amo.
-
-Si sufrieras eternamente,
-iría contigo,
-para distraerte de a ratos,
-para tenderte la mano
-para interrumpirte el infinito,
-diciéndote: te amo.
 
 Amor, ese ilimitado,
 lo tomo.
@@ -4297,11 +4289,11 @@ no necesito
 mi orgullo.
 
 No tengo nada que temer,
-ni tengo que tenerte;
-por ti
-me rompería en pedazos,
-amándote
-estoy completo.
+ni nada tengo que tener;
+por ti me quiebro;
+por haberme ofrecido
+estoy completo,
+aunque soy pedazos.
 <love
 ---
 Dios es invisible

@@ -15,25 +15,9 @@ Si tomara tu lugar,
 
 aunque olvides mi nombre
 
-y mi memoria la odies,
-
 sabría yo que
 
 de verdad te amo.
-
-&nbsp;
-
-Si sufrieras eternamente,
-
-iría contigo,
-
-para distraerte de a ratos,
-
-para tenderte la mano
-
-para interrumpirte el infinito,
-
-diciéndote: te amo.
 
 &nbsp;
 
@@ -55,12 +39,12 @@ mi orgullo.
 
 No tengo nada que temer,
 
-ni tengo que tenerte;
+ni nada tengo que tener;
 
-por ti
+por ti me quiebro;
 
-me rompería en pedazos,
+por haberme ofrecido
 
-amándote
+estoy completo,
 
-estoy completo.
+aunque soy pedazos.
