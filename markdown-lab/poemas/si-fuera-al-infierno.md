@@ -13,38 +13,34 @@ sabrías que te amo.
 
 Si tomara tu lugar,
 
-aunque olvides mi nombre
+aunque olvides mi nombre,
 
-sabría yo que
+sabría yo
 
-de verdad te amo.
+cuánto lo hago.
 
 &nbsp;
 
 Amor, ese ilimitado,
 
-lo tomo.
+lo tomo,
 
-Amor, me rindo
+me rindo contigo.
 
-contigo.
-
-Amor,
-
-no necesito
-
-mi orgullo.
+no necesito mi orgullo.
 
 &nbsp;
 
 No tengo nada que temer,
 
-ni nada tengo que tener;
+ni nada tengo que tener.
 
-por ti me quiebro;
+&nbsp;
+
+Por ti me quiebro;
 
 por haberme ofrecido
 
 estoy completo,
 
-aunque soy pedazos.
+aunque fragmentado.
