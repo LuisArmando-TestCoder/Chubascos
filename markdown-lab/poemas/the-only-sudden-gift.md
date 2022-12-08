@@ -15,9 +15,9 @@ an honest one.
 
 &nbsp;
 
-How could you blame
+How could you blame us
 
-them for hating monotony?
+for hating monotony?
 
 We are explorers
 
