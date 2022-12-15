@@ -13,9 +13,9 @@ que leur stupide hydromel.
 
 &nbsp;
 
-Je préfère ta viande
+Je préfère ta chair à
 
-pourri et maudit,
+l'odeur de malédiction,
 
 devant des millions
 
