@@ -7,9 +7,9 @@ No sabes
 
 quién es ciego o vidente;
 
-desnúdate de vez en cuando;
+desnúdate de vez en cuando,
 
-encuentra visionarios.
+y encuentra visionarios.
 
 &nbsp;
 
