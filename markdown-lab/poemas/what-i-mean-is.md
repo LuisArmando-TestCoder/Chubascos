@@ -3,19 +3,19 @@ slug: "/poemas/what-i-mean-is"
 tags: ["love"]
 title: "what-i-mean-is"
 ---
-What I mean is, 
+What I mean is,
 
 I like you a lot,
 
-I might sometimes 
+I might sometimes
 
 be deceiving and dumb.
 
- 
+&nbsp;
 
 Between you and that pretty song,
 
-I like better the thought 
+I like better the thought
 
 of you and I
 
@@ -25,7 +25,7 @@ but I want to know better
 
 how to spark bravery within me.
 
- 
+&nbsp;
 
 That song that you caused me to sing
 
@@ -35,7 +35,7 @@ but it's only because you are there,
 
 for me to receive it.
 
- 
+&nbsp;
 
 What I mean is,
 
@@ -45,7 +45,7 @@ what an alien feeling,
 
 and that's the whole of it.
 
- 
+&nbsp;
 
 I hope you keep this secret,
 
