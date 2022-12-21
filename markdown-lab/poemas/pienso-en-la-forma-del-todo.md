@@ -33,9 +33,9 @@ que en el viento me transformo.
 
 A veces me siento culpable
 
-por pensar tanto y entonces actúo;
+por pensar tanto y entonces actúo,
 
-la verdad es que en el fondo,
+pero la verdad es que en el fondo,
 
 no me siento culpable del todo,
 
