@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/pienso-en-la-forma-del-mundo"
+slug: "/poemas/pienso-en-la-forma-del-todo"
 tags: ["normal"]
-title: "pienso-en-la-forma-del-mundo"
+title: "pienso-en-la-forma-del-todo"
 ---
-Pienso en la forma del mundo;
+Pienso en la forma del Todo;
 
 pienso en las geometrías
 
