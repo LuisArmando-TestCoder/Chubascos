@@ -183,6 +183,8 @@ and still my hands are shaking,
 
 I vomit every morning,
 
-I hated that you asked me,,
+I hated that you asked me
 
-a good life and to keep living.
+to keep living a good life
+
+without you in it.
