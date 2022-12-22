@@ -79,7 +79,7 @@ I was not surprised at all
 
 to see blood being spilled,
 
-but me ADHD kicked in again,
+but my ADHD kicked in again,
 
 and that red looked like
 
@@ -183,6 +183,6 @@ and still my hands are shaking,
 
 I vomit every morning,
 
-I hated that you asked me,
+I hated that you asked me,,
 
 a good life and to keep living.
