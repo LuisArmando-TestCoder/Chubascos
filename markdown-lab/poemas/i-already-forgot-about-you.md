@@ -115,7 +115,7 @@ the flashing lights,
 
 but wait... which memories?
 
-today I was just being me,
+today I was just being myself,
 
 I felt there was a better me
 
@@ -139,7 +139,7 @@ I wish I could not move
 
 cuz you're using me as a pillow,
 
-and even if sounds gay,
+and even if it sounds gay
 
 to my ultra idiotic friends,
 
