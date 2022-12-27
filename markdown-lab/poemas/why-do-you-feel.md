@@ -187,7 +187,9 @@ but they are alone and pathetic.
 
 Most of what there is, in this era,
 
-is gods wanting other gods to vow,
+is gods wanting other gods 
+
+to vow to them,
 
 but they will not
 
