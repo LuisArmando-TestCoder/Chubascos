@@ -31,7 +31,7 @@ I'm a light chaser,
 
 dreamy highway racer,
 
-ethereal art taster. 
+ethereal art taster.
 
 &nbsp;
 
@@ -117,7 +117,7 @@ got a purpose,
 
 to make your birth
 
-an increasing likelihood. 
+an increasing likelihood.
 
 &nbsp;
 
@@ -187,7 +187,7 @@ but they are alone and pathetic.
 
 Most of what there is, in this era,
 
-is gods wanting other gods 
+is gods wanting other gods
 
 to vow to them,
 
