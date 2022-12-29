@@ -87,9 +87,7 @@ Soy quien te guarda,
 
 y vos sos mi palacio,
 
-y toda las versiones de persona
-
-que tienes dentro,
+y las versiones de persona
 
 que tanto aprecio,
 
