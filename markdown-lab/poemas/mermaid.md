@@ -45,10 +45,10 @@ of sunsets and shadows.
 
 &nbsp;
 
-Remind me of hope, fairy;
+Remind me of hope, nymph;
 
 attraction that glows;
 
-the only flavor left to taste
+the only flavor of landscape
 
-for life to be set.
+that you can't get enough of.
