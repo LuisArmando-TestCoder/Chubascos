@@ -9,10 +9,6 @@ I fell to the river,
 
 deep in her smile
 
-her eyes were shining like two gems
-
-down by the moonlight;
-
 I am drowning in her soft grin.
 
 &nbsp;
