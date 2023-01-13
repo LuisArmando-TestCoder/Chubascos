@@ -28,27 +28,3 @@ ghostly as I,
 wants to be stroked
 
 by her holy fingers.
-
-&nbsp;
-
-Mysterious
-
-when covered by clouds;
-
-warm dawn, flames;
-
-welcoming arms;
-
-glorious gloom
-
-of sunsets and shadows.
-
-&nbsp;
-
-Remind me of hope, nymph;
-
-attraction that glows;
-
-the only flavor of landscape
-
-that you cannot get enough of.
