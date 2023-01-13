@@ -15,7 +15,7 @@ I am drowning in her soft grin.
 
 Irises reflecting the night
 
-of a muse with skin of glitter,
+of a muse with a skin of glitter,
 
 and the breeze steaming,
 
