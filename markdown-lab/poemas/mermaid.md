@@ -31,11 +31,17 @@ by her holy fingers.
 
 &nbsp;
 
-Mysterious when covered by clouds;
+Mysterious when 
 
-warm dawn, flames that welcoming arms;
+covered by clouds;
 
-glorious gloom that sunsets shadows.
+warm dawn, flames;
+
+welcoming arms;
+
+glorious gloom
+
+of sunsets and shadows.
 
 &nbsp;
 
