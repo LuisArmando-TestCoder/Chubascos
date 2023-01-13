@@ -31,9 +31,9 @@ by her holy fingers.
 
 &nbsp;
 
-Mysterious when 
+Mysterious
 
-covered by clouds;
+when covered by clouds;
 
 warm dawn, flames;
 
@@ -51,4 +51,4 @@ attraction that glows;
 
 the only flavor left to taste
 
-for life to be complete.
+for life to be set.
