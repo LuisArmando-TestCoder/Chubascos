@@ -7,7 +7,7 @@ Mermaid, extending her hand;
 
 I fell to the river,
 
-deep in her smile
+deep in her smile;
 
 I am drowning in her soft grin.
 
