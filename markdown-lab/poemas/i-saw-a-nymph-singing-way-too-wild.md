@@ -5,7 +5,7 @@ title: "i-saw-a-nymph-singing-way-too-wild"
 ---
 I saw a nymph singing way too wild,
 
-a mermaid that was extending her hand,;
+a mermaid that was extending her hand;
 
 I fell to the river, deep in her smile;
 
