@@ -51,4 +51,4 @@ attraction that glows;
 
 the only flavor of landscape
 
-that you can't get enough of.
+that you cannot get enough of.
