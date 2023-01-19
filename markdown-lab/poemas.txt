@@ -4853,7 +4853,6 @@ let them stare, and let them bark,
 punch them in the face
 when they’re crossing the line.
 
-
 Let the ones hungry for drama,
 die of starvation.
 
@@ -4994,17 +4993,14 @@ sino dejar que la felicidad entre
 cuando algo, lo que sea
 los haga sentirla.
 
-
 De sentir se trata la vida,
 y por todo tipo de sentidos
 la felicidad se suscita.
-
 
 No dependan de ella,
 abrázenla
 cuando se encuentren
 cara a cara.
-
 
 No extrañen con lágrimas
 a la felicidad que no llega,
@@ -5013,18 +5009,15 @@ allá donde viaja
 y conociendo otras personas,
 siendo perfecta, siendo ella misma.
 
-
 Si van a depender de algo,
 dependan de su corazón latente,
 que les muestran destinos
 que los fascinan.
 
-
 Ya estoy cansado
 de pedirle felicidad a la vida,
 ella me la da siempre
 en forma de chispas.
-
 
 La felicidad que busco
 está en las caricias.
@@ -5043,4 +5036,15 @@ no las deseo, no las exijo,
 las acepto inclinando mi cabeza,
 o las busco acercándome
 a donde tienden a dármelas.
+<happy
+---
+La felicidad
+se otorga acariciando;
+la felicidad se causa
+dejándose acariciar;
+la felicidad se obtiene
+con las caricias
+que el todo nos da;
+las caricias no tienen
+una forma definida.
 <happy

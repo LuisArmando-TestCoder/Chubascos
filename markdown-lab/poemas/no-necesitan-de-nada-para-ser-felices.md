@@ -13,8 +13,6 @@ los haga sentirla.
 
 &nbsp;
 
-
-&nbsp;
 De sentir se trata la vida,
 
 y por todo tipo de sentidos
@@ -23,8 +21,6 @@ la felicidad se suscita.
 
 &nbsp;
 
-
-&nbsp;
 No dependan de ella,
 
 abrázenla
@@ -35,8 +31,6 @@ cara a cara.
 
 &nbsp;
 
-
-&nbsp;
 No extrañen con lágrimas
 
 a la felicidad que no llega,
@@ -51,8 +45,6 @@ siendo perfecta, siendo ella misma.
 
 &nbsp;
 
-
-&nbsp;
 Si van a depender de algo,
 
 dependan de su corazón latente,
@@ -63,8 +55,6 @@ que los fascinan.
 
 &nbsp;
 
-
-&nbsp;
 Ya estoy cansado
 
 de pedirle felicidad a la vida,
@@ -75,8 +65,6 @@ en forma de chispas.
 
 &nbsp;
 
-
-&nbsp;
 La felicidad que busco
 
 está en las caricias.
