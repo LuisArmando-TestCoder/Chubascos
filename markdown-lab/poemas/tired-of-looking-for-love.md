@@ -187,7 +187,7 @@ or love my facade?.
 
 &nbsp;
 
-Of paranoia,
+From paranoia,
 
 a prince could just die,
 
