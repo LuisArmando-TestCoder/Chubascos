@@ -71,7 +71,7 @@ but full,
 
 wishful indeed,
 
-of a life better than this.
+for a life better than this.
 
 &nbsp;
 
