@@ -183,7 +183,7 @@ betrayed by the thought:
 
 do they love me,
 
-or love my facade?.
+or love my facade?
 
 &nbsp;
 
