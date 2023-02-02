@@ -233,7 +233,7 @@ afraid of sharing.
 
 I'm afraid I'll care too much,
 
-even though I want not caring.
+even though I don't want to care.
 
 &nbsp;
 
