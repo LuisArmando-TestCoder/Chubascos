@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/i-say-ending-myself"
+slug: "/poemas/i-say"
 tags: ["sad"]
-title: "i-say-ending-myself"
+title: "i-say"
 ---
-I say ending myself, and everybody watches; they bump their head to the rhythm, while I´m softly screaming.
+I say, ending myself, and everybody watches; they bump their head to the rhythm, while I´m softly screaming.
 
 &nbsp;
 
