@@ -27,7 +27,7 @@ So you better dance, you the awaken one, who feels too much; you the crazy one, 
 
 &nbsp;
 
-That one afraid of love, who's afraid of being alone, who is watching everybody like do not in fact belong, we do always wrong, being smart and dumb.
+That one afraid of love, who's afraid of being alone, who is watching everybody like they do not in fact belong, we do always wrong, being smart and dumb.
 
 &nbsp;
 
