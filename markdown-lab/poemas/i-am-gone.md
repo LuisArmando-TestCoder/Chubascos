@@ -39,4 +39,4 @@ They fed me up on reading that my faith was not enough; nobody told me it was ca
 
 &nbsp;
 
-I'm not a cute neurotypical, I'm weird from the womb. Am I pretty? I am not, I am special quote on quote, which nobody would love.
+I'm not a cute neurotypical, I'm weird from the womb. Am I pretty? I am not, I am special quote on quote, which nobody would love, I'm tired of this nightmare, at daylight I'm gone.
