@@ -39,4 +39,4 @@ They fed me up on reading that my faith was not enough; nobody told me it was ca
 
 &nbsp;
 
-I'm not a cute neurotypical, that you can call a toy, I'm a weirdo from the womb. Am I pretty or not? But I am not, I am just special quote on quote, which nobody would love, I'm tired of this nightmare, so at daylight I'm gone.
+I'm not a cute neurotypical, that you can call a toy, I'm a weirdo from the womb. Am I pretty or not? But I am not, I am just special quote on quote, which nobody would love, I'm tired of this nightmare, at daylight I'm gone.
