@@ -27,16 +27,16 @@ Living is gross, when I didn't ask for it, and when I cannot say no.
 
 &nbsp;
 
-Everyone thinks that heroes are the ones able to achieve love. Well then, farewell, call me a villain then, cause I'm the bitter one with an evil plan to circumvent injustice, and achieve my hapiness once and for all.
+Everyone thinks that heroes are the ones that are able to achieve love. Well then, farewell, call me a villain then, cause I'm the bitter one with an evil plan to circumvent through hapiness, despite foreign injustice.
 
 &nbsp;
 
-Depressed about love, the movies all they told me was for hyping me up. I gave them so much money, so they were talking just for more, but some of us are feeling alone. 
+I'm depressed about love, the movies all they told me was for hyping me up. I gave them so much money, they were acting for more, getting richer with the fact that some of us are feeling alone. 
 
 &nbsp;
 
-They fed me up on reading that my faith was not enough; nobody told me it was cause I am ugly broken broke bitch, that nobody could love, I tried my best but it hurts that I wasn't enough.
+They fed me up on reading that my faith was not enough; nobody told me it was cause I am an ugly broken broke, that nobody could love, I tried my best but it really hurts as I wasn't enough.
 
 &nbsp;
 
-I'm not a cute neurotypical, I'm weird from the womb. Am I pretty? I am not, I am special quote on quote, which nobody would love, I'm tired of this nightmare, at daylight I'm gone.
+I'm not a cute neurotypical, that you can call a toy, I'm a weirdo from the womb. Am I pretty or not? But I am not, I am just special quote on quote, which nobody would love, I'm tired of this nightmare, so at daylight I'm gone.
