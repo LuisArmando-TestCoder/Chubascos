@@ -19,7 +19,7 @@ You all want just to dance despite the fact that appart you are tearing.
 
 &nbsp;
 
-Sadness is lame in the money world; better take a pill; your problem is not soved; there is no time for us while we are rushing in stories.
+Sadness is lame in the money world; better take a pill; your problem is not solved; there is no time for us while we are rushing in stories.
 
 &nbsp;
 
