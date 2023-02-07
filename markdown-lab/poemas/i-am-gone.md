@@ -3,7 +3,7 @@ slug: "/poemas/i-am-gone"
 tags: ["desperation"]
 title: "i-am-gone"
 ---
-I am gone, but don't you know I'm God, I fell three times in a row; my knees are tampered by the sole pain of an evil cross; the weight is putting so much pressure as it grows.
+I am gone, but don't you know I'm God? I fell three times in a row; my knees are tampered by the sole pain of an evil cross; the weight is putting so much pressure as it grows.
 
 &nbsp;
 
