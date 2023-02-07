@@ -7,7 +7,7 @@ I am gone, but don't you know I'm God? I fell three times in a row; my knees are
 
 &nbsp;
 
-My back hurts; nobody can release that without love, for everybody is lost; for every voice inside my head that fucked me up.
+My back hurts; nobody can release that without any love, for everybody is lost; for every voice inside my head that fucked me up.
 
 &nbsp;
 
