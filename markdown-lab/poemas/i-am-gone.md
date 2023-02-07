@@ -15,7 +15,7 @@ I'm running for a world, where I'm not a ghost. I can see the light, but light i
 
 &nbsp;
 
-Nobody believes in a nobody that hasn´t shown what that nobody is made of.
+Nobody believes in a nobody that hasn´t shown what that nobody is really made of.
 
 &nbsp;
 
