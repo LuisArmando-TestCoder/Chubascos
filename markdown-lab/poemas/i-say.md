@@ -7,11 +7,11 @@ I say, ending myself, and everybody watches; they bump their head to the rhythm,
 
 &nbsp;
 
-A circus's end, a theater's sin, somebody cries but you won't listen.
+A circus's end, a theater's sin, I'm not detached from my character, the lie lies on the fact that this is a lie itself.
 
 &nbsp;
 
-Shares my cries; poems hide brutal nights; birth to lyrics.
+Somebody cries but you won't listen; poems hide brutal nights; I share my cries; birth to lyrics.
 
 &nbsp;
 
