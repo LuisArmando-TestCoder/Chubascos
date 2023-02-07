@@ -15,15 +15,15 @@ I'm running for a world, where I'm not a ghost. I can see the light, but light i
 
 &nbsp;
 
-Nobody believes, in a nobody that hasn´t shown, what that nobody is made of.
+Nobody believes in a nobody that hasn´t shown what that nobody is made of.
 
 &nbsp;
 
-Nobody knows, what a nameless character is capable of.
+Nobody knows what a nameless character is capable of.
 
 &nbsp;
 
-Living is gross, when I didn't ask for it, and when I can't say no.
+Living is gross, when I didn't ask for it, and when I cannot say no.
 
 &nbsp;
 
