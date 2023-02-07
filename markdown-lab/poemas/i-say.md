@@ -15,7 +15,7 @@ Somebody cries but you won't listen; poems hide brutal nights; I share my cries;
 
 &nbsp;
 
-You all want to dance despite that  you are tearing appart.
+You all want to dance despite that you are tearing appart.
 
 &nbsp;
 
