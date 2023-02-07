@@ -27,7 +27,7 @@ Living is gross, when I didn't ask for it, and when I can't say no.
 
 &nbsp;
 
-Everyone thinks that heroes are the ones able to achieve love. Well then, farewell, call me a villain then, '}cause I'm the bitter one with an evil plan to circumvent injustice, and achieve my hapiness once and for all.
+Everyone thinks that heroes are the ones able to achieve love. Well then, farewell, call me a villain then, cause I'm the bitter one with an evil plan to circumvent injustice, and achieve my hapiness once and for all.
 
 &nbsp;
 
