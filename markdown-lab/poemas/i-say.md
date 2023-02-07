@@ -7,7 +7,7 @@ I say, ending myself, and everybody watches, bumping their head to the rhythm, b
 
 &nbsp;
 
-A circus's end, a theater's sin, the lie is not a lie, is game is not a game, from the character, I'm not detached, I'm really screaming.
+A circus's end, a theater's sin, the lie is not a lie, the game is not a game, from the character, I'm not detached, I'm really screaming.
 
 &nbsp;
 
