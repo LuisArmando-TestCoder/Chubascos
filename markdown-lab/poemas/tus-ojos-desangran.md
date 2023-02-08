@@ -23,7 +23,7 @@ los muslos se alabarán.
 
 ¿Puede ser un ángel
 
-tan puro y mentiroso?
+tan puro y siniestro?
 
 ¿Cómo se supone que un santo
 
@@ -85,7 +85,7 @@ y mis palmas te sostienen,
 
 aunque los dos
 
-nos podemos desmayar.
+nos podamos desmayar.
 
 &nbsp;
 
@@ -105,7 +105,7 @@ la punta de tus dedos
 
 me recordarán;
 
-adictos, me alabarán;
+adictos, me elogiarán;
 
 te ahogarás a media noche
 
@@ -203,7 +203,7 @@ Si este es el lado oscuro de la vida,
 
 me dirijo entonces al abismo,
 
-acompañado por tu persona,
+acompañado por tu aspecto,
 
 ya las siluetas dan lo mismo,
 
@@ -239,11 +239,15 @@ que por miedo me estás mostrando,
 
 pero hay dos almas por dentro,
 
-dos enmascarados venerándose;
+dos enmascarados venerándose
+
+el uno al otro;
 
 deja que dos ficciones juntas
 
-se conviertan en verdad y propósito.
+se conviertan en verdad
+
+y en propósito.
 
 &nbsp;
 
@@ -283,7 +287,7 @@ para que así podamos
 
 disfrutarlo todo, irreprensibles;
 
-y seamos cínicos en libertad.
+seamos cínicos en desenfreno.
 
 &nbsp;
 
@@ -297,7 +301,7 @@ y rasgarás mi espalda en el proceso,
 
 y gritaré, y morderé tus hombros,
 
-raeré tu cuello a besos,
+raeré tu cuello, acariciándolo,
 
 y gritarás, pedirás más, llorando,
 
