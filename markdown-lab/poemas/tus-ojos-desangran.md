@@ -237,7 +237,7 @@ la máscara es solo un intento
 
 de llegarte hasta el centro
 
-rodeando tu máscara de miedo,
+rodeando tu máscara de ego,
 
 porque te da miedo 
 
