@@ -105,7 +105,7 @@ La punta de tus dedos
 
 me recordarán;
 
-adictos que me elogiarán;
+adictos que me elogian;
 
 te veo ahogarte a media noche
 
