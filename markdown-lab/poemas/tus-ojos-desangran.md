@@ -261,7 +261,7 @@ propósito y verdad.
 
 &nbsp;
 
-Somos eternamente jóvenes,
+Somos jóvenes eternos,
 
 aunque los años no se cuenten,
 
