@@ -287,7 +287,7 @@ esto es un secreto.
 
 Piensa que soy
 
-la encarnación del mald,
+la encarnación del mal,
 
 y que así podamos disfrutarlo;
 
