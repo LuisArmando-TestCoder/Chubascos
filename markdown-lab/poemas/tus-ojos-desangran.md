@@ -287,11 +287,11 @@ esto es un secreto.
 
 Piensa que soy
 
-encarnación de la maldad,
+la encarnación del mald,
 
-para que así podamos disfrutarlo,
+y que así podamos disfrutarlo;
 
-irreprensibles y cínicos
+cínicos irreprensibles
 
 entre el desenfreno.
 
