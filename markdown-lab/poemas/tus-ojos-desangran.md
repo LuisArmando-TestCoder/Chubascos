@@ -95,7 +95,7 @@ un espectro te visitará,
 
 con sus ojos puestos
 
-en el desesperar;
+en tu desesperar;
 
 aflicción por abstinencia.
 
