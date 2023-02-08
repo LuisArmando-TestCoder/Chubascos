@@ -289,7 +289,7 @@ Piensa que soy
 
 la encarnación del mal,
 
-y que así podamos disfrutarlo;
+que así podemos disfrutarlo;
 
 cínicos irreprensibles
 
@@ -319,6 +319,6 @@ y por dentro y fuera
 
 dos enmascarados
 
-vengándose el uno del otro
+vengándose del otro
 
 se incinerarán.
