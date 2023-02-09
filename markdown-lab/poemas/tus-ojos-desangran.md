@@ -37,7 +37,7 @@ cómo me siento,
 
 me das aliento,
 
-pero me rehuso a respirar.
+pero me rehúso a respirar.
 
 &nbsp;
 
@@ -129,7 +129,7 @@ que no soporto ignorar.
 
 &nbsp;
 
-Solo necesito una noche 
+Solo necesito una noche
 
 lejos de todos,
 
@@ -239,9 +239,9 @@ de llegarte hasta el centro
 
 rodeando tu máscara de ego,
 
-porque te da miedo 
+porque te da miedo
 
-que sea demasiado bueno 
+que sea demasiado bueno
 
 y no sea cierto,
 
