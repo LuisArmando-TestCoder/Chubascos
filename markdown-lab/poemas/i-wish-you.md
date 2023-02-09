@@ -87,4 +87,6 @@ in which you don't mind
 
 about eternity,
 
-in which is pleasure to be born.
+in which 
+
+is a pleasure to be born.
