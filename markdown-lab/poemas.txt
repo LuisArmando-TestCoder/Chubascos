@@ -5468,8 +5468,8 @@ from the beginning.
 I can even feel the identity
 that so many others carry around,
 as a toy fueled by validation,
-a toy, a mask,
-some chains wrapped around their arms,
+a toy, a mask, some chains
+wrapped around their arms,
 all of them are an illusion,
 even the lie that states
 that they need a mirage to survive.
@@ -5482,7 +5482,7 @@ free from obligations.
 I'm awake, but closed,
 I'm immobile, just listening.
 
-I don't desires anymore,
+I don't desire anymore,
 but I keep playing
 the Conway's Game of Life,
 this cellular automata

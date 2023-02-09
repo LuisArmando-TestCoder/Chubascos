@@ -57,9 +57,9 @@ that so many others carry around,
 
 as a toy fueled by validation,
 
-a toy, a mask,
+a toy, a mask, some chains
 
-some chains wrapped around their arms,
+wrapped around their arms,
 
 all of them are an illusion,
 
@@ -85,7 +85,7 @@ I'm immobile, just listening.
 
 &nbsp;
 
-I don't desires anymore,
+I don't desire anymore,
 
 but I keep playing
 
