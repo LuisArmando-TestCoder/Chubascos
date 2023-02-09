@@ -93,7 +93,7 @@ the Conway's Game of Life,
 
 this cellular automata
 
-full attractions.
+full of attractions.
 
 &nbsp;
 
