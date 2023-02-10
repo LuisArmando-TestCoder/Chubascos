@@ -223,7 +223,7 @@ la hora de probar vidas alternas,
 
 la hora de extinguirnos
 
-arráncandonos el alma,
+arrancándonos el alma,
 
 intercambiando cadenas por besos.
 
