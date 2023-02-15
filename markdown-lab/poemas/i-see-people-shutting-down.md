@@ -55,7 +55,7 @@ Attributed the light to God,
 
 called the black color as wrong,
 
-sined for ages, they killed love.
+sinned for ages, they killed love.
 
 lies made them build rotten gods
 
