@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/a-blue-whistling-thrush-is-singing"
+slug: "/poemas/blue-whistling-thrush-is-singing"
 tags: ["happy"]
-title: "a-blue-whistling-thrush-is-singing"
+title: "blue-whistling-thrush-is-singing"
 ---
-A blue whistling thrush is singing;
+Blue whistling thrush is singing;
 
 these songs belong to you.
 
