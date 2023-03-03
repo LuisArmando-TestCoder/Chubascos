@@ -59,7 +59,7 @@ cuando me pierdo el alma cada vez?
 
 imaginando vidas?
 
-Que aunque irreales las atesoré.
+Aunque irreales las atesoraré.
 
 &nbsp;
 
