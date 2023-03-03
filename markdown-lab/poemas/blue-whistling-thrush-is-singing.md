@@ -51,6 +51,6 @@ they see all you can do.
 
 &nbsp;
 
-You could be amazed if 
+You could be amazed if
 
 you keep just walking through.
