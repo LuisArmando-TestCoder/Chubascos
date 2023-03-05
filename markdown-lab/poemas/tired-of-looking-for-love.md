@@ -153,7 +153,7 @@ All of my demons
 
 are laughing at me;
 
-my need for a spec of a kiss.
+my need for a speck of a kiss.
 
 &nbsp;
 
