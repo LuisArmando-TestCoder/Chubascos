@@ -7,6 +7,6 @@ No quiero impresionar a nadie,
 
 más que a mí mismo;
 
-la gloria es inútil;
+de la gloria no soy siervo;
 
 solo quiero que me entiendan.
