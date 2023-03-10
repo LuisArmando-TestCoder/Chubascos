@@ -5,6 +5,8 @@ title: "no-quiero-impresionar-a-nadie"
 ---
 No quiero impresionar a nadie,
 
-la gloria es inútil,
+más que a mí mismo;
+
+la gloria es inútil;
 
 solo quiero que me entiendan.
