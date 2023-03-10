@@ -31,9 +31,11 @@ por ello soy libre
 
 de vivir lo poco que me queda
 
-como realmente quiero,
+como realmente quiero.
 
-estoy apunto de morir
+&nbsp;
+
+Estoy apunto de morir
 
 cada día que despierto,
 
