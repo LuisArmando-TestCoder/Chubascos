@@ -5815,3 +5815,8 @@ si me sigo desangrando
 el tiempo que me queda
 pensando tanto en vos?
 <desperation
+---
+No quiero impresionar a nadie,
+la gloria es inútil,
+solo quiero que me entiendan.
+<normal
