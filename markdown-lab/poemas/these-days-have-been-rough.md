@@ -57,23 +57,25 @@ Suicidal men,
 
 suicide attempts
 
-for feeling well,
+for just feeling well,
 
-feeling that they forget
+feeling they forget.
 
-for what is controversial
+&nbsp;
 
-in this industrial hell,
+What is controversial
+
+in the industrial hell,
 
 goodness is taboo;
 
-holy shot in the head.
+holy shot in heads.
 
 &nbsp;
 
 Nobody knows if this hell
 
-will get to us an end;
+will get us to an end;
 
 suicidal men are taking leaps
 
