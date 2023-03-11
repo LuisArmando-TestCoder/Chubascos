@@ -21,7 +21,7 @@ I see avalanches pushing
 
 painfully awake men
 
-into a nightmares world,
+into nightmares world,
 
 where so few are really lucid,
 
