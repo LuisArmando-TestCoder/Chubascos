@@ -7,11 +7,13 @@ These days have been rough;
 
 I see ambulances rushing
 
-for we are so sad;
+for we are so sad and cold,
 
-that's our new disease,
+that in cold we burn;
 
-ink stained of salt.
+that's our new disease;
+
+hopeless letters stained with salt.
 
 &nbsp;
 
