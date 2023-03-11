@@ -29,7 +29,7 @@ have you met someone at all?
 
 &nbsp;
 
-All the romantic men are gone,
+All romantic men are gone,
 
 cuz we truly felt too clowned.
 
