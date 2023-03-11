@@ -21,8 +21,6 @@ I see avalanches pushing
 
 painfully awake men
 
-into nightmares world,
-
 where so few are really lucid,
 
 have you met someone at all?
