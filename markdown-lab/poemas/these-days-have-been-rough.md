@@ -19,7 +19,7 @@ hopeless letters stained with salt.
 
 I see avalanches pushing
 
-painfully awake men
+painfully awake men,
 
 lucid dreamers
 
