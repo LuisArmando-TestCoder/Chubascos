@@ -9,7 +9,7 @@ I see ambulances rushing
 
 for we are so sad,
 
-that's our new desease.
+that's our new disease.
 
 &nbsp;
 
@@ -27,7 +27,7 @@ where so few are really lucid.
 
 &nbsp;
 
-All the romatic men
+All the romantic men
 
 are truly giving up.
 
