@@ -49,4 +49,4 @@ we don't want to play no more,
 
 we just feel like screaming
 
-out of this lack of true love.
+out of this lack of trust.
