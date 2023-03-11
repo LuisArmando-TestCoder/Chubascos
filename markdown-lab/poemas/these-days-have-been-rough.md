@@ -19,11 +19,9 @@ hopeless letters stained with salt.
 
 I see avalanches pushing
 
-painfully awake men,
+painfully awake men
 
-lucid dreamers
-
-in a nightmares world,
+into a nightmares world,
 
 where so few are really lucid,
 
