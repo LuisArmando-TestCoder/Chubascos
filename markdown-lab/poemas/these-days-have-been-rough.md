@@ -11,7 +11,7 @@ for we are so sad and cold,
 
 that in cold we burn;
 
-that's our new disease;
+that's our new disease, my brothers;
 
 hopeless letters stained with salt.
 
@@ -19,29 +19,31 @@ hopeless letters stained with salt.
 
 I see avalanches pushing
 
-painfully awake
+painfully awake men
 
-suicidal men
+lucid dreamers
 
-within a dreamers world,
+in a nightmares world,
 
-where so few are really lucid.
+where so few are really lucid,
 
-&nbsp;
-
-All the romantic men
-
-are truly giving up.
+have you met someone at all?
 
 &nbsp;
 
-So tragic is this heaven,
+All the romantic men are gone,
 
-in which we will not belong,
+cuz we truly felt too clowned.
 
-in which everybody
+&nbsp;
 
-is nothing but a mean to an end.
+Way too tragic is this heaven,
+
+cuz we won't belong at all,
+
+in which everybody is nothing 
+
+but a mean to gluttony.
 
 &nbsp;
 
