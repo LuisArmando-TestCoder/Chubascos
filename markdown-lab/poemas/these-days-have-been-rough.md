@@ -37,7 +37,7 @@ Way too tragic is this heaven,
 
 cuz we won't belong at all,
 
-in which everybody is nothing 
+in which everybody is nothing
 
 but a mean to gluttony.
 
@@ -50,3 +50,73 @@ we don't want to play no more,
 we just feel like screaming
 
 out of this lack of trust.
+
+&nbsp;
+
+Suicidal men,
+
+suicidal leaps,
+
+suicide attempts
+
+for feeling well,
+
+feeling they forget
+
+for what is controversial
+
+in this industrial hell,
+
+goodness is wrong,
+
+being good is a shot in the head,
+
+nobody knows if this hell
+
+will get to an end,
+
+suicidal men taking are a leap
+
+to end the pain,
+
+God doesn't care,
+
+I asked for help
+
+but I’m still trapped in medication
+
+that makes me numb,
+
+everybody deep inside
+
+just wants me to fucking smile
+
+to shut the fuck up,
+
+to fake I'm well,
+
+cuz they are terrorized
+
+of finding out,
+
+how small they truly are,
+
+that they are not
+
+the center of this Universe,
+
+a speck that's numb,
+
+nobody cares at all if you go,
+
+but will you care for others?
+
+So there are others like you there,
+
+real within all extent,
+
+in the Void, its citadel,
+
+welcome to Zion,
+
+are you really there as well?
