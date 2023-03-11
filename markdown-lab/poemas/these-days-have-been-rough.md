@@ -9,11 +9,11 @@ I see ambulances rushing
 
 for we are so sad;
 
-that's our new disease.
+that's our new disease,
+
+ink stained of salt.
 
 &nbsp;
-
-Ink stained of salt;
 
 I see avalanches pushing
 
@@ -21,7 +21,7 @@ painfully awake
 
 suicidal men
 
-in a dreamers world,
+within a dreamers world,
 
 where so few are really lucid.
 
