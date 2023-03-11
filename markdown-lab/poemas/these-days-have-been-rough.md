@@ -9,7 +9,7 @@ I see ambulances rushing
 
 for we are so sad and cold,
 
-that in cold we burn;
+that in cold we are burning;
 
 that's our new disease, my brothers;
 
