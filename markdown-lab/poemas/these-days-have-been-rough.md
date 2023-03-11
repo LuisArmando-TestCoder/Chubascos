@@ -69,7 +69,7 @@ in the industrial hell,
 
 goodness is taboo;
 
-holy shot in heads.
+holy shot in the head.
 
 &nbsp;
 
