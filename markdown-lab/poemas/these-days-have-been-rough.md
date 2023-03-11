@@ -55,21 +55,19 @@ out of this lack of trust.
 
 Suicidal men,
 
-suicidal leaps,
-
 suicide attempts
 
 for feeling well,
 
-feeling they forget
+feeling that they forget
 
 for what is controversial
 
 in this industrial hell,
 
-goodness is taboo,
+goodness is taboo;
 
-being good; a shot in the head.
+holy shot in the head.
 
 &nbsp;
 
