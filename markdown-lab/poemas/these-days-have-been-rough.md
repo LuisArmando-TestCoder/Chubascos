@@ -67,56 +67,60 @@ for what is controversial
 
 in this industrial hell,
 
-goodness is wrong,
+goodness is taboo,
 
-being good is a shot in the head,
+being good; a shot in the head.
 
-nobody knows if this hell
+&nbsp;
 
-will get to an end,
+Nobody knows if this hell
 
-suicidal men taking are a leap
+will get to us an end;
 
-to end the pain,
+suicidal men are taking leaps
 
-God doesn't care,
+to end the pain.
 
-I asked for help
+&nbsp;
 
-but I’m still trapped in medication
+God doesn't care;
 
-that makes me numb,
+I asked for help;
+
+I’m still trapped in medication;
 
 everybody deep inside
 
-just wants me to fucking smile
+wants me to just fucking smile
 
-to shut the fuck up,
+to just shut the fuck up,
 
-to fake I'm well,
+to fake that I'm well,
 
 cuz they are terrorized
 
-of finding out,
+by the unknown colors
 
-how small they truly are,
+that they feel won't understand,
 
-that they are not
+makes them feel
 
-the center of this Universe,
+how small they are,
 
-a speck that's numb,
+not the center of no Universe.
 
-nobody cares at all if you go,
+&nbsp;
+
+A speck that's numb,
+
+nobody cares at all if you go or not,
 
 but will you care for others?
 
-So there are others like you there,
+So there are others like you,
 
-real within all extent,
+real in the Void, 
 
-in the Void, its citadel,
-
-welcome to Zion,
+its citadel, welcome to Zion,
 
 are you really there as well?
