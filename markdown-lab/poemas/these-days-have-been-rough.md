@@ -119,7 +119,7 @@ but will you care for others?
 
 So there are others like you,
 
-real in the Void, 
+real in the Void,
 
 its citadel, welcome to Zion,
 
