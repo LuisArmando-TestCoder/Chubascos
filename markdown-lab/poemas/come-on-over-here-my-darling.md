@@ -57,4 +57,4 @@ how strong you are
 
 for walking
 
-this path,
+this path.
