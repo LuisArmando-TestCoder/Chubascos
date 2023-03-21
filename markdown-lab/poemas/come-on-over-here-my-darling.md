@@ -19,9 +19,9 @@ let me show you wonders,
 
 in front of our reflection
 
-I can tell you that 
+I can tell you that
 
-the first of them it's you.
+the first of them it's you.
 
 &nbsp;
 
@@ -42,3 +42,19 @@ how wonderful you are,
 reflection
 
 with our faith and will.
+
+&nbsp;
+
+Enlightened we begin
+
+to walk.
+
+&nbsp;
+
+Let me show you
+
+how strong you are
+
+for walking
+
+this path,
