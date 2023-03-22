@@ -47,20 +47,16 @@ with our faith and will.
 
 Let me show you
 
-how strong you are,
+how strong you are;
 
-regardless that the path
+this path has been quite tough;
 
-has been this tough.
+all your scars
 
-&nbsp;
-
-All your scars have 
-
-been your masterworks;
+are your masterworks;
 
 a body that's a scroll,
 
-a story that is precious
+a story that is told;
 
-as a whole; you are whole.
+you are precious as a whole.
