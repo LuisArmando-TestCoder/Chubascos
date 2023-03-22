@@ -25,7 +25,7 @@ como yo, llena de fé
 
 de que todo estará bien,
 
-y aún mejor en el fondo.
+y aún mejor, en el fondo.
 
 &nbsp;
 
