@@ -39,9 +39,9 @@ Let me show you
 
 how wonderful you are,
 
-reflection
+you holy reflection
 
-with our faith and will.
+of our faith and will.
 
 &nbsp;
 
@@ -59,8 +59,14 @@ All your scars
 
 are masterworks;
 
-a body that's a scroll,
-
 a story that is told;
 
-you are precious as a whole.
+a body that's a scroll;
+
+you are precious as a whole;
+
+but let me show you
+
+the wonders that
+
+you are made of.
