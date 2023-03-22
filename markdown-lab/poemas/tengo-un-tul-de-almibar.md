@@ -85,6 +85,10 @@ que damasco de ámbar lo parchó;
 
 no era mi intención,
 
-pero la herida en mi tul
+pero la herida en mi tul,
+
+en cuestión de horas
+
+y el paso de caricias,
 
 se cerró.
