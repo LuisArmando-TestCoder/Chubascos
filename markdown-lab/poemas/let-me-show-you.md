@@ -49,11 +49,15 @@ Let me show you
 
 how strong you are;
 
-this path has been quite tough;
+despite this path
 
-all your scars
+being quite this tough.
 
-are your masterworks;
+&nbsp;
+
+All your scars
+
+are masterworks;
 
 a body that's a scroll,
 
