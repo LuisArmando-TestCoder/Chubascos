@@ -3,6 +3,7 @@ import sys
 import shutil
 from modules.file import executeConditionalPath, createFile
 
+shutil.rmtree("../markdown-lab/poemas")
 
 arguments = list(sys.argv)
 elementType = arguments[1]
