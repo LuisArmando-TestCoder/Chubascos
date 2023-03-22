@@ -11,8 +11,6 @@ file = open(f"{folderPath}/{elementType}.txt", "r", encoding="utf-8")
 contents = file.read().split('---')
 file.close()
 
-# shutil.rmtree("../markdown-lab/poemas")
-
 executeConditionalPath(
     f"{folderPath}/{elementType}",
     os.makedirs
