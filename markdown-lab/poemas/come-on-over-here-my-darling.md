@@ -45,16 +45,22 @@ with our faith and will.
 
 &nbsp;
 
-Enlightened we begin
+Let me show you
 
-to walk.
+how strong you are,
+
+regardless that the path
+
+has been this tough.
 
 &nbsp;
 
-Let me show you
+All your scars have 
 
-how strong you are
+been your masterworks;
 
-for walking
+a body that's a scroll,
 
-this path.
+a story that is precious
+
+as a whole; you are whole.
