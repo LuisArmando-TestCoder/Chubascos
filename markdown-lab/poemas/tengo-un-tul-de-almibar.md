@@ -49,7 +49,7 @@ cuando no tiene sentido.
 
 &nbsp;
 
-A tu ámbar de piel,
+Hasta tu ámbar de piel,
 
 planeé hasta vos;
 
