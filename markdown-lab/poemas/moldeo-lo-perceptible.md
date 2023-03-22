@@ -5,7 +5,7 @@ title: "moldeo-lo-perceptible"
 ---
 Moldeo lo perceptible
 
-que influye en las emociones,
+que influye en las emociones,
 
 como un artesano
 

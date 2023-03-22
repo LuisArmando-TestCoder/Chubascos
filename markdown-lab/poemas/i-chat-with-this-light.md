@@ -23,4 +23,4 @@ a bright present, we can delight.
 
 I'm no longer sorry
 
-to display my inside.
+to display my inside.

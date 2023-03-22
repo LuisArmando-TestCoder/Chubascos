@@ -85,8 +85,8 @@ I wish that you enter a loop
 
 in which you don't mind
 
-about eternity,
+about eternity,
 
-in which 
+in which
 
 is a pleasure to be born.

@@ -15,7 +15,7 @@ that nothing matters.
 
 Not me, nor somebody else,
 
-I’m free to aim where I want,
+I'm free to aim where I want,
 
 just my feet on the ground,
 
@@ -37,7 +37,7 @@ My new dream for today,
 
 is to take risks and then play,
 
-extravagance that can’t help
+extravagance that can't help
 
 but to display in command.
 
@@ -55,7 +55,7 @@ and please be honest.
 
 If you are a monster, my dear,
 
-I don’t want you play
+I don't want you play
 
 hide and seek with nobody,
 
@@ -65,12 +65,10 @@ let them stare, and let them bark,
 
 punch them in the face
 
-when they’re crossing the line.
+when they're crossing the line.
 
 &nbsp;
 
-
-&nbsp;
 Let the ones hungry for drama,
 
 die of starvation.
@@ -105,7 +103,7 @@ If you mold right now.
 
 some mold will pop out;
 
-weren’t you clay after all?
+weren't you clay after all?
 
 A god amongst ants?
 
@@ -113,9 +111,9 @@ A god amongst ants?
 
 Your words are a stained glass,
 
-to a landscape that displays your path,
+to a landscape that displays your path.
 
-your words can be sacred,
+Your words can be sacred,
 
 if you back them up with sacred acts.
 
@@ -125,7 +123,7 @@ The laughs are no other
 
 than particles in the air,
 
-don’t let them make you cry, or swear,
+don't let them make you cry, or swear,
 
 or take yourself less seriously.
 
@@ -143,19 +141,19 @@ Maybe the ones who saw it as hope;
 
 but there are wrongs that look right;
 
-faith shows certainty in one’s acts.
+faith shows certainty in one's acts.
 
 &nbsp;
 
 They will laugh, talk and then forget,
 
-so don’t look for their acceptance,
+so don't look for their acceptance,
 
 because their focus never lasts,
 
 so please, I beg to myself,
 
-don’t look for their acceptance,
+don't look for their acceptance,
 
 but your own; learn to be alone;
 
@@ -163,6 +161,6 @@ being real, being whole,
 
 and dying proud, at last;
 
-isn’t that what you wanted?
+isn't that what you wanted?
 
 Dying with a smile.

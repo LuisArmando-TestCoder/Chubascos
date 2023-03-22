@@ -11,4 +11,4 @@ I want to keep at it
 
 while you are my muse,
 
-while I'm still living.
+while I'm still living.

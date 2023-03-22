@@ -95,4 +95,4 @@ Piensa que soy la encarnación de la maldad, para que así podamos disfrutarlo t
 
 &nbsp;
 
-Si los deseos causan sufrimiento, entonces sufriré y sufrirás, y nuestros alaridos serán mutuos, y rasgarás mi espalda en el proceso, y gritaré, y morderé tus hombros, raeré tu cuello, acariciándolo, y gritarás, pedirás más, llorando, y por dentro y fuera, dos enmascarados, vengándose el uno del otro se incinerarán.
+Si los deseos causan sufrimiento, entonces sufriré y sufrirás, y nuestros alaridos serán mutuos, y rasgarás mi espalda en el proceso, y gritaré, y morderé tus hombros, raeré tu cuello, acariciándolo, y gritarás, pedirás más, llorando, y por dentro y fuera, dos enmascarados, vengándose el uno del otro se incinerarán.

@@ -31,7 +31,7 @@ Everyone thinks that heroes are the ones that are able to achieve love. Well the
 
 &nbsp;
 
-I'm depressed about love, the movies all they told me was for hyping me up. I gave them so much money, they were acting for more, getting richer with the fact that some of us are feeling alone. 
+I'm depressed about love, the movies all they told me was for hyping me up. I gave them so much money, they were acting for more, getting richer with the fact that some of us are feeling alone.
 
 &nbsp;
 

@@ -11,7 +11,7 @@ se me abre un sendero,
 
 y tengo que sacar fuerzas
 
-que no sabía si tenía.
+que no sabía si tenía.
 
 &nbsp;
 
@@ -25,4 +25,4 @@ Mi cuerpo tiene voluntad propia,
 
 y cuando el cuerpo no responde,
 
-mi alma sincera lo comanda.
+mi alma sincera lo comanda.

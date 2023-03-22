@@ -3,7 +3,7 @@ slug: "/poemas/no-sabes"
 tags: ["normal"]
 title: "no-sabes"
 ---
-No sabes 
+No sabes
 
 quién es ciego o vidente;
 

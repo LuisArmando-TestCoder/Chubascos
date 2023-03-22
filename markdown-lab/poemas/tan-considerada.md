@@ -19,7 +19,7 @@ aunque tiendo a volar
 
 y estrellarme
 
-de vez en cuando.
+de vez en cuando.
 
 &nbsp;
 
@@ -27,4 +27,4 @@ La amo;
 
 bella por dentro;
 
-mejor con los años.
+mejor con los años.

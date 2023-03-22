@@ -5,7 +5,7 @@ title: "chaos-is-greater-in-creators"
 ---
 Chaos is greater in creators,
 
-chaos is greater in leaders, 
+chaos is greater in leaders,
 
 chaos is the language of nature.
 

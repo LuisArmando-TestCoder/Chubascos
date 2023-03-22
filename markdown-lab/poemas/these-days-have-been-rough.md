@@ -35,7 +35,7 @@ cuz we truly felt too clowned.
 
 Way too tragic is this heaven,
 
-cuz we won't belong at all,
+cuz we won't belong at all,
 
 in which everybody is nothing
 
@@ -93,7 +93,7 @@ everybody deep inside
 
 wants me to just fucking smile
 
-to just shut the fuck up,
+to just shut the fuck up,
 
 to fake that I'm well,
 

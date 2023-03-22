@@ -25,12 +25,12 @@ as a "ghostly nobody".
 
 &nbsp;
 
-All of this monkish 
+All of this monkish
 
-type of stuff 
+type of stuff
 
-doesn't bore me to death, 
+doesn't bore me to death,
 
-it's just part 
+it's just part
 
 of my daily living.

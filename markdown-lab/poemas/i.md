@@ -297,7 +297,7 @@ I am outside, always present,
 
 always there, my conscious,
 
-my identity is the Everything.
+my identity is the Everything.
 
 &nbsp;
 

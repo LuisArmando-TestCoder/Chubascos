@@ -1,5 +1,6 @@
 import os
 import sys
+import shutil
 from modules.file import executeConditionalPath, createFile
 
 
@@ -9,6 +10,8 @@ folderPath = f"../markdown-lab"
 file = open(f"{folderPath}/{elementType}.txt", "r", encoding="utf-8")
 contents = file.read().split('---')
 file.close()
+
+# shutil.rmtree("../markdown-lab/poemas")
 
 executeConditionalPath(
     f"{folderPath}/{elementType}",

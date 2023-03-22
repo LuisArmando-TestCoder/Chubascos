@@ -5,9 +5,9 @@ title: "i-fell-into-the-pond"
 ---
 I fell into the pond,
 
-drowning in 
+drowning in
 
-a mermaid’s hand;
+a mermaid's hand;
 
 whirling and suffocating
 

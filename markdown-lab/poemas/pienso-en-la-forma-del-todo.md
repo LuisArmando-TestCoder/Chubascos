@@ -37,25 +37,25 @@ por pensar tanto y entonces actúo,
 
 pero la verdad es que en el fondo,
 
-no me siento culpable del todo,
+no me culpo del todo,
 
 me amo tanto como amo al mundo;
 
-la verdad es que estoy completo
+la verdad es que estoy completo,
 
-y me siento infinito,
+me siento infinito,
 
 aunque a veces me acuerdo
 
-del incierto y me hallo inseguro,
-
-pero de igual forma,
+del incierto y me hallo inseguro;
 
 todo lo que poseo, quiero compartirlo,
 
 y lo único que tengo es este cáos,
 
-como en todos los seres que respeto.
+como así lo tienen todos los seres,
+
+los cuales respeto.
 
 &nbsp;
 

@@ -11,7 +11,7 @@ porque le aterraba tu ternura,
 
 porque quería acercarme;
 
-te había dado, 
+te había dado,
 
 sin que te dieras cuenta,
 
@@ -21,7 +21,7 @@ las riendas de mi cuerpo.
 
 ¿Cómo podría hacerte mía
 
-si era yo el que 
+si era yo el que
 
 te pertenecía por completo?
 
@@ -33,7 +33,7 @@ pero sé que no estaría satisfecho;
 
 querría entonces
 
-hacer el amor mirando 
+hacer el amor mirando
 
 el iris del otro.
 
@@ -41,7 +41,7 @@ el iris del otro.
 
 Si te tuviera
 
-querría entonces 
+querría entonces
 
 comerme a besos
 

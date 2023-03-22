@@ -9,4 +9,4 @@ más que a mí mismo;
 
 de la gloria no soy siervo;
 
-solo quiero que me entiendan.
+solo quiero que me entiendan.

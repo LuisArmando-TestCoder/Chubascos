@@ -9,7 +9,7 @@ I love being sentient;
 
 I love waking up from dreaming
 
-into embracing one’s feelings;
+into embracing one's feelings;
 
 I love my skin that burns
 
