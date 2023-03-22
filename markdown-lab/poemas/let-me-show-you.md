@@ -13,7 +13,7 @@ I can see in you the first of them.
 
 &nbsp;
 
-Come on over here darling,
+Come on over here, my darling,
 
 let me show you wonders,
 
