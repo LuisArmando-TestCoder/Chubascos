@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/come-on-over-here-my-darling"
+slug: "/poemas/let-me-show-you"
 tags: ["happy"]
-title: "come-on-over-here-my-darling"
+title: "let-me-show-you"
 ---
-Come on over here my darling,
+Let me show you, my darling,
 
 let me show you all your wonders,
 
