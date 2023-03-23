@@ -47,20 +47,6 @@ que esta me ofrezca.
 
 &nbsp;
 
-Soy adicto a la música,
-
-a los poemas,
-
-a la capacidad artística
-
-de mi mente descarada,
-
-pacífica y honesta,
-
-que para crear tiene paciencia.
-
-&nbsp;
-
 Soy adicto a su presencia,
 
 a sus voces que conversan,
