@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
+    "uploadMac": "cd auto && python3 markdown.py poemas && git add -A && git commit -m \"Poem Update\" && git push origin master",
     "upload": "cd auto && py markdown.py poemas && git add -A && git commit -m \"Poem Update\" && git push origin master",
     "build": "gatsby build",
     "develop": "gatsby develop",
