@@ -29,13 +29,11 @@ mirando los soles de otros planetas,
 
 observando a los dioses
 
-de otras sociedades,
-
-con otras conciencias,
+de otras conciencias,
 
 donde nosotros somos
 
-los alienígenas.
+los alienígenas que imaginan.
 
 &nbsp;
 
