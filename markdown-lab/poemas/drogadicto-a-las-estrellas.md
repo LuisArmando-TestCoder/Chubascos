@@ -9,15 +9,13 @@ drogadicto a la rotación de la tierra,
 
 adicto a la silueta de gigantes
 
-que descansan en la brisa
+que descansan en la bóveda celeste,
 
-sobre una bóveda celeste
-
-que se fue al lado oscuro
+que en el lado oscuro
 
 del espectro de frecuencias,
 
-al lado tenue de las sombras.
+se fue al lado tenue de las sombras.
 
 &nbsp;
 
