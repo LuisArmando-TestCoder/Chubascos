@@ -13,7 +13,7 @@ que descansan en la bóveda celeste,
 
 que en el lado oscuro
 
-del espectro de frecuencias,
+del espectro de frecuencias
 
 se fue al lado tenue de las sombras.
 
