@@ -87,13 +87,13 @@ que no puedo sino escucharlas
 
 y agradecer de nuevo
 
-cuán adicto soy a ellas,
+cuán adicto soy
 
-y a las lágrimas calientes
+a las lágrimas calientes
 
 de las que se me llena el pecho,
 
-que me causa el conocerlas,
+porque las conozco,
 
 pues somos lo mismo
 
