@@ -33,7 +33,7 @@ after somebody has broken my jaw,
 
 after two decades of being alone, 
 
-after a death turn me into numb,
+after a death made me so numb,
 
 I'm standing, I'm standing,
 
