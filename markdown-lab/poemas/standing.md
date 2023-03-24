@@ -35,4 +35,6 @@ after two decades of being alone,
 
 after a death turn me into numb,
 
-I'm standing.
+I'm standing, I'm standing,
+
+I'm standing, I'm standing.
