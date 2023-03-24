@@ -19,7 +19,7 @@ my dreamer's eyes,
 
 driving me wild,
 
-as can see my courage inside.
+as I can see my courage inside.
 
 &nbsp;
 
