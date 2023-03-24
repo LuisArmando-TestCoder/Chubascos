@@ -9,7 +9,7 @@ testing my faith in the sink,
 
 I choose to live,
 
-my middle name; insanity.
+my middle name; Insanity.
 
 &nbsp;
 
