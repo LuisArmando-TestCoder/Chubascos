@@ -3,7 +3,7 @@ slug: "/poemas/standing"
 tags: ["normal"]
 title: "standing"
 ---
-Standing, I'm drowning again, 
+Standing; I'm drowning again, 
 
 testing my faith in the sink, 
 
