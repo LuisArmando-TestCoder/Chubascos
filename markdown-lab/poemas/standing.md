@@ -13,19 +13,17 @@ my middle name; insanity.
 
 &nbsp;
 
-I'm looking for freedom, 
+I'm looking for freedom;
 
-my vindication.
+my dreamer's eyes,
 
-&nbsp;
+driving me wild,
 
-My dreamer's eyes;
-
-driving me wild.
+my courage inside.
 
 &nbsp;
 
-Standing, I am standing, 
+Still standing, I am standing, 
 
 after three falls, 
 
