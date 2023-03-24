@@ -7,7 +7,7 @@ Standing, I'm drowning again,
 
 testing my faith in the sink, 
 
-I choose to live with my middle name,
+I choose to live,
 
 my middle name; insanity.
 
