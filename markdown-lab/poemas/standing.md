@@ -7,19 +7,9 @@ Standing; I'm drowning again,
 
 testing my faith in the sink,
 
-I choose to live,
+here underwater
 
-my middle name; Insanity.
-
-&nbsp;
-
-I'm looking for freedom;
-
-my dreamer's eyes,
-
-driving me wild,
-
-as I'm still standing.
+I choose to live.
 
 &nbsp;
 
