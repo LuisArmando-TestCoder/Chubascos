@@ -3,9 +3,9 @@ slug: "/poemas/standing"
 tags: ["happy"]
 title: "standing"
 ---
-Standing; I'm drowning again, 
+Standing; I'm drowning again,
 
-testing my faith in the sink, 
+testing my faith in the sink,
 
 I choose to live,
 
@@ -19,17 +19,15 @@ my dreamer's eyes,
 
 driving me wild,
 
-as I can see my courage inside.
+as I'm still standing.
 
 &nbsp;
 
-Still standing, I am standing, 
+After three falls,
 
-after three falls, 
+after somebody has broken my jaw
 
-after somebody has broken my jaw, 
-
-after two decades of being alone, 
+after two decades of being alone,
 
 after a death made me so numb,
 

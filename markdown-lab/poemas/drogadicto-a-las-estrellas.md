@@ -3,7 +3,7 @@ slug: "/poemas/drogadicto-a-las-estrellas"
 tags: ["happy"]
 title: "drogadicto-a-las-estrellas"
 ---
-Drogadicto a las estrellas, 
+Drogadicto a las estrellas,
 
 drogadicto a la rotación de la tierra,
 
@@ -51,7 +51,7 @@ Soy adicto a su presencia,
 
 a sus voces que conversan,
 
-y a su calor abrazador 
+y a su calor abrazador
 
 que me tienta el admirarlas.
 
