@@ -5,7 +5,7 @@ title: "i-already-forgot-about-you"
 ---
 I already forgot about you,
 
-wait... who am I talking about?
+wait… who am I talking about?
 
 &nbsp;
 
@@ -113,7 +113,7 @@ Today I was just passing by
 
 the flashing lights,
 
-but wait... which memories?
+but wait… which memories?
 
 today I was just being myself,
 
@@ -145,7 +145,7 @@ to my ultra idiotic friends,
 
 I wish I was engaged,
 
-together we felt like the best...
+together we felt like the best…
 
 but now I'm hollow.
 

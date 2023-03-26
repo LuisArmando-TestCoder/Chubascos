@@ -21,6 +21,6 @@ a future possible past.
 
 &nbsp;
 
-Gosh... I'm wrecking the present
+Gosh… I'm wrecking the present
 
 in possibilities.

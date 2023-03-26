@@ -7,6 +7,6 @@ Thank you for feeling sorry,
 
 that shows that you care
 
-about my feelings...
+about my feelings…
 
 I don't see that daily.

@@ -15,7 +15,7 @@ Por la senda de su halo, amor a primera vista, en su espalda tarareante se enamo
 
 &nbsp;
 
-Y ella, en su sonrisa, le respondió: —Aquí estoy... cantemos.
+Y ella, en su sonrisa, le respondió: —Aquí estoy… cantemos.
 
 &nbsp;
 

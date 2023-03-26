@@ -11,7 +11,7 @@ in those esoteric treats,
 
 whatever phase that you face
 
-is plenitude to me... Kind of...
+is plenitude to me… Kind of…
 
 &nbsp;
 

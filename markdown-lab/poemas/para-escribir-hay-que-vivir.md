@@ -71,7 +71,7 @@ de lo único que poseo,
 
 No he visto un psicólogo
 
-en mucho tiempo... ¿debería?
+en mucho tiempo… ¿debería?
 
 tienen mucho trabajo,
 

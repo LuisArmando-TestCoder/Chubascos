@@ -7,7 +7,7 @@ Veo almas vacías, moluscos que se levantan, pues se llenan con lo que idolatran
 
 &nbsp;
 
-Así como los niños juegan a las profesiones, a la vida, a las batallas y a los héroes, así, tantos adultos se siguen aferrando a un personaje, a un absurdo avatar, para gastar el tiempo mientras mueren...
+Así como los niños juegan a las profesiones, a la vida, a las batallas y a los héroes, así, tantos adultos se siguen aferrando a un personaje, a un absurdo avatar, para gastar el tiempo mientras mueren…
 
 &nbsp;
 

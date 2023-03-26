@@ -25,9 +25,9 @@ y si el amor es Dios,
 
 he abandonado a Dios
 
-y caminado directo hacia...
+y caminado directo hacia…
 
-No quiero ni decirlo...
+No quiero ni decirlo…
 
 Hacia todo lo contrario
 
@@ -121,7 +121,7 @@ que he conocido,
 
 la mejor persona
 
-que me ha ocurrido...
+que me ha ocurrido…
 
 y te sigo rechazando.
 
