@@ -9,6 +9,6 @@ and if I stopped,
 
 just for a moment,
 
-my colibrí heart would explode,
+my hummingbird heart would explode,
 
 my wings would lie fallen.

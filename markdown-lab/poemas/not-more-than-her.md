@@ -27,7 +27,7 @@ I think that the only thing I can really do is to burn alive within this cold co
 
 &nbsp;
 
-I now know for a fact that if we were two stars approaching each other, we would make a fine great supernova, but not without first dancing on the waves of space/time, before we come up to the explode in it.
+I now know for a fact that if we were two stars approaching each other, we would make a fine great supernova, but not without first dancing on the waves of space/time, before we come up to explode in it.
 
 &nbsp;
 
