@@ -19,7 +19,7 @@ We, down here, on planets, burn alive in flames while this sun in my head falls 
 
 &nbsp;
 
-Sometimes I think I’m eight minutes away from you, but some others, is more like tens of millions of kilometers apart from spending a life together with you. 
+Sometimes I think I’m eight minutes away from you, but some others, is more like tens of millions of kilometers apart from spending a life together with you; a hundred forty-nine million, to be exact. 
 
 &nbsp;
 
