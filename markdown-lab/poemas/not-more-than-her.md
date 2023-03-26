@@ -35,4 +35,4 @@ I feel this everyday, every second of my existence. Nevermind.
 
 &nbsp;
 
-I adore science, the Universe, art, experiences and creativity, I adore wonders, but none of them more than her, that’s what I meant; not more than her; and also that… I adore you from miles afar.
+I adore science, the Universe, art, experiences and creativity, overall wonders, but none of them more than her, that’s what I meant; not more than her; and also that… I adore you from miles afar.
