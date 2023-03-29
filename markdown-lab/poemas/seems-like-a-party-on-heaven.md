@@ -29,7 +29,11 @@ somebody come,
 
 please come and hug me,
 
-I'm tired of being alone.
+I'm tired of being alone,
+
+deprived from the wonders
+
+my baby ripped off.
 
 &nbsp;
 
