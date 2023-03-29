@@ -65,13 +65,11 @@ Sanity is broken by snow,
 
 you, Mr void,
 
-shattered my bones in the floor,
+shattered my bones,
 
-freezed me in my conscious,
+asleep on the floor;
 
-asleep on the floor
-
-from somebody's rooftop,
+from somebody's rooftop
 
 my body is long gone.
 
