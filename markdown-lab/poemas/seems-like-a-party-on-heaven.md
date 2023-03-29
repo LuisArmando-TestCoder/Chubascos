@@ -127,4 +127,4 @@ remembering good times,
 
 my babe is long gone,
 
-and I am now gone.
+meanwhile I burn.
