@@ -85,23 +85,21 @@ my body is long gone.
 
 In the name of delusion,
 
-are you the joke?
+is this a joke?
 
-In the name of delusion,
+in the name of delusion,
 
-to never come back;
+I wish not to wish;
 
-In the name of delusion,
+in the name of delusion,
 
-like we don't exist;
+I wish that you save me;
 
-In the name of delusion,
+in the name of delusion,
 
-I wish not to wish,
+I wish I forget
 
-In the name of delusion,
-
-I wish that you save me.
+your hunter eyes.
 
 &nbsp;
 
