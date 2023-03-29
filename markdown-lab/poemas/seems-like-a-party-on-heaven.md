@@ -53,11 +53,7 @@ so me and my voices,
 
 so we could go cold,
 
-while others don't,
-
-so they are grateful
-
-that they're not us?
+while others don't?
 
 &nbsp;
 
