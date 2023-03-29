@@ -99,7 +99,7 @@ you are long gone.
 
 &nbsp;
 
-But dad packed his stuff
+Dad packed his stuff
 
 to his children in Heaven,
 
@@ -115,4 +115,6 @@ why are you smiling
 
 as we go cold?
 
-I see, no love.
+no love,
+
+God killed himself.
