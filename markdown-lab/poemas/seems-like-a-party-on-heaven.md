@@ -81,19 +81,17 @@ You never come no more;
 
 you behaved like us;
 
-we don't exist at all:
+we don't exist at all;
 
-I wish I wished no more.
+I wish I wished no more;
 
-&nbsp;
+but I wish that you saved me
 
-I wish that you saved me regardless
+regardless of everything,
 
 of my paranoia,
 
-but no,
-
-you are long gone.
+but you are long gone.
 
 &nbsp;
 
