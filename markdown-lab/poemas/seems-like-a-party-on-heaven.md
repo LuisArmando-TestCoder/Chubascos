@@ -99,10 +99,6 @@ but you are long gone.
 
 Babe packed his stuff
 
-to his children in Heaven,
-
-he fled, long time ago;
-
 didn't he love me?
 
 why is he smiling
