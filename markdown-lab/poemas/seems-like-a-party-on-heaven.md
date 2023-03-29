@@ -79,9 +79,7 @@ are you the joke?
 
 You never come;
 
-behaved like
-
-we don't exist,
+like we don't exist,
 
 and I wish
 
