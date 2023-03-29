@@ -15,9 +15,9 @@ a long time ago?
 
 &nbsp;
 
-Your absence is purging me
+Your absence purges me;
 
-as I burn in cold.
+I burn in cold.
 
 &nbsp;
 
