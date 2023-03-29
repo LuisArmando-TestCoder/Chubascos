@@ -39,7 +39,11 @@ but she is nothing
 
 but naked in front of the world
 
-that lusts over for her.
+that lusts over for her,
+
+she likes the attention
+
+she was never given.
 
 &nbsp;
 
