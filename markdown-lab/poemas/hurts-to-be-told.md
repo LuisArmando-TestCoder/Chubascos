@@ -19,11 +19,11 @@ greed and stutter.
 
 &nbsp;
 
-Hurts to be told
+Hurts to be told:
 
-that you don't belong
+you don't belong;
 
-and she doesn't care;
+she doesn't care;
 
 your life doesn't matter.
 
@@ -35,15 +35,13 @@ that she's alive,
 
 that she's awake,
 
+that she loves hard,
+
 but she is nothing
 
-but naked in front of the world
+but naked in front
 
-that lusts over her,
-
-she likes the attention
-
-not given before.
+my well dressed up pain.
 
 &nbsp;
 
@@ -51,15 +49,15 @@ This is a mask,
 
 the mask of a man,
 
-the mask is a rock
+I'm not awake,
 
-that is not awake,
+I don't love hard,
 
-that doesn't love hard,
+I'm not insane,
 
-that is not insane,
+I'm not alive,
 
-insane for your lost.
+men do not cry.
 
 &nbsp;
 
@@ -153,12 +151,12 @@ This is a mask,
 
 the mask of a man,
 
-the mask is a rock
+I'm not awake,
 
-that is not awake,
+I don't love hard,
 
-that doesn't love hard,
+I'm not insane,
 
-that is not insane,
+I'm not alive,
 
-insane for your lost.
+men do not cry.
