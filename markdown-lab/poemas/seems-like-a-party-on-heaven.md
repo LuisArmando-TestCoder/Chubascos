@@ -5,7 +5,7 @@ title: "seems-like-a-party-on-heaven"
 ---
 Seems like a party on Heaven,
 
-at which I was not invited on.
+in which I am not.
 
 &nbsp;
 
