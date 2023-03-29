@@ -89,7 +89,7 @@ pretty poem you wrote
 
 you are an artist;
 
-I gotta go.
+I felt your words.
 
 &nbsp;
 
