@@ -25,7 +25,7 @@ Where's my salvation?
 
 Somebody come,
 
-I'm starving;
+I am starving;
 
 somebody come,
 
