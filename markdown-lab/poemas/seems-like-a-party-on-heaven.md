@@ -57,15 +57,15 @@ while others don't?
 
 &nbsp;
 
-Sanity is broken by snow,
+Sanity is broken by snow;
 
-you, Mr void,
+you, Mr Void; you, Mr Abyss,
 
 shattered my bones,
 
 asleep on the floor;
 
-from somebody's rooftop
+somebody's rooftop;
 
 my body is long gone.
 
@@ -73,7 +73,7 @@ my body is long gone.
 
 In the name of delusion,
 
-are you the joker?
+are you the joke?
 
 &nbsp;
 
