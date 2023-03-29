@@ -15,7 +15,7 @@ that you're a soldier,
 
 to die for her sins
 
-of lust and stutter.
+of greed and stutter.
 
 &nbsp;
 
