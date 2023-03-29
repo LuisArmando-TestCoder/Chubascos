@@ -45,7 +45,7 @@ I was your dog.
 
 Did you make sadness,
 
-so we go cold,
+so we could go cold,
 
 while others don't,
 
