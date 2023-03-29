@@ -49,9 +49,9 @@ I was your dog.
 
 Did you make sadness,
 
-so we could go cold,
+so me and my voices,
 
-me and my voices,
+so we could go cold,
 
 while others don't,
 
