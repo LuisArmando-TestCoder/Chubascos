@@ -51,7 +51,7 @@ while others don't,
 
 so they are grateful
 
-my shoes are not their own?
+that they are not me?
 
 &nbsp;
 
