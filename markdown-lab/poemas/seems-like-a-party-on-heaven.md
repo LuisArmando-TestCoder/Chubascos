@@ -13,9 +13,9 @@ I am a sinner
 
 since a long time ago;
 
-you need me to purge
+you need me to purge my
 
-my rachitic soul?
+rachitic soul?
 
 &nbsp;
 
