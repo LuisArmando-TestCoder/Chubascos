@@ -37,7 +37,7 @@ my babe ripped me off from.
 
 &nbsp;
 
-Baby I tried it,
+Baby, I tried it,
 
 I tried to be good,
 
