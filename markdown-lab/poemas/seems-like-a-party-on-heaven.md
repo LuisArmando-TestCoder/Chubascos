@@ -81,11 +81,11 @@ are you the joke?
 
 You never come no more;
 
-you behaved like us
+you behaved like us;
 
-we don't exist at all
+we don't exist at all:
 
-I wish to wish no more.
+I wish I wish no more.
 
 &nbsp;
 
