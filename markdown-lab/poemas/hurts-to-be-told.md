@@ -71,19 +71,19 @@ command: just, be well.
 
 &nbsp;
 
-I'm used to not care
+I'm used to not caring
 
 and sing my sad songs
 
-and carry insane
+and carry the insane
 
-the weight of my rocks.
+weight of my secrets.
 
 &nbsp;
 
-And they tell me then
+And then they tell me:
 
-pretty poem you wrote
+pretty poem, you wrote,
 
 you are an artist;
 
