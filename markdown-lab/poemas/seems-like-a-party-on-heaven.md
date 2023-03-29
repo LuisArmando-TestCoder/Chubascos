@@ -95,7 +95,7 @@ Babe packed his stuff
 
 didn't he love me?
 
-why is he smiling
+Why is he smiling
 
 as I go cold?
 
