@@ -63,13 +63,11 @@ shattered my bones in the floor,
 
 freezed me in my conscious,
 
-asleep on the floor,
+asleep on the floor
 
 from somebody's rooftop,
 
-my body is long gone
-
-for a lack of warm.
+my body is long gone.
 
 &nbsp;
 
