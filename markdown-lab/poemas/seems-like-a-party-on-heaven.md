@@ -99,7 +99,7 @@ I wish not to wish,
 
 In the name of delusion,
 
-I still wish you save me.
+I wish you save me.
 
 &nbsp;
 
