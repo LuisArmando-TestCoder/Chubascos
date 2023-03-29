@@ -1,17 +1,17 @@
 ---
-slug: "/poemas/it-hurst-to-be-told"
+slug: "/poemas/hurst-to-be-told"
 tags: ["desperation"]
-title: "it-hurst-to-be-told"
+title: "hurst-to-be-told"
 ---
-It hurst to be told
+Hurst to be told
 
 that you don't matter.
 
 &nbsp;
 
-It hurst to be told
+Hurst to be told
 
-that you are a soldier,
+that you're a soldier,
 
 to die for her sins
 
@@ -19,7 +19,7 @@ of lust and stutter.
 
 &nbsp;
 
-It hurst to be told
+Hurst to be told
 
 that you don't belong
 
