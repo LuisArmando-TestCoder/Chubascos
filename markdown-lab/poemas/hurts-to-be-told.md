@@ -45,9 +45,7 @@ my well dressed up pain.
 
 &nbsp;
 
-This is a mask,
-
-the mask of a man,
+Hurts to be told
 
 I'm not awake,
 
@@ -57,7 +55,7 @@ I'm not insane,
 
 I'm not alive,
 
-men do not cry.
+I cannot cry.
 
 &nbsp;
 
@@ -147,9 +145,7 @@ and then I fail.
 
 &nbsp;
 
-This is a mask,
-
-the mask of a man,
+Hurts to be told
 
 I'm not awake,
 
@@ -159,4 +155,4 @@ I'm not insane,
 
 I'm not alive,
 
-men do not cry.
+I cannot cry.
