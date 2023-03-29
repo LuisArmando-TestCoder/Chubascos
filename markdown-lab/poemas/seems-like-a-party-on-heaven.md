@@ -59,7 +59,7 @@ while others don't?
 
 Sanity is broken by snow;
 
-you, Mr Void; you, Mr Abyss,
+you, Mr Void;
 
 shattered my bones,
 
