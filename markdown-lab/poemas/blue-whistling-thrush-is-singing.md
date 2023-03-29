@@ -17,7 +17,7 @@ love letter just for you.
 
 How could I express the brightness
 
-that’s coming all from you?
+that's coming all from you?
 
 &nbsp;
 
@@ -41,7 +41,7 @@ stopping time for you.
 
 You are light in darkness,
 
-don’t fear, I'll walk with you.
+don't fear, I'll walk with you.
 
 &nbsp;
 

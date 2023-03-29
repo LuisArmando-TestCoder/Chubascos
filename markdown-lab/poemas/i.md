@@ -23,7 +23,7 @@ every speck of uncertainty
 
 for the unknown,
 
-I’ve faced it,
+I've faced it,
 
 “Let it all in!”,
 
@@ -71,7 +71,7 @@ or for the ages.
 
 &nbsp;
 
-I’ve processed
+I've processed
 
 even my own sense of value,
 
@@ -119,7 +119,7 @@ for time crystals
 
 always going round and cyclical,
 
-and yet, I’m here,
+and yet, I'm here,
 
 awake,
 
@@ -147,7 +147,7 @@ and to connect it
 
 with something,
 
-but isn’t that pursue pointless?
+but isn't that pursue pointless?
 
 But everything is possible,
 
@@ -209,7 +209,7 @@ I am possible,
 
 therefore,
 
-I’m Everything.
+I'm Everything.
 
 &nbsp;
 
@@ -283,7 +283,7 @@ each and every one of them,
 
 these were disorders no more,
 
-and then, they didn’t care
+and then, they didn't care
 
 to disturb me any time soon,
 

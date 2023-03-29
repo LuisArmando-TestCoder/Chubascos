@@ -87,7 +87,7 @@ God doesn't care;
 
 I asked for help;
 
-I’m still trapped in medication;
+I'm still trapped in medication;
 
 everybody deep inside
 
