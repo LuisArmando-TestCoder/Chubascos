@@ -31,7 +31,7 @@ somebody come,
 
 please come and hug me;
 
-so I don't burn cold.
+I don't wanna burn cold.
 
 &nbsp;
 
@@ -123,13 +123,13 @@ I jumped from a rooftop;
 
 asleep on the floor;
 
-my body is long gone.
+my body is long gone now.
 
 &nbsp;
 
 My babe is long gone,
 
-meanwhile I burn;
+as I burn in cold;
 
 seems like a party on Heaven
 
