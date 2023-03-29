@@ -53,9 +53,9 @@ Baby, I tried it,
 
 I tried to be good,
 
-but good was not cool;
+but good was not cool enough
 
-I was your dog.
+as I was your dog.
 
 &nbsp;
 
