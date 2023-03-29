@@ -109,7 +109,7 @@ I see them rows of souls
 
 waving to ground
 
-as they´re playing out
+as they're playing out
 
 casualties of crowns.
 
@@ -137,6 +137,6 @@ I see them rows of souls
 
 waving to ground
 
-as they´re playing out
+as they're playing out
 
 casualties of crowns.

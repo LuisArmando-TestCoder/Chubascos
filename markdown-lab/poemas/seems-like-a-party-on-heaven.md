@@ -65,7 +65,7 @@ freezed me in my conscious,
 
 asleep on the floor,
 
-from somebody´s rooftop,
+from somebody's rooftop,
 
 my body is long gone
 

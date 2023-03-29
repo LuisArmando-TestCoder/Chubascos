@@ -3,7 +3,7 @@ slug: "/poemas/i-say"
 tags: ["sad"]
 title: "i-say"
 ---
-I say, ending myself, and everybody watches, bumping their head to the rhythm, but, hey dump fucks, I´m softly screaming.
+I say, ending myself, and everybody watches, bumping their head to the rhythm, but, hey dump fucks, I'm softly screaming.
 
 &nbsp;
 
