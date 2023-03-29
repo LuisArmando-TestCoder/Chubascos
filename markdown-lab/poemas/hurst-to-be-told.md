@@ -37,9 +37,9 @@ that she's awake,
 
 but she is nothing
 
-but naked in front
+but naked in front of the world
 
-of the world that lusts for her.
+that lusts over for her.
 
 &nbsp;
 
