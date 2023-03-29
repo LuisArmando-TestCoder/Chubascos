@@ -51,6 +51,8 @@ Did you make sadness,
 
 so we could go cold,
 
+me and my voices,
+
 while others don't,
 
 so they are grateful
