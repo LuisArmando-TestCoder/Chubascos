@@ -59,9 +59,9 @@ I was your dog.
 
 Did you make sadness,
 
-so me and my voices,
+so me and my voices
 
-so we drown in cold
+could drown in cold,
 
 while others don't?
 
