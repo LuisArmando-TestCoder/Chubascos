@@ -31,9 +31,9 @@ please come and hug me,
 
 I'm tired of being alone,
 
-deprived from the wonders
+deprived from the loving
 
-my babe ripped off.
+my babe ripped me off from.
 
 &nbsp;
 
