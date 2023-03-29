@@ -89,9 +89,13 @@ I wish I wished no more.
 
 &nbsp;
 
-I wish you saved me regardless
+I wish that you saved me regardless
 
-of my own paranoia.
+of my paranoia,
+
+but no,
+
+you are long gone.
 
 &nbsp;
 
