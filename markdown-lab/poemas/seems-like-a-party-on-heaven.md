@@ -85,15 +85,21 @@ In the name of delusion,
 
 are you the joke?
 
-&nbsp;
+In the name of delusion,
 
-You never come back;
+to never come back;
 
-like we don't exist,
+In the name of delusion,
+
+like we don't exist;
+
+In the name of delusion,
 
 I wish not to wish,
 
-I still wish that you save me.
+In the name of delusion,
+
+I still wish you save me.
 
 &nbsp;
 
