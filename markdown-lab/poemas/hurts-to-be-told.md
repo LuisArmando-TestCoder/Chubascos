@@ -127,9 +127,9 @@ a thousand times.
 
 She thinks I don't care,
 
-I hide so much
+I hide so much,
 
-the much I love her,
+how much I love her,
 
 I hide much more.
 
