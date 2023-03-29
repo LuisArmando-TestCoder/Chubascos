@@ -57,9 +57,9 @@ that is not awake,
 
 that doesn't love hard,
 
-that is not insane
+that is not insane,
 
-only for you.
+insane for your lost.
 
 &nbsp;
 
@@ -159,6 +159,6 @@ that is not awake,
 
 that doesn't love hard,
 
-that is not insane
+that is not insane,
 
-only for you.
+insane for your lost.
