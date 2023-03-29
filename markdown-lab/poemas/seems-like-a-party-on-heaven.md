@@ -59,13 +59,13 @@ as I was your dog.
 
 &nbsp;
 
-Did you make sadness,
+Baby, I tried it;
+
+did you make sadness,
 
 so me and my voices
 
-could drown in cold,
-
-while others don't?
+could drown in cold?
 
 &nbsp;
 
