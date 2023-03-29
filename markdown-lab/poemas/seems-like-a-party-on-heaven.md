@@ -9,13 +9,15 @@ in which I am not.
 
 &nbsp;
 
-I am a sinner since
+Am I the sinner since
 
-a long time ago;
+a long time ago?
 
-you need me to purge
+&nbsp;
 
-my rachitic soul?
+Your absence is purging me
+
+as I burn in cold.
 
 &nbsp;
 
