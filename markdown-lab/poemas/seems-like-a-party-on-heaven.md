@@ -39,9 +39,9 @@ you, Mr Void,
 
 shattered my bones,
 
-asleep on the floor;
-
 I jumped from a rooftop;
+
+asleep on the floor;
 
 my body is long gone.
 
@@ -73,9 +73,9 @@ you, Mr Void,
 
 shattered my bones,
 
-asleep on the floor;
-
 I jumped from a rooftop;
+
+asleep on the floor;
 
 my body is long gone.
 
@@ -113,9 +113,9 @@ you, Mr Void,
 
 shattered my bones,
 
-asleep on the floor;
-
 I jumped from a rooftop;
+
+asleep on the floor;
 
 my body is long gone.
 
