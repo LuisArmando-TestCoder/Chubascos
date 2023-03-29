@@ -9,9 +9,9 @@ in which I am not.
 
 &nbsp;
 
-I'm a sinner since
+I am a sinner since
 
-a long time ago,
+a long time ago;
 
 do you need me to purge
 
@@ -19,15 +19,15 @@ my rachitic soul?
 
 &nbsp;
 
-Where's my salvation,
+Where's my salvation?
+
+Somebody come,
+
+I'm starving;
 
 somebody come,
 
-I'm starving,
-
-somebody come,
-
-please come and hug me,
+please come and hug me;
 
 I'm tired of being alone,
 
@@ -37,7 +37,7 @@ my babe ripped me off from.
 
 &nbsp;
 
-Believe me I tried it,
+Baby I tried it,
 
 I tried to be good,
 
