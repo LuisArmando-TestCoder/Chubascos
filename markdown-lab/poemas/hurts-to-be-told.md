@@ -1,15 +1,15 @@
 ---
-slug: "/poemas/hurst-to-be-told"
+slug: "/poemas/hurts-to-be-told"
 tags: ["desperation"]
-title: "hurst-to-be-told"
+title: "hurts-to-be-told"
 ---
-Hurst to be told
+Hurts to be told
 
 that you don't matter.
 
 &nbsp;
 
-Hurst to be told
+Hurts to be told
 
 that you're a soldier,
 
@@ -19,7 +19,7 @@ of greed and stutter.
 
 &nbsp;
 
-Hurst to be told
+Hurts to be told
 
 that you don't belong
 
