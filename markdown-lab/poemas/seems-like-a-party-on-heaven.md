@@ -109,12 +109,12 @@ you are no savior.
 
 &nbsp;
 
-Didn't you love us?
+Didn't you love?
 
 why are you smiling
 
 as we go cold?
 
-no love,
+no warm, no love,
 
-God killed himself.
+daddy is long gone.
