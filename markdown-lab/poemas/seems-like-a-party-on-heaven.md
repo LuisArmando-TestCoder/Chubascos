@@ -61,7 +61,7 @@ Did you make sadness,
 
 so me and my voices,
 
-so we could go cold
+so we drown in cold
 
 while others don't?
 
