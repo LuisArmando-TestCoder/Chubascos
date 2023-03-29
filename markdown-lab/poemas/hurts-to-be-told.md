@@ -143,7 +143,7 @@ I am alive,
 
 I am awake,
 
-I love so hard,
+I love so hard
 
 and then I fail.
 
