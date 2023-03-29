@@ -13,7 +13,7 @@ I am a sinner since
 
 a long time ago;
 
-do you need me to purge
+you need me to purge
 
 my rachitic soul?
 
