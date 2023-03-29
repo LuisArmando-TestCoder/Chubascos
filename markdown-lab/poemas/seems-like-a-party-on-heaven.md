@@ -85,7 +85,7 @@ you behaved like us;
 
 we don't exist at all:
 
-I wish I wish no more.
+I wish I wished no more.
 
 &nbsp;
 
