@@ -77,7 +77,7 @@ and sing my sad songs
 
 and carry the insane
 
-weight of secrets.
+weight of thoughts.
 
 &nbsp;
 
