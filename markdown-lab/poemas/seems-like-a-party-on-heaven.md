@@ -9,9 +9,9 @@ in which I am not.
 
 &nbsp;
 
-I am a sinner
+I am a sinner since
 
-since a long time ago;
+a long time ago;
 
 you need me to purge
 
