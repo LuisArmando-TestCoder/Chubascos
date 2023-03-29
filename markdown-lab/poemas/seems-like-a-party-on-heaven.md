@@ -29,11 +29,21 @@ somebody come,
 
 please come and hug me;
 
-I'm tired of being alone,
+I'm tired of being alone.
 
-deprived from the loving
+&nbsp;
 
-my babe ripped me off from.
+Sanity is broken by snow;
+
+you, Mr Void,
+
+shattered my bones,
+
+asleep on the floor;
+
+I jumped from a rooftop;
+
+my body is long gone.
 
 &nbsp;
 
@@ -59,13 +69,13 @@ while others don't?
 
 Sanity is broken by snow;
 
-you, Mr Void;
+you, Mr Void,
 
 shattered my bones,
 
 asleep on the floor;
 
-somebody's rooftop;
+I jumped from a rooftop;
 
 my body is long gone.
 
@@ -83,11 +93,7 @@ like we don't exist,
 
 I wish not to wish,
 
-but I still wish
-
-that you save me,
-
-but you are long gone.
+I still wish that you save me.
 
 &nbsp;
 
@@ -101,6 +107,24 @@ as I go cold?
 
 &nbsp;
 
-Where is my warm?
+Sanity is broken by snow;
 
-Babe is long gone.
+you, Mr Void,
+
+shattered my bones,
+
+asleep on the floor;
+
+I jumped from a rooftop;
+
+my body is long gone.
+
+&nbsp;
+
+Here is my warm,
+
+remembering good times,
+
+my babe is long gone,
+
+and I am now gone.
