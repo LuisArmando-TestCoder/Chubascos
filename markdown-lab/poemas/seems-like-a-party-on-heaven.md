@@ -29,7 +29,7 @@ somebody come,
 
 please come and hug me;
 
-I'm tired of being alone.
+so I don't burn cold.
 
 &nbsp;
 
