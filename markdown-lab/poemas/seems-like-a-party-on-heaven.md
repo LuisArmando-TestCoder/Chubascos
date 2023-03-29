@@ -41,7 +41,7 @@ you, Mr Void,
 
 shattered my bones,
 
-I jumped from a rooftop;
+I jumped from rooftops;
 
 asleep on the floor;
 
@@ -75,7 +75,7 @@ you, Mr Void,
 
 shattered my bones,
 
-I jumped from a rooftop;
+I jumped from rooftops;
 
 asleep on the floor;
 
@@ -94,30 +94,6 @@ I wish I forget
 your hunter eyes
 
 that turn me into prey.
-
-&nbsp;
-
-Babe packed his stuff
-
-didn't he love me?
-
-Why is he smiling
-
-as I go cold?
-
-&nbsp;
-
-Sanity is broken by snow;
-
-you, Mr Void,
-
-shattered my bones,
-
-I jumped from a rooftop;
-
-asleep on the floor;
-
-my body is long gone now.
 
 &nbsp;
 
