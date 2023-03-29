@@ -17,7 +17,7 @@ a long time ago?
 
 Your absence purges me;
 
-I burn in cold.
+as I burn in cold.
 
 &nbsp;
 
