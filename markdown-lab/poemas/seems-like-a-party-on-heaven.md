@@ -3,7 +3,7 @@ slug: "/poemas/seems-like-a-party-on-heaven"
 tags: ["desperation"]
 title: "seems-like-a-party-on-heaven"
 ---
-Seems like a party on Heaven,
+Seems like a party on Heaven
 
 in which I am not.
 
