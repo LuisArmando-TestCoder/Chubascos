@@ -13,11 +13,9 @@ Daddy, I'm a sinner
 
 since a long time ago,
 
-can I still go,
+do you need me to purge
 
-or, do you need me to purge
-
-my own soul?
+my own rachitic soul?
 
 &nbsp;
 
@@ -27,7 +25,7 @@ somebody come,
 
 I am starving,
 
-please somebody come,
+somebody come,
 
 please come and hug me,
 
@@ -39,47 +37,37 @@ Believe me I tried it,
 
 I tried to be good,
 
-but good was not cool,
+but good was not cool;
 
-as I was your dog.
-
-&nbsp;
-
-Did you make sadness,
-
-as that is really the only thing
-
-that comes from me.
-
-I go cold and I burn.
+I was your dog.
 
 &nbsp;
 
 Did you make sadness,
 
-so I go cold,
+so we go cold,
 
 while others don't,
 
-so they can feel grateful
+so they are grateful
 
-to not wear my shoes?
+my shoes are not their own?
 
 &nbsp;
 
-My sanity is broken by snow,
+Sanity is broken by snow,
 
 you, Mr void,
 
 shattered my bones in the floor,
 
-freezed my conscious
+freezed me in my conscious,
 
-from a thirteenth floor,
+asleep on the floor,
 
-my body shattered
+from somebody´s rooftop,
 
-was already long gone
+my body is long gone
 
 for a lack of warm.
 
@@ -87,40 +75,40 @@ for a lack of warm.
 
 In the name of delusion,
 
-are you the joke,
-
-are you the problem
-
-we´re coming from?
+are you the joke?
 
 &nbsp;
 
-You behaved like us,
+You never come no more;
 
-as we don't exist at all,
+you behaved like us
 
-and you never come no more,
+we don't exist at all
 
-I wish you saved me regardless,
-
-I wish not wishing.
+I wish to wish no more.
 
 &nbsp;
 
-Dad packed his stuff
+I wish you saved me regardless
 
-a long time ago,
-
-fled to his children in Heaven;
-
-you are not a savior;
-
-where is our mom?
+of my own paranoia.
 
 &nbsp;
 
-Didn't you love me?
+But dad packed his stuff
+
+to his children in Heaven,
+
+he fled a long time ago;
+
+you are no savior.
+
+&nbsp;
+
+Didn't you love us?
 
 why are you smiling
 
-as I go cold?
+as we go cold?
+
+I see, no love.
