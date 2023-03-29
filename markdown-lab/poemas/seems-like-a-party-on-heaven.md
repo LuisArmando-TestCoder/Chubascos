@@ -51,7 +51,7 @@ while others don't,
 
 so they are grateful
 
-that they are not us?
+that they're not us?
 
 &nbsp;
 
