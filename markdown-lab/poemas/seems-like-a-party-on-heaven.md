@@ -77,15 +77,15 @@ are you the joke?
 
 &nbsp;
 
-You never come;
+You never come back;
 
 like we don't exist,
 
-and I wish
+I wish not to wish,
 
-I wished no more;
+but I still wish
 
-but I wish you saved me,
+that you save me,
 
 but you are long gone.
 
