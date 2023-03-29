@@ -11,7 +11,7 @@ in which I am not.
 
 Babe, I'm a sinner
 
-since long time ago,
+a long time ago,
 
 do you need me to purge
 
