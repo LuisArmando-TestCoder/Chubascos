@@ -39,7 +39,7 @@ that she loves hard,
 
 but she is nothing
 
-but naked in front
+but naked in front of
 
 my well dressed up pain.
 
