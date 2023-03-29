@@ -9,7 +9,7 @@ in which I am not.
 
 &nbsp;
 
-Daddy, I'm a sinner
+Babe, I'm a sinner
 
 since a long time ago,
 
@@ -99,7 +99,7 @@ you are long gone.
 
 &nbsp;
 
-Dad packed his stuff
+Babe packed his stuff
 
 to his children in Heaven,
 
@@ -117,4 +117,4 @@ as we go cold?
 
 no warm, no love,
 
-daddy is long gone.
+babe is long gone.
