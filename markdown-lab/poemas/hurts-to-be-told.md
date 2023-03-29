@@ -11,11 +11,11 @@ that you don't matter.
 
 Hurts to be told
 
-that you're a soldier,
+that you're a martyr,
 
-to die for her sins
+to die for her sins,
 
-of greed and stutter.
+greed and stutter.
 
 &nbsp;
 
