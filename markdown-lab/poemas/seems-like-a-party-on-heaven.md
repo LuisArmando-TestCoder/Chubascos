@@ -121,10 +121,10 @@ my body is long gone.
 
 &nbsp;
 
-Here is my warm,
+My babe is long gone,
 
-remembering good times,
+meanwhile I burn;
 
-my babe is long gone,
+seems like a party on Heaven
 
-meanwhile I burn.
+in which I am not.
