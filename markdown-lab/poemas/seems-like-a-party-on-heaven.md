@@ -77,23 +77,21 @@ my body is long gone.
 
 In the name of delusion,
 
-are you the joke?
+are you the joker?
 
 &nbsp;
 
-You never come no more;
+You never come;
 
-you behaved like us;
+behaved like
 
-we don't exist at all;
+we don't exist,
 
-I wish I wished no more;
+and I wish
 
-but I wish that you saved me
+I wished no more;
 
-regardless of everything,
-
-of my paranoia,
+but I wish you saved me,
 
 but you are long gone.
 
