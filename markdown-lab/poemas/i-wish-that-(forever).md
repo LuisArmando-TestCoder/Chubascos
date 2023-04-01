@@ -59,9 +59,7 @@ shoulders and fangs.
 
 &nbsp;
 
-Darling,
-
-dance down the shroud,
+Dance down the shroud,
 
 hidden in dark,
 
@@ -69,15 +67,17 @@ naked in veils;
 
 with my bare hands
 
-I see you dancing.
+I see you, darling.
 
 &nbsp;
 
-Wrapped around neck;
+Around neck;
 
 fingers that scream:
 
-love me, my dear.
+love me, my dear,
+
+wrapped around me.
 
 &nbsp;
 
@@ -85,6 +85,6 @@ Shudder so strong
 
 for a soft touch,
 
-we shiver again,
+shiver again,
 
 invoking our rain.
