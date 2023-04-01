@@ -85,6 +85,6 @@ Shudder so strong
 
 for a soft touch,
 
-shiver again,
+we shiver again,
 
 invoking our rain.
