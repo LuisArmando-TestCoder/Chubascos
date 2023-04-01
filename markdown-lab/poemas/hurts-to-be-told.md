@@ -111,7 +111,7 @@ by the love of my life.
 
 I've live thousand lives
 
-but she has not 
+but she has not
 
 lived one of those by my side,
 
