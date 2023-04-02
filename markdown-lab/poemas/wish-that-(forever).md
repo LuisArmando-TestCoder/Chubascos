@@ -1,13 +1,13 @@
 ---
-slug: "/poemas/i-wish-that-(forever)"
+slug: "/poemas/wish-that-(forever)"
 tags: ["love"]
-title: "i-wish-that-(forever)"
+title: "wish-that-(forever)"
 ---
-I wish that (forever)
+Wish that (forever)
 
-I could be (forever)
+I could (forever)
 
-by your side (and ever).
+be by your side.
 
 &nbsp;
 
