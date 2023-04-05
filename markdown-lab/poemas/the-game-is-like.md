@@ -95,7 +95,7 @@ Multiverse of minds that fractals;
 
 gods have gods,
 
-we're like that.
+we are like that.
 
 &nbsp;
 
