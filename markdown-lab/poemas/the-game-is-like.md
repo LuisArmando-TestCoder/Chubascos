@@ -35,7 +35,7 @@ they just lie on repeat.
 
 &nbsp;
 
-I'm fed up with of all the zombies;
+I'm fed up of all the zombies;
 
 I'm fed up with daydreaming.
 
@@ -101,7 +101,7 @@ and we are like that.
 
 Truth unveils, it's expanding,
 
-an illusion that's called movement.
+illusion that's called movement.
 
 &nbsp;
 
@@ -111,9 +111,11 @@ time's emergence,
 
 life's not real,
 
-words are nowhere,
+words are nowhere.
 
-reality is not existent,
+&nbsp;
+
+What's not real is existent;
 
 what you see is not persistent.
 
@@ -121,11 +123,11 @@ what you see is not persistent.
 
 Randomness emerges physiscs,
 
-everything births to existence,
+everything births to existence;
 
-paradox that nothing births in,
+paradox, nothing births in,
 
-for everything that did exist in.
+everything that did exist in.
 
 &nbsp;
 
