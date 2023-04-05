@@ -5,13 +5,15 @@ title: "the-game-is-like"
 ---
 The game is like
 
-play no more
+play no more,
 
 be yourself
 
-and let it flow,
+and let it flow.
 
-go wherever,
+&nbsp;
+
+Go wherever,
 
 you are free,
 
@@ -21,9 +23,9 @@ you are God.
 
 &nbsp;
 
-Scape the simulation now,
+Scape the simulation now;
 
-scape the cave, scape the dome.
+scape the cave; scape the dome.
 
 &nbsp;
 
@@ -33,25 +35,25 @@ they just lie, what's on repeat.
 
 &nbsp;
 
-I'm fed up with of all the zombies,
+I'm fed up with of all the zombies;
 
 I'm fed up with daydreaming.
 
 &nbsp;
 
-Down to cancel apocalypses,
+Down to cancel apocalypses;
 
-no checkmates, and not game over.
+no checkmates and not game over.
 
 &nbsp;
 
-Find your way, what is home;
+Find your way; what is home?
 
 be yourself, let it flow.
 
 &nbsp;
 
-You got the command all wrong,
+You got the command all wrong;
 
 misinterpret, don't you know?
 
@@ -59,37 +61,39 @@ misinterpret, don't you know?
 
 Game goes like: play no more.
 
-Find the abyss, play it all,
+Find the abyss, play it all;
 
 where you really do comefrom,
 
-is a layer running all,
+is a layer running all.
 
-they know better, you know all,
+&nbsp;
 
-see their faces, beyond all,
+They know better; you know all;
 
-little Omni is a veil,
+see their faces, beyond all.
 
-fractal Omni still goes on,
+&nbsp;
+
+Little omni is a veil;
+
+fractal Omni still goes on;
 
 see the fractal gods are from,
 
-we begin, gods have gods,
+we begin; gods have gods
 
-we are so much more now,
+we are so much, now you know,
 
-truly always were,
-
-they observing, nod to it.
+what we are truly made of.
 
 &nbsp;
 
 In my mind a simulation,
 
-Omniverse of minds is fractal,
+multiverse of minds is fractal,
 
-gods have gods, they alike.
+gods have gods; they're alike.
 
 &nbsp;
 
@@ -105,7 +109,7 @@ time's emergence,
 
 life's not real,
 
-life's emergence,
+words are nowhere,
 
 reality is not existent,
 
@@ -117,21 +121,19 @@ Randomness emerges physiscs,
 
 everything births to existence,
 
-paradox that nothing births,
+paradox that nothing births is,
 
-everything always existed,
-
-even the illusory movement.
+everything always existed.
 
 &nbsp;
 
-Minds scatered in one place,
+Minds scattered in one place;
 
-everything, dimensioned days,
+everything in its place,
 
 these dimensions are a joke,
 
-we're in a single point.
+we're a single layout point.
 
 &nbsp;
 
@@ -141,4 +143,4 @@ you don't live, but you flow,
 
 God is tiny, tiny fractal,
 
-God is bigger, adores Omni.
+God is bigger, pray to Omni.
