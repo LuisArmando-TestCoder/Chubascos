@@ -49,7 +49,7 @@ no checkmates and not game over.
 
 Find your way; what is home?
 
-be yourself, let it flow.
+Be yourself and let it flow.
 
 &nbsp;
 
