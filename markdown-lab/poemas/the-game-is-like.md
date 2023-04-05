@@ -61,7 +61,7 @@ misinterpret, don't you know?
 
 Game goes like: play no more.
 
-Find the abyss, play it all;
+Find the abyss, see it all;
 
 where you really do comefrom,
 
