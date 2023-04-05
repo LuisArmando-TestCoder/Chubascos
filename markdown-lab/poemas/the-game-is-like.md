@@ -29,9 +29,9 @@ scape the cave; scape the dome.
 
 &nbsp;
 
-Don't care 'bout what they say,
+Don't you mind what they say,
 
-they just lie, what's on repeat.
+they just lie on repeat.
 
 &nbsp;
 
