@@ -93,11 +93,13 @@ In my mind a simulation,
 
 multiverse of minds is fractal,
 
-gods have gods; they're alike.
+gods have gods
+
+and we are like that.
 
 &nbsp;
 
-Truth unveils, is expanding,
+Truth unveils, it's expanding,
 
 an illusion that's called movement.
 
