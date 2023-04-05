@@ -3,19 +3,19 @@ slug: "/poemas/holy-mary"
 tags: ["normal"]
 title: "holy-mary"
 ---
-Holy Mary, those holy eyes,
+Holy Mary, those holy eyes, 
 
 you are a menace to humankind.
 
 &nbsp;
 
-Holy Mary, you aren't kind,
+Holy Mary, you aren't kind, 
 
 one of those girls that drive me wild.
 
 &nbsp;
 
-Holy Mary, I cannot stop
+Holy Mary, I cannot stop 
 
 looking at those precious eyes.
 
@@ -27,7 +27,7 @@ free spirit that drives me mad.
 
 &nbsp;
 
-She was a virgin, I didn't know,
+She was a virgin, I didn't know, 
 
 I desecrated; I think I'm bad.
 
@@ -39,12 +39,12 @@ girl so tasty, girl you are.
 
 &nbsp;
 
-A fallen angel looking at
+A fallen angel looking at 
 
 dirty Mary's precious eyes.
 
 &nbsp;
 
-My dear Mary, what am I,
+My dear Mary, what am I?
 
-a fallen angel that slides with lies.
+a fallen angel; pretty lies.
