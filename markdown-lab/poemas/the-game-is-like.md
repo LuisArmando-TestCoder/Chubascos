@@ -69,7 +69,7 @@ is a layer running all.
 
 &nbsp;
 
-They know better; you know all;
+They know better; you know it;
 
 see their faces, beyond all.
 
