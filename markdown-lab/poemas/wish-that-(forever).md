@@ -71,7 +71,7 @@ I see you, darling.
 
 &nbsp;
 
-Around neck;
+Around my neck;
 
 fingers that scream:
 
