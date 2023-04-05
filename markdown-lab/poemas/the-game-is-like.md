@@ -123,15 +123,15 @@ Randomness emerges physiscs,
 
 everything births to existence,
 
-paradox that nothing births is,
+paradox that nothing births in,
 
-everything always existed.
+for everything that did exist in.
 
 &nbsp;
 
 Minds scattered in one place;
 
-everything in its place,
+everything in its right place;
 
 these dimensions are a joke,
 
@@ -145,4 +145,4 @@ you don't live, but you flow,
 
 God is tiny, tiny fractal,
 
-God is bigger, pray to Omni.
+Omni is bigger, God in all.
