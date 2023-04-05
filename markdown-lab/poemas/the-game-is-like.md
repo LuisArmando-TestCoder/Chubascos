@@ -141,9 +141,9 @@ we're a single point nowhere.
 
 &nbsp;
 
-All their art is also yours,
+All of their art; also yours;
 
-you don't live, you do flow;
+you do not live, you do flow;
 
 God is tiny, tiny fractal,
 
