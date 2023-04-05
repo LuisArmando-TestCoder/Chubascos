@@ -15,7 +15,7 @@ and let it flow.
 
 Go wherever,
 
-you are free,
+you are free;
 
 no checkmate,
 
