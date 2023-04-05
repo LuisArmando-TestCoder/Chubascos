@@ -9,7 +9,7 @@ Holy Mary, those holy eyes.
 
 You're a menace to humankind,
 
-free spirit that drives me wild.
+your free spirit drives me wild.
 
 &nbsp;
 
