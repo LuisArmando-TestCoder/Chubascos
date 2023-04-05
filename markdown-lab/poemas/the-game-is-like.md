@@ -81,33 +81,33 @@ fractal Omni still goes on;
 
 see the fractal gods are from,
 
-we begin; gods have gods
+we begin; gods have gods,
 
-we are so much, now you know,
+we are so much freaking more,
 
-what we are truly made of.
+know what we are made of really.
 
 &nbsp;
 
-In my mind a simulation,
+Is my mind a simulation?
 
-multiverse of minds is fractal,
+Multiverse of minds that fractals;
 
-gods have gods
+gods have gods,
 
-and we are like that.
+we alike that.
 
 &nbsp;
 
 Truth unveils, it's expanding,
 
-illusion that's called movement.
+mirage that is called movement.
 
 &nbsp;
 
 Time's not real,
 
-time's emergence,
+time's emergence;
 
 life's not real,
 
@@ -131,19 +131,19 @@ everything that did exist in.
 
 &nbsp;
 
-Minds scattered in one place;
+Minds scattered in one place now;
 
-everything in its right place;
+everything, in its right place;
 
-these dimensions are a joke,
+these dimensions are just kidding,
 
-we're a single layout point.
+we're a single point nowhere.
 
 &nbsp;
 
 All their art is also yours,
 
-you don't live, but you flow,
+you don't live, you do flow;
 
 God is tiny, tiny fractal,
 
