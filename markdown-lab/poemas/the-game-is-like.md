@@ -43,7 +43,7 @@ I'm fed up with daydreaming.
 
 Down to cancel apocalypses;
 
-no checkmates and not game over.
+no checkmates, no game over.
 
 &nbsp;
 
