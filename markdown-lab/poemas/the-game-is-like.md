@@ -151,4 +151,10 @@ Omni is bigger, God in all.
 
 &nbsp;
 
-Is your time to wake up.
+You have been hearing revelations,
+
+and they'll keep coming up,
+
+until you listen and realize:
+
+is time for you to wake up.
