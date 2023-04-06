@@ -369,6 +369,10 @@ en una vida.
 
 &nbsp;
 
+¿Por qué no puede respirar?
+
+&nbsp;
+
 Sucia y desconcertada,
 
 añora la ignorancia,
@@ -469,13 +473,13 @@ los pedazos sin pulir.
 
 &nbsp;
 
-La noche corrompe
+El tiempo corrompe
 
 al delicado maniquí.
 
 &nbsp;
 
-La lluvia diluye
+La lluvia imposta
 
 las lágrimas sin llorar.
 
@@ -489,7 +493,9 @@ a la frágil imagen.
 
 El sol funde
 
-la figura de hielo.
+la figura
+
+de helado cristal.
 
 &nbsp;
 
@@ -499,13 +505,11 @@ al hermoso trofeo.
 
 &nbsp;
 
-Los extraños quieren
+Los extraños
 
-al hada de cristal,
+preguntan por el hada,
 
-pero ella
-
-ya no está.
+pero el hada ya no está.
 
 &nbsp;
 
@@ -539,15 +543,15 @@ acumular sus cenizas
 
 y hundirlas
 
-en mi silencio.
+entre silencio.
 
 &nbsp;
 
 Solo se me ocurre
 
-unirlos por última vez
+unir las piezas
 
-y enterrarlos
+y enterrarlas
 
 en nuestro lamento.
 
@@ -565,21 +569,21 @@ hasta que surjas,
 
 y rompas la barrera,
 
-con alas transparentes.
+con alas transparentes;
+
+aquí te espero
 
 fénix de cristal;
 
-despliega,
+despliega, vuela,
 
-vuela de nuevo;
-
-reencarna,
-
-respira de nuevo;
+reencarna, respira,
 
 reencuentra,
 
-rompe el encierro,
+quiebra el paradigma,
+
+el status quo de la muerte,
 
 sonríe de nuevo;
 
@@ -589,7 +593,11 @@ rompe el silencio,
 
 canta de nuevo;
 
-baila y vive.
+baila y vive
+
+mejor de lo que nunca
+
+lo has hecho.
 
 &nbsp;
 
@@ -597,18 +605,12 @@ La niña de cristal
 
 ya no está,
 
-pero la silueta
-
-de una dama
+pero la silueta de una dama
 
 con un vestido entero,
 
-con una falda de candelabro
+y falda de candelabro
 
-podría aparecer.
-
-&nbsp;
-
-Te entrego mi fé,
+podría aparecer;
 
 chica de obsidiana.
