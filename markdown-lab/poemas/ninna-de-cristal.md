@@ -37,7 +37,7 @@ y caminé en reversa,
 
 los recuerdos que tenía,
 
-y los lancé por la ventana,
+los lancé a la acera,
 
 estabas tan cambiada;
 
