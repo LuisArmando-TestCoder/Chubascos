@@ -1,13 +1,13 @@
 ---
-slug: "/poemas/al-verte-desecha"
+slug: "/poemas/ninna-de-cristal"
 tags: ["desperation"]
-title: "al-verte-desecha"
+title: "niña-de-cristal"
 ---
-Al verte desecha
+Niña de cristal,
 
-en una albina
+despedazada y desecha,
 
-gigante colcha,
+al verte raquítica
 
 me enteré de que
 
@@ -194,10 +194,6 @@ en las que ella
 se ha resguardado.
 
 &nbsp;
-
-
-&nbsp;
-
 
 Una vez esta hada
 
