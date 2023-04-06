@@ -9,21 +9,25 @@ despedazada y desecha;
 
 al verla tan raquítica
 
-que parecía se iba a quebrar
+que parecía quebrarse,
 
 me enteré de que
 
-tu pelo ya no flota,
+su pelo ya no flotaba,
 
-tu boca ya no besa.
+y su boca ya no besaba.
 
 &nbsp;
 
 Tan sólo veo un hada
 
-que pálida y flaca
+pálida y flaca
 
-sólo se recuesta.
+que se recuesta,
+
+con el pecho en dirección
+
+hacia el infierno.
 
 &nbsp;
 
