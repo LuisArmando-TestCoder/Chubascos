@@ -17,9 +17,11 @@ tu boca ya no besa.
 
 &nbsp;
 
-Tan sólo un hada pálida
+Tan sólo veo un hada
 
-y flaca, que se recuesta.
+que pálida y flaca
+
+sólo se recuesta.
 
 &nbsp;
 
