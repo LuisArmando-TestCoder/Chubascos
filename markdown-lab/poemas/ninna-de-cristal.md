@@ -503,4 +503,4 @@ podría aparecer;
 
 chica de obsidiana
 
-que nos hace estremecer.
+que me hace estremecer.
