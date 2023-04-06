@@ -13,33 +13,31 @@ que parecía quebrarse,
 
 me enteré de que
 
-su pelo ya no flotaba,
+su pelo ya no flota,
 
-y su boca ya no besaba.
+y su boca ya no besa.
 
 &nbsp;
 
 Tan sólo veo un hada
 
-pálida y flaca
-
-que se recuesta,
+pálida, recuesta,
 
 con el pecho en dirección
 
 hacia el infierno
 
-de sus sábanas.
+de sus sábanas y colchas.
 
 &nbsp;
 
 Cuando la vi,
 
-cuando por fin la vi,
+cuando por fin
 
 el mundo se detuvo,
 
-y cerré los ojos;
+yo cerré los ojos;
 
 caminé en reversa.
 
@@ -59,9 +57,9 @@ Ya las alpargatas
 
 no le calzan a la niña,
 
-eres una mujer consciente,
+es una mujer sensible
 
-sensible sólo de la tiranía.
+de la tiranía.
 
 &nbsp;
 
@@ -73,15 +71,15 @@ nada que hacer.
 
 La niña ha perdido
 
-su preciada transparencia,
+su transparencia,
 
-ahora es una mujer opaca,
+ahora es opaca,
 
-indiferente de la realidad.
+indiferente.
 
 &nbsp;
 
-La niña que bailaba
+Niña que bailaba
 
 se ha dejado de mover;
 
@@ -97,7 +95,7 @@ hasta en sus sueños,
 
 ahora no logra conciliarlos,
 
-ahora es un sonámbulo.
+ahora es sonámbula.
 
 &nbsp;
 
@@ -111,9 +109,9 @@ su oberol.
 
 &nbsp;
 
-La niña siempre orientada,
+La niña orientada,
 
-ha perdido la brújula,
+ya no tiene brújula,
 
 y no la busca
 
@@ -143,11 +141,11 @@ el arco de la puerta;
 
 todo esto venía de ella;
 
-ella era el Faro de Alejandría;
+ella, el Faro de Alejandría;
 
 ella era el filtro de cristal
 
-que contornaba con sus expresiones
+que contornaba
 
 los colores de la vida.
 
@@ -159,9 +157,9 @@ testiminio de esos días,
 
 nada más el de unos tantos,
 
-quienes la adoraron como yo
+que la adoraron como yo
 
-porque la conocieron.
+porque como yo la conocían.
 
 &nbsp;
 
@@ -177,15 +175,13 @@ los pedazos de cristal
 
 de botellas vacías;
 
-los manuscritos
+manuscritos que atestan
 
-que atestan el basurero
+el basurero de la oficina;
 
-de la oficina;
+las ventanas que ocultan
 
-las ventanas cubiertas
-
-que ocultan el paso de los días,
+el paso de los días,
 
 la humedad en las paredes
 
@@ -193,43 +189,39 @@ que delata su abandono;
 
 las sombras de las esquinas
 
-en las que ella
+en las que ella se resguarda
 
-se ha resguardado.
-
-&nbsp;
-
-Una vez esta hada
-
-fue confundida
-
-con un meteoro,
-
-pero ahora su estela
-
-ya no brilla,
-
-ya no baila,
-
-ya no canta,
-
-ya no vuela.
+de toda la crueldad.
 
 &nbsp;
 
-La niña que transmutaba
+Una vez esta hada fue
+
+un asteroide,
+
+ahora su estela
+
+no brilla, no baila,
+
+no canta, no vuela,
+
+no muestra su pena,
+
+solo se aísla.
+
+&nbsp;
+
+Niña que transmuta
 
 las piedras del río
 
-en piedras preciosas
+en piedras preciosas,
 
-con solo mirarlas,
+¿dónde has quedado?
 
-ahora en vanalidades
+¿no te has ahogado?
 
-las transforma
-
-al ignorarlas.
+¿dónde te has ido?
 
 &nbsp;
 
@@ -237,390 +229,278 @@ Cayeron los zafiros que
 
 el mundo curioseaban,
 
-ahora sus cuencas
+ahora sus cuencas;
 
-se han vaciado.
+espacios vacíos.
 
 &nbsp;
 
 Cayeron los diamantes
 
-que iluminaban las noches,
+que multiplicaban
 
-multiplicando las estrellas
+con sus telescopios
 
-con los telescopios
+el firmamento;
 
-de sus púpilas dilatadas.
+púpilas dilatadas.
 
 &nbsp;
 
-Tenía rubíes ópalos de fuego
-
-que presumía desbordándose;
+Ópalos de fuego, rubíes,
 
 ahora sus brazos
 
-se han quedado desnudos,
+están desnudos,
 
-y su cuerpo cubierto
+cuerpo cubierto;
 
-por el velo de la conmoción
+velo violento;
 
-del violento peso
+la conmoción pesa tanto,
 
-que ha cargado.
+cuando el esfuerzo
+
+te está aplastando;
+
+mente que está en blanco;
+
+los iris ya no brillan.
 
 &nbsp;
 
 Cayeron los libros;
 
-su mente está tan saturada
+cayeron las fotos;
 
-que ve un fondo carbonizado.
+cayeron juguetes;
 
-&nbsp;
+cayeron los frutos;
 
-Cayeron las fotos;
+cayeron los planes
 
-se quedaron sepultadas.
-
-&nbsp;
-
-Cayeron los juguetes;
-
-manos vacías.
+y el mejor futuro que tenía.
 
 &nbsp;
 
-Cayeron los frutos;
+Mente saturada,
 
-boca hueca.
+está carbonizada,
 
-&nbsp;
+quedado sepultada,
 
-Cayeron sus arterias;
+con manos vacías,
 
-está inmóvil en el suelo,
+boca hueca inmóvil,
 
-se está desangrando.
+chica desmayada
 
-&nbsp;
+en el suelo,
 
-Sabe más de lo que desearía,
-
-demasiadas decepciones
-
-en un cortísimo intervalo.
+la chica se desangra.
 
 &nbsp;
 
-Sabe más de lo que quisiera,
+Lo que le deseo,
 
-demasiadas dudas
+lo que le daría,
 
-en un lapso muy corto.
+por verla surgir
 
-&nbsp;
-
-Sabe más de lo que necesita,
-
-demasiadas mentiras
-
-en un tiempo muy breve.
+y verla ser feliz.
 
 &nbsp;
 
-Sabe más de lo que podría,
+Sabe más de lo que desea,
 
-demasiadas inseguridades
+está decepcionada,
 
-en una década.
+demasiadas dudas,
 
-&nbsp;
+muchísimas mentiras,
 
-Sabe más de lo que debería,
+cortísimo intervalo,
 
-demasiadas dificultades
+lapso muy corto,
 
-en una vida.
+tiempo mundano,
 
-&nbsp;
+sigue insegura
 
-¿Por qué?
+aunque está viendo
 
-&nbsp;
+su vida en reversa
 
-¿Por qué tuvo que ser ella?
-
-&nbsp;
-
-¿Por qué tiene que sufrir?
+ya no está despierta.
 
 &nbsp;
 
-¿Por qué no puede desaparecer?
+¿Por qué
+
+tuvo que ser ella,
+
+tiene que sufrir,
+
+no puede morir,
+
+tuvo que nacer,
+
+no pudo ser feliz?
 
 &nbsp;
 
-¿Por qué no puede olvidar?
+¿Por qué
+
+no puede respirar,
+
+no puede ya salir,
+
+no puede olvidar
+
+los pecados de alguien más,
+
+no para de llorar?
 
 &nbsp;
 
-¿Por qué tiene que llorar?
+Sucia añora la ignorancia,
+
+sucia está desconcertada,
+
+ya es muy tarde es una piedra.
+
+hecha de cristal, muñeca.
 
 &nbsp;
 
-¿Por qué no puede ser feliz?
-
-&nbsp;
-
-¿Por qué tuvo que nacer?
-
-&nbsp;
-
-¿Por qué no puede respirar?
-
-&nbsp;
-
-Sucia y desconcertada,
-
-añora la ignorancia,
-
-pero ya es muy tarde,
-
-está petrificada.
-
-&nbsp;
-
-La niña de cristal
-
-ya no está.
-
-&nbsp;
-
-Se lamenta la niña,
+Esta niña se lamenta,
 
 mientras pide reiniciar,
 
-poco a poco termina
+poco a poco se termina,
 
-de irse fragmentando.
+al fin se puede desmayar.
+
+&nbsp;
+
+Está suplicando
+
+por un poco de piedad,
+
+la niña se lamenta,
+
+se termina de quebrar,
+
+su mente se ausenta,
+
+en el ojo de la tormenta
+
+que no se calmará.
 
 &nbsp;
 
 Se lamenta la niña,
 
-mientras suplica una oportunidad,
+la niña que es de cristal,
 
-poco a poco termina
+el viento la erosiona,
 
-de romperse.
-
-&nbsp;
-
-Se lamenta la niña,
-
-mientras se deprime,
-
-poco a poco termina
-
-de morir.
-
-&nbsp;
-
-Se lamenta la niña,
-
-mientras su mente
-
-se ausenta,
-
-poco a poco termina
-
-de desvanecerse.
-
-&nbsp;
-
-Se lamenta la niña,
-
-mientras su cuerpo
-
-se calma,
-
-poco a poco termina
-
-de disolverse.
-
-&nbsp;
-
-Se lamenta la niña,
-
-mientras su espíritu
-
-se queda,
-
-y su cuerpo termina
-
-de desaparecer.
-
-&nbsp;
-
-La niña de cristal
-
-ya no está.
-
-&nbsp;
-
-El viento erosiona
-
-a la tierna escultura.
-
-&nbsp;
-
-La arena se lleva
-
-los pedazos sin pulir.
-
-&nbsp;
-
-El tiempo corrompe
-
-al delicado maniquí.
-
-&nbsp;
-
-La lluvia imposta
-
-las lágrimas sin llorar.
+la lluvia la va a quebrar.
 
 &nbsp;
 
 El día quema
 
-a la frágil imagen.
+las lágrimas sin llorar.
 
 &nbsp;
 
-El sol funde
+El sol la funde
 
-la figura
-
-de helado cristal.
+como helado de maracuyá.
 
 &nbsp;
 
-Las personas desean
+Las personas la desearon,
 
-al hermoso trofeo.
-
-&nbsp;
-
-Los extraños
-
-preguntan por el hada,
-
-pero el hada ya no está.
+como si fuera un trofeo.
 
 &nbsp;
 
-Solo se me ocurre
+Preguntan los extraños:
 
-reunir sus pedazos
+dónde está su antídoto
 
-e incinerarlos
+contra el aburrimiento.
 
-entre mi abrazo
-
-y el fondo
-
-de esta oscuridad.
+Pero el hada ya no está.
 
 &nbsp;
 
 Solo se me ocurre
 
-agrupar sus restos
+agrupar sus restos,
 
-e inundarlos
+y entre mis abrazos,
 
-con mi llanto.
+y en el fondo de esta oscuridad,
 
-&nbsp;
+reunir pedazos,
 
-Solo se me ocurre
+inundarlos con mi llanto,
 
-acumular sus cenizas
+y acumular cenizas,
 
-y hundirlas
+hundirlas en silencio,
 
-entre silencio.
+unir nuestro lamento
 
-&nbsp;
-
-Solo se me ocurre
-
-unir las piezas
-
-y enterrarlas
-
-en nuestro lamento.
+y esperar al tiempo.
 
 &nbsp;
 
-La niña de cristal
+La niña ya no está,
 
-ya no está.
-
-&nbsp;
-
-Así que aquí me quedo,
-
-hasta que surjas,
+¿será que surgirá
 
 y rompas la barrera,
 
-con alas transparentes;
+con alas transparentes?
+
+&nbsp;
+
+Fénix de cristal,
 
 aquí te espero
 
-fénix de cristal;
+despliega y vuela,
 
-despliega, vuela,
+reencarna y respira,
 
-reencarna, respira,
+oblitera este paradigma,
 
-reencuentra,
+y el status quo de la muerte,
 
-oblitera el paradigma,
-
-el status quo de la muerte,
-
-sonríe de nuevo;
+sonríe de nuevo,
 
 ríe bastante,
 
 rompe el silencio,
 
-canta de nuevo;
+canta de nuevo,
 
-baila y vive
+baila y vive,
 
-mejor de lo que nunca
-
-lo has hecho.
+elévate ángel.
 
 &nbsp;
 
-La niña de cristal
-
-ya no está,
+La niña de cristal ya no se ve,
 
 pero la silueta de una dama
 
-con un vestido entero,
-
-y falda de candelabro
-
 podría aparecer;
 
-chica de obsidiana.
+chica de obsidiana
+
+que nos hace estremecer.
