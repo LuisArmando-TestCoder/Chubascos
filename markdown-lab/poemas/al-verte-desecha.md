@@ -279,9 +279,13 @@ Cayeron los frutos;
 
 boca hueca.
 
+&nbsp;
+
 Cayeron los juguetes;
 
 manos vacías.
+
+&nbsp;
 
 Cayeron los libros;
 
@@ -289,9 +293,13 @@ su mente está tan saturada
 
 que ve un fondo carbonizado.
 
+&nbsp;
+
 Cayeron las fotos;
 
 se quedaron sepultadas.
+
+&nbsp;
 
 Cayeron sus arterias;
 
