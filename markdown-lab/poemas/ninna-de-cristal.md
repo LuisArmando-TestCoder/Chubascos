@@ -5,9 +5,11 @@ title: "niña-de-cristal"
 ---
 Niña de cristal,
 
-despedazada y desecha,
+despedazada y desecha;
 
-al verte raquítica
+al verla tan raquítica
+
+que parecía se iba a quebrar
 
 me enteré de que
 
@@ -581,7 +583,7 @@ reencarna, respira,
 
 reencuentra,
 
-quiebra el paradigma,
+oblitera el paradigma,
 
 el status quo de la muerte,
 
