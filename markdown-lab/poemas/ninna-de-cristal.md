@@ -41,7 +41,7 @@ los lancé a la acera,
 
 estabas tan cambiada;
 
-otra persona es la veía.
+otra persona es la que veía.
 
 &nbsp;
 
@@ -49,9 +49,9 @@ Ya las alpargatas
 
 no le calzan a la niña,
 
-es una mujer
+eres una mujer consciente,
 
-consciente de la tiranía.
+sensible sólo de la tiranía.
 
 &nbsp;
 
@@ -61,25 +61,23 @@ nada que hacer.
 
 &nbsp;
 
-La niña estirada
+La niña ha perdido
 
-ha perdido
+su preciada transparencia,
 
-su preciada transparencia.
+ahora es una mujer opaca,
 
-&nbsp;
-
-De la niña opaca
-
-sus pasos ya
-
-no marcan ritmo.
+indiferente de la realidad.
 
 &nbsp;
 
 La niña que bailaba
 
-se ha dejado de mover.
+se ha dejado de mover;
+
+sus pasos ya no marcan el tempo,
+
+el ritmo y los acentos.
 
 &nbsp;
 
@@ -87,9 +85,9 @@ La niña despierta
 
 hasta en sus sueños,
 
-ahora no los concilia
+ahora no logra conciliarlos,
 
-y tiene ojeras.
+ahora es un sonámbulo.
 
 &nbsp;
 
@@ -105,15 +103,15 @@ su oberol.
 
 La niña siempre orientada,
 
-siempre ella misma,
+ha perdido la brújula,
 
-ha perdido la brújula
+y no la busca
 
-de su interior.
+en su interior.
 
 &nbsp;
 
-A la niña que
+La niña que
 
 susurraba canciones,
 
@@ -123,19 +121,19 @@ con muda voz.
 
 &nbsp;
 
-El vitral de las mañanas,
+El vitral de las mañanas;
 
-tragaluz de la capilla,
+tragaluz de la capilla;
 
-el reflejo del mármol,
+el reflejo del mármol;
 
-el brillo del oro robado,
+el brillo del oro robado;
 
-el arco de la puerta,
+el arco de la puerta;
 
-todo esto venía de ella,
+todo esto venía de ella;
 
-ella era el Faro de Alejandría,
+ella era el Faro de Alejandría;
 
 ella era el filtro de cristal
 
@@ -149,17 +147,11 @@ No queda en los escombros
 
 testiminio de esos días,
 
-más que el de unos tantos,
+nada más el de unos tantos,
 
-quienes la adoraron
+quienes la adoraron como yo
 
-porque la conocían.
-
-&nbsp;
-
-Ya no abre sus puertas
-
-la biblioteca de Alejandría.
+porque la conocieron.
 
 &nbsp;
 
@@ -169,7 +161,7 @@ cubiertas por moho;
 
 los abrigos rotos
 
-que apestan a guardado;
+que apestan a polvo;
 
 los pedazos de cristal
 
@@ -227,7 +219,7 @@ ahora en vanalidades
 
 las transforma
 
-con su indiferencia.
+al ignorarlas.
 
 &nbsp;
 
@@ -245,21 +237,17 @@ Cayeron los diamantes
 
 que iluminaban las noches,
 
-y multiplicaban las estrellas
+multiplicando las estrellas
 
-en el caleidoscopio
+con los telescopios
 
-de sus experiencias.
+de sus púpilas dilatadas.
 
 &nbsp;
 
-Cayeron los rubíes
+Tenía rubíes ópalos de fuego
 
-ópalos de fuego
-
-que presumía
-
-desbordándose de ellos;
+que presumía desbordándose;
 
 ahora sus brazos
 
@@ -267,21 +255,11 @@ se han quedado desnudos,
 
 y su cuerpo cubierto
 
-por un velo de pensamientos
+por el velo de la conmoción
 
-en callejones oscuros.
+del violento peso
 
-&nbsp;
-
-Cayeron los frutos;
-
-boca hueca.
-
-&nbsp;
-
-Cayeron los juguetes;
-
-manos vacías.
+que ha cargado.
 
 &nbsp;
 
@@ -299,9 +277,23 @@ se quedaron sepultadas.
 
 &nbsp;
 
+Cayeron los juguetes;
+
+manos vacías.
+
+&nbsp;
+
+Cayeron los frutos;
+
+boca hueca.
+
+&nbsp;
+
 Cayeron sus arterias;
 
-ella está inmóvil en el suelo.
+está inmóvil en el suelo,
+
+se está desangrando.
 
 &nbsp;
 
