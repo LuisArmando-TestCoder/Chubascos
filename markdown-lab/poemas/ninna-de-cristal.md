@@ -27,7 +27,9 @@ que se recuesta,
 
 con el pecho en dirección
 
-hacia el infierno.
+hacia el infierno
+
+de sus sábanas.
 
 &nbsp;
 
@@ -45,11 +47,11 @@ caminé en reversa.
 
 Los recuerdos que tenía,
 
-los lancé hacia la acera,
+los lancé por la acera,
 
-estaba tan cambiada;
+estaba tan cambiada
 
-otra persona es la que veía.
+que parecía otra persona.
 
 &nbsp;
 
