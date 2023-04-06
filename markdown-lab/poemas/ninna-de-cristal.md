@@ -35,17 +35,19 @@ Cuando la vi,
 
 cuando por fin la vi,
 
-el mundo se detuvo;
+el mundo se detuvo,
 
-cerré los ojos
+y cerré los ojos;
 
-y caminé en reversa,
+caminé en reversa.
 
-los recuerdos que tenía,
+&nbsp;
 
-los lancé a la acera,
+Los recuerdos que tenía,
 
-estabas tan cambiada;
+los lancé hacia la acera,
+
+estaba tan cambiada;
 
 otra persona es la que veía.
 
