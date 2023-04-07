@@ -31,7 +31,7 @@ estaba tan cambiada,
 
 parecía otra persona.
 
- 
+&nbsp;
 
 Ya las alpargatas
 
@@ -53,7 +53,7 @@ se ha sepultado
 
 en toda su rutina.
 
- 
+&nbsp;
 
 La niña ha perdido
 
@@ -63,7 +63,7 @@ ahora es opaca
 
 con indiferencia.
 
- 
+&nbsp;
 
 La niña que bailaba
 
@@ -73,7 +73,7 @@ sus pasos ya no marcan,
 
 el ritmo y los acentos en el tempo.
 
- 
+&nbsp;
 
 La niña que despierta
 
@@ -83,7 +83,7 @@ ahora es sonámbula
 
 y no logra conciliarlos.
 
- 
+&nbsp;
 
 A la niña colorida
 
@@ -93,7 +93,7 @@ los grafitis que manchaban
 
 su oberol.
 
- 
+&nbsp;
 
 La niña orientada
 
@@ -103,7 +103,7 @@ y ya no la busca
 
 entre su interior.
 
- 
+&nbsp;
 
 La niña que
 
@@ -113,7 +113,7 @@ ahora sólo grita
 
 con su muda voz.
 
- 
+&nbsp;
 
 Vitral de las mañanas;
 
@@ -147,7 +147,7 @@ muchos la adoraron porque la conocían,
 
 muchos la desearon y la carcomían.
 
- 
+&nbsp;
 
 Las grietas sin restauración,
 
@@ -181,7 +181,7 @@ de toda la crueldad
 
 que se le avecina.
 
- 
+&nbsp;
 
 Una vez fue
 
@@ -215,7 +215,7 @@ en piedras preciosas,
 
 ¿dónde te has ido?
 
- 
+&nbsp;
 
 Cayeron los zafiros que
 
@@ -225,7 +225,7 @@ ahora sus cuencas;
 
 espacios vacíos.
 
- 
+&nbsp;
 
 Cayeron los diamantes
 
@@ -235,7 +235,7 @@ en sus telescopios,
 
 púpilas dilatadas.
 
- 
+&nbsp;
 
 Ópalos de fuego,
 
@@ -257,7 +257,7 @@ la mente en blanco;
 
 te estás matando.
 
- 
+&nbsp;
 
 Cayeron libros;
 
@@ -271,7 +271,7 @@ cayeron planes
 
 por un mejor futuro.
 
- 
+&nbsp;
 
 Mente saturada,
 
@@ -287,7 +287,7 @@ chica que desangra;
 
 un lago salado la sepulta.
 
- 
+&nbsp;
 
 Lo que le deseo,
 
@@ -297,7 +297,7 @@ por verla surgir
 
 y verla ser feliz.
 
- 
+&nbsp;
 
 Está decepcionada,
 
@@ -319,7 +319,7 @@ su vida en reversa
 
 y ya no despierta.
 
- 
+&nbsp;
 
 ¿Por qué
 
@@ -333,7 +333,7 @@ tuvo que nacer,
 
 no pudo ser feliz?
 
- 
+&nbsp;
 
 ¿Por qué no puede respirar,
 
@@ -359,7 +359,7 @@ y hecha de cristal
 
 con piezas destrozadas.
 
- 
+&nbsp;
 
 Esta niña se lamenta,
 
@@ -369,7 +369,7 @@ ella se termina,
 
 se puede desmayar.
 
- 
+&nbsp;
 
 Está suplicando
 
@@ -385,7 +385,7 @@ en el ojo de tormenta
 
 que no se calmará.
 
- 
+&nbsp;
 
 Se lamenta la niña,
 
@@ -395,19 +395,19 @@ el viento la erosiona,
 
 la lluvia la va a quebrar.
 
- 
+&nbsp;
 
 El día quema
 
 las lágrimas sin llorar.
 
- 
+&nbsp;
 
 El sol la funde
 
 como helado de maracuyá.
 
- 
+&nbsp;
 
 Extraños la desearon,
 
@@ -417,7 +417,7 @@ ella no es de nadie,
 
 ella es de sus sueños.
 
- 
+&nbsp;
 
 ¿Dónde está mi antídoto?
 
@@ -427,7 +427,7 @@ Preguntan los extraños
 
 No se ve hace años.
 
- 
+&nbsp;
 
 Solo se me ocurre
 
@@ -445,7 +445,7 @@ inundarlas con mi llanto
 
 y unir nuestro lamento.
 
- 
+&nbsp;
 
 La niña ya no está,
 
@@ -455,7 +455,7 @@ y rompa la barrera,
 
 con alas cristal?
 
- 
+&nbsp;
 
 Fénix de cristal,
 
@@ -481,11 +481,11 @@ elévate más alto,
 
 llega hasta San Pedro.
 
- 
+&nbsp;
 
 La niña de cristal ya no se ve,
 
-pero la silueta 
+pero la silueta
 
 de una chica de obsidiana
 
