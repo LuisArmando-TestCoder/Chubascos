@@ -1,6 +1,6 @@
 ---
 slug: "/poemas/ninna-de-cristal-despedazada"
-tags: ["desperation"]
+tags: ["sad"]
 title: "niña-de-cristal-despedazada"
 ---
 Niña de cristal despedazada
