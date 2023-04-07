@@ -497,26 +497,16 @@ Te veré en otra vida
 
 siendo una mujer
 
-tan realizada y distraída
+realizada, distraída,
 
-en existir aún más,
+dichosa y completa,
 
-y serás normal,
+no valorarás el tiempo
 
-lo que llamo un tipo de especial;
+porque estarás ocupada
 
-completa de por vida,
-
-valorarás el tiempo
-
-que se esfumará,
+disfrutando de la vida,
 
 y estarás tranquila,
 
-y le sonreiré
-
-a esa desconocida,
-
-te irás a aprovechar
-
-de lo que llamo vida.
+y yo también, sonriendo.
