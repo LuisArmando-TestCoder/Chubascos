@@ -3,7 +3,7 @@ slug: "/poemas/ninna-de-cristal-despedazada"
 tags: ["sad"]
 title: "niña-de-cristal-despedazada"
 ---
-Niña de cristal despedazada
+Niña de cristal despedazada,
 
 tu pelo ya no flota,
 
@@ -11,25 +11,25 @@ sólo veo un hada
 
 pálida y reseca,
 
-que solo se adueña
+de la que se adueñan
 
-de las sábanas y colchas.
+sus sábanas y colchas.
 
 &nbsp;
 
 Cuando la vi
 
-los recuerdos que tenía,
+cerré los ojos,
+
+caminé en reversa,
+
+los recuerdos que tenía
 
 los lancé por la acera,
 
-yo cerré los ojos;
-
-caminé en reversa;
-
 estaba tan cambiada,
 
-parecía otra persona.
+que parecía otra persona.
 
 &nbsp;
 
@@ -37,19 +37,13 @@ Ya las alpargatas
 
 no le calzan a la niña;
 
-sin expectativas
-
-más que tiranía,
+sin expectativas,
 
 no tiene confianza,
 
-está decepcionada,
+ya no mueve un dedo,
 
-ya no mueve un dedo
-
-en pos de la esperanza,
-
-se ha sepultado
+yace sepultada
 
 en toda su rutina.
 
@@ -57,11 +51,11 @@ en toda su rutina.
 
 La niña ha perdido
 
-transparencia,
+su transparencia,
 
 ahora es opaca
 
-con indiferencia.
+e indiferente.
 
 &nbsp;
 
