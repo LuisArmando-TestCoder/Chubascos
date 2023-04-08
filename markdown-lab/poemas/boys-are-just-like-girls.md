@@ -33,7 +33,7 @@ of the kind that tastes so well,
 
 but she kept it to herself too,
 
-just as he did with her.
+that was such a shame.
 
 &nbsp;
 
