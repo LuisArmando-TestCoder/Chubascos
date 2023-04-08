@@ -69,7 +69,7 @@ they were so surprised,
 
 someone really cared,
 
-for somebody outside of self.
+for someone outside of self.
 
 &nbsp;
 
@@ -77,13 +77,15 @@ Both could wear a halo,
 
 both were deeply in love,
 
-fearing not being smiled back,
+fearing the absence of
 
-but a smile was not enough,
+a tiny pitty smile,
 
-but so freaking more than
+but is not enough,
 
-what their heart could take;
+but so freaking more
+
+than what they could take;
 
 that was such a shame,
 
