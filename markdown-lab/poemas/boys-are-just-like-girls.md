@@ -17,9 +17,9 @@ A young guy once cried,
 
 then kept it to himself,
 
-cuz he loved freaking hard
+cuz he loved so hard
 
-and didn't own his chest.
+he didn't own his chest.
 
 &nbsp;
 
