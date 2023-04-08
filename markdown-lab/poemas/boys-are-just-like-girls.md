@@ -23,11 +23,11 @@ and didn't own his chest.
 
 &nbsp;
 
-Everytime he looked at her,
+Everytime she looked at him,
 
 her heart started pounding,
 
-but both were young and fearful
+both were young and fearful
 
 of the kind that tastes so well,
 
@@ -37,7 +37,7 @@ that was such a shame.
 
 &nbsp;
 
-Everytime she looked at him,
+Everytime he looked at her,
 
 his heart started pounding,
 
