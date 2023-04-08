@@ -7,9 +7,9 @@ Boys are just like girls,
 
 cuz we love so freaking hard,
 
-we get deceived in dark
+we get deceived in darkness
 
-and someone is our light.
+when someone is our light.
 
 &nbsp;
 
@@ -61,9 +61,9 @@ Boys are just like girls,
 
 cuz we love so freaking hard,
 
-we get deceived in dark
+we get deceived in darkness
 
-and someone is our light.
+when someone is our light.
 
 &nbsp;
 
