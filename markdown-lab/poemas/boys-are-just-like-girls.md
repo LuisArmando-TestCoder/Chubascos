@@ -37,15 +37,11 @@ just as he did with her.
 
 &nbsp;
 
-Everytime he wondered
+Everytime she looked at him,
 
 his heart started pounding,
 
-and when she looked at him
-
-he could glare a halo;
-
-that was bittersweet,
+and that was bittersweet,
 
 seeing that much halo,
 
