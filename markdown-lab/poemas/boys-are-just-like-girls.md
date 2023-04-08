@@ -7,7 +7,7 @@ Boys are just like girls,
 
 cuz we love so hard,
 
-and get deceived in dark
+get deceived in darkness,
 
 someone is our lighthouse.
 
@@ -57,7 +57,7 @@ Boys are just like girls,
 
 cuz we love so hard,
 
-and get deceived in dark
+get deceived in darkness,
 
 someone is our lighthouse.
 
