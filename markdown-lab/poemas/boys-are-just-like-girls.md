@@ -25,9 +25,7 @@ and didn't own his chest.
 
 Everytime he looked at her,
 
-her heart wanted to scape
-
-out of her hands into his chest,
+her heart started pounding,
 
 but both were young and fearful,
 
