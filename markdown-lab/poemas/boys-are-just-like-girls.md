@@ -5,37 +5,39 @@ title: "boys-are-just-like-girls"
 ---
 Boys are just like girls,
 
-cuz we so love hard,
+cuz we love so freaking hard,
 
-and we get deceived
+and we get deceived in dark
 
-when we our lost in dark,
-
-when someone is light.
+when someone is our light.
 
 &nbsp;
 
 A young guy once cried,
 
-and kept it to himself,
+then kept it to himself,
 
-cus he loved so hard
+cuz he loved so freaking hard
 
 and didn't own his chest.
 
 &nbsp;
 
-Everytime she looked at him,
+Everytime he looked at her,
 
-her heart wanted to scape,
+her heart wanted to jump
 
-and run into his arms,
+out of her to his arms,
 
-but both were young in fear,
+but both were young and fearful,
 
 of the kind that tastes so sweet,
 
-but she kept it to herself.
+but she kept it to herself,
+
+just as he did with her,
+
+it was such a shame.
 
 &nbsp;
 
@@ -49,32 +51,26 @@ he could glare a halo;
 
 that was bittersweet,
 
-seeing that much heaven,
+seeing that much halo,
 
-being close to it,
+being close to it
 
 and yet so far away.
 
 &nbsp;
 
-They told their oldest friend,
+They told their oldest friends,
 
-and they were so surprised
+and they were so surprised,
 
-that a guy and girl
-
-could care so much for one another,
-
-and meant each other the world,
+someone could care that much,
 
 and both could wear a halo,
 
-and both were deeply,
+and both were deeply in love,
 
-fearing not being loved back,
-
-and none said but a smile,
+fearing not being smiled back,
 
 and a smile was not enough
 
-but way more than what both could take.
+but way more than what they could take.
