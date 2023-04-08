@@ -19,9 +19,7 @@ then kept it to himself,
 
 cuz he loved freaking hard
 
-and didn't own his chest,
-
-he didn't own his chest.
+and didn't own his chest.
 
 &nbsp;
 
