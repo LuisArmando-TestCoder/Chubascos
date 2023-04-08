@@ -25,19 +25,17 @@ and didn't own his chest.
 
 Everytime he looked at her,
 
-her heart wanted to jump
+her heart wanted to scape
 
-out of her to his arms,
+out of her hands into his chest,
 
 but both were young and fearful,
 
-of the kind that tastes so sweet,
+of the kind that tastes so well,
 
-but she kept it to herself,
+but she kept it to herself too,
 
-just as he did with her,
-
-it was such a shame.
+just as he did with her.
 
 &nbsp;
 
@@ -73,7 +71,7 @@ They told their oldest friends,
 
 and they were so surprised,
 
-someone could care that much,
+someone could really care much,
 
 and both could wear a halo,
 
@@ -83,4 +81,6 @@ fearing not being smiled back,
 
 and a smile was not enough
 
-but way more than what they could take.
+but freaking more than
+
+what they both could take.
