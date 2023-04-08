@@ -73,8 +73,14 @@ both were deeply in love,
 
 fearing not being smiled back,
 
-nut a smile was not enough,
+but a smile was not enough,
 
-but so freaking more
+but so freaking more than
 
-than what they both could take.
+what their heart could take,
+
+that was such shame,
+
+cuz they were way more
+
+than just boys and girls.
