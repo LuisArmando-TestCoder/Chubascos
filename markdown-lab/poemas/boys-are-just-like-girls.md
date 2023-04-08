@@ -45,7 +45,7 @@ and that was so bittersweet,
 
 seeing that much halo,
 
-being close to it
+being close to him
 
 and yet far away.
 
