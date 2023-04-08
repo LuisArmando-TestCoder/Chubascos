@@ -79,7 +79,7 @@ but a smile was not enough,
 
 but so freaking more than
 
-what their heart could take,
+what their heart could take;
 
 that was such a shame,
 
