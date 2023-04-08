@@ -31,7 +31,7 @@ both were young and fearful
 
 of the kind that tastes so well,
 
-so she kept it to herself too,
+so she kept it to herself,
 
 that was such a shame.
 
@@ -45,7 +45,7 @@ and that was so bittersweet,
 
 seeing that much halo,
 
-being close to him
+being close to her
 
 and yet far away.
 
