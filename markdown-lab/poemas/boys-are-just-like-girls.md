@@ -9,9 +9,7 @@ cuz we love so hard,
 
 get deceived in darkness
 
-when someone is our light
-
-and we loose that one.
+when we loose our light.
 
 &nbsp;
 
@@ -57,9 +55,7 @@ cuz we love so hard,
 
 get deceived in darkness
 
-when someone is our light
-
-and we loose that one.
+when we loose our light.
 
 &nbsp;
 
