@@ -27,11 +27,11 @@ Everytime he looked at her,
 
 her heart started pounding,
 
-but both were young and fearful,
+but both were young and fearful
 
 of the kind that tastes so well,
 
-but she kept it to herself too,
+so she kept it to herself too,
 
 that was such a shame.
 
