@@ -59,13 +59,17 @@ someone, our lighthouse.
 
 &nbsp;
 
-They told their oldest friends,
+They told all their friends,
 
 they were so surprised,
 
 someone really cared,
 
-both could wear a halo,
+for somebody outside of self.
+
+&nbsp;
+
+Both could wear a halo,
 
 both were deeply in love,
 
@@ -77,7 +81,7 @@ but so freaking more than
 
 what their heart could take,
 
-that was such shame,
+that was such a shame,
 
 cuz they were way more
 
