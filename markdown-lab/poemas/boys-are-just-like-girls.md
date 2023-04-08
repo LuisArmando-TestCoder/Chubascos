@@ -45,7 +45,7 @@ seeing that much halo,
 
 being close to her
 
-and yet far away.
+and yet so far away.
 
 &nbsp;
 
