@@ -91,4 +91,4 @@ that was such a shame,
 
 cuz they were way more
 
-than just boys and girls.
+than just two good friends.
