@@ -9,7 +9,7 @@ cuz we love so hard,
 
 get deceived in darkness,
 
-someone is our lighthouse.
+someone, our lighthouse.
 
 &nbsp;
 
@@ -55,7 +55,7 @@ cuz we love so hard,
 
 get deceived in darkness,
 
-someone is our lighthouse.
+someone, our lighthouse.
 
 &nbsp;
 
