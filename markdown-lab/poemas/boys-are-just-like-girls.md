@@ -29,13 +29,9 @@ her heart started pounding,
 
 both were young and fearful
 
-of the kind that tastes well,
+of the kind that tastes sweet,
 
-bittersweet but sweet,
-
-she kept it to herself,
-
-that was such a shame.
+she kept it to herself.
 
 &nbsp;
 
