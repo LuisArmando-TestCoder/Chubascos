@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/rest-in-peace"
+slug: "/poemas/i-rest-in-peace"
 tags: ["desperation"]
-title: "rest-in-peace"
+title: "i-rest-in-peace"
 ---
-Rest in peace,
+I rest in peace,
 
 I'm just choking;
 
