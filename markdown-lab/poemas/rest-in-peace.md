@@ -7,7 +7,7 @@ Rest in peace,
 
 I'm just choking;
 
-I'm dust in space;
+dust in space;
 
 she gets to resurrect me.
 
