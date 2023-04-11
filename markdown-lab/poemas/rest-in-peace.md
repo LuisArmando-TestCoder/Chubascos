@@ -5,7 +5,7 @@ title: "rest-in-peace"
 ---
 Rest in peace,
 
-but I am choking;
+but I'm just choking;
 
 I'm dust in space;
 
