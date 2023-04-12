@@ -59,7 +59,7 @@ I can exist without her company,
 
 but so much greyer,
 
-life would be so much colorful 
+life would be so much more colorful 
 
 with her presence and caress,
 
