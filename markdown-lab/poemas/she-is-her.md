@@ -47,7 +47,9 @@ so she knows I'm there only for her,
 
 from a world appart, or even a multiverse,
 
-she'll find that I care.
+she'll find out that I care,
+
+so much so that my life is on the table for her safety.
 
 &nbsp;
 
