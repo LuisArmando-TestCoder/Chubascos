@@ -71,17 +71,17 @@ I'm a simple man,
 
 of a simple stubborn taste,
 
-I just like her,
+I just like her;
 
 might be unrealistic
 
 and delusional,
 
-maybe also, esquizofrenic,
+maybe also be esquizofrenic,
 
 for an infinitesimal possibility
 
-that seems just feasible,
+that seems feasible,
 
 in a world that treats human beings's
 
@@ -95,9 +95,11 @@ to her I orientate towards,
 
 she is the one,
 
-without her I'll just keep flying 
+without her I'll just keep flying,
 
-with nobody by my side,
+moving upwards,
+
+but with nobody by my side,
 
 and that's ok,
 
@@ -107,9 +109,11 @@ my soul is mine,
 
 her soul is hers,
 
-our story is ours,
+our story is ours.
 
-even when she,
+&nbsp;
+
+Even when she,
 
 with the swing of a finger,
 
