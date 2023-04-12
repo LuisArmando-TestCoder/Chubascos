@@ -63,7 +63,7 @@ life would be so much colorful
 
 with her presence and caress,
 
-and my persistent kisses on her colored chick.
+and my persistent kisses on her chick.
 
 &nbsp;
 
