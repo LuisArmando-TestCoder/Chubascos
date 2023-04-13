@@ -411,7 +411,7 @@ Suddenly, Aik stopped, and stepped back all the way towards the landing position
 
 &nbsp;
 
-"This monster was once a man, and that man had a wife, she was the most important person in his life, but she also suffered from severe sadness; he always made sure to make her feel loved, and heard, she also liked him, she cried every time he went out to work, and every speck of spare time he had available was for her, on a perpetual exercise to bring her happiness, because, deep in his soul, that is how he felt around her, even though he never told her, he only knew how to hold tightly, but then came the day, that one day when the man came up to her, and she had committed a crime so unspeakable he forgot it even happened! But now I know, she had killed, and she killed no other than the most important person in this man's life, and hanged it on a tree".
+“This monster was once a man, and that man had a wife, she was the most important person in his life, but she also suffered from severe sadness; he always made sure to make her feel loved, and heard, she also liked him, she cried every time he went out to work, and every speck of spare time he had available was for her, on a perpetual exercise to bring her happiness, because, deep in his soul, that is how he felt around her, even though he never told her, he only knew how to hold her tightly, but then came the day, that one day when the man came up to her, and she had committed a crime so unspeakable he forgot, it even happened! But now I know, she had killed someone, and she killed no other than the most important person in this man’s life, and hanged it on a tree”.
 
 &nbsp;
 
