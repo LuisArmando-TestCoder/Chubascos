@@ -15,7 +15,7 @@ The world outside may have been filled with idle chatter and mundane gossip, but
 
 &nbsp;
 
-The blacksmith was eating his lunch, oblivious to the impending doom of a man that was robbing him. Aik didn't look for witnesses, nor did he seek permission. He simply walked towards the swords and the scythes that lay in the corner, and picked them up. He grabbed a belt, a green hood, and a sword sling, and without a word, he walked out of the shop, his heart heavy with sorrow.
+The blacksmith was eating his lunch, oblivious to the doom of a man that was robbing him. Aik didn't look for witnesses, nor did he seek permission. He simply walked towards the swords and the scythes that lay in the corner, and picked them up. He grabbed a belt, a green hood, and a sword sling, and without a word, he walked out of the shop, his heart heavy with sorrow.
 
 &nbsp;
 
