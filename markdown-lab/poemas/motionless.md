@@ -7,6 +7,12 @@ Motionless
 
 &nbsp;
 
+
+&nbsp;
+## 0
+
+&nbsp;
+
 The world outside may have been filled with idle chatter and mundane gossip, but inside his heart, there was a storm brewing. A storm that had been raging for years, fueled by pain and heartache. It was a storm that he couldn't contain anymore. And so, he walked into the blacksmith's shop, his eyes devoid of life, his soul consumed by darkness.
 
 &nbsp;
@@ -32,6 +38,12 @@ The stories of his exploits spread like wildfire, and people began to whisper th
 &nbsp;
 
 As the war approached its hundredth year, the soldiers on both sides began to fear him. They knew that he was coming for them, and they knew that they couldn't stop him. He destroyed entire camps, leaving behind a trail of clean cuts, and shocked faces. But in the hundredth year, he stopped.
+
+&nbsp;
+
+
+&nbsp;
+## 1
 
 &nbsp;
 
@@ -63,6 +75,12 @@ Aik knew that he was a man of few words, but when it came to her, he could write
 
 &nbsp;
 
+
+&nbsp;
+## 2
+
+&nbsp;
+
 As he walked out of his home, his heart racing with worry and fear, he couldn't shake the image of what he had just witnessed. The weight of her crime was too heavy for him to bear. For hours, he paced back and forth in their home, lost in a spiral of despair and confusion.
 
 &nbsp;
@@ -72,6 +90,12 @@ As the dawn approached, he knew what he had to do. With a heavy heart and a mind
 &nbsp;
 
 As he walked back to their home, he felt like his heart had shattered into a million pieces.
+
+&nbsp;
+
+
+&nbsp;
+## 3
 
 &nbsp;
 
@@ -99,6 +123,12 @@ As the months went by, Aik's body began to heal, and he regained some of his str
 
 &nbsp;
 
+
+&nbsp;
+## 4
+
+&nbsp;
+
 The tree that, lurking outside the window, bore fruit for Aik was no ordinary. Its branches were twisted and gnarled, and its leaves were a sickly shade of green. But despite its sinister appearance, the fruit that it bore was nourishing. Aik couldn't resist the temptation to eat it, even though he knew that there was something off.
 
 &nbsp;
@@ -108,6 +138,12 @@ The liquid that he drank from the tree was not water, but a thick, red substance
 &nbsp;
 
 With saddened eyes, and dried up tears that once washed the grease of his bony face, he started laughing ironically. "Tastes like iron".
+
+&nbsp;
+
+
+&nbsp;
+## 5
 
 &nbsp;
 
@@ -139,6 +175,12 @@ Aik crawled to the corner of the room, and hid there, from the feeling, from fru
 
 &nbsp;
 
+
+&nbsp;
+## 6
+
+&nbsp;
+
 As Aik crouched in the corner, he began to see things that weren't there. Ghosts, demons, and all sorts of twisted creatures started to visit him in his mind. They whispered to him, promising him power, pleasure, and release from his pain. They told him that he was better off without the burden of human emotions, that he should embrace his dark desires and revel in his own depravity.
 
 &nbsp;
@@ -152,6 +194,12 @@ The tree outside his window seemed to grow taller and darker, its branches stret
 &nbsp;
 
 And so he remained there, trapped in a world of his own making, haunted by his demons, and consumed by his addiction to the twisted tree.
+
+&nbsp;
+
+
+&nbsp;
+## 7
 
 &nbsp;
 
@@ -175,7 +223,19 @@ But the demons were still there, whispering to him, tempting him to kill. And he
 
 &nbsp;
 
-Knowing what he did, he entered a crying spree one last time, trying to holds his voices back, trying to starve, he looked for strength everywhere, and he finally saw her in his mind, but soon she turned into a monster, and then he woke up, with one last twisted ray of an idea, he was ready to go to war.
+
+&nbsp;
+## 8
+
+&nbsp;
+
+Knowing what he did, he entered a crying spree one last time, trying to hold his voices back, trying to starve, he looked for strength everywhere, and he finally saw her in his mind, but soon she turned into a monster, and then he woke up, with one last twisted ray of an idea, he was ready to go to war.
+
+&nbsp;
+
+
+&nbsp;
+## 9
 
 &nbsp;
 
@@ -187,11 +247,11 @@ As he made his way through the market, people were screaming and running in fear
 
 &nbsp;
 
-When a bandit came to attack him, Aik moved with lightning speed, swinging his scythe and slicing the man's throat before he could even react. The other bandits didn't even notice as Aik grabbed the helmet off the dead man's head and continued on his way. He walked past them, without a word, he pulled out his sword and sliced through the throat of one more bandit. And right there, they noticed, the others stared at him in terror, frozen in their tracks. They had never seen such a cold and calculated killing monster, walking so melancholically slowly, and yet, ensuring death on its trajectory.
+When a bandit came to attack him, Aik moved with lightning speed, swinging his scythe and slicing the man's throat before he could even react. The other bandits didn't even notice as Aik grabbed the helmet off the dead man's head and continued on his way. He walked past them, without a word, he pulled out his sword and sliced through the throat of one more bandit. And right there, they noticed, the others stared at him in terror, frozen in their tracks. They had never seen such a cold and calculated killing monster, walking so melancholically slow, and yet, ensuring death on its trajectory.
 
 &nbsp;
 
-As Aik walked out of the city gates, his eyes fixed on the horizon, he was no longer the same person. His body was lean and muscular, his eyes cold and emotionless. The people who watched him leave, in shock, saw a demonic phoenix rising from the ashes, while wondering what had become of the boy they once knew.
+As Aik walked out of the city gates, his eyes fixed on the horizon, he was no longer the same person. His body was lean, his eyes cold and emotionless. The people who watched him leave, in shock, saw a demonic phoenix rising from the ashes, while wondering what had become of the boy they once knew.
 
 &nbsp;
 
@@ -203,11 +263,23 @@ As he disappeared into the forest, the people of the city remained in stunned si
 
 &nbsp;
 
+
+&nbsp;
+## 10
+
+&nbsp;
+
 At first, it was just whispers amongst the soldiers, murmurs of a ghostly figure that appeared out of nowhere and vanished just as quickly. But as time went on, the rumours became more frequent and more terrifying. Entire campaigns were halted, as the troops feared to march any further with the unknown warrior lurking in the shadows. Night after night, he struck with precision and efficiency, slipping into enemy camps undetected and leaving behind a trail of blood and destruction. His attacks came at any hour, leaving the soldiers in a constant state of paranoia and dread. None could stop him, and none knew when he would strike again. The war had already claimed countless lives, but now there was a new force to reckon with, one that even the bravest soldiers cowered in fear of.
 
 &nbsp;
 
-Aik continued on his journey, his only purpose to find and eliminate anyone who had a business with killing.
+
+&nbsp;
+## 11
+
+&nbsp;
+
+Aik continued on his journey, his only purpose, to find and eliminate anyone who had a business with killing.
 
 &nbsp;
 
@@ -215,11 +287,17 @@ Some whispered that he was possessed by a demon, while others claimed that he ha
 
 &nbsp;
 
-Aik had become a force of nature, beyond human comprehension. So much so, that stories were became so twisted, that some of thee events were narrated while saying that his eyes glowed a fiery red, that his fingers lengthened into sharp talons, and his hair turned into flames that flickered and danced in the wind, that he spread his wings, and they burst into flames as well, that a trail of fire followed him as he flew higher and higher into the sky, leaving the city far behind, that as he soared through the air, Aik could hear the distant sounds of war drums and the clash of swords, that he landed in a war-torn land, where soldiers and bandits clashed in a deadly dances, that Aik's eyes glowed brighter as he surveyed each scene, that he felt an insatiable hunger, and he knew that he had to feed it with blood, that he swooped down upon the battlefield, his talons ripping through armours and flesh alike, that he fought with a ferocity that no mortal could match, tearing through his enemies with ease, that as the battles raged on, Aik felt his power growing, that the more blood he spilled, the stronger he became, that he fought, day and night, until there were no more enemies left to slay, that he once emerged from the battlefield, his body covered in blood, his eyes glowing with a fierce intensity.
+Aik had become a force of nature, beyond human comprehension. So much so, that stories became so twisted, that some of the events were narrated with allegations saying that his eyes glowed a fiery red, that his fingers lengthened into sharp talons, and his hair turned into flames that flickered and danced in the wind, that he spread his wings, and they burst into flames as well, that a trail of fire followed him as he flew higher and higher into the sky, leaving the city far behind, that as he soared through the air, Aik could hear the distant sounds of war drums and the clash of swords, that he landed in a war-torn land, where soldiers and bandits clashed in a deadly dances, that Aik's eyes glowed brighter as he surveyed each scene, that he felt an insatiable hunger, and he knew that he had to feed it with blood, that he swooped down upon the battlefield, his talons ripping through armours and flesh alike, that he fought with a ferocity that no mortal could match, tearing through his enemies with ease, that as the battles raged on, Aik felt his power growing, that the more blood he spilled, the stronger he became, that he fought, day and night, until there were no more enemies left to slay, that he once emerged from the battlefield, his body covered in blood, his eyes glowing with a fierce intensity.
 
 &nbsp;
 
 Aik knew that these were fairy tales, but either way, these were tales about him.
+
+&nbsp;
+
+
+&nbsp;
+## 12
 
 &nbsp;
 
@@ -251,11 +329,23 @@ In the end, the man finished his drink and quietly left the pub, disappearing in
 
 &nbsp;
 
+
+&nbsp;
+## 13
+
+&nbsp;
+
 His movements were fluid, his strikes precise, and his speed unmatched. He moved through the battlefield like a ghost, leaving a trail of bodies in his wake. His enemies whispered of him in fear.
 
 &nbsp;
 
-From the soldier's standpoint, the man was a living nightmare. They had heard rumours of him before, but seeing him in action was a whole different story. He moved with such speed and precision, it was like he was dancing through the battlefield. Soldiers on both sides fell under his blade, and there was no pattern to his attacks. He seemed to strike at random, never staying in one place for too long. Some even whispered that he was a demon, summoned by the enemy to take them all down. But as time went on, it became clear that he didn't discriminate between sides. He was a killing machine, and the soldiers learned to fear the mere mention of his name.
+From the soldier's standpoint, the man was a living nightmare. They had heard rumours of him before, but seeing him in action was a whole different story. He moved with such speed and precision, it was like he was dancing through the battlefield. Soldiers on both sides fell under his blade, and there was no pattern to his attacks. He seemed to strike at random, never staying in one place for too long. Some even whispered that he was a demon, summoned by the enemy to take them all down. But as time went on, it became clear that he didn't discriminate between sides. He was a killing machine, and soldiers learned to fear the mere mention of his name.
+
+&nbsp;
+
+
+&nbsp;
+## 14
 
 &nbsp;
 
@@ -279,7 +369,7 @@ The boy took a step closer and looked up at Aik with an innocent expression. "I 
 
 &nbsp;
 
-The boy's eyes sparkled with curiosity. "Can I watch? I've never seen someone fish before."
+The boy's eyes sparkled with curiosity. "Can I watch?"
 
 &nbsp;
 
@@ -307,7 +397,7 @@ The boy, sensing that he had struck a chord with Aik, continued. "My mom always 
 
 &nbsp;
 
-Aik stared at the boy for a moment before sighing heavily. "Alright. I'll tell you a story."
+Aik stared at the boy for a moment before sighing heavily. "I'll tell you a story."
 
 &nbsp;
 
@@ -315,7 +405,7 @@ The boy's eyes widened in anticipation, and Aik began his tale. He told the boy 
 
 &nbsp;
 
-"And then one day, when the man came home from work, he found out that his wife had done something terrible" Aik finished, his voice filled with pain.
+"And then, one day, when the man came home from work, he found out that his wife had done something terrible" Aik finished, his voice filled with pain.
 
 &nbsp;
 
@@ -323,7 +413,7 @@ The boy looked up at Aik with confusion etched on his face. "What did she do?"
 
 &nbsp;
 
-Aik hesitated for a moment before responding, his voice barely above a whisper. "Abandon".
+Aik hesitated for a moment before responding, his voice barely above a whisper. "Swung".
 
 &nbsp;
 
@@ -332,6 +422,12 @@ The boy didn't quite understand the meaning behind Aik's words, but he could sen
 &nbsp;
 
 For Aik, the moment was a turning point. It was the first time in a long time that he had opened up to anyone, and it was the first time in even longer that he had allowed himself to feel even the slightest hint of compassion. As the two of them sat there in silence, watching the fish swim in the stream, Aik realised that there was still a spark of humanity left inside of him. And for that, deep inside, he was grateful.
+
+&nbsp;
+
+
+&nbsp;
+## 15
 
 &nbsp;
 
@@ -355,15 +451,21 @@ They would later learn that it was the work of a single warrior, a living nightm
 
 &nbsp;
 
+
+&nbsp;
+## 16
+
+&nbsp;
+
 Aik's journey through the wilderness was filled with moments of darkness and violence, but there were also moments of unexpected humanity.
 
 &nbsp;
 
-One such moment occurred when Aik came across a group of soldiers who had been sent to hunt him down. Aik could sense their fear and hesitation, and he used it to his advantage. He stalked them silently, picking them off one by one, until only one soldier was left.
+One such moment occurred when Aik came across a group of soldiers who had been sent to hunt him down. Aik could sense their fear and hesitation, and he used it to his advantage. He stalked them silently, picking them off one by one, until he managed to make them spread.
 
 &nbsp;
 
-It was then that he noticed a pair of pupils looking at him with horror, hiding in the bushes. It was one of the soldiers, but he was different from the others. He was young, and his eyes were filled with terror, watching the whole scene unfold. Aik could see himself reflected in the young man's pupils, and for a moment, he hesitated.
+It was then when he noticed a pair of pupils looking at him with horror, hiding in the bushes. It was one of the soldiers, but he was different from the others. He was young, and his eyes were filled with terror, watching the whole scene unfold. Aik could see himself reflected in the young man's pupils, and for a moment, he hesitated.
 
 &nbsp;
 
@@ -379,7 +481,7 @@ Aik took the scythe out of the man's hands and said, while walking past the sold
 
 &nbsp;
 
-He left the soldier alive, knowing that he could never go back to his comrades after failing to capture or kill the monster when he was given the opportunity in silver plate.
+He left the soldier alive, knowing that he could never go back to his comrades after failing to capture or kill the monster when given the opportunity in silver plate.
 
 &nbsp;
 
@@ -387,7 +489,13 @@ As Aik walked away, he felt a glimmer of hope. Maybe there was still some humani
 
 &nbsp;
 
-Aik had been travelling for months, wandering from one kingdom to another, his heart heavy with the weight of his past. He had left his home and everything he had ever known behind, driven by a need to escape the pain of his lost love and the burden of the sin of being late when he was needed.
+
+&nbsp;
+## 17
+
+&nbsp;
+
+Aik had been travelling for months, wandering from one kingdom to another, his heart heavy with the weight of his past. He had left his home and everything he had ever known behind, driven by a need to escape the pain of his lost love and the burden of a sin he didn't commit.
 
 &nbsp;
 
@@ -403,15 +511,15 @@ As he emerged onto the streets, chaos was erupting all around him. Soldiers and 
 
 &nbsp;
 
-One of the soldiers saw him and charged, but Aik was way faster. He swung his scythe out from his belt and sliced the man's head into the sky. As the body hit the ground, Aik snatched the chainmail from the man's head and kept moving, his heart pounding with adrenaline.
+One of the soldiers saw him and charged, but Aik was way faster. He swung his scythe out from his belt and sliced the man's head into the sky. As the body hit the ground, Aik snatched a fruit from a tree and kept moving, his heart pounding with adrenaline, but his mind at ease.
 
 &nbsp;
 
-Suddenly, Aik stopped, and stepped back all the way towards the landing position of the head he had snapped, looking at it steadily, and then kneeled, everybody else preferred keep fighting than getting closer to that mentally deranged looking man, as he was citing a story to a head, in the middle of the battlefield,
+Suddenly, Aik stopped, and stepped back all the way towards the landing position of the head he had snapped out, he catched it, and started looking at it steadily, and then kneeled; everybody else had already a fighting partner, and honestly, maybe they preferred fighting each other than getting closer to that mentally deranged looking assassin, maybe even because he was citing a story to a head, in the middle of that battlefield, and he was petting it.
 
 &nbsp;
 
-“This monster was once a man, and that man had a wife, she was the most important person in his life, but she also suffered from severe sadness; he always made sure to make her feel loved, and heard, she also liked him, she cried every time he went out to work, and every speck of spare time he had available was for her, on a perpetual exercise to bring her happiness, because, deep in his soul, that is how he felt around her, even though he never told her, he only knew how to hold her tightly, but then came the day, that one day when the man came up to her, and she had committed a crime so unspeakable he forgot, it even happened! But now I know, she had killed someone, and she killed no other than the most important person in this man’s life, and hanged it on a tree”.
+"This monster was once a man, and that man had a wife, she was the most important person in his life, but she also suffered from severe sadness; he always made sure to make her feel loved, and heard, she also liked him like wonders, as she cried every time he went out to work, and so, every speck of spare time he had available, he gave it to her, on a perpetual exercise to bring her happiness, because, deep in his soul, that is how he felt around her, even though he never told her, he didn't think it was necessary, but he definitely knew how to hold her tightly, every night and every encounter, and still, that day came, when the man got back to his home, and she had committed a crime so unspeakable, he forgot it even happened! But one day, after so much travelling, he remembered, she had killed someone, no other than the most important person in this man's life, and then hung it on a tree".
 
 &nbsp;
 
