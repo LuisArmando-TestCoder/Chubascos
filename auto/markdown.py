@@ -29,6 +29,7 @@ def getTitle(content):
             .split(':')[0]
             .strip()
             .replace(' ', '-')
+            .replace('# ', '')
     )
 
 def getSlug(title):
@@ -44,6 +45,7 @@ def getSlug(title):
             .replace('¿', '')
             .replace('?', '')
             .replace('!', '')
+            .replace('# ', '')
     )
 
 def getPoem(content):
