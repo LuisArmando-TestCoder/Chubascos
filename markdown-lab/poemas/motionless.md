@@ -9,7 +9,7 @@ Motionless
 
 
 &nbsp;
-## 0
+[link](#0)
 
 &nbsp;
 
@@ -43,7 +43,7 @@ As the war approached its hundredth year, the soldiers on both sides began to fe
 
 
 &nbsp;
-## 1
+[link](#1)
 
 &nbsp;
 
@@ -77,7 +77,7 @@ Aik knew that he was a man of few words, but when it came to her, he could write
 
 
 &nbsp;
-## 2
+[link](#2)
 
 &nbsp;
 
@@ -95,7 +95,7 @@ As he walked back to their home, he felt like his heart had shattered into a mil
 
 
 &nbsp;
-## 3
+[link](#3)
 
 &nbsp;
 
@@ -125,7 +125,7 @@ As the months went by, Aik's body began to heal, and he regained some of his str
 
 
 &nbsp;
-## 4
+[link](#4)
 
 &nbsp;
 
@@ -143,7 +143,7 @@ With saddened eyes, and dried up tears that once washed the grease of his bony f
 
 
 &nbsp;
-## 5
+[link](#5)
 
 &nbsp;
 
@@ -177,7 +177,7 @@ Aik crawled to the corner of the room, and hid there, from the feeling, from fru
 
 
 &nbsp;
-## 6
+[link](#6)
 
 &nbsp;
 
@@ -199,7 +199,7 @@ And so he remained there, trapped in a world of his own making, haunted by his d
 
 
 &nbsp;
-## 7
+[link](#7)
 
 &nbsp;
 
@@ -225,7 +225,7 @@ But the demons were still there, whispering to him, tempting him to kill. And he
 
 
 &nbsp;
-## 8
+[link](#8)
 
 &nbsp;
 
@@ -235,7 +235,7 @@ Knowing what he did, he entered a crying spree one last time, trying to hold his
 
 
 &nbsp;
-## 9
+[link](#9)
 
 &nbsp;
 
@@ -265,7 +265,7 @@ As he disappeared into the forest, the people of the city remained in stunned si
 
 
 &nbsp;
-## 10
+[link](#10)
 
 &nbsp;
 
@@ -275,7 +275,7 @@ At first, it was just whispers amongst the soldiers, murmurs of a ghostly figure
 
 
 &nbsp;
-## 11
+[link](#11)
 
 &nbsp;
 
@@ -297,7 +297,7 @@ Aik knew that these were fairy tales, but either way, these were tales about him
 
 
 &nbsp;
-## 12
+[link](#12)
 
 &nbsp;
 
@@ -331,7 +331,7 @@ In the end, the man finished his drink and quietly left the pub, disappearing in
 
 
 &nbsp;
-## 13
+[link](#13)
 
 &nbsp;
 
@@ -345,7 +345,7 @@ From the soldier's standpoint, the man was a living nightmare. They had heard ru
 
 
 &nbsp;
-## 14
+[link](#14)
 
 &nbsp;
 
@@ -427,7 +427,7 @@ For Aik, the moment was a turning point. It was the first time in a long time th
 
 
 &nbsp;
-## 15
+[link](#15)
 
 &nbsp;
 
@@ -453,7 +453,7 @@ They would later learn that it was the work of a single warrior, a living nightm
 
 
 &nbsp;
-## 16
+[link](#16)
 
 &nbsp;
 
@@ -491,7 +491,7 @@ As Aik walked away, he felt a glimmer of hope. Maybe there was still some humani
 
 
 &nbsp;
-## 17
+[link](#17)
 
 &nbsp;
 
