@@ -479,7 +479,7 @@ Aik took the scythe out of the man's hands and said, while walking past the sold
 
 &nbsp;
 
-He left the soldier alive, knowing that he could never go back to his comrades after failing to capture or kill the monster when given the opportunity in silver plate.
+He left the soldier alive, knowing that he could never go back to his comrades after failing to capture or kill the monster when given the opportunity on silver plate.
 
 &nbsp;
 
