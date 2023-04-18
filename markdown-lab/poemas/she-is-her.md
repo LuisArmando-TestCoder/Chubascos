@@ -15,7 +15,7 @@ I like solutide, and enjoy melancholly.
 
 &nbsp;
 
-I could wonder around people that like me, 
+I could wonder around people that like me,
 
 that I like back,
 
@@ -59,7 +59,7 @@ I can exist without her company,
 
 but so much greyer,
 
-life would be so much more colorful 
+life would be so much more colorful
 
 with her presence and caress,
 
