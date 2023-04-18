@@ -25,7 +25,7 @@ The one that God looks at as a kiddo;
 
 We say that humans are imperfect,
 
-I say that we are... shape shifters.
+I say that humans are shape shifters.
 
 &nbsp;
 
