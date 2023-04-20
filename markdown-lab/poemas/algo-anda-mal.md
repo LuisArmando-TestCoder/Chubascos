@@ -47,7 +47,7 @@ Y la economía se mueve, y se llena de psicólogos, y ellos se ganan el pan, ate
 
 &nbsp;
 
-Quizá cuando enmudecieron la verdadera libertad, y antepusieron la psicosis, porque las inseguridades venden, porque comparar a las personas con sus sueños, a costa de unos cuantos suicidios y millones de personas libres pero vacías, sirve, sirve para convertir a los vivos en un bolsas de dinero con patas.
+Quizá cuando enmudecieron la verdadera libertad, y antepusieron la psicosis, porque las inseguridades venden, porque comparar a las personas con sus sueños, a costa de unos cuantos suicidios y millones de personas libres pero vacías, sirve, sirve para convertir a los vivos en bolsas de dinero con patas.
 
 &nbsp;
 
