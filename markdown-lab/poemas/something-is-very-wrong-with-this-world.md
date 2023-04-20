@@ -55,7 +55,7 @@ I too have felt imprisoned; not when I was going for my goal, but when I had alr
 
 &nbsp;
 
-First, we have to break down the example of the “amusement park’s machine” into its realistic counterparts.
+First, we have to break down the example of the "amusement park’s machine" into its realistic counterparts.
 
 &nbsp;
 

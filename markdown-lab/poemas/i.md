@@ -9,7 +9,7 @@ have had
 
 what many people call
 
-“disorders”,
+"disorders",
 
 of the psychological kind,
 
@@ -25,7 +25,7 @@ for the unknown,
 
 I've faced it,
 
-“Let it all in!”,
+"Let it all in!",
 
 I've screamed, while my eyes,
 

@@ -87,7 +87,7 @@ a red carpet in your City of Stars.
 
 &nbsp;
 
-You gotta say “no”, sometimes,
+You gotta say "no", sometimes,
 
 and then go take risks,
 

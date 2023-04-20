@@ -19,7 +19,7 @@ I remember voices begging me to watch out
 
 for somebody that is no longer here,
 
-but I ran for the “code of the assassin”,
+but I ran for the "code of the assassin",
 
 no feelings, when I went to kill my spark for her,
 
