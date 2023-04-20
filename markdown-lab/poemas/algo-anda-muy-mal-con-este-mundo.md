@@ -7,7 +7,7 @@ Algo anda muy mal con este mundo, bueno, hay muchas cosas, pero hay una en parti
 
 &nbsp;
 
-Pero quién soy yo para predicar algo, un don nadie, dirían tantos, y ahí está, otra vez, la droga acaba de aparecer. La razón de mis múltiples recaídas, la razón de que me sienta sutilmente incómodo, porque si algo tengo, es sensibilidad para sentirme incompleto, cada vez que lo portento, cada vez que se me abre un abismo en el estómago, lo siento, pero lo que me diferencia, es que no lo ignoro.
+Pero quién soy yo para predicar algo, un don nadie, dirían tantos, y ahí está, otra vez, la droga acaba de aparecer. La razón de mis múltiples recaídas, la razón de que me sienta sutilmente incómodo, porque si algo tengo, es sensibilidad para sentirme incompleto, cada vez que lo noto, cada vez que se me abre un abismo en el estómago, lo siento, pero lo que me diferencia, es que no lo ignoro.
 
 &nbsp;
 
