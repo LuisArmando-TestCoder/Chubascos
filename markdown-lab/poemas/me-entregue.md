@@ -5,7 +5,7 @@ title: "me-entregué"
 ---
 Me entregué,
 
-y ahora no soy solo mío.
+y ahora no soy mío.
 
 &nbsp;
 
@@ -19,27 +19,33 @@ de un individuo?
 
 &nbsp;
 
-Es difícil conformarse con menos
+Es difícil 
 
-y no entregarse en cuerpo y alma.
+conformarse con menos
+
+y no entregarse 
+
+en cuerpo y alma.
 
 &nbsp;
 
-Anhelo la experiencia de lo sagrado,
+Anhelo la experiencia 
 
-por eso me obsesiona esta visión,
+de lo sagrado,
+
+por eso me atrapa esta visión,
 
 el espejismo de alguien
 
-en quien perderme por completo.
+en quien perderme 
+
+por completo.
 
 &nbsp;
 
-Deseo sentir de nuevo
+Pertenezco la divinidad
 
-la divinidad que late
-
-en cada gemido de su voz,
+que late en cada gemido,
 
 que vibra en cada espasmo.
 
@@ -51,4 +57,4 @@ que solo se puede brindar,
 
 al diluir los cuerpos
 
-de dos criaturas desnudas.
+de dos criaturas.
