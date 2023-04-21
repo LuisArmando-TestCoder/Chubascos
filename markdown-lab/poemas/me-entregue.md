@@ -1,11 +1,11 @@
 ---
-slug: "/poemas/me-he-entregado"
+slug: "/poemas/me-entregue"
 tags: ["love"]
-title: "me-he-entregado"
+title: "me-entregué"
 ---
-Me he entregado,
+Me entregué,
 
-y ahora no soy mío.
+y ahora no soy solo mío.
 
 &nbsp;
 
