@@ -121,15 +121,13 @@ a que se conozcan a sí mismos,
 
 y que luego entre ellos
 
-vengan a abrigarse,
+lleguen a reencontrarse,
 
-necesitan reencontrarse,
-
-y conocerse entre ellos;
+y conocerse de nuevo;
 
 cuando lo hayan logrado,
 
-y escuchen de nuevo en pretérito
+y escuchen en silencio y en pretérito,
 
 sus crueles pensamientos,
 
