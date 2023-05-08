@@ -13,7 +13,7 @@ y que estás mejor sola,
 
 pues al final de toda esta farsa,
 
-solo tienes a ti misma.
+solo te tienes a ti misma.
 
 &nbsp;
 
