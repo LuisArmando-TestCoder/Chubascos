@@ -53,9 +53,9 @@ Looking for help, infinity feels small and vain,
 
 And yet where are you Grace? Stranded in my brain,
 
-Within myself, so complex and full of wonders,
+Within myself, so complex, full of wonders,
 
-But in this world and all the others.
+in this world and all the others.
 
 &nbsp;
 
