@@ -65,6 +65,8 @@ A kiss and many others,
 
 To my real self,
 
-That’s why I create a Multiverse,
+That’s why I create a Omniverse,
 
-So you can come and raise and save me.
+So you can come and raise
+
+and save me and kiss.
