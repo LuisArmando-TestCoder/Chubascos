@@ -51,7 +51,7 @@ A tiny god, that raises its voice, again.
 
 Looking for help, infinity feels small and vain,
 
-And yet where are you Grace? I'm stranded in my brain,
+And yet where are you Grace? Stranded in my brain,
 
 Within myself, so complex and full of wonders,
 
