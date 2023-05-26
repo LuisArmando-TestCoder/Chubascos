@@ -65,6 +65,6 @@ A kiss and many others,
 
 To my real self,
 
-That’s I create a Multiverse,
+That’s why I create a Multiverse,
 
 So you can come and save me.
