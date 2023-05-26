@@ -67,4 +67,4 @@ To my real self,
 
 That’s why I create a Multiverse,
 
-So you can come and save me.
+So you can come and raise and save me.
