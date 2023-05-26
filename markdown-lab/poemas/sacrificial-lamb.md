@@ -49,7 +49,7 @@ A tiny god, that raises its voice, again.
 
 &nbsp;
 
-Looking for help, infinity feels small and vein,
+Looking for help, infinity feels small and vain,
 
 And yet where are you Grace? I'm stranded in my brain,
 
