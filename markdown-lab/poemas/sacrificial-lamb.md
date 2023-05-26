@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/sacrificial-lamp"
+slug: "/poemas/sacrificial-lamb"
 tags: ["love,sad"]
-title: "sacrificial-lamp"
+title: "sacrificial-lamb"
 ---
-Sacrificial lamp, impetious gold,
+Sacrificial lamb, impetious gold,
 
 Human sacrifice, a human burns,
 
