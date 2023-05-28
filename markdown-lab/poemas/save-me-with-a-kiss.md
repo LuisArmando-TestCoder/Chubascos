@@ -1,8 +1,12 @@
 ---
-slug: "/poemas/sacrificial-lamb"
+slug: "/poemas/save-me-with-a-kiss"
 tags: ["love,sad"]
-title: "sacrificial-lamb"
+title: "save-me-with-a-kiss"
 ---
+Save me with a kiss.
+
+&nbsp;
+
 Sacrificial lamb, impetious gold,
 
 Human sacrifice, a human burns,
