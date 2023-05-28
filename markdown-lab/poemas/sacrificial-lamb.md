@@ -69,4 +69,4 @@ That’s why I create an Omniverse,
 
 So you can come and raise
 
-and save me and kiss.
+and save me with a kiss.
