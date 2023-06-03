@@ -63,4 +63,4 @@ my dreams that dawn,
 
 my dawning hope,
 
-my dreams that dawn.
+hope for the dawn.
