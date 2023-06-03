@@ -13,9 +13,9 @@ reincarnating
 
 into the Sun?
 
-is it just me
+is it just me,
 
-that tears are so warm?
+tears are so warm?
 
 &nbsp;
 
