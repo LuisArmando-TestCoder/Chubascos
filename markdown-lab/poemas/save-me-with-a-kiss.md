@@ -13,7 +13,7 @@ Human sacrifice, a human burns,
 
 For the sake of stars, the sake of love,
 
-You just want to shine, so you aren’t alone.
+You just want to shine, so you aren't alone.
 
 &nbsp;
 
@@ -69,7 +69,7 @@ A kiss and many others,
 
 To my real self,
 
-That’s why I create an Omniverse,
+That's why I create an Omniverse,
 
 So you can come and raise
 

@@ -11,7 +11,7 @@ But who am I to preach something… A nobody. So many would say.
 
 &nbsp;
 
-And there it is, the drug has just appeared again, and you didn’t even notice. Maybe.
+And there it is, the drug has just appeared again, and you didn't even notice. Maybe.
 
 &nbsp;
 
@@ -55,7 +55,7 @@ I too have felt imprisoned; not when I was going for my goal, but when I had alr
 
 &nbsp;
 
-First, we have to break down the example of the "amusement park’s machine" into its realistic counterparts.
+First, we have to break down the example of the "amusement park's machine" into its realistic counterparts.
 
 &nbsp;
 
