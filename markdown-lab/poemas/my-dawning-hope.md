@@ -9,8 +9,6 @@ my dreams that dawn,
 
 Am I floating, 
 
-reincarnating
-
 into the Sun?
 
 is it just me,
