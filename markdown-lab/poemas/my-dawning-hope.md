@@ -43,7 +43,7 @@ Smile while I burn,
 
 am I insane?
 
-I hope for the dawn.
+Hope for the dawn.
 
 &nbsp;
 
