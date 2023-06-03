@@ -1,9 +1,9 @@
 ---
-slug: "/poemas/my-dawning-hope"
+slug: "/poemas/hope-for-the-dawn"
 tags: ["sad"]
-title: "my-dawning-hope"
+title: "hope-for-the-dawn"
 ---
-My dawning hope,
+Hope for the dawn,
 
 my dreams that dawn,
 
