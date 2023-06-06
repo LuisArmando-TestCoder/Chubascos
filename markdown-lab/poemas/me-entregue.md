@@ -19,17 +19,17 @@ de un individuo?
 
 &nbsp;
 
-Es difícil 
+Es difícil
 
 conformarse con menos
 
-y no entregarse 
+y no entregarse
 
 en cuerpo y alma.
 
 &nbsp;
 
-Anhelo la experiencia 
+Anhelo la experiencia
 
 de lo sagrado,
 
@@ -37,7 +37,7 @@ por eso me atrapa esta visión,
 
 el espejismo de alguien
 
-en quien perderme 
+en quien perderme
 
 por completo.
 

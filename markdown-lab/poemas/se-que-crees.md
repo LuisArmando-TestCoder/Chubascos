@@ -51,7 +51,7 @@ en contra tuya y de la aparente lógica.
 
 &nbsp;
 
-Dices: —¿Dónde está la mano 
+Dices: —¿Dónde está la mano
 
 que me sacará de este agujero?
 
@@ -71,13 +71,13 @@ y al bañarte, las recuerdas.
 
 &nbsp;
 
-Las canciones ensordecen 
+Las canciones ensordecen
 
 lo que ellas dicen,
 
 todas esas voces tuyas,
 
-las mismas canciones 
+las mismas canciones
 
 que usas como píldoras,
 
@@ -95,9 +95,9 @@ Si Lana,
 
 tu hermana de perspectiva,
 
-canta más fuerte, 
+canta más fuerte,
 
-ya no parece que tus pensamientos 
+ya no parece que tus pensamientos
 
 te ensordecen,
 

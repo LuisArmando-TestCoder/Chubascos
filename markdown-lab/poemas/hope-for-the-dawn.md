@@ -7,7 +7,7 @@ Hope for the dawn,
 
 my dreams that dawn,
 
-Am I floating, 
+Am I floating,
 
 into the Sun?
 
