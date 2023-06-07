@@ -81,4 +81,24 @@ none of those
 
 but to sink
 
-on your skin.
+on your skin,
+
+To let go,
+
+All my fingers,
+
+Make them walk
+
+Further than
+
+Any man,
+
+Has ever walked,
+
+From the tip
+
+To every vertex,
+
+Every side,
+
+As we shiver.
