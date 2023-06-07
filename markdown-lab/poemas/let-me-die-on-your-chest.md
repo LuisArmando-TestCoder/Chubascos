@@ -93,8 +93,10 @@ Make them crawl
 
 Further than
 
-Any man,
+Any man
 
 Has ever touched
 
-With tender romance.
+The tenderness
+
+Made a woman.
