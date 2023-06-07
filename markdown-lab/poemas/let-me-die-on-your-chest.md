@@ -33,11 +33,15 @@ I profess.
 
 &nbsp;
 
-Didn’t my eyes belong to me,
+Didn’t my eyes belong
+
+to my face,
 
 Why can't I
 
-pause my staring,
+Pause my staring then?
+
+&nbsp;
 
 Stare me back,
 
