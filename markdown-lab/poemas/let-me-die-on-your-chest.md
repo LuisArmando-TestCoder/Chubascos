@@ -59,9 +59,9 @@ I’m awake,
 
 But too numb to
 
-Run away,
+Run away.
 
-Keep me warm,
+&nbsp;
 
 On this dead bed,
 
@@ -77,24 +77,24 @@ Catch my breath,
 
 Good bye thoughts,
 
-I don't need
-
-none of those
+I don't need them,
 
 but to sink
 
 on your skin,
 
-To let go,
+And let go,
 
-All my fingers,
+All my fingers.
 
-Make them walk
+&nbsp;
+
+Make them crawl
 
 Further than
 
 Any man,
 
-Has ever walked,
+Has ever touched
 
-As we shiver.
+With tender romance.
