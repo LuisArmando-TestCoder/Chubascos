@@ -63,7 +63,7 @@ Run away,
 
 Keep me warm,
 
-In this dead bed,
+On this dead bed,
 
 On your chest,
 
