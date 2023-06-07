@@ -5,9 +5,13 @@ title: "i-want-you"
 ---
 I want you
 
-to take time for you,
+To take time
 
-Fuck and fight,
+For you, so you
+
+Fuck and fight.
+
+&nbsp;
 
 Nevermind,
 
@@ -30,8 +34,6 @@ To my quiet days.
 Keep me warm
 
 Catch my breath,
-
-Mastermind,
 
 Good bye thoughts,
 
@@ -66,8 +68,6 @@ in pupils?
 Keep me warm
 
 Catch my breath,
-
-Mastermind,
 
 Good bye thoughts,
 
