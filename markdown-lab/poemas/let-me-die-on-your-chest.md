@@ -49,7 +49,7 @@ Lost in irises,
 
 Hollow abysses,
 
-I'll throw myself
+I'm throwing myself
 
 Into two pupils.
 
