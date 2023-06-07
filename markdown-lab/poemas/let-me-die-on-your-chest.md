@@ -17,8 +17,6 @@ Rest In Peace
 
 Quiet days,
 
-Blow my mind,
-
 I'm screaming:
 
 Catch my breath.
