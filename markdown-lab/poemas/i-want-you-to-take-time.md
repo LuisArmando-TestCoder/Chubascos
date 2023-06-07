@@ -51,9 +51,9 @@ like I’m lost in two pupils?
 
 &nbsp;
 
-So Keep me warm
+So keep me warm
 
-And Catch my breath,
+And catch my breath,
 
 And mastermind
 
