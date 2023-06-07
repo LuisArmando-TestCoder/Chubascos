@@ -13,21 +13,11 @@ while you are topless.
 
 &nbsp;
 
-Fuck and fight,
-
-that's what I
-
-profess.
-
-&nbsp;
-
-Blow my mind,
-
-In the head,
-
 Rest In Peace
 
 Quiet days,
+
+Blow my mind,
 
 I'm screaming:
 
@@ -35,7 +25,15 @@ Catch my breath.
 
 &nbsp;
 
-Am I just powerless,
+Fuck and fight,
+
+that's what I
+
+In the head,
+
+profess.
+
+&nbsp;
 
 Didn’t my eyes belong to me,
 
@@ -43,9 +41,9 @@ Why can't I
 
 pause my staring,
 
-Lost in irises,
-
 Stare me back,
+
+Lost in irises,
 
 Hollow abysses,
 
@@ -69,7 +67,9 @@ On your chest,
 
 On your lips,
 
-On your kisses,
+On your kisses.
+
+&nbsp;
 
 Catch my breath,
 
