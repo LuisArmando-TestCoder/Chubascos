@@ -7,9 +7,9 @@ Let me die on your chest,
 
 let's take time to digest,
 
-how wonderful your skinny jeans,
+your wonderful skinny jeans,
 
-while you are topless.
+while we're topless.
 
 &nbsp;
 
