@@ -39,7 +39,7 @@ to my face,
 
 Why can't I
 
-Pause my staring then?
+Pause my staring?
 
 &nbsp;
 
