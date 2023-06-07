@@ -69,7 +69,9 @@ On your chest,
 
 On your lips,
 
-On your kisses.
+On your kisses,
+
+Good bye thoughts.
 
 &nbsp;
 
