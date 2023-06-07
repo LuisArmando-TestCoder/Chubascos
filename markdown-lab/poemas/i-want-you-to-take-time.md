@@ -31,7 +31,7 @@ Good bye thoughts,
 
 I’m numb to awake,
 
-too numb to awake.
+too numb to wake up.
 
 &nbsp;
 
