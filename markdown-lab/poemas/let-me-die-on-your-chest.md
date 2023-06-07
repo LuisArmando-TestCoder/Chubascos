@@ -35,25 +35,23 @@ Catch my breath.
 
 &nbsp;
 
-Am I your ragdoll,
-
 Am I just powerless,
 
 Didn’t my eyes belong to me,
 
-Then why can't stop staring,
+Why can't I
 
-lost in pupils,
+pause my staring,
 
-Those irises,
-
-Hollow abyss,
+Lost in irises,
 
 Stare me back,
 
-And I'll throw myself
+Hollow abysses,
 
-Into the abyss.
+I'll throw myself
+
+Into two pupils.
 
 &nbsp;
 
