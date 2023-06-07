@@ -95,10 +95,4 @@ Any man,
 
 Has ever walked,
 
-From the tip
-
-To every vertex,
-
-Every side,
-
 As we shiver.

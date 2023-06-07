@@ -7649,8 +7649,5 @@ Make them walk
 Further than
 Any man,
 Has ever walked,
-From the tip
-To every vertex,
-Every side,
 As we shiver.
 <love
