@@ -29,7 +29,7 @@ Rest In Peace
 
 Quiet days,
 
-I'm screaming in the inside,
+I'm screaming:
 
 Catch my breath.
 
