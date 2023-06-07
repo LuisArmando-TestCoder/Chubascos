@@ -39,7 +39,7 @@ Are you a demon
 
 Or are you death?
 
-Succubus, pathetic end,
+Succubus, or the end,
 
 Why Am I being dragged,
 
