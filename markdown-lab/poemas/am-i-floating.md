@@ -43,15 +43,15 @@ Your irises.
 
 &nbsp;
 
-I hope for the dawn,
+Hope for the dawn,
 
-Of your tenderness
-
-And I’m so numb,
-
-I'm deranged.
+For your tenderness.
 
 &nbsp;
+
+I’m so numb,
+
+I'm deranged.
 
 Am I the blaze?
 
@@ -71,9 +71,9 @@ On the surface
 
 Of the Sun,
 
-That's boiling
+I'm boiling
 
-In its touch.
+In your touch.
 
 &nbsp;
 
