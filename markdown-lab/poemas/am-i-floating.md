@@ -67,7 +67,7 @@ Take my fingers
 
 Make them crawl,
 
-On its surface
+On the surface
 
 Of the Sun,
 
