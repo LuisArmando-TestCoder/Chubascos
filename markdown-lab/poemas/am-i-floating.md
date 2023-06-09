@@ -35,11 +35,11 @@ Pause my stare?
 
 I’m lost in pupils,
 
-Hollowness,
+In hollowness,
 
-On this dead bed
+On this dead bed,
 
-Lost in irises.
+Your irises.
 
 &nbsp;
 
