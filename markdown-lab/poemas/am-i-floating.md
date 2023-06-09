@@ -39,7 +39,7 @@ Hollowness,
 
 On this dead bed
 
-I’m lost in irises.
+Lost in irises.
 
 &nbsp;
 
