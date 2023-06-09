@@ -45,7 +45,7 @@ Of irises.
 
 Hope for the dawn,
 
-For your tenderness.
+For tenderness.
 
 &nbsp;
 
