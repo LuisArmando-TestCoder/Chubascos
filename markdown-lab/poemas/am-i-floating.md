@@ -91,7 +91,9 @@ Has ever gone.
 
 Good bye thoughts,
 
-I don't need you anymore,
+I don't need you
+
+Anymore,
 
 I need to sink,
 
