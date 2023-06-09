@@ -65,26 +65,34 @@ Is it your skin?
 
 Take my fingers
 
-Make them crawl
+Make them crawl,
+
+On its surface
+
+Of the Sun,
+
+That's boiling
+
+In its touch.
+
+&nbsp;
+
+Take my fingers
+
+Make them crawl,
 
 Further than
 
-Any human
+Any skin
 
-Has ever gone
-
-On your skin.
+Has ever gone.
 
 &nbsp;
 
 Good bye thoughts,
 
-I don't need you all,
+I don't need you anymore,
 
-I just need to sink.
+I need to sink,
 
-Hoping
-
-For my tender…
-
-My sweet dawn.
+Into the dawn.
