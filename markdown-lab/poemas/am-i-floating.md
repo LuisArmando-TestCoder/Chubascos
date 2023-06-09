@@ -45,7 +45,7 @@ I’m lost in irises.
 
 I hope for the dawn,
 
-Of your for tenderness
+Of your tenderness
 
 And I’m so numb,
 
