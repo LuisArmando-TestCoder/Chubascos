@@ -55,11 +55,11 @@ I'm deranged.
 
 Am I the blaze?
 
-I’m insane
-
-on your skin,
+I’m insane,
 
 Is this the sun?
+
+Is it your skin?
 
 &nbsp;
 
