@@ -95,6 +95,6 @@ I don't need you
 
 Anymore,
 
-I need to sink,
+I ought to sink,
 
 Into the dawn.
