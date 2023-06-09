@@ -39,7 +39,7 @@ In hollowness,
 
 On this dead bed,
 
-Your irises.
+Of irises.
 
 &nbsp;
 
