@@ -35,7 +35,7 @@ Pause my stare?
 
 I’m lost in pupils,
 
-Hollow,
+Hollowness,
 
 On this dead bed
 
