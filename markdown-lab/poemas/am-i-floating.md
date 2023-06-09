@@ -37,7 +37,7 @@ I’m lost in pupils,
 
 In hollowness,
 
-On this dead bed,
+On this dead bed
 
 Of irises.
 
