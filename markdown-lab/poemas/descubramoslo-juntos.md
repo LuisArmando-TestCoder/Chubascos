@@ -19,7 +19,7 @@ Mientras se oscurece el cielo,
 
 Que se acerca el aguacero,
 
-Y con ella los rayos.
+Y con este los rayos.
 
 &nbsp;
 
