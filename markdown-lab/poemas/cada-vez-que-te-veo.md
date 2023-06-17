@@ -191,7 +191,9 @@ y que no tenía
 
 que disculparme por existir,
 
-aunque antes habría deseado no hacerlo,
+aunque antes habría 
+
+deseado no hacerlo,
 
 y así mis padres
 
