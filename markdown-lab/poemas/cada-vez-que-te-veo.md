@@ -89,7 +89,7 @@ la recibo agradecido.
 
 En el fondo
 
-¿Quién tiene alma
+¿quién tiene alma
 
 cuando tantos la venden
 
@@ -131,7 +131,7 @@ y a dejar que el peso de mis hombros
 
 se haga trizas
 
-cada Que toco tus manos.
+cada que toco tus manos.
 
 &nbsp;
 
@@ -241,6 +241,8 @@ en mi camino hacia
 
 el auto descubrimiento.
 
+&nbsp;
+
 Que en paz descanses,
 
 tus aspiraciones me las llevo.
@@ -273,7 +275,7 @@ sus ambiciones de venganza,
 
 o sus más sinceras esperanzas,
 
-para todos todo se basa 
+para todos, todo se basa 
 
 en una búsqueda insaciable, 
 
@@ -283,9 +285,9 @@ y quienes no lo logran,
 
 con fuerza letal caen en el frío,
 
-sedientos, con el alma agonizando, 
+y sedientos, con el alma agonizando, 
 
-clamando por un mesías
+claman por un mesías
 
 que extienda sus palmas,
 
@@ -305,13 +307,15 @@ de hombres fingiendo fuerza,
 
 cuando la fuerza es relativa,
 
-eso es lo único que importa, 
+eso es lo único que me importa, 
 
 la única razón que tengo
 
 para sobrellevar las voces sádicas 
 
-que se esconden tras mi nuca.
+que se esconden flagelándome
+
+tras mi nuca.
 
 &nbsp;
 
