@@ -17,7 +17,7 @@ cruces en los ojos.
 
 &nbsp;
 
-Con cada expresión 
+Con cada expresión
 
 que me has mostrado
 

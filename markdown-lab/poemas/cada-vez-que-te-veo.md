@@ -13,11 +13,11 @@ la siguiente, perdí el aliento,
 
 luego el sentido común,
 
-luego olvidé cómo cambiar de tren, 
+luego olvidé cómo cambiar de tren,
 
 eras lo único en lo que pensaba,
 
-luego desperté, 
+luego desperté,
 
 había pasado un segundo,
 
@@ -25,13 +25,13 @@ y todavía te admiraba.
 
 &nbsp;
 
-Como un druida 
+Como un druida
 
 que ve espíritus,
 
 vi un alma tras
 
-dos párpados, 
+dos párpados,
 
 una llama
 
@@ -41,7 +41,7 @@ que seguía resistiendo.
 
 Perdón, a veces,
 
-me concentro tanto, 
+me concentro tanto,
 
 que me distraigo,
 
@@ -61,7 +61,7 @@ que tus iris cubren todo
 
 cuanto admiro,
 
-y sin darme cuenta 
+y sin darme cuenta
 
 ya me he sumergido,
 
@@ -97,35 +97,35 @@ por míseros reconocimientos?
 
 &nbsp;
 
-Dicen estar vivos, pero, 
+Dicen estar vivos, pero,
 
 ¿quién realmente está despierto?
 
-Y aún así, 
+Y aún así,
 
 mi fé yace en lo alto,
 
-firme, 
+firme,
 
 sin base, ni sustento,
 
-fé porque algún día me veas 
+fé porque algún día me veas
 
 como yo te enmarco:
 
-tan digna de ser amada, 
+tan digna de ser amada,
 
 como yo desearía serlo.
 
 &nbsp;
 
-A veces puedo ser pesimista, 
+A veces puedo ser pesimista,
 
 pero también esperanzado,
 
-y tiendo a callarlo, 
+y tiendo a callarlo,
 
-a esconderlo, y a acumularlo, 
+a esconderlo, y a acumularlo,
 
 y a dejar que el peso de mis hombros
 
@@ -143,7 +143,7 @@ a los poetas enamorados
 
 nos tratan como renacentistas delirantes,
 
-atrapados en una época 
+atrapados en una época
 
 con la que la mayoría no se identifica;
 
@@ -153,7 +153,7 @@ ellos se inspiraron de mis delirios
 
 antes de yo haber nacido,
 
-¿qué culpa tengo 
+¿qué culpa tengo
 
 de escribir a mi estilo?
 
@@ -165,7 +165,7 @@ así como vos;
 
 cuando te vi, lo supe;
 
-eras digna 
+eras digna
 
 desde tu nacimiento.
 
@@ -173,25 +173,25 @@ desde tu nacimiento.
 
 A los hombres
 
-les aterra ser sinceros, 
+les aterra ser sinceros,
 
-pero no hablo por todos, 
+pero no hablo por todos,
 
-hablo por mi niño interno, 
+hablo por mi niño interno,
 
-porque tuve que demostrar 
+porque tuve que demostrar
 
-de qué estoy hecho, 
+de qué estoy hecho,
 
-que valió la pena 
+que valió la pena
 
-todo el sufrimiento, 
+todo el sufrimiento,
 
-y que no tenía 
+y que no tenía
 
 que disculparme por existir,
 
-aunque antes habría 
+aunque antes habría
 
 deseado no hacerlo,
 
@@ -207,25 +207,25 @@ se transmutaron en olvido.
 
 &nbsp;
 
-El niño piensa que ser vulnerable 
+El niño piensa que ser vulnerable
 
 lo convierte en el objetivo de mirillas
 
-de manipuladores y egocéntricos, 
+de manipuladores y egocéntricos,
 
-y en parte es cierto, 
+y en parte es cierto,
 
-aquellos con lengua fina, 
+aquellos con lengua fina,
 
-con filo en cada frase, 
+con filo en cada frase,
 
-hasta cortan las arterias, 
+hasta cortan las arterias,
 
 sin tener que acercarse,
 
 y luego miro en retrospectiva,
 
-qué crueles han sido 
+qué crueles han sido
 
 las bestias vestidas
 
@@ -235,11 +235,11 @@ mientras me arrobo en el suelo.
 
 &nbsp;
 
-Así termino de incinerar 
+Así termino de incinerar
 
-a mi niño interno 
+a mi niño interno
 
-en mi camino hacia 
+en mi camino hacia
 
 el auto descubrimiento.
 
@@ -253,13 +253,13 @@ tus aspiraciones me las llevo.
 
 Quiero ser fuerte,
 
-sé que puedo moldear mi presente 
+sé que puedo moldear mi presente
 
 por un mejor futuro,
 
-pero ese futuro, 
+pero ese futuro,
 
-en el que soy capaz de todo, 
+en el que soy capaz de todo,
 
 por alguna razón
 
@@ -267,27 +267,27 @@ te incluye conmigo.
 
 &nbsp;
 
-Para la mayoría de los chicos, 
+Para la mayoría de los chicos,
 
-casi todos sus secretos, 
+casi todos sus secretos,
 
-ya sean sus deseos perversos, 
+ya sean sus deseos perversos,
 
-sus ambiciones de venganza, 
+sus ambiciones de venganza,
 
 o sus más sinceras esperanzas,
 
-para todos, todo se basa 
+para todos, todo se basa
 
-en una búsqueda insaciable, 
+en una búsqueda insaciable,
 
-que en su mayoría no se alcanza, 
+que en su mayoría no se alcanza,
 
 y quienes no lo logran,
 
 con fuerza letal caen en el frío,
 
-y sedientos, con el alma agonizando, 
+y sedientos, con el alma agonizando,
 
 claman por un mesías
 
@@ -309,11 +309,11 @@ de hombres fingiendo fuerza,
 
 cuando la fuerza es relativa,
 
-eso es lo único que me importa, 
+eso es lo único que me importa,
 
 la única razón que tengo
 
-para sobrellevar las voces sádicas 
+para sobrellevar las voces sádicas
 
 que se esconden flagelándome
 
@@ -323,11 +323,11 @@ tras mi nuca.
 
 Esperanza, siempre te pienso,
 
-aunque me reservo el nombrarte, 
+aunque me reservo el nombrarte,
 
-porque te quiero solo para mí; 
+porque te quiero solo para mí;
 
-aunque no eres de nadie, 
+aunque no eres de nadie,
 
 aún así, en este oasis difiero,
 

@@ -33,7 +33,7 @@ a mi disposición,
 
 con el mundo entero
 
-en mis palmas, 
+en mis palmas,
 
 tengo el Sol
 
@@ -53,19 +53,19 @@ para apagarla?
 
 &nbsp;
 
-Quizá no necesito el Sol, 
+Quizá no necesito el Sol,
 
 sino solo una chispa.
 
 &nbsp;
 
-La velocidad 
+La velocidad
 
-es lo que difiere 
+es lo que difiere
 
 en ambos casos,
 
-pero no el incendio, 
+pero no el incendio,
 
 este y sus llamas,
 
