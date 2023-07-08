@@ -23,7 +23,7 @@ hasta el hipocampo.
 
 &nbsp;
 
-No soy fan
+No soy fanático
 
 de romantizar el asesinato,
 
