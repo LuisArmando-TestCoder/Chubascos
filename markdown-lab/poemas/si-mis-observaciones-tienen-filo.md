@@ -55,4 +55,4 @@ entre mis brazos,
 
 y con sumísimo cuidado
 
-te derramo de a besos.
+te derramo mis besos.
