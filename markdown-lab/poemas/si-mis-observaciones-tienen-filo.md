@@ -5,24 +5,54 @@ title: "si-mis-observaciones-tienen-filo"
 ---
 Si mis observaciones tienen filo
 
-te habrás despertado hoy
+te habrás ya desangrado
 
-con cortaduras en los hombros;
+con cortaduras en los hombros,
 
-en el cuello y en las manos;
+laseraciones que recorren
 
-en la espalda y en los muslos;
+espirales hasta el cuello,
 
-cruces en los ojos.
+y las palmas con que oramos
+
+alma escurren por los codos,
+
+y tienes fosas en los ojos
+
+hasta el hipocampo.
 
 &nbsp;
 
-Con cada expresión
+No soy fan
 
-que me has mostrado
+de romantizar el asesinato,
 
-te absorbo,
+pero mis iris te cercenan,
 
-para este punto
+y tu espalda está repleta
 
-ya te habrías desangrado.
+de tantísimos poemas,
+
+tantas líneas en tu torso,
+
+y los muslos tienen rayas,
+
+y aún con todo esto
+
+mis iris te acarician,
+
+cada poro te he besado,
+
+y el cabello, lentamente,
+
+mis dedos desrizaron;
+
+expresión que me has mostrado,
+
+expresión que tomo
+
+entre mis brazos,
+
+y con sumísimo cuidado
+
+te desangro de a besos.
