@@ -11,7 +11,7 @@ We're majestic, size of hills,
 
 Metal rots are pressing against us,
 
-I would be brilliant masters of my destiny
+I would be a brilliant master of my destiny
 
 But everybody is pushing, crowded in the grieve.
 
