@@ -37,7 +37,7 @@ Signs that someone has just disappeared,
 
 Wonder if that's far away from here,
 
-Wonder what is like to be out of here.
+What is like to be out of here.
 
 &nbsp;
 
