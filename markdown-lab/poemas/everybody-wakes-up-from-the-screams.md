@@ -33,7 +33,7 @@ And all I see is shit shows
 
 From time to time I hear screams,
 
-Signs that someone's going to disappear,
+Signs that someone's has just disappeared,
 
 Wonder if that's far away from hear,
 
