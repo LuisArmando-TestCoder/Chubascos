@@ -35,7 +35,7 @@ From time to time I hear screams,
 
 Signs that someone has just disappeared,
 
-Wonder if that's far away from hear,
+Wonder if that's far away from here,
 
 Wonder what is like to be out of here.
 
