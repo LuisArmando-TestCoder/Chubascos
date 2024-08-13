@@ -1,0 +1,6 @@
+---
+slug: "/poemas/ella-tenia-esta-tendencia-de-hablar-aunque-muriese-de-suenno"
+tags: ["love,happy,sad,normal"]
+title: "ella-tenía-esta-tendencia-de-hablar-aunque-muriese-de-sueño"
+---
+Ella tenía esta tendencia de hablar aunque muriese de sueño, y ser la última en dormir, para luego cobijar a todos, y yo tenía esta tendencia de resistirme a ser el último en cerrar los párpados, y darle un beso en la frente a mis seres amados, y por esto, cuando yo me ponía a filosofar, ambos resistíamos cantidades obscenas de insomnio, hasta el punto en que ella, simplemente me tomaba de la mano, y tomaba un largo respiro, para luego desmayarse entre mis comentarios. A veces creía que, cuando yo por fin cerraba los ojos, ella despertaba, y se llevaba la gloria de ser la que había resistido hasta el final; en parte, lo pensaba por su manera de inhalar tan apacible y sospechosa, pero de cualquier forma, cuando llegaban esos momentos, los usaba para decirle todos los piropos que me estaba guardando, demasiado clichés y tontos para irlos pronunciando –en alguna ocasión la vi burlarse de algunos–. En fin, a veces le contaba historias; y en otras, para que tuviera un sonido de fondo, sólo seguía hablando.

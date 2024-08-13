@@ -1,0 +1,6 @@
+---
+slug: "/poemas/debemos-tocar-fondo"
+tags: ["love,happy,sad,normal"]
+title: "debemos-tocar-fondo"
+---
+Debemos tocar fondo, para tener bases y levantarnos, pero cómo levantarnos rodeados de tantos malnacidos, ellos son justos en público, predicando el auto-sacrificio, para que sacrifiquen por ellos, dicen “alto al fuego” en lo que lanzan frascos de nitroglicerina al conflicto, avivan el odio, y el fuego no se detiene, y los siguen masacrando, y el Zeitgeist en privado es la razón para que los camuflados desempolven sus esvásticas, pero lo peor de todo no son ellos, sos vos, porque por miedo a romper burbujas, llamándote “bueno”, lamentándote, no haces una mierda. Los psicópatas avaros no son el cáncer de este mundo, ni los gladiadores que luchan a muerte en el coliseo romano, ni los toreros que sacrifican a los toros, el cáncer de este mundo son todos los testigos, que pudiendo hacer algo, no hacen nada y se quedan viendo, el cáncer de este mundo no son sólo los agresores, son todos los que pudieron ayudarte y no lo hicieron, así que te voy a decir algo, si estás cansada de sufrir, haz algo respecto.

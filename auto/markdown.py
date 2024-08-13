@@ -18,7 +18,7 @@ executeConditionalPath(
 )
 
 def getTitle(content):
-    return (
+    title = (
         content
             .strip()
             .split('\n')[0]
@@ -30,7 +30,17 @@ def getTitle(content):
             .strip()
             .replace('# ', '')
             .replace(' ', '-')
+            .replace('—', '')
+            .replace('¿', '')
+            .replace('?', '')
+            .replace('<', '')
+            .replace('>', '')
+            .replace('“', '')
+            .replace('”', '')
+            .replace('"', '')
     )
+
+    return title
 
 def getSlug(title):
     return (
@@ -44,6 +54,9 @@ def getSlug(title):
             .replace('¡', '')
             .replace('¿', '')
             .replace('?', '')
+            .replace('<', '')
+            .replace('>', '')
+            .replace('—', '')
             .replace('!', '')
             .replace('# ', '')
     )
