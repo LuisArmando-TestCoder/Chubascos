@@ -1,5 +1,5 @@
 ---
-slug: "/poemas/luantepuse…estoyviendoluces"
+slug: "/poemas/luantepuseestoyviendoluces"
 tags: ["love"]
 title: "lu-antepuse…-estoy-viendo-luces"
 ---

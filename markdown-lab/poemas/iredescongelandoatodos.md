@@ -1,5 +1,5 @@
 ---
-slug: "/poemas/iredescongelandoatodos…"
+slug: "/poemas/iredescongelandoatodos"
 tags: ["love"]
 title: "iré-descongelando-a-todos…"
 ---

@@ -1,5 +1,5 @@
 ---
-slug: "/poemas/tengoqueconfesartealgoantepuso…ellamedijoqueestariaconmigoparasiempre"
+slug: "/poemas/tengoqueconfesartealgoantepusoellamedijoqueestariaconmigoparasiempre"
 tags: ["love"]
 title: "tengo-que-confesarte-algo-antepuso…-ella-me-dijo-que-estaría-conmigo-para-siempre"
 ---

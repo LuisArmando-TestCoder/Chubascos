@@ -1,5 +1,5 @@
 ---
-slug: "/poemas/tengoquecontarlealosdemas…"
+slug: "/poemas/tengoquecontarlealosdemas"
 tags: ["love"]
 title: "tengo-que-contarle-a-los-demás…"
 ---

@@ -64,6 +64,7 @@ def getSlug(title):
             .replace('# ', '')
             .replace(')', '')
             .replace('(', '')
+            .replace('…', '')
             .strip()
     )
 
