@@ -1,6 +1,0 @@
----
-slug: "/poemas/la-filosofia-sirve-para-hacerte-sentir-bien"
-tags: ["love,happy,sad,normal"]
-title: "la-filosofía-sirve-para-hacerte-sentir-bien"
----
-¿La filosofía sirve para hacerte sentir bien, o para enfrentar la verdad, y no es enfrentar la verdad, algo doloroso? Entonces, aquellos que buscan la verdad, los que sobre piensan, tenderán a infringir dolencias en otros y en sí mismos, pero bueno, ¿de qué sirve el ejercicio que no te cansa? ¿De qué sirve el estudio que no expone tu ignorancia? ¿De qué sirve el mejoramiento personal que no hace enfrentarte a tus grietas? ¿De qué sirve la valentía que no te hace temblar al enfrentarte a tus temores? Las personas quieren sentirse cómodas, pero sin nadie que te bese hasta el olvido, el abismo es todo lo que queda, y el abismo te verá, y hay quienes correrán de su mirada, pero nosotros lo vimos a los ojos, porque no vimos ninguna otra alternativa, y llenos de fé extendemos los brazos, un paso hacia toda la oscuridad que es un reflejo de nosotros.

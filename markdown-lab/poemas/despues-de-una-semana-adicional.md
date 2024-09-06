@@ -1,0 +1,6 @@
+---
+slug: "/poemas/despues-de-una-semana-adicional"
+tags: ["love"]
+title: "después-de-una-semana-adicional"
+---
+Después de una semana adicional, logré bañarme. El chorro hervía lento sobre mi remarcada espina dorsal, acentuando mis moretones espontáneos que aparecían y desparecían, el jabón se derretía sobre mi piel castrosa. Luego toqué mi cabello, mis dedos se quedaron atascados, y a la fuerza intenté desatarlos, pero sólo caían hebras. Temblaba mientras ocultaba con mis palmas las lágrimas de mis mejillas, hasta que, completamente húmeda, me quedé seca. Me lavé los dientes y me sangraron las encías, escupí burbujas de pasta con sangre. Me miré al espejo, pero una extraña me miraba de vuelta, largo y tendido la observé, hasta que en el reflejo ya no había nadie. Parpadeé y mi madre azotó la puerta; ya no sabía si mi cuerpo y mi mente eran lo mismo, comencé a acatar sus órdenes, a mi ritmo; treinta y cinco kilogramos de movimientos automáticos. Le abrí la puerta a la figura enfurecida, ante el espejo la miré quieta, en silencio. Ella se detuvo.

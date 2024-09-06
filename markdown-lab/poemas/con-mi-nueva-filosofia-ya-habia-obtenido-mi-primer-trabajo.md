@@ -1,0 +1,8 @@
+---
+slug: "/poemas/con-mi-nueva-filosofia-ya-habia-obtenido-mi-primer-trabajo"
+tags: [""]
+title: "con-mi-nueva-filosofía-ya-había-obtenido-mi-primer-trabajo"
+---
+Con mi nueva filosofía ya había obtenido mi primer trabajo. Mira hasta dónde me llevó el esfuerzo; llevo años aceptando la dificultad y me sigo sintiendo miserable, pero me pagan bien. Verdaderamente aquella canción de The Smiths lo resume perfecto: “I was looking for a job and then I found a job and heaven knows I'm miserable now”. En fin, para la quinta ocasión, la muerte y yo ya éramos amigas, confidentes, comadres; íbamos a tomar café los sábados, charlando de lo que sea.
+
+“¿Y cómo te vas a matar ahora?” Diría la muerte. “No sé”, diría sonriente, “¿con una motosierra?”, respondería yo, en lo que ambas reímos como burguesas sibaritas, para luego seguir sorbiendo nuestros frapuccinos con las piernas bien juntitas. En fin, de nuevo, para la cuarta ocasión me tomé la molestia de obtener una licencia para portar armas de fuego, y ahora tenía en mi mano una .44 Magnum, precioso tono plateado. Siempre me llamó la atención cómo el peso no parecía ser tanto en las películas, pero estas cosas eran pesadas, cuidado se te resbala y le apuntas por error a tus abusadores de la infancia que te lanzaban al suelo y te pateaban con sus “Dr. Martens” en la espalda, justo en la columna vertebral, y que por error ahí les dispares… pero bueno, esta bala no era para ellos, así que, en medio de mi apartamento, a solas, con el seguro puesto y las ventanas cerradas, apunté el cañón directo a mi cien. Me aseguré de limpiar todo antes de irme, y ya no había vuelta atrás;
