@@ -38,6 +38,8 @@ def getTitle(content):
             .replace('“', '')
             .replace('”', '')
             .replace('"', '')
+            .replace(')', '')
+            .replace('(', '')
     )
 
     return title
@@ -57,8 +59,12 @@ def getSlug(title):
             .replace('<', '')
             .replace('>', '')
             .replace('—', '')
+            .replace('-', '')
             .replace('!', '')
             .replace('# ', '')
+            .replace(')', '')
+            .replace('(', '')
+            .strip()
     )
 
 def getPoem(content):

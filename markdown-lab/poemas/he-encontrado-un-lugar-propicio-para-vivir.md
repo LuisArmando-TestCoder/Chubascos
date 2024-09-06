@@ -1,6 +1,0 @@
----
-slug: "/poemas/he-encontrado-un-lugar-propicio-para-vivir"
-tags: ["love"]
-title: "he-encontrado-un-lugar-propicio-para-vivir"
----
-“He encontrado un lugar propicio para vivir, quiero decir: un sitio pequeño donde cantar y reír maniática, cuantas veces quiera. En verdad quería una casa”; Luz “quería un jardín”. Luz, por fin puedo revelarte. Luciano; erguido y observando, ¿a qué? A la nada, tengo celos de vos, de verdad eres una medusa enajenada. Me engaña el silencio que dice más que un vórtice de palabras que se entremezclan en la mente alborotada, sobreestimulada y sobrepensante de un hada fungi que sigue sobrepensando: “¿de verdad me ama?” Aunque no tan en el fondo sepa lo que está pasando. No es que no lo crea, es que no sé cuánto. Creo que él cree que yo creo que él cree que yo no creo que me lo está ocultando, y por eso, por sobrepensarlo, no sé ni lo que yo misma estoy pensando. De verdad una se enamora de todo lo no contado; una se enamora de sus alucinaciones; una se enamora de sus delirios; una se enamora del lienzo de posibilidades; una se enamora del espacio disponible de razones que una se inventa para seguirse enamorando, porque la vida sin pasiones, es algo demasiado agrio. Una vez más, lo estoy intentando, pero no me queda mucho tiempo, tengo el balcón lleno de mariposas, y mirándome todas, se están acumulando.

@@ -1,6 +1,0 @@
----
-slug: "/poemas/y-cuando-el-mundo-se-acabe"
-tags: ["love"]
-title: "y-cuando-el-mundo-se-acabe"
----
-—Y cuando el mundo se acabe, cubrirás los rascacielos.

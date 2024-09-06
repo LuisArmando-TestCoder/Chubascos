@@ -1,0 +1,6 @@
+---
+slug: "/poemas/saludhiceunbrindisenvozalta"
+tags: ["love"]
+title: "salud-hice-un-brindis-en-voz-alta"
+---
+—Salud —hice un brindis en voz alta, con un movimiento un poco exagerado de un vaso imaginario, lo que derramó un poco de mi bebida imaginaria sobre mi camisa de satén no ficitcia, dejando una mancha imaginaria sobre esta, mancha la cual no se quita ni con los mejores detergentes imaginarios, y aún así, me alejé, altanera, despacio, pero animada, mientras caminaba por el callejón oscuro, brindé en dirección a la avenida de luces Neón, el Rosse Buurt. Con vaso en mano, estiré el brazo aún más alto, hacia el cielo, o debería decir, la Gran Mancha Roja del fondo de microondas, el infrarrojo del cielo nocturno, y con una serena soberbia, volqué el “shot”, diciendo—, está alterado —derramando así la adulterada solución imaginaria de mi vaso imaginario sobre el suelo relativo, dejando un charco imaginario, que me empapó de gotitas imaginarias mis zapatos de cuero surrealista, cuerina verdadera. Me niego a tomar más veneno —pero mis palabras se tropezaron entre ellas, o fueron mis pies los que lo hicieron. Traté de girar las piernas y el torso hacia lados contrarios—. Ups, la costumbre —me levanté—, aquí no hay conservación del momento angular.
