@@ -6,10 +6,10 @@ const contacts = [
     //     href: 'https://github.com/LuisArmando-TestCoder',
     //     cta: 'Github',
     // },
-    // {
-    //     href: 'https://www.wattpad.com/user/Odoriens',
-    //     cta: 'Wattpad',
-    // },
+    {
+        href: 'https://docs.google.com/document/d/1W-MDlWtRF2aVwTgcTcecp7eS2C_Y093DsN3s39_5wSA/edit?usp=sharing',
+        cta: 'Sé de dónde no quiero huir, conceptos',
+    },
     {
         href: 'https://www.instagram.com/latestcoder/',
         cta: 'Instagram',
