@@ -12,7 +12,7 @@ const contacts = [
     },
     {
         href: 'https://docs.google.com/document/d/1W-MDlWtRF2aVwTgcTcecp7eS2C_Y093DsN3s39_5wSA/edit?usp=sharing',
-        cta: 'Sé de dónde no quiero huir, conceptos',
+        cta: 'Libro: Sé de dónde no quiero huir',
     },
     // {
     //     href: 'https://testcoder.netlify.com',
