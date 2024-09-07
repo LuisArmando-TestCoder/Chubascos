@@ -19,7 +19,7 @@ Do you think the abrahamic God, if turned into a human, would live a lavish life
 
 &nbsp;
 
-My instinctual feelings reject the archetypal understanding of the human experience and the nature of fulfillment. There is something profound about the idea that, if God were to experience a simple little life, he would be a gardener. It wouldn't be about indulgence, but about finding delight in lucidity. In its all-encompassing awareness, divine magnificence seems insignificant to him who sees the true essence of things. In everyday life, sacredness.
+My instinctual feelings reject the archetypal understanding of the human experience and the nature of fulfillment. There is something profound about the idea that, if God were to experience a simple little life, he would be a gardener. It wouldn't be about indulgence, but about finding delight in lucidity. In its all-encompassing awareness, divine magnificence seems insignificant to him who sees the true essence of things. In everyday life; sacredness.
 
 &nbsp;
 
